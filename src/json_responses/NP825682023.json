@@ -1,0 +1,440 @@
+{
+    "item": {
+        "id": 129541,
+        "origem": 201969,
+        "lanceAtual": 129786.01,
+        "lanceAtualId": 8323,
+        "dataInicio": "2023-12-11T12:53:14",
+        "dataFimInicial": "2024-01-16T14:30:00",
+        "dataFim": "2024-01-16T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP825682023",
+        "tipoId": 1,
+        "subtipoId": 8,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_53156/19112019152934_800sm.jpg",
+        "titulo": "Pr\u00e9dio misto sito em Azambuja",
+        "valorBase": 257000.0,
+        "valorAbertura": 128500.0,
+        "valorMinimo": 218450.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Quinta / Misto",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio misto, composto de edif\u00edcio de 2 pisos, s\u00f3t\u00e3o, anexos - 250 m2 e logradouro- 6130 m2. A Norte confronta com herdeiros de Jo\u00e3o Soares, a Sul com Manuel Louren\u00e7o Cap\u00e3o, a Nascente com Carril P\u00fablico e a Poente com Charneca do Senhorio, inscrito na matriz r\u00fastica sob o n\u00ba 20, sec\u00e7\u00e3o A e na matriz urbana sob o n\u00ba 3292, descrito na Conservat\u00f3ria do Registo Predial de Azambuja sob o n\u00ba 517/19731114, da freguesia de Azambuja, concelho de Azambuja e distrito de Lisboa.",
+        "observacoes": "Im\u00f3vel desabitado, livre de pessoas e bens.\r\nO estado do bem \u00e9 o vis\u00edvel no respetivo registo fotogr\u00e1fico.\r\n\r\nOs interessados em visitar ao im\u00f3vel devem enviar comunica\u00e7\u00e3o ao ora signat\u00e1rio, sendo que antes do terminus da venda, ser\u00e1 designado o respetivo dia e hora.\r\n\r\nCoordenadas do im\u00f3vel: 39.113027, -8.919049",
+        "areaUtilPrivativa": 319.03,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 0.0,
+        "morada": "Rua Texuga",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Azambuja",
+        "moradaFreguesia": "Azambuja",
+        "moradaCP": "2050-606",
+        "coordenadasLAT": "39.10803449",
+        "coordenadasLON": "-8.90289015",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 37909,
+        "processoNumero": "479/14.3TBCTX",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 53156,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"113733046\", \"nome\":\"ISABEL MARIA DA SILVA MARQUES FERREIRA DOS SANTOS\", \"requerido\":\"False\"},{\"nif\":\"142241202\", \"nome\":\"Orlando Abel Ferreira dos Santos\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 264,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5345",
+        "gestorNome": "ANDR\u00c9 GON\u00c7ALVES",
+        "gestorEmail": "5345@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:13:47",
+        "dataAtualizacao": "2024-01-14T18:13:47",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152934_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152934_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152838_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152838_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152841_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152841_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152846_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152846_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152850_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152850_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152854_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152854_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152859_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152859_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152904_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152904_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152908_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152908_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152914_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152914_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152919_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152919_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152925_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152925_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152929_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152929_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152939_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152939_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152943_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152943_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152948_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152948_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152952_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152952_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152955_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152955_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019152959_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019152959_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153003_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153003_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153008_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153008_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153013_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153013_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153017_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153017_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153020_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153020_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153025_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153025_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153029_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153029_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153033_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153033_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153039_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153039_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153043_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153043_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153047_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153047_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153051_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153051_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153055_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153055_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153058_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153058_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153102_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153102_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153107_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153107_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153111_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153111_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153116_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153116_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153122_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153122_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153126_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153126_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153130_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153130_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153134_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153134_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153138_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153138_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153142_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153142_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153147_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153147_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153151_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153151_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153155_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153155_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153159_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153159_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153204_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153204_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153208_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153208_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153212_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153212_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153215_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153215_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153219_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153219_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153223_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153223_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153227_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153227_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153230_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153230_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153234_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153234_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153238_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153238_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153242_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153242_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153245_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153245_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153248_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153248_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153251_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153251_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153256_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153256_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153300_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153300_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153304_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153304_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153309_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153309_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153313_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153313_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153317_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153317_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153321_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153321_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153325_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153325_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153328_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153328_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53156/19112019153331_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53156/19112019153331_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

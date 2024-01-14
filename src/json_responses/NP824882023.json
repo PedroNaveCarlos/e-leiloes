@@ -1,0 +1,133 @@
+{
+    "item": {
+        "id": 129430,
+        "origem": 201811,
+        "lanceAtual": 0.0,
+        "dataInicio": "2023-12-07T11:45:45",
+        "dataFimInicial": "2024-02-06T14:30:00",
+        "dataFim": "2024-02-06T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP824882023",
+        "tipoId": 1,
+        "subtipoId": 27,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_91676/16112022163534_800sm.jpg",
+        "titulo": "PR\u00c9DIO R\u00daSTICO SITO EM PEDREGAL",
+        "valorBase": 405529.2,
+        "valorAbertura": 202764.6,
+        "valorMinimo": 344699.82,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "R\u00fastico",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio R\u00fastico sito em Pedregal, descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Sintra, sob o n\u00famero 4451, da freguesia da Uni\u00e3o das Freguesias de S\u00e3o Jo\u00e3o das Lampas e Terrugem e inscrito na matriz com o artigo 256, Sec\u00e7\u00e3o 1E.",
+        "observacoes": "O terreno situa-se na Aldeia de Fai\u00e3o",
+        "areaUtilPrivativa": 10371.0,
+        "areaUtilDependente": 10371.0,
+        "areaTotal": 10371.0,
+        "morada": "Rua Milheirada, Casal dos Combros",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de S\u00e3o Jo\u00e3o das Lampas e Terrugem",
+        "moradaCP": "2705-839",
+        "coordenadasLAT": "38.87710773",
+        "coordenadasLON": "-9.35519527",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 62595,
+        "processoNumero": "7368/11.1T2SNT_",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 4",
+        "verbaId": 91676,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"504272403\", \"nome\":\"AMBERPRO PROPRIEDADES LDA\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 146,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3103",
+        "gestorNome": "Jos\u00e9 Castelo Branco",
+        "gestorEmail": "3103@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:18:32",
+        "dataAtualizacao": "2024-01-14T18:18:32",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91676/16112022163534_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91676/16112022163534_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91676/16112022163536_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91676/16112022163536_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91676/16112022163538_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91676/16112022163538_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91676/16112022163539_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91676/16112022163539_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91676/16112022163541_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91676/16112022163541_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91676/16112022163542_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91676/16112022163542_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 24877,
+                "numero": "4451",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "13 - Terrugem",
+                "artigos": [
+                    {
+                        "numero": "256",
+                        "tipo": "rustica",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "25 - Tinalhas"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

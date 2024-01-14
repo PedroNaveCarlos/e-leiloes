@@ -1,0 +1,264 @@
+{
+    "item": {
+        "id": 130628,
+        "origem": 203202,
+        "lanceAtual": 216363.21,
+        "lanceAtualId": 134385,
+        "dataInicio": "2023-12-26T15:10:14",
+        "dataFimInicial": "2024-01-16T14:30:00",
+        "dataFim": "2024-01-16T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP833672023",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_83396/22032022134357_800sm.jpg",
+        "titulo": "Moradia unifamiliar em aldeamento tur\u00edstico, Turcifal, Torres Vedras",
+        "valorBase": 229631.03,
+        "valorAbertura": 114815.52,
+        "valorMinimo": 195186.38,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pelas letras EZ, correspondente a uma unidade de alojamento integrada num aldeamento tur\u00edstico com a identifica\u00e7\u00e3o \"B - Quarenta e Tr\u00eas\", constitu\u00edda por moradia unifamiliar em banda, de dois pisos, logradouro, anexo e jardim, do pr\u00e9dio urbano constitu\u00eddo em regime de propriedade horizontal, sito em Quinta da Ribeira, Campo Real, freguesia de Turcifal, concelho de Torres Vedras, descrito na Conservat\u00f3rio do Registo Predial sob o n\u00ba 2454-EZ, de Turcifal, inscrito na matriz predial urbana respectiva sob o art. 2927\u00ba-EZ.",
+        "observacoes": "A fra\u00e7\u00e3o \u00e9 vendida no estado f\u00edsico e jur\u00eddico em que se encontra, livre de \u00f3nus e encargos, pelo que os interessados devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado da fra\u00e7\u00e3o. A falta desta por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.\r\nA fra\u00e7\u00e3o encontra-se habitada pelos executados.",
+        "areaUtilPrivativa": 168.88,
+        "areaUtilDependente": 16.8,
+        "areaTotal": 233.19,
+        "morada": "Rua Sossego, Campo Real",
+        "moradaNumero": "12",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Torres Vedras",
+        "moradaFreguesia": "Turcifal",
+        "moradaCP": "2565-770",
+        "coordenadasLAT": "39.034719561002774",
+        "coordenadasLON": "-9.239217638969421",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 39806,
+        "processoNumero": "28391/11.0T2SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 83396,
+        "osae360": "https://360.osae.pt/?ref=360P00612",
+        "matricula": "",
+        "executados": "[{\"nif\":\"119039214\", \"nome\":\"M\u00e1rio da Cruz Brazona Barroso\", \"requerido\":\"False\"},{\"nif\":\"134989929\", \"nome\":\"Rosa dos Santos Alves Brazona\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 1225,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4703",
+        "gestorNome": "PEDRO ROCHA",
+        "gestorEmail": "4703@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:13:56",
+        "dataAtualizacao": "2024-01-14T18:13:56",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "Entrada Exterior (Foto 1)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022134357_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022134357_200.jpg"
+            },
+            {
+                "legenda": "Quarto n.\u00ba 3 (Foto 2)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022134830_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022134830_200.jpg"
+            },
+            {
+                "legenda": "Quarto n.\u00ba 3 (Foto 1)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022134843_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022134843_200.jpg"
+            },
+            {
+                "legenda": "Sanit\u00e1rio do Quarto 2 (Foto 2)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022134946_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022134946_200.jpg"
+            },
+            {
+                "legenda": "Sanit\u00e1rio do Quarto 2 (Foto 1)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135005_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135005_200.jpg"
+            },
+            {
+                "legenda": "Quarto n.\u00ba 2",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135019_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135019_200.jpg"
+            },
+            {
+                "legenda": "Varanda do Quarto n.\u00ba 1 (Foto 3)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135042_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135042_200.jpg"
+            },
+            {
+                "legenda": "Varanda do Quarto n.\u00ba 1 (Foto 2)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135059_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135059_200.jpg"
+            },
+            {
+                "legenda": "Varanda do Quarto n.\u00ba 1 (Foto 1)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135115_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135115_200.jpg"
+            },
+            {
+                "legenda": "Quarto n.\u00ba 1 (Foto 2)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135129_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135129_200.jpg"
+            },
+            {
+                "legenda": "Quarto n.\u00ba 1 (Foto 1)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135150_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135150_200.jpg"
+            },
+            {
+                "legenda": "Sanit\u00e1rio do 1 Andar",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135220_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135220_200.jpg"
+            },
+            {
+                "legenda": "Corredor do 1 Andar (Foto 3)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135243_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135243_200.jpg"
+            },
+            {
+                "legenda": "Corredor do 1 Andar (Foto 2)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135301_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135301_200.jpg"
+            },
+            {
+                "legenda": "Corredor do 1 Andar (Foto 1)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135316_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135316_200.jpg"
+            },
+            {
+                "legenda": "Escadas",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135333_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135333_200.jpg"
+            },
+            {
+                "legenda": "Terra\u00e7o (Foto 2)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135410_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135410_200.jpg"
+            },
+            {
+                "legenda": "Terra\u00e7o (Foto 1)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135428_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135428_200.jpg"
+            },
+            {
+                "legenda": "Sala (Foto 4)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135443_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135443_200.jpg"
+            },
+            {
+                "legenda": "Sala (Foto 3)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135457_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135457_200.jpg"
+            },
+            {
+                "legenda": "Sala (Foto 2)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135518_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135518_200.jpg"
+            },
+            {
+                "legenda": "Sala (Foto 1)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135532_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135532_200.jpg"
+            },
+            {
+                "legenda": "Cozinha (Foto 2)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135549_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135549_200.jpg"
+            },
+            {
+                "legenda": "Cozinha (Foto 1)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135602_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135602_200.jpg"
+            },
+            {
+                "legenda": "Sanit\u00e1rio do RC (Foto 2)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135629_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135629_200.jpg"
+            },
+            {
+                "legenda": "Sanit\u00e1rio do RC (Foto 1)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135645_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135645_200.jpg"
+            },
+            {
+                "legenda": "Entrada Interior (Foto 2)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135751_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135751_200.jpg"
+            },
+            {
+                "legenda": "Entrada Interior (Foto 1)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135809_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135809_200.jpg"
+            },
+            {
+                "legenda": "Entrada Exterior (Foto 2)",
+                "image": "files/Verbas_Fotos/verba_83396/22032022135852_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022135852_200.jpg"
+            },
+            {
+                "legenda": "Vista Exterior",
+                "image": "files/Verbas_Fotos/verba_83396/22032022160040_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022160040_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_83396/22032022160100_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83396/22032022160100_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pelas letras EZ, correspondente a uma unidade de alojamento integrada num aldeamento tur\u00edstico, estando sujeita a contrato de explora\u00e7\u00e3o tur\u00edstica, com presta\u00e7\u00e3o peri\u00f3dica anual a liquidar pela fra\u00e7\u00e3o/ unidade de alojamento de:\n- Conjunto Tur\u00edstico, 569,76\u20ac\n- AldeamentoTur\u00edstico, 714,28\u20ac.\nValores sujeitos a atualiza\u00e7\u00e3o.",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 19545,
+                "numero": "2454",
+                "fracao": "EZ",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "13 - Torres Vedras",
+                "freguesiaDesc": "17 - Turcifal",
+                "artigos": [
+                    {
+                        "numero": "2927",
+                        "tipo": "urbana",
+                        "fracao": "EZ",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "13 - Torres Vedras",
+                        "freguesiaDesc": "04 - Semide"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

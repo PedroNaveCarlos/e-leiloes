@@ -1,0 +1,213 @@
+{
+    "item": {
+        "id": 127279,
+        "origem": 199863,
+        "lanceAtual": 0.0,
+        "dataInicio": "2023-11-14T16:21:01",
+        "dataFimInicial": "2024-02-13T14:30:00",
+        "dataFim": "2024-02-13T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP814392023",
+        "tipoId": 1,
+        "subtipoId": 27,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_88900/06092022114138_800sm.jpg",
+        "titulo": "PR\u00c9DIO R\u00daSTICO SITO EM S\u00c3O JO\u00c3O DAS LAMPAS, COM 58440m2",
+        "valorBase": 198000.0,
+        "valorAbertura": 99000.0,
+        "valorMinimo": 168300.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "R\u00fastico",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio r\u00fastico, denomina\u00e7\u00e3o Campos ou Barros, sito em Areias, com \u00e1rea de 58440 m2, composto por cultura arvense, pinhal e pastagens, descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Sintra sob o n.\u00ba 25, da freguesia de S. Jo\u00e3o das Lampas, inscrito na matriz predial urbana da Uni\u00e3o das Freguesias de S\u00e3o Jo\u00e3o das Lampas e Terrugem, sob o artigo 53, sec\u00e7\u00e3o T.",
+        "observacoes": "\u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1 antes de apresentar a proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas, sendo que a n\u00e3o verifica\u00e7\u00e3o pr\u00e9via do im\u00f3vel n\u00e3o \u00e9 fundamento para a desist\u00eancia/anula\u00e7\u00e3o do procedimento de venda.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 58440.0,
+        "morada": "Estrada Areias, A-Do-Longo",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de S\u00e3o Jo\u00e3o das Lampas e Terrugem",
+        "moradaCP": "2705-411",
+        "coordenadasLAT": "38.8930369656108",
+        "coordenadasLON": "-9.389362335205078",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 60920,
+        "processoNumero": "22082/15.0T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 88900,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"500411972\", \"nome\":\"Seniorage - Sociedade de Investimentos Geri\u00e1tricos e de Sa\u00fade, S.A.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 285,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5106",
+        "gestorNome": "ANGELA ROSEIRO",
+        "gestorEmail": "5106@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:19:30",
+        "dataAtualizacao": "2024-01-14T18:19:30",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114138_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114138_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114036_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114036_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114039_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114039_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114041_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114041_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114044_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114044_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114047_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114047_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114049_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114049_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114052_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114052_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114055_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114055_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114058_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114058_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114101_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114101_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114104_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114104_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114106_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114106_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114109_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114109_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114112_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114112_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114114_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114114_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114118_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114118_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114121_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114121_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114125_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114125_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114129_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114129_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_88900/06092022114134_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_88900/06092022114134_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "SERVID\u00c3O - AP. 34 de 2007/03/08, a favor do pr\u00e9dio n\u00ba 07481/S\u00e3o Jo\u00e3o das Lampas - imposta sobre o pr\u00e9dio n\u00ba 00025/S\u00e3o Jo\u00e3o das\nLampas.\nEncargo: Passagem a p\u00e9 e de carro com a largura de 8 m e o comprimento de 100 m, a qual tem \u00ednicio no\ncaminho a poente e termo na extrema poente do pr\u00e9dio dominante, e renta em toda a sua\nextens\u00e3o com a extrema norte do pr\u00e9dio serviente.",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 22978,
+                "numero": "25",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "10 - S. Jo\u00e3o das Lampas",
+                "artigos": [
+                    {
+                        "numero": "53",
+                        "tipo": "rustica",
+                        "fracao": "T",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "25 - Tinalhas"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

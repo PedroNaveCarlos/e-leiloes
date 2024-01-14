@@ -1,0 +1,150 @@
+{
+    "item": {
+        "id": 130945,
+        "origem": 202511,
+        "lanceAtual": 67830.0,
+        "lanceAtualId": 73936,
+        "dataInicio": "2024-01-01T00:00:00",
+        "dataFimInicial": "2024-01-31T11:00:00",
+        "dataFim": "2024-01-31T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1187532023",
+        "tipoId": 1,
+        "subtipoId": 27,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_101948/30102023123725_800sm.jpg",
+        "titulo": "Pr\u00e9dio r\u00fastico  com 14280 m2 em Janas - Sintra",
+        "valorBase": 135660.0,
+        "valorAbertura": 67830.0,
+        "valorMinimo": 115311.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "R\u00fastico",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio r\u00fastico, denominado Cavalos, composto por cultura arvense  e vinha, sito em Limites de Janas, na freguesia de Sintra (S.Martinho), concelho de Sintra, inscrito na respectiva matriz sob o artigo 12 \u2013 Sec\u00e7\u00e3o 1K da uni\u00e3o de freguesias de Sintra (S. Maria, S. Miguel, S. Martinho e S. Pedro de Penaferrim) e descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Sintra sob o n\u00ba 1892/19911009.",
+        "observacoes": "Alerta-se que \u00e9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. \r\nO valor patrimonial foi determinado ap\u00f3s aplica\u00e7\u00e3o do coeficiente para c\u00e1lculo de valor patrimonial para efeitos de IMT.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 14280.0,
+        "morada": "Estrada Janas",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Sintra (Santa Maria e S\u00e3o Miguel, S\u00e3o Martinho e S\u00e3o Pedro de Penaferrim)",
+        "moradaCP": "2710-265",
+        "coordenadasLAT": "38.82522392994174",
+        "coordenadasLON": "-9.42902684211731",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69356,
+        "processoNumero": "9470/12.3T2SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 4",
+        "verbaId": 101948,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"508349370\", \"nome\":\"Sun Avenida - Energias Renov\u00e1veis de Portugal, Lda.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 887,
+        "cerimoniaData": "2024-01-31T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 360,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1772",
+        "gestorNome": "Jo\u00e3o F. Gon\u00e7alves Carvalho",
+        "gestorEmail": "1772@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:17:56",
+        "dataAtualizacao": "2024-01-14T18:17:56",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101948/30102023123725_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101948/30102023123725_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101948/30102023123710_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101948/30102023123710_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101948/30102023123713_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101948/30102023123713_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101948/30102023123716_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101948/30102023123716_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101948/30102023123719_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101948/30102023123719_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101948/30102023123721_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101948/30102023123721_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101948/30102023123728_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101948/30102023123728_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101948/30102023123731_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101948/30102023123731_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101948/30102023123734_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101948/30102023123734_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31450,
+                "numero": "1892",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "11 - Sintra (s. Martinho)",
+                "artigos": [
+                    {
+                        "numero": "12",
+                        "tipo": "rustica",
+                        "fracao": "1K",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "49 - Sande (s. Clemente)"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

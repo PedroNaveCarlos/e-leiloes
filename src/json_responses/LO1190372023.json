@@ -1,0 +1,170 @@
+{
+    "item": {
+        "id": 131535,
+        "origem": 203321,
+        "lanceAtual": 61765.0,
+        "lanceAtualId": 12913,
+        "dataInicio": "2024-01-09T00:00:09",
+        "dataFimInicial": "2024-02-14T10:30:00",
+        "dataFim": "2024-02-14T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1190372023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_103516/20122023134953_800sm.jpg",
+        "titulo": "Apartamento T2 em Casal de Cambra",
+        "valorBase": 123530.0,
+        "valorAbertura": 61765.0,
+        "valorMinimo": 105000.5,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"I\", correspondente ao segundo andar A, 3\u00ba piso, do pr\u00e9dio urbano sito na Rua Monte Carlo, n\u00ba 7, na atual freguesia de Casal de Cambra (extinta freguesia de Belas), descrito na CRP de Queluz sob o n 44, e atualmente inscrito na matriz sob o artigo 1529\u00ba (ex-artigo 6986\u00ba).",
+        "observacoes": "A casa de banho est\u00e1 com problemas na canaliza\u00e7\u00e3o por resolver. A obra come\u00e7ou mas est\u00e1 atualmente parada.\r\nOs eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e outros aspectos que considerem relevantes, do(s) bem(s). \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. O im\u00f3vel \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisi\u00e7\u00e3o que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.",
+        "areaUtilPrivativa": 74.44,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 74.44,
+        "morada": "Rua Monte Carlo",
+        "moradaNumero": "7",
+        "moradaAndar": "2\u00ba A",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Casal de Cambra",
+        "moradaCP": "2605-822",
+        "coordenadasLAT": "38.79815995",
+        "coordenadasLON": "-9.23601925",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70413,
+        "processoNumero": "211/14.1YYLSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 9",
+        "verbaId": 103516,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"217898106\", \"nome\":\"Andreia Isabel Nunes Mendes Caseiro Pereira da Silva\", \"requerido\":\"False\"},{\"nif\":\"204048028\", \"nome\":\"Rui Manuel Nunes Alves da Silva\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 891,
+        "cerimoniaData": "2024-02-14T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 574,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3610",
+        "gestorNome": "Paula Luis Alves",
+        "gestorEmail": "3610@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "218411040",
+        "gestorFax": "",
+        "gestorMorada": "AV. Guerra Junqueiro, n\u00ba 5, 3\u00ba Dto.",
+        "gestorHorario": "2\u00aa a 6\u00aa\r\nDas 9h00 \u00e0s 13h00",
+        "dataServidor": "2024-01-14T18:20:39",
+        "dataAtualizacao": "2024-01-14T18:20:39",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103516/20122023134953_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103516/20122023134953_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103516/20122023134844_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103516/20122023134844_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103516/20122023134846_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103516/20122023134846_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103516/20122023134848_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103516/20122023134848_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103516/20122023134853_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103516/20122023134853_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103516/20122023134855_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103516/20122023134855_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103516/20122023134859_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103516/20122023134859_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103516/20122023134902_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103516/20122023134902_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103516/20122023134904_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103516/20122023134904_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103516/20122023134906_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103516/20122023134906_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103516/20122023134907_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103516/20122023134907_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103516/20122023134910_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103516/20122023134910_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103516/20122023134957_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103516/20122023134957_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32305,
+                "numero": "44",
+                "fracao": "I",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "15 - Casal de Cambra",
+                "artigos": [
+                    {
+                        "numero": "1529",
+                        "tipo": "urbana",
+                        "fracao": "I",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "28 - Nogueira"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

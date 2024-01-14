@@ -1,0 +1,199 @@
+{
+    "item": {
+        "id": 125616,
+        "origem": 198038,
+        "lanceAtual": 0.0,
+        "dataInicio": "2023-10-24T14:50:24",
+        "dataFimInicial": "2024-01-23T14:30:00",
+        "dataFim": "2024-01-23T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP804952023",
+        "tipoId": 1,
+        "subtipoId": 27,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_56461/03022020171001_800sm.jpg",
+        "titulo": "TERRENO R\u00daSTICO DE 3280M2, DENOMINADO BRIGADEIRA, SITO EM VILA NOVA DE S\u00c3O PEDRO",
+        "valorBase": 6600.0,
+        "valorAbertura": 3300.0,
+        "valorMinimo": 5610.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "R\u00fastico",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio r\u00fastico denominado Brigadeira, composto por vinha, oliveiras e cultura arvense, com \u00e1rea de 3280 m2, descrito na Conservat\u00f3ria do Registo Predial de Azambuja sob o n.\u00ba 20, da freguesia de Vila Nova de S\u00e3o Pedro, inscrito na matriz r\u00fastica da Uni\u00e3o das Freguesias de Manique do Intendente, Vila Nova de S\u00e3o Pedro e Ma\u00e7ussa sob o art 72, sec\u00e7\u00e3o 1M.\r\n\r\nCoordenadas GPS do im\u00f3vel \u2013  39\u00b011'44.69\"N e 8\u00b049'11.73\"W \r\n\r\nPr\u00e9dio muito pr\u00f3ximo da localidade do Casal do Al\u00e9m, e relativamente perto da Sede de Freguesia de Vila Nova de S\u00e3o Pedro, e relativamente perto da Sede do Concelho onde existem todo o tipo de restaura\u00e7\u00e3o, alojamentos, servi\u00e7os diversos que uma sede de concelho oferece. \r\nA zona em termos de acessos rodovi\u00e1rios est\u00e1 bem servida pelos acessos \u00e0 A1, A15, N114-2, N365 e M 512, e dista a cerca de 2 Km do centro de Vila Nova de S\u00e3o Pedro e a cerca de 15Km da Capital do Concelho.",
+        "observacoes": "\u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1 antes de apresentar a proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas, sendo que a n\u00e3o verifica\u00e7\u00e3o pr\u00e9via do im\u00f3vel  n\u00e3o \u00e9 fundamento para a desist\u00eancia/anula\u00e7\u00e3o do procedimento de venda.\r\nMais se adverte que n\u00e3o foram efectuadas medi\u00e7\u00f5es exactas do im\u00f3vel, sendo que as \u00e1reas indicadas s\u00e3o baseadas na informa\u00e7\u00e3o constante na caderneta predial.",
+        "areaUtilPrivativa": 3280.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 3280.0,
+        "morada": "Rua Vivendas, Casal do Al\u00e9m",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Azambuja",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Manique do Intendente, Vila Nova de S\u00e3o Pedro e Ma\u00e7ussa",
+        "moradaCP": "2065-552",
+        "coordenadasLAT": "39.20515589758556",
+        "coordenadasLON": "-8.82395267486572",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 40148,
+        "processoNumero": "1029/04.5TBCTX",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 56461,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"140974482\", \"nome\":\"Dulce Maria Vicente da Silva Costa\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 285,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5106",
+        "gestorNome": "ANGELA ROSEIRO",
+        "gestorEmail": "5106@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:15:09",
+        "dataAtualizacao": "2024-01-14T18:15:09",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171001_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171001_200.jpg"
+            },
+            {
+                "legenda": "ACESSO AO ART\u00ba 72 SE\u00c7\u00c3O M - RUA DAS EIRAS - SENTIDO NORTE-SUL",
+                "image": "files/Verbas_Fotos/verba_56461/03022020170633_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020170633_200.jpg"
+            },
+            {
+                "legenda": "ACESSOS AO ART\u00ba 72 SE\u00c7\u00c3O M - RUA DAS VIVENDAS VINDO DO CARTAXO",
+                "image": "files/Verbas_Fotos/verba_56461/03022020170713_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020170713_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020170816_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020170816_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020170919_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020170919_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020170940_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020170940_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171020_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171020_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171100_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171100_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171145_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171145_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171205_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171205_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171229_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171229_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171300_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171300_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171356_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171356_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171441_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171441_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171511_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171511_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171533_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171533_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171553_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171553_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171616_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171616_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171651_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171651_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171727_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171727_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171806_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171806_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171921_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171921_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56461/03022020171943_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56461/03022020171943_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

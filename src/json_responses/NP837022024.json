@@ -1,0 +1,123 @@
+{
+    "item": {
+        "id": 131285,
+        "origem": 203772,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-04T10:45:48",
+        "dataFimInicial": "2024-04-03T14:30:00",
+        "dataFim": "2024-04-03T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP837022024",
+        "tipoId": 1,
+        "subtipoId": 27,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_101454/13102023165404_800sm.jpg",
+        "titulo": "1/4- Pr\u00e9dio r\u00fastico - Sito em Vale da Borra Torres Vedras",
+        "valorBase": 5000.0,
+        "valorAbertura": 2500.0,
+        "valorMinimo": 4250.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "R\u00fastico",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "1/4- Pr\u00e9dio r\u00fastico, composto por pinhal, eucaliptal e pastagens, com a \u00e1rea de 10.160m2, sita em Vale da Borra, A dos Cunhados, Confronta\u00e7\u00f5es: Norte: Herdeiros de Francisco Gomes, Sul, Jos\u00e9 Canoa, Nascente: Estrada, Poente: Francisco Gomes J\u00fanior. O pr\u00e9dio encontra-se descrito na CRPredial de Torres Vedras com a descri\u00e7\u00e3o 3395 e inscrito na Freguesia de A dos Cunhados com o artigo matricial r\u00fastico 22 sec\u00e7\u00e3o C",
+        "observacoes": "Os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas, licen\u00e7as e outros aspectos que considerem relevantes, do(s) bem(ns). \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se que o mesmo corresponde \u00e0s suas expectativas e se encontra nas condi\u00e7\u00f5es pretendidas. O bem \u00e9 vendido no estado em que se encontra, pelo que a falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 10160.0,
+        "morada": "Estrada Nacional 8-2",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Torres Vedras",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de A dos Cunhados e Maceira",
+        "moradaCP": "2560-050",
+        "coordenadasLAT": "39.171993268300525",
+        "coordenadasLON": "-9.275894165039062",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69031,
+        "processoNumero": "248/10.0TBLNH",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Inst. Central - Sec\u00e7\u00e3o de Execu\u00e7\u00e3o - J3",
+        "verbaId": 101454,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"176535454\", \"nome\":\"Ant\u00f3nio Manuel Henriques Neto\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 765,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4683",
+        "gestorNome": "SANDRA GON\u00c7ALVES OLIVEIRA",
+        "gestorEmail": "4683@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:22:51",
+        "dataAtualizacao": "2024-01-14T18:22:51",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101454/13102023165404_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101454/13102023165404_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101454/13102023165406_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101454/13102023165406_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101454/13102023170926_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101454/13102023170926_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101454/13102023171021_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101454/13102023171021_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31097,
+                "numero": "3395",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "13 - Torres Vedras",
+                "freguesiaDesc": "01 - a dos Cunhados",
+                "artigos": [
+                    {
+                        "numero": "22",
+                        "tipo": "rustica",
+                        "fracao": "C",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "13 - Torres Vedras",
+                        "freguesiaDesc": "01 - Abrunheira"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,161 @@
+{
+    "item": {
+        "id": 131258,
+        "origem": 203240,
+        "lanceAtual": 60030.0,
+        "lanceAtualId": 90641,
+        "dataInicio": "2024-01-04T00:00:10",
+        "dataFimInicial": "2024-02-07T11:00:00",
+        "dataFim": "2024-02-07T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1190002023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_103593/26122023124336_800sm.jpg",
+        "titulo": "Apartamento",
+        "valorBase": 73200.0,
+        "valorAbertura": 36600.0,
+        "valorMinimo": 62220.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra X, correspondente ao sexto andar C, destinada a habita\u00e7\u00e3o, do pr\u00e9dio urbano sito em Rua Barbosa Du Bocage, n\u00ba8 - edif\u00edcio e n\u00bas 8 A e 8 B - lojas, Parque Residencial de Vialonga, freguesia de Vialonga, concelho de Vila Franca de Xira, descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Vila Franca de Xira, sob o n\u00ba 1382/19981028-X, da freguesia de Vialonga e inscrito na respetiva matriz predial urbana, sob o n\u00ba 2028.",
+        "observacoes": "Im\u00f3vel em razo\u00e1vel estado de conserva\u00e7\u00e3o.\r\nComposto por 2 quartos, sala, cozinha, casa de banho e corredor.\r\nSegundo a informa\u00e7\u00e3o que foi poss\u00edvel em dilig\u00eancia ao im\u00f3vel, o bem encontra-se ocupado por terceiros que informaram pagar ao executado a quantia de 350 euros mensais, tendo ainda informado que n\u00e3o possuem contrato de arrendamento escrito.\r\nDever\u00e1 confirmar a informa\u00e7\u00e3o facultada com o contacto constante no an\u00fancio do leil\u00e3o.\r\nNota:\r\nAs \u00e1reas indicadas servem apenas como refer\u00eancia pois n\u00e3o foram feitas medi\u00e7\u00f5es exatas no local. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e todos os outros aspetos que considerem relevantes.\r\nCom a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspecionado o im\u00f3vel e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o.\r\nO im\u00f3vel \u00e9 vendido no estado que se encontra pelo que os interessados devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta por parte do proponente n\u00e3o determina nos termos legais a anula\u00e7\u00e3o da venda.\r\nInformo ainda que a tipologia tem por base a informa\u00e7\u00e3o constante da caderneta predial urbana.",
+        "areaUtilPrivativa": 61.88,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 0.0,
+        "morada": "Rua Barbosa Du Bocage",
+        "moradaNumero": "8",
+        "moradaAndar": "6\u00bac",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Vila Franca de Xira",
+        "moradaFreguesia": "Vialonga",
+        "moradaCP": "2625-644",
+        "coordenadasLAT": "38.87621780",
+        "coordenadasLON": "-9.08394544",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70473,
+        "processoNumero": "7142/14.3T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 103593,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"220436371\", \"nome\":\"Manuel Joao Francisco\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 889,
+        "cerimoniaData": "2024-02-07T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 408,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2621",
+        "gestorNome": "Helena Chagas",
+        "gestorEmail": "2621@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:19:04",
+        "dataAtualizacao": "2024-01-14T18:19:04",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103593/26122023124336_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103593/26122023124336_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103593/26122023124339_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103593/26122023124339_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103593/26122023124342_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103593/26122023124342_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103593/26122023124345_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103593/26122023124345_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103593/26122023124348_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103593/26122023124348_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103593/26122023124351_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103593/26122023124351_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103593/26122023124354_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103593/26122023124354_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103593/26122023124357_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103593/26122023124357_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103593/26122023124400_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103593/26122023124400_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103593/26122023124403_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103593/26122023124403_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103593/26122023124406_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103593/26122023124406_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103593/26122023124409_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103593/26122023124409_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103593/26122023124412_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103593/26122023124412_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103593/26122023124415_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103593/26122023124415_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103593/26122023124418_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103593/26122023124418_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

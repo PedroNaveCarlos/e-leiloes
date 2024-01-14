@@ -1,0 +1,184 @@
+{
+    "item": {
+        "id": 126097,
+        "origem": 198743,
+        "lanceAtual": 40000.0,
+        "lanceAtualId": 1175,
+        "dataInicio": "2023-10-31T12:05:04",
+        "dataFimInicial": "2024-01-30T14:30:00",
+        "dataFim": "2024-01-30T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP808322023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_99434/18072023163314_800sm.jpg",
+        "titulo": "1/2 INDIVISO - Apartamento T3 sito em Rio de Mouro",
+        "valorBase": 79411.77,
+        "valorAbertura": 39705.89,
+        "valorMinimo": 67500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "1/2 da executada Filomena Semedo Varela na fra\u00e7\u00e3o aut\u00f3noma designada pela letra P, que corresponde ao sexto andar direito, destinado a habita\u00e7\u00e3o, do pr\u00e9dio urbano sito na Rua da Madressilva, n.\u00ba14, no lugar de Rinchoa, inscrito na matriz predial sob o artigo 6334 da freguesia de Rio de Mouro, concelho de Sintra, descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Sintra sob o n\u00famero 215/Rio de Mouro.",
+        "observacoes": "-Im\u00f3vel composto por 3 quartos, 2 wc\u00b4s, sala com lareira e cozinha. \r\n-Encontra-se em razo\u00e1vel estado de conserva\u00e7\u00e3o, necessitando, contudo, de obras de melhoria.\r\n-Pr\u00e9dio com elevador.\r\n- Visitas mediante marca\u00e7\u00e3o pr\u00e9via com a pessoa melhor identificada no campo \"visitas por marca\u00e7\u00e3o\".\r\n- Dever\u00e3o ainda os interessados antes de efetuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt e/ou aconselhar-se junto de um Solicitador ou Advogado.\r\n- \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. Dever\u00e1 igualmente ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidade da venda e ao facto de o bem n\u00e3o ser entregue no momento da adjudica\u00e7\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.",
+        "areaUtilPrivativa": 95.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 95.0,
+        "morada": "Rua Madressilvas",
+        "moradaNumero": "14",
+        "moradaAndar": "6\u00bad",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Rio de Mouro",
+        "moradaCP": "2635-287",
+        "coordenadasLAT": "38.78324357",
+        "coordenadasLON": "-9.31366780",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 67729,
+        "processoNumero": "3924/22.0T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 99434,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"212303554\", \"nome\":\"FILOMENA SEMEDO VARELA\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 44,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5094",
+        "gestorNome": "JOEL SILVA ANTUNES",
+        "gestorEmail": "5094@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:17:00",
+        "dataAtualizacao": "2024-01-14T18:17:00",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163314_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163314_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163236_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163236_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163240_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163240_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163242_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163242_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163244_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163244_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163246_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163246_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163248_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163248_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163250_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163250_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163253_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163253_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163255_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163255_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163257_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163257_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163301_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163301_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163305_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163305_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163310_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163310_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163312_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163312_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99434/18072023163320_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99434/18072023163320_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 29859,
+                "numero": "215",
+                "fracao": "P",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "08 - Rio de Mouro",
+                "artigos": [
+                    {
+                        "numero": "6334",
+                        "tipo": "urbana",
+                        "fracao": "6D",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "06 - Pampilhosa da Serra"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

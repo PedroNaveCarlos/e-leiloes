@@ -1,0 +1,152 @@
+{
+    "item": {
+        "id": 124946,
+        "origem": 197209,
+        "lanceAtual": 91809.0,
+        "lanceAtualId": 85405,
+        "dataInicio": "2023-10-16T10:21:42",
+        "dataFimInicial": "2024-01-16T14:30:00",
+        "dataFim": "2024-01-16T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP800392023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_81568/08022022171501_800sm.jpg",
+        "titulo": "Apartamento Tipologia/Divis\u00f5es T3  em campelos",
+        "valorBase": 167500.0,
+        "valorAbertura": 83750.0,
+        "valorMinimo": 142375.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra O, r\u00e9s do ch\u00e3o, C um, para habita\u00e7\u00e3o, um lugar de estacionamento com o n\u00ba 36 e uma arrecada\u00e7\u00e3o com o n\u00ba 5 na cave, do pr\u00e9dio urbano em regime de propriedade horizontal, sito em Campelos, Rua da Igreja Nova e Av\u00aa Afonso Moura Guedes, descrito na Conservat\u00f3ria do Registo Predial de Torres Vedras, sob o n\u00ba 2969, da freguesia de Campelos, inscrito na Matriz Predial urbana sob o artigo 2230 da Uni\u00e3o das Freguesias de Campelos e Outeiro da Cabe\u00e7a.",
+        "observacoes": "\u00c9 da \u00fanica e exclusiva responsabilidade do Proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1 antes de apresentada a proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. --- \r\nN\u00e3o foram obtidas fotografias do interior do im\u00f3vel mas foi aferido o estado de conserva\u00e7\u00e3o que se encontra em bom estado.\r\nO bem \u00e9 vendido no estado f\u00edsico e jur\u00eddico em que se encontra, livre de \u00f3nus e encargos. --- Para visita ao bem dever\u00e1 o Proponente agendar previamente junto do fiel deposit\u00e1rio.\r\nN\u00e3o se encontram contemplados no im\u00f3vel os bens m\u00f3veis/recheio nele constantes, e que n\u00e3o devam fazer parte integrante do mesmo.----",
+        "areaUtilPrivativa": 161.09,
+        "areaUtilDependente": 20.0,
+        "areaTotal": 181.09,
+        "morada": "Avenida Doutor Afonso Moura Guedes",
+        "moradaNumero": "6",
+        "moradaAndar": "R/c",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Torres Vedras",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Campelos e Outeiro da Cabe\u00e7a",
+        "moradaCP": "2565-009",
+        "coordenadasLAT": "39.19453510",
+        "coordenadasLON": "-9.23586502",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 56482,
+        "processoNumero": "4650/16.5T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 81568,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"503367575\", \"nome\":\"Cofedi Investimentos Imobili\u00e1rios Lda\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 511,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1975",
+        "gestorNome": "ISABEL BARROSO",
+        "gestorEmail": "1975@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:13:24",
+        "dataAtualizacao": "2024-01-14T18:13:24",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81568/08022022171501_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81568/08022022171501_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81568/08022022171507_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81568/08022022171507_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81568/08022022171512_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81568/08022022171512_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81568/08022022171523_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81568/08022022171523_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81568/08022022171531_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81568/08022022171531_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81568/08022022171537_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81568/08022022171537_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81568/08022022171548_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81568/08022022171548_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81568/21072023160358_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81568/21072023160358_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "2017-09-01",
+                "valor": 40.0,
+                "dataPrazo": "2047-09-01",
+                "descricao": "",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 18338,
+                "numero": "2969",
+                "fracao": "O",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "13 - Torres Vedras",
+                "freguesiaDesc": "02 - Campelos",
+                "artigos": [
+                    {
+                        "numero": "2230",
+                        "tipo": "urbana",
+                        "fracao": "O",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "13 - Torres Vedras",
+                        "freguesiaDesc": "02 - Arazede"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,170 @@
+{
+    "item": {
+        "id": 130666,
+        "origem": 193984,
+        "lanceAtual": 27750.0,
+        "lanceAtualId": 10522,
+        "dataInicio": "2023-12-27T00:00:01",
+        "dataFimInicial": "2024-01-31T10:00:00",
+        "dataFim": "2024-01-31T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1150542023",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_100444/11092023201245_800sm.jpg",
+        "titulo": "loja comercial com montra e entrada direta pela rua",
+        "valorBase": 55500.0,
+        "valorAbertura": 27750.0,
+        "valorMinimo": 47175.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma identificada pela letra B correspondente ao R\u00c9S-DO-CH\u00c3O FRENTE, Loja comercial com arrecada\u00e7\u00e3o, do pr\u00e9dio urbano sito na Avenida Cidade de Lisboa, 7, 7A e 7B, em S\u00e3o Marcos, na UNI\u00c3O DAS FREGUESIAS DO CAC\u00c9M E S\u00c3O MARCOS, concelho de Sintra, descrito na CRP de Agualva-Cacem sob a ficha n\u00ba 150 da freguesia de S\u00c3O MARCOS, e inscrito na matriz predial urbana da UNI\u00c3O DAS FREGUESIAS DO CAC\u00c9M E S\u00c3O MARCOS sob o art.\u00ba n\u00ba 1448",
+        "observacoes": "A frac\u00e7\u00e3o est\u00e1 devoluta de pessoas, mas tem variados bens no seu interior. Encontra-se em razo\u00e1vel  estado de conserva\u00e7\u00e3o conforme visita efetuada no local. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas, licen\u00e7as e outros aspetos que considerem relevantes, do(s) bem(ns). A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda. Os interessados antes de efetuarem quaisquer propostas, devem consultar as regras de funcionamento e as Faq constantes no site www.e-leiloes.pt.\r\nHA CREDITOS RECLAMADOS.",
+        "areaUtilPrivativa": 37.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 37.0,
+        "morada": "Avenida Cidade de Lisboa, Casal Cot\u00e3o",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias do Cac\u00e9m e S\u00e3o Marcos",
+        "moradaCP": "2735-009",
+        "coordenadasLAT": "38.757923521818405",
+        "coordenadasLON": "-9.294551610946655",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 68352,
+        "processoNumero": "17201/21.0T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 100444,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"500661766\", \"nome\":\"Sociedade Constru\u00e7\u00f5es Lu\u00eds Marques , Lda.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 887,
+        "cerimoniaData": "2024-01-31T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 1212,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5328",
+        "gestorNome": "JOS\u00c9 ANT\u00d3NIO TEIXEIRA DE FIGUEIREDO",
+        "gestorEmail": "5328@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:17:26",
+        "dataAtualizacao": "2024-01-14T18:17:26",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "fachada predio e porta frac\u00e7\u00e3o",
+                "image": "files/Verbas_Fotos/verba_100444/11092023201245_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100444/11092023201245_200.jpg"
+            },
+            {
+                "legenda": "porta frac\u00e7\u00e3o",
+                "image": "files/Verbas_Fotos/verba_100444/11092023201251_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100444/11092023201251_200.jpg"
+            },
+            {
+                "legenda": "interior",
+                "image": "files/Verbas_Fotos/verba_100444/11092023201253_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100444/11092023201253_200.jpg"
+            },
+            {
+                "legenda": "interior",
+                "image": "files/Verbas_Fotos/verba_100444/11092023201255_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100444/11092023201255_200.jpg"
+            },
+            {
+                "legenda": "fachada predio e porta frac\u00e7\u00e3o",
+                "image": "files/Verbas_Fotos/verba_100444/11092023201259_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100444/11092023201259_200.jpg"
+            },
+            {
+                "legenda": "fachada predio e porta frac\u00e7\u00e3o",
+                "image": "files/Verbas_Fotos/verba_100444/11092023201301_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100444/11092023201301_200.jpg"
+            },
+            {
+                "legenda": "montra",
+                "image": "files/Verbas_Fotos/verba_100444/09102023192330_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100444/09102023192330_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100444/09102023192830_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100444/09102023192830_200.jpg"
+            },
+            {
+                "legenda": "interior",
+                "image": "files/Verbas_Fotos/verba_100444/19122023175238_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100444/19122023175238_200.jpg"
+            },
+            {
+                "legenda": "wc",
+                "image": "files/Verbas_Fotos/verba_100444/19122023175248_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100444/19122023175248_200.jpg"
+            },
+            {
+                "legenda": "wc",
+                "image": "files/Verbas_Fotos/verba_100444/19122023175257_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100444/19122023175257_200.jpg"
+            },
+            {
+                "legenda": "interior",
+                "image": "files/Verbas_Fotos/verba_100444/19122023175315_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100444/19122023175315_200.jpg"
+            },
+            {
+                "legenda": "fachada predio e porta frac\u00e7\u00e3o",
+                "image": "files/Verbas_Fotos/verba_100444/19122023175326_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100444/19122023175326_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 30501,
+                "numero": "150",
+                "fracao": "B",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "21 - S\u00e3o Marcos",
+                "artigos": [
+                    {
+                        "numero": "1448",
+                        "tipo": "urbana",
+                        "fracao": "B",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "02 - Alvaredos"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

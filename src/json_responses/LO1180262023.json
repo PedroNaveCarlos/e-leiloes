@@ -1,0 +1,215 @@
+{
+    "item": {
+        "id": 129652,
+        "origem": 200806,
+        "lanceAtual": 93324.0,
+        "lanceAtualId": 7737,
+        "dataInicio": "2023-12-12T00:00:09",
+        "dataFimInicial": "2024-01-24T10:30:00",
+        "dataFim": "2024-01-24T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1180262023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_102801/24112023145637_800sm.jpg",
+        "titulo": "Fra\u00e7\u00e3o Aut\u00f3noma sito em Agualva-Cac\u00e9m",
+        "valorBase": 184800.0,
+        "valorAbertura": 92400.0,
+        "valorMinimo": 157080.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma, designada pela letra O, correspondente ao quarto andar direito, do pr\u00e9dio em regime de propriedade horizontal sito na Av. D. Nuno \u00c1lvares Pereira, n.\u00bas 70, 70-A, 70-B, 70-C e 70-D, descrito na Conservat\u00f3ria do Registo Predial de Agualva-Cac\u00e9m com o n.\u00ba 176/20020910 - O da freguesia de Agualva e inscrito na matriz urbana sob o artigo 2186 da Uni\u00e3o de freguesias de Agualva e Mira-Sintra, concelho de Sintra, distrito de Lisboa.",
+        "observacoes": "A Fra\u00e7\u00e3o Aut\u00f3noma corresponde \u00e0 verba 1 do Auto Penhora, \u00e9 vendida no estado f\u00edsico e jur\u00eddico em que se encontra. Em caso de adjudica\u00e7\u00e3o do bem, dever\u00e1 efetuar, no prazo de 15 dias ap\u00f3s a notifica\u00e7\u00e3o de dep\u00f3sito do pre\u00e7o, o pagamento do valor oferecido. \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. A falta de verifica\u00e7\u00e3o do estado do bem por parte do proponente n\u00e3o determina, nos termos legais a anula\u00e7\u00e3o da venda. Para visitas ao im\u00f3vel dever\u00e1 ser contactada a fiel deposit\u00e1ria, atrav\u00e9s dos contactos indicados no campo \"Visitas\", devendo as mesmas serem efetuadas por marca\u00e7\u00e3o, e realizadas \u00e0s quartas-feiras no per\u00edodo das 18h00 \u00e0s 19h00.",
+        "areaUtilPrivativa": 90.0,
+        "areaUtilDependente": 3.2,
+        "areaTotal": 93.2,
+        "morada": "Avenida Dom Nuno \u00c1lvares Pereira",
+        "moradaNumero": "70",
+        "moradaAndar": "4\u00ba D",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Agualva e Mira-Sintra",
+        "moradaCP": "2735-146",
+        "coordenadasLAT": "38.77012707",
+        "coordenadasLON": "-9.29278269",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69947,
+        "processoNumero": "143/10.2T2SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Inst. Central - 1\u00aa Sec\u00e7\u00e3o de Execu\u00e7\u00e3o - J2",
+        "verbaId": 102801,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"211462527\", \"nome\":\"Jos\u00e9 Manuel Lopes\", \"requerido\":\"False\"},{\"nif\":\"208689338\", \"nome\":\"Jos\u00e9 Manuel Santos Silva\", \"requerido\":\"False\"},{\"nif\":\"206468296\", \"nome\":\"J\u00falia Maria da Luz\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 884,
+        "cerimoniaData": "2024-01-24T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 442,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4009",
+        "gestorNome": "ALEXANDRA GOMES",
+        "gestorEmail": "4009@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:16:27",
+        "dataAtualizacao": "2024-01-14T18:16:27",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145637_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145637_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145639_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145639_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145640_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145640_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145642_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145642_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145644_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145644_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145645_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145645_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145647_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145647_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145648_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145648_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145650_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145650_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145652_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145652_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145654_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145654_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145655_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145655_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145730_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145730_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145732_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145732_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145737_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145737_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145738_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145738_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145747_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145747_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145800_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145800_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145802_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145802_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023145804_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023145804_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023150425_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023150425_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102801/24112023150427_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102801/24112023150427_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31906,
+                "numero": "176",
+                "fracao": "O",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "18 - Agualva",
+                "artigos": [
+                    {
+                        "numero": "2186",
+                        "tipo": "urbana",
+                        "fracao": "O",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "01 - Mira"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

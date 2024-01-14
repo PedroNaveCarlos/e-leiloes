@@ -1,0 +1,144 @@
+{
+    "item": {
+        "id": 125169,
+        "origem": 197526,
+        "lanceAtual": 250581.0,
+        "lanceAtualId": 15112,
+        "dataInicio": "2023-10-18T16:59:00",
+        "dataFimInicial": "2024-01-16T14:30:00",
+        "dataFim": "2024-01-16T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP802112023",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 6,
+        "capa": "files/Verbas_Fotos/verba_89034/09092022163837_800sm.jpg",
+        "titulo": "Terreno para constru\u00e7\u00e3o com benfeitorias - Almargem do Bispo",
+        "valorBase": 494948.0,
+        "valorAbertura": 247474.0,
+        "valorMinimo": 420705.8,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T4",
+        "descricao": "Pr\u00e9dio urbano, sito na Rua do Rio das Canas, n.\u00ba21 (antigo lote 1), no lugar de Vale de Lobos, composto de terreno para constru\u00e7\u00e3o com a \u00e1rea total de 1386m2, confronta do norte com caminho, do sul com estrada, do nascente com Joaquim Justino Marques e do poente com lote 2, inscrito na matriz predial sob o artigo 6505 da freguesia de Uni\u00e3o das freguesias de Almargem do Bispo, P\u00earo Pinheiro e Montelavar, concelho de Sintra e descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Sintra sob o n\u00famero 2044/Almargem do Bispo.",
+        "observacoes": "- Pr\u00e9dio destinado a constru\u00e7\u00e3o. No entanto, no im\u00f3vel j\u00e1 se encontra-se implantada uma moradia inacabada. A casa no r\u00e9s-do-ch\u00e3o \u00e9 composta por hall, 3 suites (quarto + casa de banho), um quarto, uma divis\u00e3o para roupa, uma sala com lareira, uma cozinha, uma casa de banho comum, corredores e um jardim de inverno situado no centro da casa. Este piso est\u00e1 quase conclu\u00eddo, faltam as portas interiores, alguns elementos sanit\u00e1rios das casas de banho, o soalho de algumas \u00e1reas, estores, faltam todos os m\u00f3veis e equipamentos da cozinha. A cave tem algumas divis\u00f5es, algumas das quais terminadas, mas a maioria inacabada. Existe uma liga\u00e7\u00e3o interna (escadas) para o hall do piso t\u00e9rreo. A piscina n\u00e3o est\u00e1 em funcionamento, precisa de obras. A garagem \u00e9 composta por uma grande \u00e1rea de grande altura com casa de banho, e a sua entrada faz-se pelas traseiras do im\u00f3vel. Externamente a constru\u00e7\u00e3o necessita de pintura e finaliza\u00e7\u00e3o da obra, bem como, o jardim.\r\n-Existem algumas infiltra\u00e7\u00f5es nas paredes.\r\n-O interior da casa n\u00e3o tem portas.\r\n-Encontra-se em razo\u00e1vel estado de conserva\u00e7\u00e3o.\r\n-Desconhece o Agente de Execu\u00e7\u00e3o se existem licen\u00e7as de constru\u00e7\u00e3o e de habita\u00e7\u00e3o. \r\n- Visitas mediante marca\u00e7\u00e3o pr\u00e9via com a pessoa melhor identificada no campo \"visitas por marca\u00e7\u00e3o\".\r\n-O fiel deposit\u00e1rio n\u00e3o permitiu o acesso para fotografias do interior, por receio de exposi\u00e7\u00e3o dos seus bens.\r\n- Dever\u00e3o ainda os interessados antes de efetuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt e/ou aconselhar-se junto de um Solicitador ou Advogado.\r\n- \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. Dever\u00e1 igualmente ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidade da venda e ao facto de o bem n\u00e3o ser entregue no momento da adjudica\u00e7\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 250.0,
+        "areaTotal": 1386.0,
+        "morada": "Rua Rio de Canas",
+        "moradaNumero": "21",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Almargem do Bispo, P\u00earo Pinheiro e Montelavar",
+        "moradaCP": "2715-258",
+        "coordenadasLAT": "38.82346208",
+        "coordenadasLON": "-9.27476209",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 61012,
+        "processoNumero": "10390/21.6T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 89034,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"221139834\", \"nome\":\"ANABELA TEIXEIRA COUTINHO DE SALES\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 44,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5094",
+        "gestorNome": "JOEL SILVA ANTUNES",
+        "gestorEmail": "5094@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:13:33",
+        "dataAtualizacao": "2024-01-14T18:13:33",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_89034/09092022163837_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_89034/09092022163837_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_89034/09092022163839_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_89034/09092022163839_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_89034/09092022163841_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_89034/09092022163841_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_89034/09092022163843_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_89034/09092022163843_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_89034/09092022163845_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_89034/09092022163845_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_89034/09092022163847_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_89034/09092022163847_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_89034/09092022163849_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_89034/09092022163849_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "- Existe uma a\u00e7\u00e3o pendente registada no im\u00f3vel sob a Ap. 2543 de 2022/04/2023.",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 23099,
+                "numero": "2044",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "03 - Almargem do Bispo",
+                "artigos": [
+                    {
+                        "numero": "6505",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "02 - Seixo"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

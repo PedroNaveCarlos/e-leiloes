@@ -1,0 +1,170 @@
+{
+    "item": {
+        "id": 129235,
+        "origem": 200859,
+        "lanceAtual": 282000.0,
+        "lanceAtualId": 148174,
+        "dataInicio": "2023-12-06T00:00:01",
+        "dataFimInicial": "2024-01-17T10:30:00",
+        "dataFim": "2024-01-17T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1180442023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 6,
+        "capa": "files/Verbas_Fotos/verba_101945/16112023231517_800sm.jpg",
+        "titulo": "Apartamento no Lumiar (verba 9)",
+        "valorBase": 435000.0,
+        "valorAbertura": 217500.0,
+        "valorMinimo": 369750.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T4",
+        "descricao": "Fra\u00e7\u00e3o V, Pr\u00e9dio urbano sito terceiro andar porta A, destinado a habilita\u00e7\u00e3o, na rua Rainha D. Lu\u00edsa de Gusm\u00e3o, n.\u00b0 7, freguesia de Lumiar, concelho de Lisboa,\r\ndescrito sob o n\u00famero 15, matriz sob o artigo 875.",
+        "observacoes": "###COMPOSI\u00c7\u00c3O####\r\nO apartamento \u00e9 composto por dois pisos (tipo duplex) tendo no 1\u00ba piso um quarto, cozinha, uma pequena casa de banho, sala comum e marquise. No 2\u00ba piso tem tr\u00eas quartos (um com varanda) duas casas de banho e uma divis\u00e3o para chuveiro. N\u00e3o tem garagem. O edif\u00edcio tem 3 elevadores.\r\n### VISITAS ###\r\n1. Os interessados em realizar visita devem submeter pedido de atrav\u00e9s do formul\u00e1rio dispon\u00edvel em https://view.forms.app/armandooliveira/visita, estando dispon\u00edvel visita virtual.\r\n2. vai ser agendado um \u00fanico dia / hora para visita do bem.\r\n### ESTADO DO BENS ###\r\n\u00c9 responsabilidade do proponente verificar o estado do bem e ao apresentar uma licita\u00e7\u00e3o dever\u00e1 faz\u00ea-lo consciente da realidade f\u00edsica do bem e esta pode n\u00e3o ter correspond\u00eancia com elementos documentais.\r\nO im\u00f3vel est\u00e1 devoluto.\r\n### CONDI\u00c7\u00d5ES PARTICULARES ###\r\nUma vez que est\u00e3o em venda no mesmo processo v\u00e1rios bens, a aceita\u00e7\u00e3o da proposta / licita\u00e7\u00e3o fica dependente de n\u00e3o ter sido obtido valor bastante para pagamento do valor em d\u00edvida e dos cr\u00e9ditos reclamados com a venda dos bens anteriores, segundo a ordem determinada na decis\u00e3o de venda.\r\n##CONDOM\u00cdNIO### \r\nA quota de condom\u00ednio \u00e9 de 50,00 euros mensais",
+        "areaUtilPrivativa": 118.2,
+        "areaUtilDependente": 17.0,
+        "areaTotal": 135.2,
+        "morada": "Rua Rainha Dona Lu\u00edsa de Gusm\u00e3o",
+        "moradaNumero": "7",
+        "moradaAndar": "3A",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lisboa",
+        "moradaFreguesia": "Lumiar",
+        "moradaCP": "1600-685",
+        "coordenadasLAT": "38.76720802",
+        "coordenadasLON": "-9.15947569",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69316,
+        "processoNumero": "921/19.7JAPRT.1",
+        "processoComarca": "Comarca do Porto",
+        "processoComarcaCodigo": "1049",
+        "processoTribunal": "Porto - JC Criminal - Juiz 8",
+        "verbaId": 101945,
+        "osae360": "https://360.osae.pt/?ref=360P00805",
+        "matricula": "",
+        "executados": "[{\"nif\":\"285168517\", \"nome\":\"Chenglong Li\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 882,
+        "cerimoniaData": "2024-01-17T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 1,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2111",
+        "gestorNome": "ARMANDO A. OLIVEIRA",
+        "gestorEmail": "2111@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:14:13",
+        "dataAtualizacao": "2024-01-14T18:14:13",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101945/16112023231517_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101945/16112023231517_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101945/16112023231446_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101945/16112023231446_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101945/16112023231451_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101945/16112023231451_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101945/16112023231456_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101945/16112023231456_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101945/16112023231504_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101945/16112023231504_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101945/16112023231511_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101945/16112023231511_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101945/16112023231523_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101945/16112023231523_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101945/16112023231527_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101945/16112023231527_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101945/16112023231532_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101945/16112023231532_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101945/16112023231538_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101945/16112023231538_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101945/16112023231543_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101945/16112023231543_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101945/16112023231652_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101945/16112023231652_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101945/16112023231658_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101945/16112023231658_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31448,
+                "numero": "15",
+                "fracao": "V",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "06 - Lisboa",
+                "freguesiaDesc": "18 - Lumiar",
+                "artigos": [
+                    {
+                        "numero": "875",
+                        "tipo": "urbana",
+                        "fracao": "V",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "10 - Sarnadas de S. Sim\u00e3o"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

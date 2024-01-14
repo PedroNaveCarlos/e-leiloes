@@ -1,0 +1,261 @@
+{
+    "item": {
+        "id": 126006,
+        "origem": 198603,
+        "lanceAtual": 0.0,
+        "dataInicio": "2023-10-30T11:50:57",
+        "dataFimInicial": "2024-01-30T14:30:00",
+        "dataFim": "2024-01-30T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP807662023",
+        "tipoId": 1,
+        "subtipoId": 26,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_98322/30062023085033_800sm.jpg",
+        "titulo": "ESCRITORIO SITO \u00c1 QUINTA DA BELOURA, RUA DO CENTRO EMPRESARIAL, SINTRA",
+        "valorBase": 405571.91,
+        "valorAbertura": 202785.96,
+        "valorMinimo": 344736.12,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Escrit\u00f3rio",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \" I \" , 1\u00ba andar -  Escrit\u00f3rio \u00ba 3 com lugares de garagem n\u00ba 64, 66 e 69 ao n\u00edvel da cave, e arrecada\u00e7\u00e3o n\u00ba 8 ao n\u00edvel da cave.\r\nSita \u00e1 Rua do Centro Empresarial Lote 303 (EE-6),  1\u00ba andar, Quinta da Beloura, Sintra ( 2710-693).\r\nInscrita a matriz sob o artigo 9489 da Uni\u00e3o de Freguesias de Sintra ( Santa Maria, S\u00e3o Miguel, S\u00e3o Martinho e S\u00e3o Pedro de Penaferrim ).\r\nDescrita \u00e1 1\u00aa Conservat\u00f3ria do Registo Predial de Sintra sob o numero 2256/19940116 - I .\r\nvalor patrimonial CIMI 2022 de 405.571,91 Euros.",
+        "observacoes": "\u00c9 da exclusiva responsabilidade do licitante a verifica\u00e7\u00e3o do estado do im\u00f3vel, pelo que dever\u00e1 assegurar-se de que o mesmo se encontra nas condi\u00e7\u00f5es pretendidas, antes de licitar. Mais se informa que, at\u00e9 ocorrer a entrega do im\u00f3vel o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es e/ou altera\u00e7\u00f5es, cuja responsabilidade n\u00e3o \u00e9 imput\u00e1vel ao Agente de Execu\u00e7\u00e3o. \r\nNos termos do n.\u00ba 2 do artigo 824.\u00ba do C\u00f3digo de Processo Civil, o pre\u00e7o dever\u00e1 ser depositado no prazo de 15 dias ap\u00f3s a notifica\u00e7\u00e3o do Agente do Execu\u00e7\u00e3o para o efeito. \r\nMais se informa que, de acordo com o disposto no art. 827.\u00ba, n.\u00ba 1, do CPC, a aquisi\u00e7\u00e3o ser\u00e1 efectuada por t\u00edtulo de transmiss\u00e3o emitido pelo Agente de Execu\u00e7\u00e3o (e n\u00e3o por escritura p\u00fablica). \r\nO facto do licitante estar a aguardar resposta sobre eventual financiamento n\u00e3o suspende o prazo de pagamento supra indicado. \r\nPor fim, somos a advertir que a falta de dep\u00f3sito do pre\u00e7o poder\u00e1 dar lugar \u00e0 decreta\u00e7\u00e3o do arresto de bens suficientes para garantir o valor em falta, tudo conforme consta do disposto no artigo 825.\u00ba do CPC, n.\u00ba 1, al.c).\r\nAnexa-se contrato de arrendamento.\r\nDeve o adquirente aconselhar-se juridicamente, no que se refere ao contrato de arrendamento em vigor, nomeadamente regras relativas \u00e1 dura\u00e7\u00e3o, denuncia e oposi\u00e7\u00e3o \u00e1 renova\u00e7\u00e3o,",
+        "areaUtilPrivativa": 239.24,
+        "areaUtilDependente": 64.05,
+        "areaTotal": 303.29,
+        "morada": "Alameda Beloura, Quinta da Beloura",
+        "moradaNumero": "EDIFICIO 6",
+        "moradaAndar": "1.3",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Sintra (Santa Maria e S\u00e3o Miguel, S\u00e3o Martinho e S\u00e3o Pedro de Penaferrim)",
+        "moradaCP": "2710-693",
+        "coordenadasLAT": "38.76267515",
+        "coordenadasLON": "-9.37314314",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 66985,
+        "processoNumero": "21387/22.9T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 98322,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"510898777\", \"nome\":\"EXPANDCHALLENGE, SA.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 324,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4358",
+        "gestorNome": "M\u00c1RIO MOREIRA",
+        "gestorEmail": "4358@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:16:54",
+        "dataAtualizacao": "2024-01-14T18:16:54",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/30062023085033_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/30062023085033_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163042_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163042_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163048_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163048_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163055_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163055_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163100_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163100_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163106_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163106_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163115_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163115_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163122_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163122_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163129_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163129_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163136_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163136_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163145_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163145_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163151_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163151_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163213_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163213_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163219_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163219_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163227_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163227_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163255_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163255_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/12062023163310_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/12062023163310_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/30062023084333_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/30062023084333_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/30062023084359_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/30062023084359_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/30062023084522_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/30062023084522_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/30062023084532_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/30062023084532_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/30062023084550_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/30062023084550_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/30062023084614_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/30062023084614_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/30062023085039_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/30062023085039_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/30062023085517_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/30062023085517_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/25092023102339_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/25092023102339_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/25092023102345_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/25092023102345_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/25092023102358_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/25092023102358_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/25092023102404_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/25092023102404_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98322/25092023102410_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98322/25092023102410_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "2019-06-01",
+                "valor": 500.0,
+                "dataPrazo": "2024-05-31",
+                "descricao": "Contrato de arrendamento em anexo.",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 29193,
+                "numero": "2256",
+                "fracao": "I",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "12 - Sintra (s. Pedro de Penaferrim)",
+                "artigos": [
+                    {
+                        "numero": "9849",
+                        "tipo": "urbana",
+                        "fracao": "I",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "49 - Sande (s. Clemente)"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

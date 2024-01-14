@@ -1,0 +1,159 @@
+{
+    "item": {
+        "id": 127456,
+        "origem": 200129,
+        "lanceAtual": 77206.0,
+        "lanceAtualId": 14960,
+        "dataInicio": "2023-11-16T15:00:05",
+        "dataFimInicial": "2024-02-14T14:30:00",
+        "dataFim": "2024-02-14T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP815702023",
+        "tipoId": 1,
+        "subtipoId": 4,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_72767/29052021091728_800sm.jpg",
+        "titulo": "Armazem em Campelos",
+        "valorBase": 154412.0,
+        "valorAbertura": 77206.0,
+        "valorMinimo": 131250.2,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Armaz\u00e9m / Ind\u00fastria",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio urbano, situado em Rua S. Sebasti\u00e3o, N\u00ba 31, Casalinhos das Oliveiras, freguesia de Campelos, concelho de Torres Vedras, composto por armaz\u00e9ns e logradouro, com a \u00e1rea total de 1.095 m2, sendo a A.C. de 580 m2 e a A.D. de 515 m2, inscrito na matriz predial urbana sob o artigo 2333 e descrito na Conservat\u00f3ria do Registo Predial de Torres Vedras sob o n\u00ba 2930.",
+        "observacoes": "",
+        "areaUtilPrivativa": 580.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 1095.0,
+        "morada": "Uni\u00e3o das freguesias de Campelos e Outeiro da Cabe\u00e7a",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Torres Vedras",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Campelos e Outeiro da Cabe\u00e7a",
+        "moradaCP": "2565-003",
+        "coordenadasLAT": "39.20625952490935",
+        "coordenadasLON": "-9.239657521247863",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 46181,
+        "processoNumero": "4034/19.3T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 72767,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"194300722\", \"nome\":\"Helena Maria Henriques L\u00facio\", \"requerido\":\"False\"},{\"nif\":\"176531491\", \"nome\":\"Nuno Jorge Ezequiel Engenheiro\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 372,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3947",
+        "gestorNome": "Elsa Custodinho",
+        "gestorEmail": "3947@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:21:25",
+        "dataAtualizacao": "2024-01-14T18:21:25",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72767/29052021091728_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72767/29052021091728_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72767/29052021091731_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72767/29052021091731_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72767/29052021091733_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72767/29052021091733_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72767/29052021091735_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72767/29052021091735_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72767/29052021091737_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72767/29052021091737_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72767/29052021091739_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72767/29052021091739_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72767/29052021091741_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72767/29052021091741_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72767/29052021091743_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72767/29052021091743_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72767/29052021091746_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72767/29052021091746_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72767/29052021091747_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72767/29052021091747_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72767/29052021091750_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72767/29052021091750_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 12634,
+                "numero": "2930",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "13 - Torres Vedras",
+                "freguesiaDesc": "02 - Campelos",
+                "artigos": [
+                    {
+                        "numero": "2946",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "13 - Torres Vedras",
+                        "freguesiaDesc": "02 - Arazede"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

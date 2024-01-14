@@ -1,0 +1,195 @@
+{
+    "item": {
+        "id": 129227,
+        "origem": 200640,
+        "lanceAtual": 139700.0,
+        "lanceAtualId": 148174,
+        "dataInicio": "2023-12-06T00:00:00",
+        "dataFimInicial": "2024-01-17T10:30:00",
+        "dataFim": "2024-01-17T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1179552023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_96144/30032023130651_800sm.jpg",
+        "titulo": "Apartamento T2 sito em Agualva-Cac\u00e9m (Sintra)",
+        "valorBase": 162652.95,
+        "valorAbertura": 81326.48,
+        "valorMinimo": 138255.01,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra E, que corresponde ao r\u00e9s-do-ch\u00e3o esquerdo, destinado a habita\u00e7\u00e3o, com uma arrecada\u00e7\u00e3o com o n\u00ba6 no v\u00e3o da cobertura e um parqueamento com o n\u00ba1 na 2\u00aacave, do pr\u00e9dio urbano sito na Rua Francisco Lucas Pires, n.\u00ba8, no lugar de Agualva, inscrito na matriz predial sob o artigo 3000 da freguesia de Uni\u00e3o das Freguesias de Agualva e Mira-Sintra, concelho de Sintra, descrito na Conservat\u00f3ria do Registo Predial de Agualva-Cac\u00e9m sob o n\u00famero 615/Agualva.",
+        "observacoes": "-Im\u00f3vel composto por 2 quartos, sala com lareira, cozinha e wc. Tem, ainda, arrecada\u00e7\u00e3o e um lugar de garagem.\r\n-Piso em mosaico, \u00e0 exce\u00e7\u00e3o dos quartos que \u00e9 flutuante. \r\n- Dever\u00e3o ainda os interessados antes de efetuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt e/ou aconselhar-se junto de um Solicitador ou Advogado.\r\n- \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. Dever\u00e1 igualmente ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidade da venda e ao facto de o bem n\u00e3o ser entregue no momento da adjudica\u00e7\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.\r\n-O im\u00f3vel \u00e9 habitado pelos executados que n\u00e3o permitiram o acesso para fotografias do interior, por receio de exposi\u00e7\u00e3o dos seus bens.",
+        "areaUtilPrivativa": 89.0,
+        "areaUtilDependente": 31.0,
+        "areaTotal": 120.0,
+        "morada": "Rua Francisco Lucas Pires",
+        "moradaNumero": "7",
+        "moradaAndar": "R/C ESQ",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Agualva e Mira-Sintra",
+        "moradaCP": "2735-088",
+        "coordenadasLAT": "38.77613053",
+        "coordenadasLON": "-9.28072386",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 65543,
+        "processoNumero": "3679/22.9T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 96144,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"163670030\", \"nome\":\"MARIA DE F\u00c1TIMA CARDIGA ALVES\", \"requerido\":\"False\"},{\"nif\":\"216524261\", \"nome\":\"RUI MANUEL ANDRADE DE SOUSA\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 882,
+        "cerimoniaData": "2024-01-17T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 44,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5094",
+        "gestorNome": "JOEL SILVA ANTUNES",
+        "gestorEmail": "5094@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:14:07",
+        "dataAtualizacao": "2024-01-14T18:14:07",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130651_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130651_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130625_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130625_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130627_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130627_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130628_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130628_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130631_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130631_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130632_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130632_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130634_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130634_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130636_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130636_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130638_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130638_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130640_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130640_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130641_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130641_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130644_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130644_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130645_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130645_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130647_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130647_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130649_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130649_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130653_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130653_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130656_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130656_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96144/30032023130658_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96144/30032023130658_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 27757,
+                "numero": "615",
+                "fracao": "E",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "18 - Agualva",
+                "artigos": [
+                    {
+                        "numero": "3000",
+                        "tipo": "urbana",
+                        "fracao": "E",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "01 - Mira"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

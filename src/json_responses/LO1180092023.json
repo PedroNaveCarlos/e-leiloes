@@ -1,0 +1,161 @@
+{
+    "item": {
+        "id": 129059,
+        "origem": 200778,
+        "lanceAtual": 110398.09,
+        "lanceAtualId": 5227,
+        "dataInicio": "2023-12-05T00:00:00",
+        "dataFimInicial": "2024-01-17T10:00:00",
+        "dataFim": "2024-01-17T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1180092023",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 3,
+        "capa": "files/Verbas_Fotos/verba_95368/10032023094218_800sm.jpg",
+        "titulo": "*CASA DE HABITA\u00c7\u00c3O T-1 EM CAMPOLIDE*",
+        "valorBase": 208000.0,
+        "valorAbertura": 104000.0,
+        "valorMinimo": 176800.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T1",
+        "descricao": "Casa de habita\u00e7\u00e3o de r\u00e9s-do-ch\u00e3o e primeiro andar, com entrada independente, situada na Rua de Campolide, na freguesia Campolide, concelho de Lisboa, descrito na competente Conservat\u00f3ria do Registo Predial de Lisboa sob o n\u00famero 133/19850607 e inscrito na matriz predial urbana da referida freguesia de Campolide sob o artigo 38.\u00ba, com o valor patrimonial atual de \u20ac 154.686,00;",
+        "observacoes": "A casa em venda localiza-se nas traseiras de um edif\u00edcio em regime de propriedade horizontal, possuindo uma entrada independente, anteriormente designada ou conhecida pela \"casa da porteira\"; O im\u00f3vel encontra-se num mau estado de conserva\u00e7\u00e3o; \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o pr\u00e9via do estado de conserva\u00e7\u00e3o do bem que se prop\u00f5e adquirir pelo que, antes de apresentar proposta, deve assegurar-se que o mesmo corresponde \u00e0s suas expectativas e se encontra nas condi\u00e7\u00f5es pretendidas. O bem \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados a verifica\u00e7\u00e3o pr\u00e9via do estado de conserva\u00e7\u00e3o do bem ou quaisquer outros elementos relevantes do seu interesse; Nos termos da Lei, a falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina a anula\u00e7\u00e3o da venda. Para efeitos de visitas ao local, dever\u00e1 ser contactado o Fiel Deposit\u00e1rio cujo contacto se encontra dispon\u00edvel no separador pr\u00f3prio e acess\u00edvel ap\u00f3s a devida autentica\u00e7\u00e3o na plataforma;",
+        "areaUtilPrivativa": 267.5,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 167.5,
+        "morada": "Rua Campolide",
+        "moradaNumero": "103-A",
+        "moradaAndar": "3",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lisboa",
+        "moradaFreguesia": "Campolide",
+        "moradaCP": "1070-028",
+        "coordenadasLAT": "38.72899714",
+        "coordenadasLON": "-9.16241883",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 65052,
+        "processoNumero": "6049/22.5T8LSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 4",
+        "verbaId": 95368,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"264565800\", \"nome\":\"Mehdi Ben Lahcen Tlemcani\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 882,
+        "cerimoniaData": "2024-01-17T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 20,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3288",
+        "gestorNome": "VITOR DE OLIVEIRA GON\u00c7ALVES",
+        "gestorEmail": "3288@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:13:59",
+        "dataAtualizacao": "2024-01-14T18:13:59",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95368/10032023094218_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95368/10032023094218_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95368/10032023094144_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95368/10032023094144_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95368/10032023094147_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95368/10032023094147_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95368/10032023094150_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95368/10032023094150_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95368/10032023094153_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95368/10032023094153_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95368/10032023094156_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95368/10032023094156_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95368/10032023094159_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95368/10032023094159_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95368/10032023094202_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95368/10032023094202_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95368/10032023094205_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95368/10032023094205_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95368/10032023094211_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95368/10032023094211_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95368/10032023094214_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95368/10032023094214_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 27258,
+                "numero": "133/19850607",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "06 - Lisboa",
+                "freguesiaDesc": "10 - Campolide",
+                "artigos": [
+                    {
+                        "numero": "38",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "01 - Carvalho"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

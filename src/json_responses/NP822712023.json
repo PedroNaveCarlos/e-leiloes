@@ -1,0 +1,169 @@
+{
+    "item": {
+        "id": 128983,
+        "origem": 201409,
+        "lanceAtual": 100000.0,
+        "lanceAtualId": 31042,
+        "dataInicio": "2023-12-04T10:03:48",
+        "dataFimInicial": "2024-02-06T14:30:00",
+        "dataFim": "2024-02-06T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP822712023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_91784/18112022114844_800sm.jpg",
+        "titulo": "T2 Alverca do Ribatejo",
+        "valorBase": 150000.0,
+        "valorAbertura": 75000.0,
+        "valorMinimo": 127500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma constitu\u00edda em propriedade horizontal designada pela letra \"G\", destinada a habita\u00e7\u00e3o, correspondente ao 3\u00ba andar direito, com a \u00e0rea descoberta de 80,7000 m2 e \u00e1rea bruta dependente 9,6000 m2, sita na Estrada de Arcena, n\u00ba27, 3\u00ba Dt\u00ba, 2615-001 Freguesia de Alverca do Ribatejo, Concelho de Vila Franca de Xira. Descrita na 2\u00aa Conservat\u00f3ria do Registo Predial de Vila Franca de Xira, sob o n.\u00ba 3440, do concelho de Vila Franca de Xira, freguesia de Alverca do Ribatejo e inscrita sob o n.\u00ba 2307 na matriz da Uni\u00e3o de freguesias de Alverca do Ribatejo e Sobralinho.",
+        "observacoes": "O fiel deposit\u00e1rio \u00e9 o filho do executado, pelo que visitas ao im\u00f3vel dever\u00e3o ser agendadas previamente atrav\u00e9s dos contactos em anexo. Os eventuais interessados devem informar-se das qualidades e caracter\u00edsticas, licen\u00e7as e outros aspetos que considerem relevantes, do(s) bem(s). \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. O im\u00f3vel \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisi\u00e7\u00e3o que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda. Os interessados que queiram ver o im\u00f3vel devem estar registados na plataforma e-leil\u00f5es, de foram a terem acesso aos contactos do fiel deposit\u00e1rio. Com a apresenta\u00e7\u00e3o da proposta presume-se que o interessado tenha inspecionado o im\u00f3vel e que conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o. N\u00e3o \u00e9 poss\u00edvel anular uma licita\u00e7\u00e3o depois de concretizada, a licita\u00e7\u00e3o \u00e9 definitiva e n\u00e3o pode ser revogada, anulada ou por qualquer forma alterada. Ap\u00f3s o fecho do leil\u00e3o, o/a proponente da proposta mais elevada \u00e9 notificado para, no prazo de 15 dias, proceder ao dep\u00f3sito do valor integral do pre\u00e7o oferecido, bem como dos impostos a que haja lugar. Fica obrigado ao dep\u00f3sito do pre\u00e7o com as consequ\u00eancias previstas no artigo 825.\u00ba do C\u00f3digo de Processo Civil, nomeadamente por decis\u00e3o do Juiz \u00abo arresto em bens suficientes para garantir o valor em falta acrescido das custas e despesas, sem preju\u00edzo de procedimento criminal e sendo aquele, simultaneamente, executado no pr\u00f3prio processo para pagamento daquele valor e acr\u00e9scimos.\u00bb Tenha em aten\u00e7\u00e3o que existem v\u00e1rios procedimentos previstos na lei que podem ditar um desfecho diverso do expect\u00e1vel, a saber: a)Exerc\u00edcio do direito de remiss\u00e3o; b)Exerc\u00edcio do direito de prefer\u00eancia; c)Insolv\u00eancia do(s) executado(s); d)Pagamento da d\u00edvida ou acordo de pagamento; e)Eventual verifica\u00e7\u00e3o de irregularidade que dita a invalidade da venda; f)Falecimento do executado. Salvo indica\u00e7\u00e3o expressa em contr\u00e1rio, os bens vendidos n\u00e3o t\u00eam garantia, e no caso dos im\u00f3veis podem n\u00e3o estar licenciados e/ou as suas carater\u00edsticas podem n\u00e3o corresponder aos elementos documentais, sendo responsabilidade do adquirente proceder \u00e0 sua legaliza\u00e7\u00e3o.",
+        "areaUtilPrivativa": 80.7,
+        "areaUtilDependente": 9.6,
+        "areaTotal": 90.3,
+        "morada": "Estrada Arcena, Bom Sucesso",
+        "moradaNumero": "27",
+        "moradaAndar": "3\u00baD",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Vila Franca de Xira",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Alverca do Ribatejo e Sobralinho",
+        "moradaCP": "2615-291",
+        "coordenadasLAT": "38.90264980",
+        "coordenadasLON": "-9.04284672",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 62695,
+        "processoNumero": "2556/22.8T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 91784,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"204103843\", \"nome\":\"Cristina Maria Pinto Lapa Gon\u00e7alves\", \"requerido\":\"False\"},{\"nif\":\"198120397\", \"nome\":\"Romeu Sequeira Gon\u00e7alves\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 40,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3599",
+        "gestorNome": "FILIPE CL\u00c1UDIO",
+        "gestorEmail": "3599@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:18:23",
+        "dataAtualizacao": "2024-01-14T18:18:23",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91784/18112022114844_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91784/18112022114844_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91784/18112022114841_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91784/18112022114841_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91784/18112022114846_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91784/18112022114846_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91784/18112022114849_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91784/18112022114849_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91784/18112022114852_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91784/18112022114852_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91784/18112022114857_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91784/18112022114857_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91784/18112022114901_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91784/18112022114901_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91784/18112022114904_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91784/18112022114904_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91784/18112022114907_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91784/18112022114907_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91784/18112022114910_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91784/18112022114910_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91784/18112022114913_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91784/18112022114913_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91784/18112022114918_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91784/18112022114918_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91784/18112022114921_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91784/18112022114921_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 24958,
+                "numero": "3440",
+                "fracao": "G",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "14 - Vila Franca de Xira",
+                "freguesiaDesc": "02 - Alverca do Ribatejo",
+                "artigos": [
+                    {
+                        "numero": "2307",
+                        "tipo": "urbana",
+                        "fracao": "G",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "14 - Vila Franca de Xira",
+                        "freguesiaDesc": "76 - Tamel (s. Pedro Fins)"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

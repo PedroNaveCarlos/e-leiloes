@@ -1,0 +1,133 @@
+{
+    "item": {
+        "id": 129851,
+        "origem": 202189,
+        "lanceAtual": 0.0,
+        "dataInicio": "2023-12-13T14:47:44",
+        "dataFimInicial": "2024-02-13T14:30:00",
+        "dataFim": "2024-02-13T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP827122023",
+        "tipoId": 1,
+        "subtipoId": 4,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_82724/07032022112320_800sm.jpg",
+        "titulo": "Armaz\u00e9m em Agualva-Cac\u00e9m",
+        "valorBase": 299622.58,
+        "valorAbertura": 149811.29,
+        "valorMinimo": 254679.19,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Armaz\u00e9m / Ind\u00fastria",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma, destinada a com\u00e9rcio, designada pela letra A, correspondente ao piso zero, tipologia/ divis\u00f5es 1, pertencente ao pr\u00e9dio urbano constitu\u00eddo em regime de propriedade horizontal, sito na Rua Cidade de Belgrado, n.\u00ba3, 2735-448 Agualva Cac\u00e9m, descrito na Conservat\u00f3ria do Registo Predial de Agualva-Cac\u00e9m sob o n.\u00ba 907 da freguesia de Agualva e inscrito na respetiva matriz urbana sob o artigo 3154 da uni\u00e3o das freguesias de Agualva e Mira-Sintra, concelho de Sintra.",
+        "observacoes": "O im\u00f3vel encontra-se em razo\u00e1vel estado de conserva\u00e7\u00e3o.\r\n\r\nO fiel deposit\u00e1rio do bem foi devidamente notificado dos seus deveres, nos termos do artigo 818.\u00ba do CPC, sob pena do artigo 761.\u00ba do CPC.\r\n \r\nPara agendamento de visitas, dever\u00e3o os interessados utilizar os contactos disponibilizados para o efeito. N\u00e3o ser\u00e3o agendadas visitas nas 48h que antecedem o t\u00e9rmino do leil\u00e3o.\r\n\r\n\u00c9 da exclusiva responsabilidade do licitante a verifica\u00e7\u00e3o do estado do im\u00f3vel, pelo que dever\u00e1 assegurar-se de que o mesmo se encontra nas condi\u00e7\u00f5es pretendidas, antes de licitar.\r\n\r\nMais se informa que, at\u00e9 ocorrer a entrega do im\u00f3vel o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es e/ou altera\u00e7\u00f5es, cuja responsabilidade n\u00e3o \u00e9 imput\u00e1vel \u00e0 Agente de Execu\u00e7\u00e3o.\r\n\r\nNos termos do n.\u00ba 2 do artigo 824.\u00ba do C\u00f3digo de Processo Civil, o pre\u00e7o dever\u00e1 ser depositado no prazo de 15 dias ap\u00f3s a notifica\u00e7\u00e3o do Agente do Execu\u00e7\u00e3o para o efeito.\r\n\r\n\r\nO facto do licitante estar a aguardar resposta sobre eventual financiamento n\u00e3o suspende o prazo de pagamento supra indicado.\r\n\r\nPor fim, somos a advertir que a falta de dep\u00f3sito do pre\u00e7o poder\u00e1 dar lugar \u00e0 decreta\u00e7\u00e3o do arresto de bens suficientes para garantir o valor em falta, tudo conforme consta do disposto no artigo 825.\u00ba do CPC, n.\u00ba 1, al.c).\r\n\r\nA PRESENTE VENDA FOI PUBLICITADA NA PLATAFORMA E-LEIL\u00d5ES, POR\u00c9M A APRESENTA\u00c7\u00c3O DE PROPOSTAS PODE SER REALIZADA POR OUTRAS VIAS, QUER VIA CTT, QUER VIA E-MAIL. \r\nOS PROPONENTES QUE APRESENTEM PROPOSTA VIA MAIL OU CTT, DEVEM FAZER CONSTAR DA MESMA,DE FORMA CLARA E INEQU\u00cdVOCA, A IDENTIFICA\u00c7\u00c3O DO PROPONENTE (nome completo, NIF, n\u00famero de identifica\u00e7\u00e3o civil, naturalidade, estado civil, se casado nome e NIF do c\u00f4njuge e regime de bens e resid\u00eancia, SENDO QUE NO CASO DE SE TRATAR DE PESSOA COLETIVA, DEVER\u00c1 CONSTAR PARA AL\u00c9M DA IDENTIFICA\u00c7\u00c3O DA PESSOA COLETIVA (certid\u00e3o comercial ou identifica\u00e7\u00e3o do c\u00f3digo de acesso) A LEGITIMIDADE DE QUEM A REPRESENTA, BEM COMO A IDENTIFICA\u00c7\u00c3O DO BEM EM VENDA E N\u00daMERO DO PROCESSO JUDICIAL.",
+        "areaUtilPrivativa": 247.0,
+        "areaUtilDependente": 45.0,
+        "areaTotal": 292.0,
+        "morada": "Rua Cidade de Belgrado, Quinta da Fidalga",
+        "moradaNumero": "3",
+        "moradaAndar": "Piso 0",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Agualva e Mira-Sintra",
+        "moradaCP": "2735-448",
+        "coordenadasLAT": "38.77309917",
+        "coordenadasLON": "-9.29984763",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 57176,
+        "processoNumero": "18739/20.2T8LSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 5",
+        "verbaId": 82724,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"501895566\", \"nome\":\"Manuel da Silva Ribeiro & Filhos Lda.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 298,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5344",
+        "gestorNome": "RAFAELA SILVA",
+        "gestorEmail": "5344@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:19:32",
+        "dataAtualizacao": "2024-01-14T18:19:32",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82724/07032022112320_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82724/07032022112320_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82724/07032022112256_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82724/07032022112256_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82724/07032022112302_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82724/07032022112302_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82724/07032022112311_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82724/07032022112311_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82724/07032022112316_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82724/07032022112316_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82724/07032022112324_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82724/07032022112324_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 19074,
+                "numero": "907",
+                "fracao": "A",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "18 - Agualva",
+                "artigos": [
+                    {
+                        "numero": "3154",
+                        "tipo": "urbana",
+                        "fracao": "A",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "01 - Mira"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

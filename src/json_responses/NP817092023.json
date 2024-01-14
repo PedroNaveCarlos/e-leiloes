@@ -1,0 +1,423 @@
+{
+    "item": {
+        "id": 127711,
+        "origem": 200367,
+        "lanceAtual": 0.0,
+        "dataInicio": "2023-11-20T15:09:25",
+        "dataFimInicial": "2024-02-20T14:30:00",
+        "dataFim": "2024-02-20T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP817092023",
+        "tipoId": 1,
+        "subtipoId": 27,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_58869/24032020112957_800sm.jpg",
+        "titulo": "Pr\u00e9dio r\u00fastico situado em Casais da Cabrela - Terrugem",
+        "valorBase": 108386.01,
+        "valorAbertura": 54193.01,
+        "valorMinimo": 92128.11,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "R\u00fastico",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio r\u00fastico denominado \"Vale do Outeiro\" situado em Casais da Cabrela, composto de cultura arvense e pastagem, descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Sintra pelo n.\u00ba 76 da freguesia da Terrugem, inscrito na matriz pelo artigo 251, sec\u00e7\u00e3o 1H da Uni\u00e3o das freguesias de S\u00e3o Jo\u00e3o das Lampas e Terrugem",
+        "observacoes": "As \u00e1reas indicadas servem apenas como refer\u00eancia pois n\u00e3o foram feitas medi\u00e7\u00f5es exatas no local. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e todos os outros aspetos que considerem relevantes. \r\nCom a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspecionado o bem e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o. \r\nO bem \u00e9 vendido no estado que se encontra pelo que os interessados devem proceder \u00e0 sua verifica\u00e7\u00e3o pr\u00e9via. A falta desta, por parte do proponente, n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.",
+        "areaUtilPrivativa": 14200.0,
+        "areaUtilDependente": 14200.0,
+        "areaTotal": 14200.0,
+        "morada": "Estrada Casais",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de S\u00e3o Jo\u00e3o das Lampas e Terrugem",
+        "moradaCP": "2705-838",
+        "coordenadasLAT": "38.85974422600681",
+        "coordenadasLON": "-9.354279041290283",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 41845,
+        "processoNumero": "11063/15.4T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 58869,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"175561990\", \"nome\":\"Ana Paula da Costa Ferreira Alves\", \"requerido\":\"False\"},{\"nif\":\"121063968\", \"nome\":\"Ant\u00f3nio Duarte Alves\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 242,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4066",
+        "gestorNome": "Bruno Goncalo Machado Taveira Ferrada",
+        "gestorEmail": "4066@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:21:39",
+        "dataAtualizacao": "2024-01-14T18:21:39",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112957_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112957_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112928_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112928_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112930_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112930_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112931_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112931_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112933_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112933_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112935_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112935_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112937_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112937_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112939_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112939_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112941_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112941_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112943_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112943_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112945_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112945_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112947_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112947_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112948_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112948_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112950_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112950_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112952_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112952_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112955_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112955_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020112958_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020112958_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113000_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113000_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113002_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113002_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113003_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113003_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113005_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113005_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113007_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113007_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113009_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113009_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113011_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113011_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113013_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113013_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113015_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113015_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113017_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113017_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113018_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113018_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113020_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113020_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113022_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113022_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113024_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113024_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113026_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113026_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113255_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113255_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113257_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113257_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113259_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113259_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113301_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113301_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113303_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113303_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113304_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113304_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113306_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113306_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113308_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113308_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113310_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113310_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113312_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113312_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113314_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113314_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113316_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113316_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113318_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113318_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113320_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113320_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113321_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113321_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113323_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113323_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113325_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113325_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113327_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113327_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113328_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113328_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113330_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113330_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113335_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113335_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113337_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113337_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113339_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113339_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113341_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113341_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113342_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113342_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113344_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113344_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113346_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113346_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113347_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113347_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113349_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113349_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113351_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113351_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113357_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113357_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_58869/24032020113359_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_58869/24032020113359_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 1688,
+                "numero": "76",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "13 - Terrugem",
+                "artigos": [
+                    {
+                        "numero": "251",
+                        "tipo": "rustica",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "25 - Tinalhas"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

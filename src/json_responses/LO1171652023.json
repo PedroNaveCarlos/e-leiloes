@@ -1,0 +1,128 @@
+{
+    "item": {
+        "id": 131495,
+        "origem": 198947,
+        "lanceAtual": 55551.0,
+        "lanceAtualId": 95520,
+        "dataInicio": "2024-01-09T00:00:05",
+        "dataFimInicial": "2024-02-14T10:00:00",
+        "dataFim": "2024-02-14T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1171652023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_102093/02112023153811_800sm.jpg",
+        "titulo": "Frac\u00e7\u00e3o Aut\u00f3noma - B -sita em Sacav\u00e9m ( Loures)",
+        "valorBase": 80000.0,
+        "valorAbertura": 40000.0,
+        "valorMinimo": 68000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma  designada pela letra B, correspondente a cave esquerda  para  habita\u00e7\u00e3o composto por duas  divis\u00f5es  do pr\u00e9dio urbano constitu\u00eddo em propriedade horizontal  , sito  na Rua Ant\u00f3nio Feliciano Castilho N\u00ba 1 em Sacav\u00e9m , freguesia de Sacav\u00e9m, concelho de Loures , inscrito na matriz sob o artigo numero 1188 da Uni\u00e3o das freguesias de Sacav\u00e9m e Prior Velho   e descrita na Conservat\u00f3ria do Registo Predial de Loures  sob o n\u00famero 549.",
+        "observacoes": "Apesar do registo fotogr\u00e1fico n\u00e3o mostrar o real estado de conserv\u00e7\u00e3o, verifiquei que o mesmo se encontra em muito estado de conserva\u00e7\u00e3o  encontra-se em muito estado de conserva\u00e7\u00e3o com infiltra\u00e7\u00f5es e problemas associados .\r\n\u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1 antes de licitar verificar se o mesmo corresponde \u00e0s suas expectativas e se o mesmo se encontra nas condi\u00e7\u00f5es pretendidas. \r\nO bem \u00e9 vendido no estado em que se encontra pelo que a falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda. \r\n\r\nO im\u00f3vel encontra-se arrendado com contrato de arrendamento de Outubro de 1977 e o valor da renda mensal \u00e9 de 134,40 \u20ac .o inclino tem 79 anos de idade .\r\nO inclino e fiel deposit\u00e1rio n\u00e3o mostra o im\u00f3vel .",
+        "areaUtilPrivativa": 36.44,
+        "areaUtilDependente": 2.3,
+        "areaTotal": 38.74,
+        "morada": "Rua Ant\u00f3nio Feliciano de Castilho",
+        "moradaNumero": "1",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Loures",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Sacav\u00e9m e Prior Velho",
+        "moradaCP": "2685-019",
+        "coordenadasLAT": "38.79581290555324",
+        "coordenadasLON": "-9.110020995140076",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69454,
+        "processoNumero": "556/18.1.T8SSB-A",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Sesimbra - Ju\u00edzo C. Gen\u00e9rica - Juiz 1",
+        "verbaId": 102093,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"707335337\", \"nome\":\"Jos\u00e9 Ad\u00e3o Pereira - Cabe\u00e7a de Casal da Heran\u00e7a de\", \"requerido\":\"True\"}]",
+        "cerimoniaId": 891,
+        "cerimoniaData": "2024-02-14T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 620,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4255",
+        "gestorNome": "F\u00c1TIMA NETO",
+        "gestorEmail": "4255@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:20:04",
+        "dataAtualizacao": "2024-01-14T18:20:04",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "Entrada pelo N\u00ba 1",
+                "image": "files/Verbas_Fotos/verba_102093/02112023153811_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102093/02112023153811_200.jpg"
+            },
+            {
+                "legenda": "casa de banho",
+                "image": "files/Verbas_Fotos/verba_102093/02112023154011_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102093/02112023154011_200.jpg"
+            },
+            {
+                "legenda": "cozi nha",
+                "image": "files/Verbas_Fotos/verba_102093/02112023154043_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102093/02112023154043_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "1977-10-01",
+                "valor": 134.4,
+                "dataPrazo": "2024-10-01",
+                "descricao": "",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 31525,
+                "numero": "549",
+                "fracao": "B",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "07 - Loures",
+                "freguesiaDesc": "12 - Sacavem",
+                "artigos": [
+                    {
+                        "numero": "1188",
+                        "tipo": "urbana",
+                        "fracao": "B",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "07 - Loures",
+                        "freguesiaDesc": "14 - Peredo dos Castelhanos"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,164 @@
+{
+    "item": {
+        "id": 130235,
+        "origem": 202757,
+        "lanceAtual": 0.0,
+        "dataInicio": "2023-12-19T15:16:34",
+        "dataFimInicial": "2024-01-18T14:30:00",
+        "dataFim": "2024-01-18T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP830452023",
+        "tipoId": 1,
+        "subtipoId": 27,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_49538/05112019143028_800sm.jpg",
+        "titulo": "Pr\u00e9dio - Santo Isidoro - Mafra",
+        "valorBase": 120000.0,
+        "valorAbertura": 60000.0,
+        "valorMinimo": 102000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "R\u00fastico",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio r\u00fastico (\u00e1rea de 1875 metros quadrados), sito na freguesia de Santo Isidoro, concelho de Mafra, inscrito na matriz cadastral sob o artigo 122 da sec\u00e7\u00e3o Q que proveio do artigo 1806 e descrito na CRP de Mafra sob o 3945 da freguesia de Santo Isidoro. \r\nDe acordo com o relat\u00f3rio de avalia\u00e7\u00e3o efectuado em Setembro de 2018: este artigo r\u00fastico apresenta frente para duas ruas, podendo ser ocupado, conforme PDM, por duas moradias a exemplo do que se verifica no lote cont\u00edguo. Na fotografia do local com vista das duas ruas que marginam o pr\u00e9dio em an\u00e1lise, \u00e9 evidenciada a constru\u00e7\u00e3o existente e a raz\u00e3o de se considerar a zona como \"\u00c1rea a consolidar no \u00e2mbito do espa\u00e7o residencial\" pois os pr\u00e9dios r\u00fasticos existentes s\u00e3o intercala\u00e7\u00f5es no espa\u00e7o urbano existente. \r\nAinda de acordo com o relat\u00f3rio: a localiza\u00e7\u00e3o, sendo muito boa, local ensoleirado e de bons acessos, n\u00e3o corresponde a um n\u00facleo urbano consolidado, situando-se no interior da freguesia de Santo Isidoro, a alguns Kms da zona mar\u00edtima.",
+        "observacoes": "Trata-se de um processo de Confer\u00eancia de Interessados no qual o Agente de Execu\u00e7\u00e3o foi apenas nomeado para proceder \u00e0 venda do im\u00f3vel, pelo que onde se l\u00ea Executado deve entender-se Requerido. \r\nFoi designado o dia 28.10.2020, pelas 09h30, para a dilig\u00eancia de abertura de propostas a realizar no Tribunal Judicial da Comarca de Lisboa Oeste - Juizo Local C\u00edvel de Mafra no \u00e2mbito do processo 543/20.0T8MFR. \r\n(Carta Precat\u00f3ria distribu\u00edda pelo Tribunal Judicial da Comarca de Lisboa \u2013 Juizo Central C\u00edvel de Lisboa \u2013 Juiz 14 nos termos do processo de invent\u00e1rio de heran\u00e7a que ai corre termos sob o n\u00ba 26427/94.7TVLSB) \r\nApresenta\u00e7\u00e3o de propostas: Os proponentes devem juntar obrigatoriamente com a sua proposta, como cau\u00e7\u00e3o, um cheque visado, \u00e0 ordem do agente de execu\u00e7\u00e3o no montante correspondente a 5% do valor anunciado.\r\nQuaisquer outras informa\u00e7\u00f5es podem ser obtidas junto do Agente de Execu\u00e7\u00e3o designado.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 1875.0,
+        "morada": "Santo Isidoro",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Mafra",
+        "moradaFreguesia": "Santo Isidoro",
+        "moradaCP": "2640-059",
+        "coordenadasLAT": "38.98019779",
+        "coordenadasLON": "-9.36440584",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 35541,
+        "processoNumero": "26427/94.7TVLSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - JC C\u00edvel - Juiz 14",
+        "verbaId": 49538,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"104517669\", \"nome\":\"Maria No\u00e9mia da Silva Tavares Silvestre\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 506,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3578",
+        "gestorNome": "Jo\u00e3o Ant\u00f3nio Moreira Garanh\u00e3o",
+        "gestorEmail": "3578@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "261818210",
+        "gestorFax": "",
+        "gestorMorada": "Rua Maria Augusta Botelho Ala B Loja 1 D 2640-534 Mafra",
+        "gestorHorario": "Dias \u00fateis das 9h \u00e0s 13h",
+        "dataServidor": "2024-01-14T18:14:57",
+        "dataAtualizacao": "2024-01-14T18:14:57",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143028_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143028_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143048_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143048_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143052_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143052_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143057_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143057_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143101_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143101_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143105_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143105_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143109_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143109_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143114_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143114_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143118_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143118_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143122_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143122_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143126_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143126_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143130_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143130_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143133_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143133_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143137_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143137_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143141_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143141_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_49538/05112019143145_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_49538/05112019143145_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

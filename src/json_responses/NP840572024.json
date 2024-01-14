@@ -1,0 +1,183 @@
+{
+    "item": {
+        "id": 131940,
+        "origem": 204393,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-11T21:20:19",
+        "dataFimInicial": "2024-02-13T14:30:00",
+        "dataFim": "2024-02-13T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP840572024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 3,
+        "capa": "files/Verbas_Fotos/verba_95454/13032023161328_800sm.jpg",
+        "titulo": "Moradia Unifamiliar",
+        "valorBase": 147058.82,
+        "valorAbertura": 73529.41,
+        "valorMinimo": 125000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T1",
+        "descricao": "Pr\u00e9dio urbano sito na Rua Am\u00e1lia Rodrigues, lote 201 - Anexo, Encosta do Mourigo \u2013\r\nTrigache, 1685-751 Fam\u00f5es, Uni\u00e3o de Freguesias de Pontinha e Fam\u00f5es (anterior Fam\u00f5es),concelho de Odivelas, descrito na Conservat\u00f3ria do Registo Predial de Odivelas com o n.\u00ba 80, da mencionada freguesia e inscrito na matriz sob o artigo matricial urbano 60 (antigo 34) da Uni\u00e3o de Freguesias de Pontinha e Fam\u00f5es",
+        "observacoes": "Os interessados em apresentar propostas devem proceder \u00e0 pr\u00e9via verifica\u00e7\u00e3o do estado do bem, porquanto a apresenta\u00e7\u00e3o da proposta n\u00e3o dispensa a verifica\u00e7\u00e3o do estado do bem. Pelo que, para os termos e feitos do disposto no art.\u00ba 838.\u00ba do C\u00f3digo de Processo Civil, presume-se que o proponente inspecionou o im\u00f3vel, conhece as suas caracter\u00edsticas, o seu estado de manuten\u00e7\u00e3o e conserva\u00e7\u00e3o, declinando-se toda e qualquer responsabilidade pela falta de verifica\u00e7\u00e3o daqueles pressupostos, sendo que esta falta de verifica\u00e7\u00e3o, n\u00e3o constitui motivo para anula\u00e7\u00e3o da venda.",
+        "areaUtilPrivativa": 42.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 42.0,
+        "morada": "Rua Am\u00e1lia Rodrigues, Bairro do Sol Nascente",
+        "moradaNumero": "Vivenda Em",
+        "moradaAndar": "Cris",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Odivelas",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Pontinha e Fam\u00f5es",
+        "moradaCP": "1685-751",
+        "coordenadasLAT": "38.80251142",
+        "coordenadasLON": "-9.20353694",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 65103,
+        "processoNumero": "4677/20.2T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Fam. Menores - Juiz 3",
+        "verbaId": 95454,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"149456476\", \"nome\":\"Jo\u00e3o Pereira Cardoso\", \"requerido\":\"True\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 1169,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4906",
+        "gestorNome": "ALEXANDRA LAPA",
+        "gestorEmail": "4906@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:19:47",
+        "dataAtualizacao": "2024-01-14T18:19:47",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161328_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161328_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161245_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161245_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161248_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161248_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161252_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161252_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161254_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161254_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161259_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161259_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161302_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161302_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161304_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161304_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161306_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161306_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161309_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161309_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161311_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161311_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161317_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161317_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161320_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161320_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161323_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161323_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161325_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161325_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95454/13032023161331_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95454/13032023161331_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 27323,
+                "numero": "80",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "16 - Odivelas",
+                "freguesiaDesc": "02 - Fam\u00f5es",
+                "artigos": [
+                    {
+                        "numero": "60",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "16 - Odivelas",
+                        "freguesiaDesc": "14 - Trindade"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,185 @@
+{
+    "item": {
+        "id": 129481,
+        "origem": 201038,
+        "lanceAtual": 67991.24,
+        "lanceAtualId": 3891,
+        "dataInicio": "2023-12-09T00:00:00",
+        "dataFimInicial": "2024-01-17T11:00:00",
+        "dataFim": "2024-01-17T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1181322023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 2,
+        "capa": "files/Verbas_Fotos/verba_85688/19052022140619_800sm.jpg",
+        "titulo": "Apartamento T0 em Monte Abra\u00e3o, com arrecada\u00e7\u00e3o",
+        "valorBase": 130676.47,
+        "valorAbertura": 65338.24,
+        "valorMinimo": 111075.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T0",
+        "descricao": "Pr\u00e9dio URBANO - descrito na Conservat\u00f3ria do Registo Predial de Queluz sob o n.\u00ba 30 da freguesia de Monte Abra\u00e3o, frac\u00e7\u00e3o aut\u00f3noma \"G\", inscrito na matriz urbana sob o artigo n.\u00ba 1451 das freguesias de Massam\u00e1 e Monte Abra\u00e3o, concelho de Sintra.",
+        "observacoes": "* O im\u00f3vel actualmente est\u00e1 devoluto de pessoas e bens, sendo o Agente de Execu\u00e7\u00e3o fiel deposit\u00e1rio do mesmo.\r\n* Boa localiza\u00e7\u00e3o com facilidade de acessos e estacionamento, algum com\u00e9rcio local nas imedia\u00e7\u00f5es.\r\n* \u00c9 da \u00fanica e exclusiva responsabilidade do interessado a verifica\u00e7\u00e3o do estado de conserva\u00e7\u00e3o do bem a adquirir. Assim, antes de apresentar proposta de aquisi\u00e7\u00e3o, o interessado dever\u00e1 assegurar-se que o mesmo corresponde \u00e0s suas expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas.\r\n* Ficam os interessados advertidos que o agente de execu\u00e7\u00e3o agendar\u00e1 uma visita \u00fanica ao bem, em data pr\u00f3xima do encerramento do presente leil\u00e3o electr\u00f3nico. Logo que seja designada a referida data e hora para a visita ao bem, a mesma ser\u00e1 inserida/publicada junto da plataforma e-leil\u00f5es, pelo que DEVER\u00c3O EFECTUAR O LOGIN de acesso ao PORTAL e consultar o respectivo REGIME DE VISITAS.\r\nCom efeito, ap\u00f3s o pagamento do pre\u00e7o (dispon\u00edvel o valor l\u00edquido na conta executados da titularidade do agente de execu\u00e7\u00e3o) e satisfeitas as obriga\u00e7\u00f5es fiscais inerentes \u00e0 transmiss\u00e3o, ser\u00e1 emitido pelo signat\u00e1rio o respetivo t\u00edtulo de transmiss\u00e3o.\r\nA venda poder\u00e1 ser prejudicada, caso se verifique, entre outras, alguma das seguintes situa\u00e7\u00f5es: \r\na)\texerc\u00edcio do direito de prefer\u00eancia;\r\nb)\texerc\u00edcio do direito de remi\u00e7\u00e3o (artigo 842\u00ba do CPC);\r\nc)\tpela regulariza\u00e7\u00e3o integral da d\u00edvida por parte do executado ou qualquer outra pessoa fazer cessar a execu\u00e7\u00e3o (artigo 846\u00ba n\u00ba 1 do CPC).\r\nCabe aos interessados o dever de se informarem juridicamente sobre as circunst\u00e2ncias do(s) bem(ns) a ser(em) adquirido(s), recorrendo para o efeito (caso assim o entendam), a consulta jur\u00eddica a profissional devidamente habilitado \u2013 jurista, solicitador ou advogado \u2013 uma vez que o ora signat\u00e1rio, enquanto titular do processo, n\u00e3o presta aconselhamento jur\u00eddico.",
+        "areaUtilPrivativa": 53.53,
+        "areaUtilDependente": 6.6,
+        "areaTotal": 60.13,
+        "morada": "Rua Jo\u00e3o Villaret, Monte Abra\u00e3o",
+        "moradaNumero": "7",
+        "moradaAndar": "R/C B",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Massam\u00e1 e Monte Abra\u00e3o",
+        "moradaCP": "2745-286",
+        "coordenadasLAT": "38.76310265",
+        "coordenadasLON": "-9.26400868",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 59061,
+        "processoNumero": "16290/16.4T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 85688,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"218494742\", \"nome\":\"GENTIL DA RESSURREI\u00c7\u00c3O CHILOMBO BORGES\", \"requerido\":\"False\"},{\"nif\":\"209720484\", \"nome\":\"MARIA ALICE DELGADO DE CARVALHO BORGES\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 882,
+        "cerimoniaData": "2024-01-17T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 316,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1553",
+        "gestorNome": "BR\u00c1S DUARTE",
+        "gestorEmail": "1553@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:14:39",
+        "dataAtualizacao": "2024-01-14T18:14:39",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140619_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140619_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140616_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140616_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140617_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140617_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140621_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140621_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140623_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140623_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140625_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140625_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140627_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140627_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140629_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140629_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140630_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140630_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140632_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140632_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140635_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140635_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140637_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140637_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140639_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140639_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140640_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140640_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140642_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140642_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85688/19052022140644_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85688/19052022140644_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 21031,
+                "numero": "30",
+                "fracao": "G",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "17 - Monte Abra\u00e3o",
+                "artigos": [
+                    {
+                        "numero": "1451",
+                        "tipo": "urbana",
+                        "fracao": "G",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "10 - Castelo Viegas"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

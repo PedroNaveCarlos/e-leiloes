@@ -1,0 +1,135 @@
+{
+    "item": {
+        "id": 129100,
+        "origem": 200069,
+        "lanceAtual": 26579.96,
+        "lanceAtualId": 31928,
+        "dataInicio": "2023-12-05T00:00:03",
+        "dataFimInicial": "2024-01-17T10:00:00",
+        "dataFim": "2024-01-17T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1176922023",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_102440/14112023181029_800sm.jpg",
+        "titulo": "Loja  N\u00ba 7 - Centro Comercial  Sol- Av\u00aa Duque de Loul\u00e9 , N\u00ba 45  e 45 A em Lisboa",
+        "valorBase": 47648.5,
+        "valorAbertura": 23824.25,
+        "valorMinimo": 40501.23,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma, designada pela letra CS do pr\u00e9dio sito em Cora\u00e7\u00e3o de Jesus - Av\u00aa Duque de Loul\u00e9 n\u00bas 45 e 45 A , tornejando para a Rua Ferreira Lapa N\u00ba 41 ,  destinada a com\u00e9rcio - tipologia :  uma divis\u00e3o ,  \u00e1rea privativa 23 m2, sita na  Av\u00aa Duque de Loul\u00e9 N\u00ba 45-45 A em Lisboa , no piso 0 , designada  pelo N\u00ba 7 ,   cidade  de Lisboa  freguesia de Cora\u00e7\u00e3o de Jesus , inscrita na matriz predial urbana  sob artigo 1163 da freguesia de Santo Ant\u00f3nio (Lisboa )  , e descrita na conservat\u00f3ria de registo predial de Lisboa  sob o n\u00famero 124-CS . Valor patrimonial CIMI 2022 de 49.087,48 euros.",
+        "observacoes": "A loja  situa-se no centro comercial Sol N\u00ba 45 em Lisboa ,  no mesmo edificio do  Hotel  \" Suites do MarQu\u00eas \" . A loja  encontra-se devoluto de pessoas  e bens . Advertem-se os eventuais interessados, do seguinte: antes de efetuarem propostas, devem inteirar-se das qualidades e caracter\u00edsticas, licen\u00e7as e outros aspetos que considerem relevantes, do bem. \u00c9 da \u00fanica e exclusiva responsabilidade do proponente, a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que, dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. O im\u00f3vel \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados a verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina nos termos legais, a anula\u00e7\u00e3o da venda. O bem \u00e9 vendido no estado f\u00edsico e jur\u00eddico em que se encontra, sem garantias de quaisquer v\u00edcios que possam surgir ou que eventualmente existam. .",
+        "areaUtilPrivativa": 23.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 23.0,
+        "morada": "Avenida Duque Loul\u00e9",
+        "moradaNumero": "45",
+        "moradaAndar": "0",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lisboa",
+        "moradaFreguesia": "Santo Ant\u00f3nio",
+        "moradaCP": "1050-087",
+        "coordenadasLAT": "38.7280285712495",
+        "coordenadasLON": "-9.145039916038513",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69705,
+        "processoNumero": "2358/19.9T8LSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - JC C\u00edvel - Juiz 17",
+        "verbaId": 102440,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"197099050\", \"nome\":\"Cristina Luisa Alvim da Costa Marques de Almeida\", \"requerido\":\"True\"},{\"nif\":\"130034848\", \"nome\":\"Isabel Expedito Alvim da Costa Ferreira Pedro\", \"requerido\":\"True\"},{\"nif\":\"103715347\", \"nome\":\"Jos\u00e9 Jo\u00e3o Ferreira Pedro\", \"requerido\":\"True\"},{\"nif\":\"170928357\", \"nome\":\"Licinio Marques de Almeida\", \"requerido\":\"True\"},{\"nif\":\"107394936\", \"nome\":\"Pedro Jose Alvim da Costa\", \"requerido\":\"True\"},{\"nif\":\"177483644\", \"nome\":\"Virginia Maria da Costa Afonso de Miranda Alvim\", \"requerido\":\"True\"}]",
+        "cerimoniaId": 882,
+        "cerimoniaData": "2024-01-17T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 620,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4255",
+        "gestorNome": "F\u00c1TIMA NETO",
+        "gestorEmail": "4255@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:14:02",
+        "dataAtualizacao": "2024-01-14T18:14:02",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "Entrada pelo N\u00ba 45",
+                "image": "files/Verbas_Fotos/verba_102440/14112023181029_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102440/14112023181029_200.jpg"
+            },
+            {
+                "legenda": "Exterior",
+                "image": "files/Verbas_Fotos/verba_102440/14112023181223_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102440/14112023181223_200.jpg"
+            },
+            {
+                "legenda": "Interior",
+                "image": "files/Verbas_Fotos/verba_102440/14112023181429_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102440/14112023181429_200.jpg"
+            },
+            {
+                "legenda": "Interior",
+                "image": "files/Verbas_Fotos/verba_102440/14112023181457_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102440/14112023181457_200.jpg"
+            },
+            {
+                "legenda": "Inserido no edificio  do hotel",
+                "image": "files/Verbas_Fotos/verba_102440/14112023181531_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102440/14112023181531_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102440/16112023092401_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102440/16112023092401_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31708,
+                "numero": "124",
+                "fracao": "CS",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "06 - Lisboa",
+                "freguesiaDesc": "14 - Cora\u00e7\u00e3o de Jesus",
+                "artigos": [
+                    {
+                        "numero": "1163",
+                        "tipo": "urbana",
+                        "fracao": "CS",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "09 - Horta da Vilari\u00e7a"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

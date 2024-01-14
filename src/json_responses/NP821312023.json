@@ -1,0 +1,134 @@
+{
+    "item": {
+        "id": 128418,
+        "origem": 201146,
+        "lanceAtual": 70000.0,
+        "lanceAtualId": 18164,
+        "dataInicio": "2023-11-29T14:19:56",
+        "dataFimInicial": "2024-01-30T14:30:00",
+        "dataFim": "2024-01-30T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP821312023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 3,
+        "capa": "files/Verbas_Fotos/verba_94640/20022023174207_800sm.jpg",
+        "titulo": "Apartamento sito em Algueir\u00e3o Mem Martins, Sintra",
+        "valorBase": 85000.0,
+        "valorAbertura": 42500.0,
+        "valorMinimo": 72250.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T1",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra CT, correspondente a habita\u00e7\u00e3o, no d\u00e9cimo terceiro andar E. Sita no lugar de Tapada das merc\u00eas, na Rua Professor Rui Lu\u00eds Gomes, n.\u00ba 2 e Rua Ant\u00f3nio Ferreira Gomes, n.\u00ba 4 a 4B, na freguesia de Algueir\u00e3o Mem Martins, concelho de Sintra. Faz parte do pr\u00e9dio urbano em regime de propriedade horizontal, descrito na 1.\u00aa Conservat\u00f3ria do Registo Predial de Sintra sob o n\u00famero 626, Fra\u00e7\u00e3o CT, e inscrito na respetiva matriz predial urbana da freguesia de Algueir\u00e3o Mem Martins sob o artigo 5898, Fra\u00e7\u00e3o CT.",
+        "observacoes": "O estado de conserva\u00e7\u00e3o \u00e9 razo\u00e1vel. \r\nAs visitas ser\u00e3o efetuadas, se solicitadas, obrigatoriamente at\u00e9 5 dias \u00fateis antes da data designada para o fim do leil\u00e3o. As mesmas dever\u00e3o ser agendadas diretamente com o fiel deposit\u00e1rio, atrav\u00e9s do contacto dispon\u00edvel no campo das visitas. Todos os interessados t\u00eam de obedecer \u00e0s regras de distanciamento social aconselhadas pela Dire\u00e7\u00e3o-Geral de Sa\u00fade, etiqueta respirat\u00f3ria, higiene das m\u00e3os e uso obrigat\u00f3rio de m\u00e1scara como medida complementar para limitar a transmiss\u00e3o de SARS-CoV-2.\r\n\r\n*\r\nInforma-se que o im\u00f3vel encontra-se habitado / ocupado.",
+        "areaUtilPrivativa": 49.6,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 49.6,
+        "morada": "Rua Professor Rui Lu\u00eds Gomes, Tapada das Merc\u00eas",
+        "moradaNumero": "2",
+        "moradaAndar": "13\u00ba E",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Algueir\u00e3o-Mem Martins",
+        "moradaCP": "2725-554",
+        "coordenadasLAT": "38.79385502",
+        "coordenadasLON": "-9.32875641",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 64599,
+        "processoNumero": "10211/22.2T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 94640,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"184847915\", \"nome\":\"Ana Maria Alegre dos Santos\", \"requerido\":\"False\"},{\"nif\":\"220590117\", \"nome\":\"Bruno Miguel Pinto Octaviano dos Santos\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 78,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5224",
+        "gestorNome": "SUSANA COSTA",
+        "gestorEmail": "5224@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:17:05",
+        "dataAtualizacao": "2024-01-14T18:17:05",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94640/20022023174207_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94640/20022023174207_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94640/20022023174159_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94640/20022023174159_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94640/20022023174201_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94640/20022023174201_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94640/20022023174209_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94640/20022023174209_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94640/20022023174211_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94640/20022023174211_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Arresto registado no im\u00f3vel",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 26781,
+                "numero": "626",
+                "fracao": "CT",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "02 - Algueir\u00e3o-mem Martins",
+                "artigos": [
+                    {
+                        "numero": "5898",
+                        "tipo": "urbana",
+                        "fracao": "CT",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "05 - Oliveira do Mondego"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

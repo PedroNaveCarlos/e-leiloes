@@ -1,0 +1,171 @@
+{
+    "item": {
+        "id": 131536,
+        "origem": 202932,
+        "lanceAtual": 156585.35,
+        "lanceAtualId": 7737,
+        "dataInicio": "2024-01-09T00:00:09",
+        "dataFimInicial": "2024-02-14T10:30:00",
+        "dataFim": "2024-02-14T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1189212023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_103520/20122023145402_800sm.jpg",
+        "titulo": "Apartamento",
+        "valorBase": 307000.0,
+        "valorAbertura": 153500.0,
+        "valorMinimo": 260950.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra A, correspondente ao r\u00e9s-do-ch\u00e3o esquerdo, destinado a habita\u00e7\u00e3o, com sagu\u00e3o, do pr\u00e9dio urbano sito em Rua dos Mouros, n\u00ba39, Encarna\u00e7\u00e3o, freguesia Miseric\u00f3rdia, concelho de Lisboa, descrito na Conservat\u00f3ria do Registo Predial de Lisboa, sob o n.\u00ba 63/19870701-A, freguesia Encarna\u00e7\u00e3o e inscrito na matriz predial urbana da freguesia Miseric\u00f3rdia, sob o artigo 1081.",
+        "observacoes": "Im\u00f3vel a necessitar de interven\u00e7\u00f5es.\r\nComposto por sala com dois v\u00e3os de janela, 3 quartos, um corredor com v\u00e3os de portas interiores para acesso aos compartimentos, uma cozinha e uma instala\u00e7\u00e3o sanit\u00e1ria improvisada, sem bacia de retrete e um pequeno p\u00e1tio exterior, que ocupa o sagu\u00e3o, com acesso pela cozinha onde est\u00e1 instalado um pequeno compartimento com a bacia da retrete.\r\nSegundo a informa\u00e7\u00e3o constante em relat\u00f3rio de avalia\u00e7\u00e3o, a \u00e1rea diverge da constante no an\u00fancio do leil\u00e3o (que corresponde \u00e0 constante na caderneta predial urbana), totalizando 80,22 m2, informa\u00e7\u00e3o que caber\u00e1 ao adquirente confirmar e regularizar junto das entidades competentes.\r\nSegundo a informa\u00e7\u00e3o conhecida nos presentes autos, o bem im\u00f3vel encontra-se ocupado pela requerida, informa\u00e7\u00e3o que dever\u00e1 confirmar com os contactos constantes no an\u00fancio do leil\u00e3o.\r\nNota:\r\nAs \u00e1reas indicadas servem apenas como refer\u00eancia pois n\u00e3o foram feitas medi\u00e7\u00f5es exatas no local. Cuja regulariza\u00e7\u00e3o predial/finan\u00e7as, quanto a \u00e1reas e a outras eventuais diverg\u00eancias entre as cadernetas prediais/finan\u00e7as e o registo predial compete e \u00e9 da total responsabilidade do adquirente, junto das entidades competentes. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e todos os outros aspetos que considerem relevantes.\r\nCom a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspecionado o im\u00f3vel e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o.\r\nO im\u00f3vel \u00e9 vendido no estado que se encontra pelo que os interessados devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta por parte do proponente n\u00e3o determina nos termos legais a anula\u00e7\u00e3o da venda.\r\nInformo ainda que a tipologia tem por base a informa\u00e7\u00e3o constante da caderneta predial urbana.\r\nA venda decorre no \u00e2mbito do processo de invent\u00e1rio aberto por \u00f3bito de Maria de Lurdes Alves de Melo.",
+        "areaUtilPrivativa": 89.05,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 0.0,
+        "morada": "Rua Mouros",
+        "moradaNumero": "39",
+        "moradaAndar": "rc esquerd",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lisboa",
+        "moradaFreguesia": "Miseric\u00f3rdia",
+        "moradaCP": "1200-281",
+        "coordenadasLAT": "38.71444090",
+        "coordenadasLON": "-9.14511428",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70414,
+        "processoNumero": "22526/21.2T8LSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - JL C\u00edvel - Juiz 11",
+        "verbaId": 103520,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"197046240\", \"nome\":\"C\u00e9lia de Melo Carvalho\", \"requerido\":\"True\"},{\"nif\":\"215733290\", \"nome\":\"Vanda Maria de Melo Carvalho\", \"requerido\":\"True\"}]",
+        "cerimoniaId": 891,
+        "cerimoniaData": "2024-02-14T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 336,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2616",
+        "gestorNome": "Jos\u00e9 Maria Soares Sequeira",
+        "gestorEmail": "2616@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:20:41",
+        "dataAtualizacao": "2024-01-14T18:20:41",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145402_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145402_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145358_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145358_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145400_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145400_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145404_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145404_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145406_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145406_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145407_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145407_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145409_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145409_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145411_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145411_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145413_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145413_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145415_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145415_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145416_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145416_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145419_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145419_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145421_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145421_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145424_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145424_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145427_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145427_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145429_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145429_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103520/20122023145431_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103520/20122023145431_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

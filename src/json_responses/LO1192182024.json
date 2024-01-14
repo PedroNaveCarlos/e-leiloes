@@ -1,0 +1,290 @@
+{
+    "item": {
+        "id": 131713,
+        "origem": 203723,
+        "lanceAtual": 81418.59,
+        "lanceAtualId": 88529,
+        "dataInicio": "2024-01-10T00:00:05",
+        "dataFimInicial": "2024-02-14T11:00:00",
+        "dataFim": "2024-02-14T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1192182024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_103468/18122023163801_800sm.jpg",
+        "titulo": "Apartamento T3 em MASSAM\u00c1",
+        "valorBase": 153400.0,
+        "valorAbertura": 76700.0,
+        "valorMinimo": 130390.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"B\" correspondente ao r\u00e9s-do-ch\u00e3o esquerdo, para habita\u00e7\u00e3o, com arrecada\u00e7\u00e3o no s\u00f3t\u00e3o, do pr\u00e9dio urbano sito na Rua Ant\u00f3nio Jos\u00e9 de Almeida, n.\u00ba 6, em Massam\u00e1, descrito na Conservat\u00f3ria do Registo Predial de Queluz sob o n.\u00ba 114 da freguesia de Massam\u00e1, concelho de Sintra, inscrito na respetiva matriz sob o art.\u00ba 1922 da Uni\u00e3o de Freguesias de Massam\u00e1 e Monte Abra\u00e3o.",
+        "observacoes": "O im\u00f3vel \u00e9 composto por tr\u00eas quartos (sendo um uma suite com banheira de hidromassagem), um WC com poliban, sala, cozinha, despensa e hall.\r\n\r\nPara visitar o bem im\u00f3vel, deve contactar telefonicamente a fiel deposit\u00e1ria que \u00e9 M\u00c3E  do Executado  ou, caso haja alguma dificuldade no agendamento, a Agente de Execu\u00e7\u00e3o. Dever\u00e1 ter-se em aten\u00e7\u00e3o que pode n\u00e3o ser poss\u00edvel agendar a visita nos \u00faltimos dias do leil\u00e3o por isso, tente marcar a sua visita com a maior anteced\u00eancia poss\u00edvel.\r\n\r\nRecomenda\u00e7\u00e3o geral - leil\u00f5es eletr\u00f3nicos - previamente \u00e0 apresenta\u00e7\u00e3o de proposta, deve visitar o bem im\u00f3vel, uma vez que este \u00e9 vendido no estado em que se encontra. Ap\u00f3s apresentada proposta, a mesma n\u00e3o pode ser retirada. \r\n\u00c9 OBRIGAT\u00d3RIO o dep\u00f3sito do pre\u00e7o no prazo de quinze dias. N\u00e3o sendo depositado o pre\u00e7o no referido prazo, a Agente de Execu\u00e7\u00e3o poder\u00e1 promover, com autoriza\u00e7\u00e3o judicial pr\u00e9via, o arresto dos bens do proponente que ven\u00e7a o leil\u00e3o e n\u00e3o proceda ao dep\u00f3sito do pre\u00e7o - ler atentamente o disposto no artigo 825\u00ba, n.\u00ba 1 al. c) do C\u00f3digo de Processo Civil.",
+        "areaUtilPrivativa": 91.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 91.0,
+        "morada": "Rua Ant\u00f3nio Jos\u00e9 de Almeida, Massam\u00e1",
+        "moradaNumero": "6",
+        "moradaAndar": "R/C Esq.",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Massam\u00e1 e Monte Abra\u00e3o",
+        "moradaCP": "2745-720",
+        "coordenadasLAT": "38.75341404",
+        "coordenadasLON": "-9.27639910",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70371,
+        "processoNumero": "15737/22.5T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 103468,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"228838258\", \"nome\":\"Gerson William Sousa e Gourgel\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 891,
+        "cerimoniaData": "2024-02-14T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 311,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5397",
+        "gestorNome": "DANIELA PORTUGAL DE CARVALHO",
+        "gestorEmail": "5397@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:21:19",
+        "dataAtualizacao": "2024-01-14T18:21:19",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163801_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163801_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163058_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163058_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163106_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163106_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163112_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163112_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163228_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163228_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163238_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163238_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163246_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163246_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163253_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163253_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163300_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163300_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163307_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163307_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163315_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163315_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163341_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163341_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163348_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163348_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163355_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163355_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163402_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163402_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163408_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163408_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163416_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163416_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163424_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163424_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163431_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163431_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163438_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163438_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163446_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163446_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163452_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163452_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163501_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163501_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163509_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163509_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163516_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163516_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163522_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163522_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163529_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163529_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163543_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163543_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163549_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163549_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163556_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163556_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163602_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163602_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163609_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163609_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163627_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163627_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163637_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163637_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163646_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163646_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163655_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163655_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103468/18122023163809_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103468/18122023163809_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32277,
+                "numero": "114",
+                "fracao": "B",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "16 - Massam\u00e1",
+                "artigos": [
+                    {
+                        "numero": "1922",
+                        "tipo": "urbana",
+                        "fracao": "B",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "10 - Castelo Viegas"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

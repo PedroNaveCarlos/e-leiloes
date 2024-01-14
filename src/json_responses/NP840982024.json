@@ -1,0 +1,319 @@
+{
+    "item": {
+        "id": 131995,
+        "origem": 204463,
+        "lanceAtual": 40446.97,
+        "lanceAtualId": 43768,
+        "dataInicio": "2024-01-12T12:23:32",
+        "dataFimInicial": "2024-02-13T14:30:00",
+        "dataFim": "2024-02-13T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP840982024",
+        "tipoId": 1,
+        "subtipoId": 7,
+        "tipologiaId": 8,
+        "capa": "files/Verbas_Fotos/verba_85686/19052022140308_800sm.jpg",
+        "titulo": "1/2 Pr\u00e9dio",
+        "valorBase": 79300.0,
+        "valorAbertura": 39650.0,
+        "valorMinimo": 67405.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Pr\u00e9dio",
+        "tipologia": "T6 ou superior",
+        "descricao": "1/2 do pr\u00e9dio urbano composto de edif\u00edcio de r\u00e9s-do-ch\u00e3o, primeiro andar e \u00e1guas furtadas para habita\u00e7\u00e3o e garagem, sito na Rua das Flores, n\u00ba 9, antigo lote 62 na matriz e lote 95 na descri\u00e7\u00e3o predial.\r\nInscrito na matriz predial urbana sob o artigo 6756 da Uni\u00e3o das freguesias de Santa Iria de Az\u00f3ia, S\u00e3o Jo\u00e3o da Talha e Bobadela e descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Loures sob o n\u00ba 208.",
+        "observacoes": "O bem im\u00f3vel n\u00e3o possui licen\u00e7a de utiliza\u00e7\u00e3o.\r\nPenhora registada pela Ap. 2 de 13/11/2003 e convertida pela AP. 25 de 27/05/2004.",
+        "areaUtilPrivativa": 154.0,
+        "areaUtilDependente": 310.0,
+        "areaTotal": 464.0,
+        "morada": "Rua Flores, Bairro das Maroitas",
+        "moradaNumero": "9",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Loures",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Santa Iria de Azoia, S\u00e3o Jo\u00e3o da Talha e Bobadela",
+        "moradaCP": "2695-650",
+        "coordenadasLAT": "38.83411862",
+        "coordenadasLON": "-9.10460499",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 59055,
+        "processoNumero": "6045/21.0T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 85686,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"117890286\", \"nome\":\"Jorge Manuel de Jesus Camilo\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 518,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4105",
+        "gestorNome": "S\u00d3NIA MENDES",
+        "gestorEmail": "4105@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:19:53",
+        "dataAtualizacao": "2024-01-14T18:19:53",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140308_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140308_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140458_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140458_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140500_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140500_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140503_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140503_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140506_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140506_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140508_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140508_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140510_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140510_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140514_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140514_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140516_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140516_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140518_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140518_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140521_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140521_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140524_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140524_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140527_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140527_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140529_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140529_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140531_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140531_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140534_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140534_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140537_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140537_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140540_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140540_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140543_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140543_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140702_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140702_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140704_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140704_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140706_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140706_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140708_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140708_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140710_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140710_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140712_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140712_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140714_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140714_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140716_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140716_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140718_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140718_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140719_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140719_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140721_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140721_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140723_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140723_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140725_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140725_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140727_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140727_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140729_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140729_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140731_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140731_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140733_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140733_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140735_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140735_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140737_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140737_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140739_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140739_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140741_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140741_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140743_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140743_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85686/19052022140745_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85686/19052022140745_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Com \u00f3nus de altera\u00e7\u00e3o da \u00e1rea de anexos, de acordo com a planta de s\u00edntese de loteamento e quadro urbanim\u00e9trico, conforme consta do \u00c1lvara de loteamento n\u00ba 7/2009, emitido pela C\u00e2mara Municipal de Loures em 04/07/2009.",
+                "tipoDesc": "os que n\u00e3o se extinguem com a venda judicial"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 21030,
+                "numero": "208",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "07 - Loures",
+                "freguesiaDesc": "15 - S. Jo\u00e3o da Talha",
+                "artigos": [
+                    {
+                        "numero": "6756",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "07 - Loures",
+                        "freguesiaDesc": "15 - Souto da Velha"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,130 @@
+{
+    "item": {
+        "id": 131828,
+        "origem": 203902,
+        "lanceAtual": 10000.0,
+        "lanceAtualId": 1163,
+        "dataInicio": "2024-01-10T23:59:59",
+        "dataFimInicial": "2024-02-14T10:00:00",
+        "dataFim": "2024-02-14T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1192982024",
+        "tipoId": 1,
+        "subtipoId": 27,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_103813/05012024123403_800sm.jpg",
+        "titulo": "R\u00fastico em Fanh\u00f5es",
+        "valorBase": 20000.0,
+        "valorAbertura": 10000.0,
+        "valorMinimo": 17000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "R\u00fastico",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio r\u00fastico, sito em Fanh\u00f5es, concelho de Loures, freguesia de Fanh\u00f5es, descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Loures, sob o n\u00famero 1897/20010305 e inscrito na matriz daquela freguesia sob o artigo 86, sec\u00e7\u00e3o G.",
+        "observacoes": "O im\u00f3vel \u00e9 vendido no estado f\u00edsico e jur\u00eddico em que se encontra e a eventual regulariza\u00e7\u00e3o das \u00e1reas ou legaliza\u00e7\u00e3o do im\u00f3vel \u00e9 responsabilidade do adquirente\r\na) Com a apresenta\u00e7\u00e3o da proposta, presume-se que os interessados tenham inspecionado o im\u00f3vel e conhecem as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o, assim como, qualquer descri\u00e7\u00e3o incorreta da informa\u00e7\u00e3o que possa induzir em erro, devendo ainda o interessado inteirar-se junto das entidades competentes das demais caracter\u00edsticas, licen\u00e7as e/ou outros aspetos que considerem relevantes. A sua n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o da venda. \r\nb) Advertem-se ainda os potenciais interessados que os bens que se encontram no interior do im\u00f3vel n\u00e3o fazem parte do objecto negoci\u00e1vel. \r\nc) Dever\u00e3o igualmente, ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidades da venda e ao facto de o bem n\u00e3o ser entregue no momento da conclus\u00e3o do leil\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio. \r\nd) Todos os custos inerentes ao registo de aquisi\u00e7\u00e3o ser\u00e3o suportados pelo adquirente; \r\ne) A presente venda est\u00e1 dispensada da apresenta\u00e7\u00e3o do alvar\u00e1 de licen\u00e7a de utiliza\u00e7\u00e3o do pr\u00e9dio, certificado energ\u00e9tico e ficha t\u00e9cnica de habita\u00e7\u00e3o, pelo que, nos termos das mesmas disposi\u00e7\u00f5es legais, constitui \u00f3nus do adquirente a respetiva legaliza\u00e7\u00e3o dos im\u00f3veis, se for caso disso; \r\nf) Na aus\u00eancia dos pagamentos nos prazos estipulados, ser\u00e1 considerada desist\u00eancia e consequente den\u00fancia no portal \u201ce-leil\u00f5es.pt\u201d, assim como ser\u00e3o tomadas as medidas previstas no art.\u00ba 825\u00ba do C\u00f3digo do Processo Civil",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 29000.0,
+        "morada": "Avenida Catarina Euf\u00e9mia",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Loures",
+        "moradaFreguesia": "Fanh\u00f5es",
+        "moradaCP": "2670-708",
+        "coordenadasLAT": "38.891149736157075",
+        "coordenadasLON": "-9.145646095275879",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 62105,
+        "processoNumero": "3150/14.2T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 103813,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"229455131\", \"nome\":\"Ana Sofia Mateus Nogueira\", \"requerido\":\"False\"},{\"nif\":\"229455131\", \"nome\":\"Bruna Alexandra Mateus Nogueira\", \"requerido\":\"False\"},{\"nif\":\"202121178\", \"nome\":\"Fernando Samuel Mateus Nogueira\", \"requerido\":\"False\"},{\"nif\":\"202121178\", \"nome\":\"Nuno Rodrigo de Sousa Nogueira\", \"requerido\":\"False\"},{\"nif\":\"202121178\", \"nome\":\"Paulo V\u00edtor Mateus Nogueira\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 892,
+        "cerimoniaData": "2024-02-14T15:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 159,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2165",
+        "gestorNome": "Ant\u00f3nio Tavares Fernandes",
+        "gestorEmail": "2165@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:20:25",
+        "dataAtualizacao": "2024-01-14T18:20:25",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103813/05012024123403_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103813/05012024123403_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103813/05012024164112_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103813/05012024164112_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103813/05012024164115_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103813/05012024164115_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103813/05012024164117_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103813/05012024164117_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103813/05012024164119_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103813/05012024164119_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32461,
+                "numero": "1897",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "07 - Loures",
+                "freguesiaDesc": "05 - Fanh\u00f5es",
+                "artigos": [
+                    {
+                        "numero": "86",
+                        "tipo": "rustica",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "07 - Loures",
+                        "freguesiaDesc": "09 - Mur\u00e7a"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

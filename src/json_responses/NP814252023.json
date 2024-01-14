@@ -1,0 +1,178 @@
+{
+    "item": {
+        "id": 127265,
+        "origem": 199834,
+        "lanceAtual": 0.0,
+        "dataInicio": "2023-11-14T14:36:11",
+        "dataFimInicial": "2024-01-23T14:30:00",
+        "dataFim": "2024-01-23T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP814252023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_94906/28022023130418_800sm.jpg",
+        "titulo": "Apartamento T2 - Pontinha",
+        "valorBase": 154214.0,
+        "valorAbertura": 77107.0,
+        "valorMinimo": 131081.9,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"A\" do pr\u00e9dio em regime de propriedade horizontal, afeta a habita\u00e7\u00e3o, sito na Rua D. Jo\u00e3o de Castro n.\u00ba 709 r\u00e9s-do-ch\u00e3o na Pontinha, inscrita na matriz predial sob o artigo 3819\u00ba da Uni\u00e3o das freguesias de Pontinha e Fam\u00f5es e descrita na Conservat\u00f3ria do Registo Predial de Odivelas sob a ficha 676 - A - da freguesia da Pontinha.",
+        "observacoes": "Foi constitu\u00edda fiel deposit\u00e1ria do im\u00f3vel a executada.\r\nOs interessados em visitar o Im\u00f3vel dever\u00e3o, previamente contactar a mesma, atrav\u00e9s do contacto dispon\u00edvel para o efeito, no campo \"Visitas por Marca\u00e7\u00e3o\". Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas, licen\u00e7as e outros aspetos que considerem relevantes, do(s) bem(ns). A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda. Os interessados antes de efetuarem quaisquer propostas, devem consultar as regras de funcionamento e as Faq constantes no site www.e-leiloes.pt.",
+        "areaUtilPrivativa": 42.25,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 42.25,
+        "morada": "Rua Dom Jo\u00e3o de Castro",
+        "moradaNumero": "709",
+        "moradaAndar": "R/Ch\u00e3o",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Odivelas",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Pontinha e Fam\u00f5es",
+        "moradaCP": "1675-131",
+        "coordenadasLAT": "38.76834608",
+        "coordenadasLON": "-9.19930709",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 64773,
+        "processoNumero": "9019/18.4T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 94906,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"148935702\", \"nome\":\"Maria Teresa Jesus Andrade Gois Almeida\", \"requerido\":\"False\"},{\"nif\":\"149416237\", \"nome\":\"Vitor Manuel Almeida\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 77,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4200",
+        "gestorNome": "CL\u00c1UDIA RODRIGUES",
+        "gestorEmail": "4200@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:15:26",
+        "dataAtualizacao": "2024-01-14T18:15:26",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94906/28022023130418_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94906/28022023130418_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94906/28022023130413_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94906/28022023130413_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94906/28022023130414_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94906/28022023130414_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94906/28022023130416_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94906/28022023130416_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94906/28022023130417_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94906/28022023130417_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94906/28022023130420_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94906/28022023130420_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94906/28022023130421_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94906/28022023130421_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94906/28022023130422_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94906/28022023130422_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94906/28022023130424_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94906/28022023130424_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94906/28022023130425_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94906/28022023130425_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94906/28022023130427_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94906/28022023130427_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94906/28022023130428_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94906/28022023130428_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94906/28022023130429_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94906/28022023130429_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94906/28022023130431_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94906/28022023130431_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94906/28022023130432_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94906/28022023130432_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 26951,
+                "numero": "676",
+                "fracao": "A",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "16 - Odivelas",
+                "freguesiaDesc": "05 - Pontinha",
+                "artigos": [
+                    {
+                        "numero": "3819",
+                        "tipo": "urbana",
+                        "fracao": "A",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "16 - Odivelas",
+                        "freguesiaDesc": "14 - Trindade"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

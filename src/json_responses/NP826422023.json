@@ -1,0 +1,197 @@
+{
+    "item": {
+        "id": 129768,
+        "origem": 202095,
+        "lanceAtual": 228260.0,
+        "lanceAtualId": 7737,
+        "dataInicio": "2023-12-12T16:11:46",
+        "dataFimInicial": "2024-01-23T14:30:00",
+        "dataFim": "2024-01-23T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP826422023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_98946/30062023172226_800sm.jpg",
+        "titulo": "Fra\u00e7\u00e3o Aut\u00f3noma AI sito em Belas",
+        "valorBase": 450000.0,
+        "valorAbertura": 225000.0,
+        "valorMinimo": 382500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma, designada pelas letras AI, correspondente ao sexto andar direito, para habita\u00e7\u00e3o com arrecada\u00e7\u00e3o na esteira, do pr\u00e9dio em regime de propriedade horizontal, sito na Rua Padeira de Aljubarrota, n.\u00ba 24 e Rua D. Joana, n.\u00ba 2, 2-A, 2-B, 2-C e 2-D, em Belas, descrito na Conservat\u00f3ria do Registo Predial de Queluz sob o n.\u00ba 2936, da freguesia de Belas e inscrito na matriz predial urbana sob o artigo 5321, da Uni\u00e3o de freguesias de Queluz e Belas, do concelho de Sintra e distrito de Lisboa.",
+        "observacoes": "O Pr\u00e9dio Urbano corresponde \u00e0 verba 2 do Auto Penhora, sendo vendido no estado f\u00edsico e jur\u00eddico em que se encontra. Em caso de adjudica\u00e7\u00e3o do bem, dever\u00e1 efetuar, no prazo de 15 dias ap\u00f3s a notifica\u00e7\u00e3o de dep\u00f3sito do pre\u00e7o, o pagamento do valor oferecido. \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. A falta de verifica\u00e7\u00e3o do estado do bem por parte do proponente n\u00e3o determina, nos termos legais a anula\u00e7\u00e3o da venda. Para visitas ao im\u00f3vel dever\u00e3o ser contactados os fieis deposit\u00e1rios, atrav\u00e9s dos contactos indicados no campo \"Visitas\", devendo as mesmas serem efetuadas por marca\u00e7\u00e3o. Deixa-se consignado que na modalidade de venda em negocia\u00e7\u00e3o particular, nos termos do artigo 811\u00ba, n\u00ba1, al\u00ednea d) e ss do CPC, para al\u00e9m da apresenta\u00e7\u00e3o de propostas na presente plataforma, poder\u00e3o tamb\u00e9m ser enviadas propostas, via postal, para o escrit\u00f3rio da Agente de Execu\u00e7\u00e3o sito na Avenida Dom Nuno \u00c1lvares Pereira, Lote 7C, 1\u00ba Esquerdo, 2800-178 Almada, ou via e-mail, para o endere\u00e7o eletr\u00f3nico 4009@solicitador.net. Refere-se que n\u00e3o \u00e9 de carater obrigat\u00f3ria a apresenta\u00e7\u00e3o de propostas na plataforma, uma vez que esta tem efeito meramente publicit\u00e1rio.",
+        "areaUtilPrivativa": 159.1,
+        "areaUtilDependente": 10.0,
+        "areaTotal": 169.1,
+        "morada": "Rua Padeira de Aljubarrota",
+        "moradaNumero": "24",
+        "moradaAndar": "6\u00ba Dt\u00ba",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Queluz e Belas",
+        "moradaCP": "2605-249",
+        "coordenadasLAT": "38.76121401",
+        "coordenadasLON": "-9.27671465",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 67364,
+        "processoNumero": "4589/14.9T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 98946,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"504128825\", \"nome\":\"Ma\u00e7\u00e3olar ? Urbaniza\u00e7\u00f5es e Constru\u00e7\u00e3o, Lda.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 442,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4009",
+        "gestorNome": "ALEXANDRA GOMES",
+        "gestorEmail": "4009@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:15:35",
+        "dataAtualizacao": "2024-01-14T18:15:35",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172226_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172226_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172127_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172127_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172130_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172130_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172131_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172131_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172134_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172134_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172137_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172137_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172141_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172141_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172145_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172145_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172150_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172150_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172153_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172153_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172157_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172157_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172200_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172200_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172203_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172203_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172206_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172206_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172210_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172210_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172213_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172213_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98946/30062023172216_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98946/30062023172216_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "2013-04-01",
+                "valor": 600.0,
+                "dataPrazo": "2023-06-30",
+                "descricao": "Os campos referentes ao arrendamento s\u00e3o de preenchimento obrigat\u00f3rio da plataforma, pelo que, a data indicada referente ao t\u00e9rminus do contrato de arrendamento  foi selecionada aleatoriamente, porquanto, conforme contrato que se junta em anexo, n\u00e3o se vislumbra data de fim.",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 29557,
+                "numero": "2936",
+                "fracao": "AI",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "04 - Belas",
+                "artigos": [
+                    {
+                        "numero": "5321",
+                        "tipo": "urbana",
+                        "fracao": "AI",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "12 - Santa Comba de Vilari\u00e7a"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

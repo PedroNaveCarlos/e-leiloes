@@ -1,0 +1,145 @@
+{
+    "item": {
+        "id": 129396,
+        "origem": 200764,
+        "lanceAtual": 6828.57,
+        "lanceAtualId": 46660,
+        "dataInicio": "2023-12-07T00:00:03",
+        "dataFimInicial": "2024-01-17T11:00:00",
+        "dataFim": "2024-01-17T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1180052023",
+        "tipoId": 1,
+        "subtipoId": 3,
+        "tipologiaId": 2,
+        "capa": "files/Verbas_Fotos/verba_102785/24112023103407_800sm.jpg",
+        "titulo": "Garagem na Tapada das Merc\u00eas, Algueir\u00e3o-Mem Martins",
+        "valorBase": 5095.3,
+        "valorAbertura": 2547.65,
+        "valorMinimo": 4331.01,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Garagem / Arrumos",
+        "tipologia": "T0",
+        "descricao": "Frac\u00e7\u00e3o Aut\u00f3noma com a letra B correspondente \u00e0 Garagem 2 da 3\u00aa Cave, composta de uma divis\u00e3o do Pr\u00e9dio em Regime de Propriedade Horizontal composto de 3\u00aa cave para garagens, 2\u00aa cave, 1\u00aa cave, R/C e 1\u00ba a 4\u00ba andares para habita\u00e7\u00e3o, sito na Rua Florbela Espanca, n\u00ba 20 Lugar: Tapada das Merc\u00eas, Freguesia de Algueir\u00e3o- Mem Martins, Concelho do Sintra, Distrito de Lisboa, inscrito na matriz sob o Art\u00ba. 9511, descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Sintra sob n\u00ba 3672 da Freguesia de Algueir\u00e3o- Mem Martins, Concelho de Sintra.",
+        "observacoes": "",
+        "areaUtilPrivativa": 20.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 20.0,
+        "morada": "Rua Florbela Espanca, Tapada das Merc\u00eas",
+        "moradaNumero": "20",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Algueir\u00e3o-Mem Martins",
+        "moradaCP": "2725-542",
+        "coordenadasLAT": "38.79784468",
+        "coordenadasLON": "-9.33180065",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69933,
+        "processoNumero": "14241/06.3YYLSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 7",
+        "verbaId": 102785,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"157073920\", \"nome\":\"Fortunato Jos\u00e9 Santos Rebelo Antunes\", \"requerido\":\"False\"},{\"nif\":\"122690745\", \"nome\":\"GERMANA MARIA MATEUS ANTUNES REBELO\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 882,
+        "cerimoniaData": "2024-01-17T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 317,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1252",
+        "gestorNome": "Jos\u00e9 M\u00e1rio Marques Santiago",
+        "gestorEmail": "1252@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:14:34",
+        "dataAtualizacao": "2024-01-14T18:14:34",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102785/24112023103407_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102785/24112023103407_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102785/24112023103350_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102785/24112023103350_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102785/24112023103353_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102785/24112023103353_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102785/24112023103356_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102785/24112023103356_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102785/24112023103359_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102785/24112023103359_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102785/24112023103401_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102785/24112023103401_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102785/24112023103404_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102785/24112023103404_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102785/24112023103410_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102785/24112023103410_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31895,
+                "numero": "3672",
+                "fracao": "B",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "02 - Algueir\u00e3o-mem Martins",
+                "artigos": [
+                    {
+                        "numero": "9511",
+                        "tipo": "urbana",
+                        "fracao": "B",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "05 - Oliveira do Mondego"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

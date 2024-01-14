@@ -1,0 +1,265 @@
+{
+    "item": {
+        "id": 131260,
+        "origem": 203283,
+        "lanceAtual": 264200.0,
+        "lanceAtualId": 14,
+        "dataInicio": "2024-01-04T00:00:10",
+        "dataFimInicial": "2024-02-07T11:00:00",
+        "dataFim": "2024-02-07T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1190242023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_103619/27122023123748_800sm.jpg",
+        "titulo": "APARTAMENTO - Santo Ant\u00f3nio dos Cavaleiros T2",
+        "valorBase": 310941.18,
+        "valorAbertura": 155470.59,
+        "valorMinimo": 264300.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"H\", correspondente ao terceiro andar esquerdo do pr\u00e9dio urbano, em regime de propriedade horizontal, sito na Quinta do Conventinho, na Rua Correia Serra, n\u00ba 5, 3\u00ba esquerdo, 2660-704, Santo Ant\u00f3nio dos Cavaleiros, inscrito na respetiva matriz predial sob o artigo 2171, descrito na Primeira Conservat\u00f3ria do Registo Predial de Loures sob o n\u00famero 1283, da freguesia de Santo Ant\u00f3nio dos Cavaleiros;",
+        "observacoes": "Dever\u00e1 ser efetuado o LOGIN para acesso a todas as informa\u00e7\u00f5es e documentos disponibilizados.\r\nAntes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e todos os outros aspetos que\r\nconsiderem relevantes. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.\r\n Com a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspecionado o im\u00f3vel e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o. Nos termos do n\u00ba 6 do artigo 833\u00ba do C\u00f3digo de Processo Civil, a presente venda est\u00e1 dispensada da apresenta\u00e7\u00e3o do alvar\u00e1 de licen\u00e7a de utiliza\u00e7\u00e3o, certificado energ\u00e9tico e ficha t\u00e9cnica de habita\u00e7\u00e3o, pelo que, nos termos das mesmas disposi\u00e7\u00f5es legais, constitui \u00f3nus do adquirente a respetiva legaliza\u00e7\u00e3o do im\u00f3vel, se for caso disso. \r\nDever\u00e1 entregar o sinal correspondente a 20 % da venda e 15 dias ap\u00f3s t\u00e9rmino do leil\u00e3o. O remanescente do valor ser\u00e1 entregue no ato da escritura por cheque banc\u00e1rio. \r\nO apartamento encontra-se devoluto.",
+        "areaUtilPrivativa": 90.4,
+        "areaUtilDependente": 41.1,
+        "areaTotal": 131.5,
+        "morada": "Rua Correia Serra, Quinta do Conventinho",
+        "moradaNumero": "5",
+        "moradaAndar": "3 esquerdo",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Loures",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Santo Ant\u00f3nio dos Cavaleiros e Frielas",
+        "moradaCP": "2660-704",
+        "coordenadasLAT": "38.82017337",
+        "coordenadasLON": "-9.16608309",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70493,
+        "processoNumero": "13755/23.5T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Inst. Central - Sec.Com\u00e9rcio - J4",
+        "verbaId": 103619,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"230835694\", \"nome\":\"Sandra Maria Alves Ramos\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 889,
+        "cerimoniaData": "2024-02-07T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 1093,
+        "gestorTipo": "Administrador Judicial",
+        "gestorTipoId": 2,
+        "gestorCedula": "38",
+        "gestorNome": "Carlos Vieira",
+        "gestorEmail": "carlos.a.vieira@aj.caaj.pt",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:19:07",
+        "dataAtualizacao": "2024-01-14T18:19:07",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123748_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123748_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123751_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123751_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123755_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123755_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123758_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123758_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123801_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123801_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123803_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123803_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123806_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123806_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123809_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123809_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123812_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123812_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123817_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123817_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123820_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123820_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123823_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123823_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123826_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123826_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123829_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123829_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123832_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123832_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123835_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123835_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123839_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123839_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123843_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123843_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123845_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123845_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123849_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123849_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123855_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123855_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123859_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123859_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123902_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123902_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123904_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123904_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123910_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123910_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123913_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123913_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123916_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123916_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123919_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123919_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123922_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123922_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123925_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123925_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123927_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123927_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103619/27122023123930_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103619/27122023123930_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32363,
+                "numero": "1283",
+                "fracao": "H",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "07 - Loures",
+                "freguesiaDesc": "24 - Santo Antonio dos Cavaleiros",
+                "artigos": [
+                    {
+                        "numero": "2171",
+                        "tipo": "urbana",
+                        "fracao": "H",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "07 - Loures",
+                        "freguesiaDesc": "02 - Alqueid\u00e3o"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

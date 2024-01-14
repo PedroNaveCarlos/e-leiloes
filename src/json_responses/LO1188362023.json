@@ -1,0 +1,155 @@
+{
+    "item": {
+        "id": 131528,
+        "origem": 202664,
+        "lanceAtual": 96840.58,
+        "lanceAtualId": 1575,
+        "dataInicio": "2024-01-09T00:00:08",
+        "dataFimInicial": "2024-02-14T10:00:00",
+        "dataFim": "2024-02-14T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1188362023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_103460/18122023155527_800sm.jpg",
+        "titulo": "Apartamento T2 em Benfica",
+        "valorBase": 182456.41,
+        "valorAbertura": 91228.21,
+        "valorMinimo": 155087.95,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma, designada pela letra \"F\", do pr\u00e9dio urbano descrito sob o n.\u00ba 1321 junto da Conservat\u00f3ria do Registo Predial de Lisboa, freguesia de Benfica, inscrito na respetiva matriz predial urbana sob o art.\u00ba 471, da freguesia de S. Domingos de Benfica, sito em Benfica, Rua In\u00e1cio de Sousa, n\u00ba 12, composto por segundo andar esquerdo.\r\n\r\nO pr\u00e9dio n\u00e3o disp\u00f5e de elevador.",
+        "observacoes": "- ESTADO DE CONSERVA\u00c7\u00c3O: O estado de conserva\u00e7\u00e3o do im\u00f3vel \u00e9 razo\u00e1vel. \r\n- VERIFICA\u00c7\u00c3O DO BEM: As \u00e1reas indicadas servem apenas como refer\u00eancia pois n\u00e3o foram feitas medi\u00e7\u00f5es exatas no local. \u00c9 da \u00fanica e exclusiva responsabilidade dos proponentes a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 assegurar-se que o mesmo corresponde \u00e0s suas expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda. \r\n- ENCARGOS COM A COMPRA E VENDA: Venda sujeita a IMT e Imposto de selo (se aplic\u00e1veis nos termos dos respetivos c\u00f3digos).\r\n- VISITAS: O fiel deposit\u00e1rio \u00e9 o Agente de Execu\u00e7\u00e3o. As visitas ser\u00e3o feitas mediante marca\u00e7\u00e3o, conforme disponibilidade daquele para o efeito e sempre com a anteced\u00eancia de pelo menos 5 dias \u00fateis antes da data designada como fim do leil\u00e3o.\r\n- OUTRAS INFORMA\u00c7\u00d5ES: O im\u00f3vel encontra-se desabitado.",
+        "areaUtilPrivativa": 58.0,
+        "areaUtilDependente": 9.0,
+        "areaTotal": 67.0,
+        "morada": "Rua In\u00e1cio de Sousa",
+        "moradaNumero": "12",
+        "moradaAndar": "2\u00ba Esq.",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lisboa",
+        "moradaFreguesia": "S\u00e3o Domingos de Benfica",
+        "moradaCP": "1500-347",
+        "coordenadasLAT": "38.74461571",
+        "coordenadasLON": "-9.18140225",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70367,
+        "processoNumero": "785/18.8T8LSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 103460,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"176650059\", \"nome\":\"Maria Fernanda do Carmo Cruz\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 891,
+        "cerimoniaData": "2024-02-14T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 64,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "6719",
+        "gestorNome": "HUGO TORRADO",
+        "gestorEmail": "6719@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:20:22",
+        "dataAtualizacao": "2024-01-14T18:20:22",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103460/18122023155527_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103460/18122023155527_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103460/18122023155533_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103460/18122023155533_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103460/18122023155535_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103460/18122023155535_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103460/18122023155537_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103460/18122023155537_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103460/18122023155538_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103460/18122023155538_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103460/18122023155540_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103460/18122023155540_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103460/18122023155542_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103460/18122023155542_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103460/18122023155544_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103460/18122023155544_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103460/18122023155546_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103460/18122023155546_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103460/18122023155548_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103460/18122023155548_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32270,
+                "numero": "1321",
+                "fracao": "F",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "06 - Lisboa",
+                "freguesiaDesc": "08 - Benfica",
+                "artigos": [
+                    {
+                        "numero": "471",
+                        "tipo": "urbana",
+                        "fracao": "F",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "07 - Edrosa"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

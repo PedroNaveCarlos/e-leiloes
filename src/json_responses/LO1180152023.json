@@ -1,0 +1,181 @@
+{
+    "item": {
+        "id": 129233,
+        "origem": 200784,
+        "lanceAtual": 138932.75,
+        "lanceAtualId": 141977,
+        "dataInicio": "2023-12-06T00:00:00",
+        "dataFimInicial": "2024-01-17T10:30:00",
+        "dataFim": "2024-01-17T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1180152023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_102199/07112023104001_800sm.jpg",
+        "titulo": "Apartamento T2 - Quinta da Piedade",
+        "valorBase": 98945.75,
+        "valorAbertura": 49472.88,
+        "valorMinimo": 84103.89,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma H destinada a habita\u00e7\u00e3o, tipo T2, com parqueamento n\u00ba 5 na cave - localizado na Quinta da Piedade, Praceta Bernardo da Costa Macedo, n.\u00ba 2, 2\u00aa fase, Lote 80, 3\u00ba B - Povoa de Santa Iria - Vila Franca de Xira. Descrito na Conservat\u00f3ria do Registo Predial de Vila Franca de Xira sob o n.\u00ba 506/19931209 e inscrito na matriz urbana art.\u00ba 20 (o qual prov\u00eam do art.\u00ba 2335).",
+        "observacoes": "O im\u00f3vel encontra-se a 10 minutos a p\u00e9 dos principais servi\u00e7os, nomeadamente supermercados, farm\u00e1cias, escolas e centro de sa\u00fade.\r\nA 200 metros existe Esquadra da PSP e a 1 km o centro comercial Olival Parque.\r\nTem bons acessos \u00e0 autoestrada A1 e a nacional 10.\r\nN\u00e3o foi poss\u00edvel constatar o estado de conserva\u00e7\u00e3o do im\u00f3vel dado a n\u00e3o ter sido facultado o acesso ao interior do mesmo, as fotografias constantes da publicita\u00e7\u00e3o foram recebidas via telem\u00f3vel.\r\n\r\nO processo executivo antes da redistribui\u00e7\u00e3o das comarcas detinha o n\u00famero judicial 268/03.0TAVRS-A, Tribunal Judicial de Vila Real de St. Ant\u00f3nio - Sec\u00e7\u00e3o \u00danica, conforme consta no registo de penhora (AP. 488 de 2009/07/17 09:57:35 UTC) realizado, sendo que, actualmente \u00e9 o n\u00famero 2742/18.5T8LLE, Tribunal Judicial da Comarca de Faro - Loul\u00e9 - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2.\r\n\r\nO registo de penhora tem como sujeito activo Am\u00e9rico Santiago, S.L. Pescados & Mariscos sendo que o processo encontra-se extinto quanto a este, sendo que a Credora Reclamante, Caixa Geral de Dep\u00f3sitos, SA. pediu o prosseguimento da execu\u00e7\u00e3o.",
+        "areaUtilPrivativa": 113.0,
+        "areaUtilDependente": 20.0,
+        "areaTotal": 133.0,
+        "morada": "Praceta Bernardo da Costa Macedo, Quinta da Piedade",
+        "moradaNumero": "2",
+        "moradaAndar": "3",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Vila Franca de Xira",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de P\u00f3voa de Santa Iria e Forte da Casa",
+        "moradaCP": "2625-008",
+        "coordenadasLAT": "38.86614329",
+        "coordenadasLON": "-9.06754424",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69164,
+        "processoNumero": "2742/18.5T8LLE",
+        "processoComarca": "Comarca de Faro",
+        "processoComarcaCodigo": "1041",
+        "processoTribunal": "Loul\u00e9 - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 102199,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"204140943\", \"nome\":\"Jose Ant\u00f3nio Conde Bemposta\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 882,
+        "cerimoniaData": "2024-01-17T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 637,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2534",
+        "gestorNome": "Isabel Santos",
+        "gestorEmail": "2534@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:14:10",
+        "dataAtualizacao": "2024-01-14T18:14:10",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102199/07112023104001_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102199/07112023104001_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102199/07112023103955_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102199/07112023103955_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102199/07112023103957_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102199/07112023103957_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102199/07112023103959_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102199/07112023103959_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102199/07112023104003_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102199/07112023104003_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102199/07112023104004_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102199/07112023104004_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102199/07112023104009_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102199/07112023104009_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102199/07112023104012_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102199/07112023104012_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102199/07112023104014_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102199/07112023104014_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102199/07112023104016_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102199/07112023104016_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102199/07112023104018_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102199/07112023104018_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102199/07112023104020_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102199/07112023104020_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102199/07112023104022_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102199/07112023104022_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102199/07112023104024_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102199/07112023104024_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102199/07112023104027_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102199/07112023104027_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31585,
+                "numero": "506/19931209",
+                "fracao": "H",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "14 - Vila Franca de Xira",
+                "freguesiaDesc": "06 - Povoa de Santa Iria",
+                "artigos": [
+                    {
+                        "numero": "20",
+                        "tipo": "urbana",
+                        "fracao": "H",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "14 - Vila Franca de Xira",
+                        "freguesiaDesc": "08 - Pereira"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

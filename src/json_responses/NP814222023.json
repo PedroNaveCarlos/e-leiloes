@@ -1,0 +1,294 @@
+{
+    "item": {
+        "id": 127262,
+        "origem": 199831,
+        "lanceAtual": 1400000.0,
+        "lanceAtualId": 21773,
+        "dataInicio": "2023-11-14T14:33:55",
+        "dataFimInicial": "2024-01-23T14:30:00",
+        "dataFim": "2024-01-23T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP814222023",
+        "tipoId": 1,
+        "subtipoId": 7,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_97807/24052023131017_800sm.jpg",
+        "titulo": "Pr\u00e9dio em Lisboa",
+        "valorBase": 2800000.0,
+        "valorAbertura": 1400000.0,
+        "valorMinimo": 2380000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Pr\u00e9dio",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio em propriedade total, composto de r\u00e9s-do-ch\u00e3o, constitu\u00eddo por 2 lojas, 1\u00ba, 2\u00ba, 3\u00ba andares e s\u00f3t\u00e3o e um p\u00e1teo, sito no Largo do Chafariz de Dentro n.\u00ba8, 9 e 9A em Lisboa, descrito na Conservat\u00f3ria do Registo Predial de Lisboa sob a ficha 51 da freguesia de S\u00e3o Miguel e inscrito na matriz predial urbana sob o artigo 1363\u00ba da freguesia de Santa Maria Maior.",
+        "observacoes": "Foi constitu\u00eddo fiel deposit\u00e1rio do im\u00f3vel o executado, o Sr. Dr. Marco Santos.\r\nOs interessados em visitar o pr\u00e9dio dever\u00e3o, previamente contactar o mesmo, atrav\u00e9s do contacto dispon\u00edvel para o efeito, no campo \"Visitas por Marca\u00e7\u00e3o\". Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas, licen\u00e7as e outros aspetos que considerem relevantes, do(s) bem(ns). A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda. Os interessados antes de efetuarem quaisquer propostas, devem consultar as regras de funcionamento e as Faq constantes no site www.e-leiloes.pt.",
+        "areaUtilPrivativa": 680.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 218.0,
+        "morada": "Largo Chafariz de Dentro",
+        "moradaNumero": "8, 9, 9A",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lisboa",
+        "moradaFreguesia": "Santa Maria Maior",
+        "moradaCP": "1100-139",
+        "coordenadasLAT": "38.71114555",
+        "coordenadasLON": "-9.12778236",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 66615,
+        "processoNumero": "10067/17.7T8LSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 6",
+        "verbaId": 97807,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"179284819\", \"nome\":\"Filomena Paula Silva Soromenho Silva Santos\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 77,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4200",
+        "gestorNome": "CL\u00c1UDIA RODRIGUES",
+        "gestorEmail": "4200@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:15:23",
+        "dataAtualizacao": "2024-01-14T18:15:23",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131017_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131017_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131019_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131019_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131021_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131021_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131023_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131023_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131025_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131025_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131027_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131027_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131029_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131029_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131031_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131031_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131034_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131034_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131036_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131036_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131038_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131038_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131040_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131040_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131042_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131042_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131044_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131044_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131046_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131046_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131048_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131048_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131050_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131050_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131052_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131052_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131054_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131054_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131056_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131056_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131058_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131058_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131102_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131102_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131104_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131104_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131106_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131106_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131108_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131108_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131111_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131111_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131113_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131113_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131115_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131115_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131117_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131117_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131119_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131119_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131121_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131121_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131122_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131122_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131125_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131125_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131127_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131127_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131129_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131129_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131131_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131131_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131133_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131133_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97807/24052023131135_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97807/24052023131135_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 28876,
+                "numero": "51",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "06 - Lisboa",
+                "freguesiaDesc": "47 - S. Miguel",
+                "artigos": [
+                    {
+                        "numero": "1363",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "08 - Felgueiras"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

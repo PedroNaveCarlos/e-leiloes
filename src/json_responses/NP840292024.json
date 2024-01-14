@@ -1,0 +1,144 @@
+{
+    "item": {
+        "id": 131912,
+        "origem": 204332,
+        "lanceAtual": 166514.83,
+        "lanceAtualId": 7737,
+        "dataInicio": "2024-01-11T15:05:28",
+        "dataFimInicial": "2024-02-06T14:30:00",
+        "dataFim": "2024-02-06T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP840292024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_89455/22092022152923_800sm.jpg",
+        "titulo": "im\u00f3vel",
+        "valorBase": 323235.29,
+        "valorAbertura": 161617.65,
+        "valorMinimo": 274750.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pelas letras \"BM\", destinada a habita\u00e7\u00e3o de tipologia T3, com a \u00e1rea privativa de 156,59 m2 e \u00e1rea dependente de 16,22 m2, sita no 2.\u00ba andar direito do pr\u00e9dio sito na Praceta Carolina Beatriz \u00c2ngelo, n.\u00ba 5, Lugar de Alto Tercena, freguesia de Massam\u00e1, concelho de Sintra. Inscrito na matriz predial urbana sob o Art.\u00ba 1763 da Uni\u00e3o das freguesias de Massam\u00e1 e Monte Abra\u00e3o e descrita na Conservat\u00f3ria de Registo Predial de Queluz sob o n.\u00ba 260",
+        "observacoes": "A venda est\u00e1 sujeita a IMT e a IS. N\u00e3o h\u00e1 oposi\u00e7\u00e3o \u00e0 penhora.\r\nA venda est\u00e1 dispensada da apresenta\u00e7\u00e3o do alvar\u00e1 de licen\u00e7a de utiliza\u00e7\u00e3o do pr\u00e9dio, do certificado energ\u00e9tico e da ficha t\u00e9cnica, constituindo \u00f3nus do adquirente a respetiva legaliza\u00e7\u00e3o quando exig\u00edvel (art.838.\u00ba, n.\u00ba6 do CPC). \r\n..\r\nO(s) bem(ns) apresenta(m)-se em RAZO\u00c1VEL estado de conserva\u00e7\u00e3o.\r\n*\r\nO bem \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisi\u00e7\u00e3o que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.\r\n\u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se encontra nas condi\u00e7\u00f5es pretendidas.\r\nPelo que, para os termos e feitos do disposto no art.838.\u00ba do C\u00f3digo de Processo Civil, presume-se que o proponente inspecionou o bem, conhece as suas caracter\u00edsticas, o seu estado de manuten\u00e7\u00e3o e conserva\u00e7\u00e3o, declinando-se toda e qualquer responsabilidade pela falta de verifica\u00e7\u00e3o daqueles pressupostos, sendo que esta falta de verifica\u00e7\u00e3o, n\u00e3o constitui motivo para anula\u00e7\u00e3o da venda. \r\nNos termos do art.\u00ba 842.\u00ba e seguintes, do C.P.C. \u2013 C\u00f3digo do Processo Civil, aprovado pela Lei n.\u00ba 41/2013, de 26 de Junho, na sua vers\u00e3o dada pela Lei n.\u00ba 114/2017, de 29 de Dezembro, aos descendentes ou ascendentes dos executados \u00e9 reconhecido o direito de remir o presente bem pelo pre\u00e7o por o qual tiver sido feita adjudica\u00e7\u00e3o ou a venda.\r\nPara os termos e efeitos do disposto no art.818.\u00ba do CPC, anuncia-se que o deposit\u00e1rio \u00e9 obrigado a mostrar o im\u00f3vel a quem pretenda examin\u00e1-lo. Foi notificado dos deveres de fiel deposit\u00e1rio do bem, nos termos do artigo 818.\u00ba do CPC sob pena das comina\u00e7\u00f5es previstas no disposto do artigo 761.\u00ba do CPC, ficando tamb\u00e9m definido o regime de visitas conforme consta no respetivo campo. \r\nA eventual compra e venda ficar\u00e1 sempre sujeita \u00e0 pr\u00e9via notifica\u00e7\u00e3o dos eventuais Preferentes para, querendo, virem exercer o seu direito.\r\nAlerta-se os interessados em apresentar propostas que n\u00e3o \u00e9 poss\u00edvel anular, revogar, ou alterar uma licita\u00e7\u00e3o depois de concretizada.",
+        "areaUtilPrivativa": 156.59,
+        "areaUtilDependente": 16.22,
+        "areaTotal": 182.81,
+        "morada": "Praceta Carolina Beatriz \u00c2ngelo, Alto de Tercena",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Massam\u00e1 e Monte Abra\u00e3o",
+        "moradaCP": "2745-382",
+        "coordenadasLAT": "38.74970252",
+        "coordenadasLON": "-9.28600015",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 61279,
+        "processoNumero": "823/16.9T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Com\u00e9rcio - Juiz 3",
+        "verbaId": 89455,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"207566550\", \"nome\":\"Lu\u00eds Miguel da Ressurrei\u00e7\u00e3o Figueiredo\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 323,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3933",
+        "gestorNome": "LISANNE V. PEIXOTO",
+        "gestorEmail": "3933@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:18:44",
+        "dataAtualizacao": "2024-01-14T18:18:44",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_89455/22092022152923_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_89455/22092022152923_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_89455/22092022152927_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_89455/22092022152927_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_89455/22092022152931_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_89455/22092022152931_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_89455/22092022152936_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_89455/22092022152936_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_89455/22092022152939_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_89455/22092022152939_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_89455/22092022153003_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_89455/22092022153003_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_89455/22092022153015_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_89455/22092022153015_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_89455/22092022153020_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_89455/22092022153020_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 23320,
+                "numero": "260",
+                "fracao": "BM",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "16 - Massam\u00e1",
+                "artigos": [
+                    {
+                        "numero": "1763",
+                        "tipo": "urbana",
+                        "fracao": "BM",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "10 - Castelo Viegas"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}
