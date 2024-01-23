@@ -1,0 +1,301 @@
+{
+    "item": {
+        "id": 130684,
+        "origem": 201958,
+        "lanceAtual": 208100.4,
+        "lanceAtualId": 31042,
+        "dataInicio": "2023-12-27T00:00:04",
+        "dataFimInicial": "2024-01-31T10:00:00",
+        "dataFim": "2024-01-31T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1185562023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_102905/29112023131350_800sm.jpg",
+        "titulo": "Apartamento T3 sito em Vialonga",
+        "valorBase": 240000.0,
+        "valorAbertura": 120000.0,
+        "valorMinimo": 204000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra D, correspondente ao Primeiro Andar Esquerdo-habita\u00e7\u00e3o-uma box para estacionamento com o n.\u00ba5, do pr\u00e9dio urbano sito na Rua Oct\u00e1vio Pato, n.\u00ba9, freguesia de Vialonga e concelho de Vila Franca de Xira, descrito na 2\u00aa C. R. Predial de Vila Franca de Xira sob o n.\u00ba1891/Vialonga, inscrito na respetiva matriz sob o artigo 6572.",
+        "observacoes": "-Im\u00f3vel composto por 3 quartos, 2 wc\u00b4s (1 suite) , cozinha, corredor, sala e varanda. \r\n-Encontra-se em bom estado de conserva\u00e7\u00e3o, no entanto, o wc da suite tem cabine de hidromassagem que foi retirada do sitio.\r\n- Dever\u00e3o ainda os interessados antes de efetuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt e/ou aconselhar-se junto de um Solicitador ou Advogado.\r\n- \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. Dever\u00e1 igualmente ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidade da venda e ao facto de o bem n\u00e3o ser entregue no momento da adjudica\u00e7\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.\r\n- Regime de visitas \u2013 Favor entrar em contacto com o Agente de Execu\u00e7\u00e3o.",
+        "areaUtilPrivativa": 125.06,
+        "areaUtilDependente": 25.27,
+        "areaTotal": 150.33,
+        "morada": "Rua Oct\u00e1vio Pato, Quinta da Flamenga",
+        "moradaNumero": "9",
+        "moradaAndar": "1\u00baesq",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Vila Franca de Xira",
+        "moradaFreguesia": "Vialonga",
+        "moradaCP": "2625-729",
+        "coordenadasLAT": "38.87258346",
+        "coordenadasLON": "-9.08324083",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69816,
+        "processoNumero": "6948/14.8T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 102905,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"188152520\", \"nome\":\"DOMINGOS MENDES TAVARES\", \"requerido\":\"False\"},{\"nif\":\"232491178\", \"nome\":\"MARIA AM\u00c1LIA RODRIGUES MIRANDA\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 887,
+        "cerimoniaData": "2024-01-31T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 44,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5094",
+        "gestorNome": "JOEL SILVA ANTUNES",
+        "gestorEmail": "5094@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:08:39",
+        "dataAtualizacao": "2024-01-23T09:08:39",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131350_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131350_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131353_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131353_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131358_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131358_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131402_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131402_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131405_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131405_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131408_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131408_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131411_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131411_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131414_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131414_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131416_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131416_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131422_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131422_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131424_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131424_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131425_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131425_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131427_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131427_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131429_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131429_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131431_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131431_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131433_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131433_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131435_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131435_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131437_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131437_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131439_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131439_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131441_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131441_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131443_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131443_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131445_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131445_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131447_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131447_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131449_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131449_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131451_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131451_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131453_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131453_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131455_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131455_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131457_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131457_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131458_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131458_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131500_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131500_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131502_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131502_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131504_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131504_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131507_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131507_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131511_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131511_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131514_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131514_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131517_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131517_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131519_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131519_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131521_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131521_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131523_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131523_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131525_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131525_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102905/29112023131531_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102905/29112023131531_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31964,
+                "numero": "1891",
+                "fracao": "D",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "14 - Vila Franca de Xira",
+                "freguesiaDesc": "08 - Vialonga",
+                "artigos": []
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

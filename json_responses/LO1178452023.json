@@ -1,0 +1,190 @@
+{
+    "item": {
+        "id": 129640,
+        "origem": 200408,
+        "lanceAtual": 0.0,
+        "dataInicio": "2023-12-12T00:00:08",
+        "dataFimInicial": "2024-01-24T10:00:00",
+        "dataFim": "2024-01-24T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1178452023",
+        "tipoId": 1,
+        "subtipoId": 4,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_102641/20112023181319_800sm.jpg",
+        "titulo": "Lotes de Terreno na Quinta dos Machados, Alhos Vedros",
+        "valorBase": 850000.0,
+        "valorAbertura": 425000.0,
+        "valorMinimo": 722500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Armaz\u00e9m / Ind\u00fastria",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio urbano descrito na Conservat\u00f3ria do Registo Predial de Moita sob o n.\u00ba 1282, da freguesia de Alhos Vedros, inscrito na matriz predial urbana sob\r\no artigo 3324 da mesma freguesia;\r\nPr\u00e9dio urbano descrito na Conservat\u00f3ria do Registo Predial de Moita sob o n.\u00ba 1283, da freguesia de Alhos Vedros, inscrito na matriz predial urbana sob\r\no artigo 3346 da mesma freguesia.",
+        "observacoes": "A totalidade dos lotes perfaz a \u00e1rea de 4.150 m2 e encontra-se sita na Rua dos Tanoeiros, lotes 57 e 58.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 4150.0,
+        "morada": "Rua Tanoeiros, Arroteias",
+        "moradaNumero": "57 e 58",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Moita",
+        "moradaFreguesia": "Alhos Vedros",
+        "moradaCP": "2860-193",
+        "coordenadasLAT": "38.64064619",
+        "coordenadasLON": "-8.99955499",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69849,
+        "processoNumero": "6961/22.1T8ALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 102641,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"510305008\", \"nome\":\"Vsd - Sociedade Imobili\u00e1ria, Lda\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 884,
+        "cerimoniaData": "2024-01-24T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 595,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5371",
+        "gestorNome": "RAQUEL DE CAMPOS DOMINGOS",
+        "gestorEmail": "5371@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:29:47",
+        "dataAtualizacao": "2024-01-23T09:29:47",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102641/20112023181319_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102641/20112023181319_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102641/20112023181322_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102641/20112023181322_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102641/20112023181326_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102641/20112023181326_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102641/20112023181329_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102641/20112023181329_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102641/20112023181332_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102641/20112023181332_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102641/20112023181336_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102641/20112023181336_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102641/20112023181339_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102641/20112023181339_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102641/20112023181343_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102641/20112023181343_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102641/20112023181347_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102641/20112023181347_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102641/20112023181351_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102641/20112023181351_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102641/20112023181355_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102641/20112023181355_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102641/20112023181400_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102641/20112023181400_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "2023-10-01",
+                "valor": 1150.0,
+                "dataPrazo": "2033-09-30",
+                "descricao": "",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 31822,
+                "numero": "1282",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "06 - Moita",
+                "freguesiaDesc": "01 - Alhos Vedros",
+                "artigos": [
+                    {
+                        "numero": "3324",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "06 - Moita",
+                        "freguesiaDesc": "01 - Alhos Vedros"
+                    }
+                ]
+            },
+            {
+                "id": 31823,
+                "numero": "1283",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "06 - Moita",
+                "freguesiaDesc": "01 - Alhos Vedros",
+                "artigos": [
+                    {
+                        "numero": "3346",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "06 - Moita",
+                        "freguesiaDesc": "01 - Alhos Vedros"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

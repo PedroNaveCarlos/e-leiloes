@@ -1,0 +1,135 @@
+{
+    "item": {
+        "id": 130861,
+        "origem": 203388,
+        "lanceAtual": 9366.48,
+        "lanceAtualId": 80411,
+        "dataInicio": "2023-12-28T14:08:19",
+        "dataFimInicial": "2024-02-13T14:30:00",
+        "dataFim": "2024-02-13T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP834822023",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_87655/09072022113914_800sm.jpg",
+        "titulo": "LOJA - CORROIOS / CENTRO COMERCIAL MIRATEJO",
+        "valorBase": 17675.71,
+        "valorAbertura": 8837.86,
+        "valorMinimo": 15024.35,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra \u201cE\u201d correspondente \u00e0 loja n.\u00ba 4 na cave, destinada a com\u00e9rcio, que faz parte do pr\u00e9dio urbano constitu\u00eddo sob o regime de propriedade horizontal, localizado na Rua Soeiro Pereira Gomes , n.\u00ba 33 e 33-A, Alameda 25 de Abril n.\u00bas. 6, 6-A a 6-C, Praceta Jos\u00e9 Rodrigues Migueis , n.\u00ba 3 e Rua Pablo Picasso, n.\u00bas. 1 e 1-A \u2013 Centro Comercial Miratejo, freguesia de Corroios, concelho do Seixal, inscrito na matriz predial urbana sob o artigo 5214 da freguesia de Corroios e descrito na C.R.P. de Amora sob o n\u00famero 509 da freguesia de Corroios.",
+        "observacoes": "Foi aferido o estado de conserva\u00e7\u00e3o do im\u00f3vel em 06/07/2022 encontrando-se em razo\u00e1vel estado de conserva\u00e7\u00e3o. \r\nO Im\u00f3vel re\u00fane as condi\u00e7\u00f5es para seu destino.\r\nComposi\u00e7\u00e3o:1 Divis\u00e3o com duas janelas para o exterior (com grades) e com uma janela para o interior do Centro Comercial \r\nAs \u00e1reas indicadas s\u00e3o baseadas na certid\u00e3o matricial, n\u00e3o sendo respons\u00e1vel o Tribunal, caso exista, por quaisquer diverg\u00eancias.\r\nA verba \u00e9 vendida no estado f\u00edsico, jur\u00eddico e documental em que se encontra, sem garantias de quaisquer v\u00edcios que possam surgir ou que eventualmente existam\r\nAntes de efectuarem propostas, os eventuais interessados devem inteirar-se das qualidades, condi\u00e7\u00f5es e caracter\u00edsticas, licen\u00e7as e outros aspectos que considerem relevantes, do(s) bem(ns). \r\n\u00c9 da \u00fanica responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1, se assim entender, antes de apresentar proposta assegurar-se que o mesmo corresponde as suas expectativas e que e encontra nas condi\u00e7\u00f5es pretendidas, uma vez que, com apresenta\u00e7\u00e3o de proposta, presume-se que o proponente tenha inspeccionado o bem supra descrito, e conhece as suas caracter\u00edsticas e consequentemente, declina qual responsabilidade pelo seu estado de conserva\u00e7\u00e3o e nos casos aplic\u00e1veis, do seu eventual funcionamento.\r\n\r\nA n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda.\r\nDever\u00e1, igualmente, ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidades da venda e ao facto do bem n\u00e3o estar na posse do Agente de Execu\u00e7\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.\r\n\r\nDever\u00e3o os interessados antes de efectuarem quaisquer propostas, consultar as regras de funcionamento e as Faq constantes no site www.e-leiloes.pt\r\nEncerrado o Leil\u00e3o e aceite a proposta, oportunamente, o proponente \u00e9 notificado para depositar o pre\u00e7o oferecido, impreterivelmente, num prazo de 15 dias. (artigo 824\u00ba n.\u00ba 2 do C\u00f3digo de Processo Civil).",
+        "areaUtilPrivativa": 20.77,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 0.0,
+        "morada": "Rua Soeiro Pereira Gomes, Alto do Moinho",
+        "moradaNumero": "33",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Seixal",
+        "moradaFreguesia": "Corroios",
+        "moradaCP": "2855-051",
+        "coordenadasLAT": "38.63742326",
+        "coordenadasLON": "-9.15583707",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 60219,
+        "processoNumero": "3734/20.0T8ALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 87655,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"237564068\", \"nome\":\"MAHOMED FARRUK\", \"requerido\":\"False\"},{\"nif\":\"282285571\", \"nome\":\"SEEMA FARRUK\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 226,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2154",
+        "gestorNome": "Pedro Gon\u00e7alves",
+        "gestorEmail": "2154@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:36:15",
+        "dataAtualizacao": "2024-01-23T09:36:15",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87655/09072022113914_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87655/09072022113914_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87655/09072022113907_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87655/09072022113907_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87655/09072022113910_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87655/09072022113910_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87655/09072022113917_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87655/09072022113917_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87655/09072022113923_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87655/09072022113923_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87655/09072022113925_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87655/09072022113925_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87655/09072022113926_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87655/09072022113926_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87655/09072022113928_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87655/09072022113928_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87655/09072022113931_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87655/09072022113931_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87655/09072022113932_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87655/09072022113932_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

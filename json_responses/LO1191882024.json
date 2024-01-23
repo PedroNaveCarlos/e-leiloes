@@ -1,0 +1,229 @@
+{
+    "item": {
+        "id": 131712,
+        "origem": 203655,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-10T00:00:04",
+        "dataFimInicial": "2024-02-14T11:00:00",
+        "dataFim": "2024-02-14T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1191882024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_103449/18122023140927_800sm.jpg",
+        "titulo": "Im\u00f3vel para habita\u00e7\u00e3o T2 - Set\u00fabal",
+        "valorBase": 185600.0,
+        "valorAbertura": 92800.0,
+        "valorMinimo": 157760.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Im\u00f3vel descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Set\u00fabal sob a ficha 194, letra \"S\" da freguesia de S. Juli\u00e3o e inscrito na matriz urbana sob o artigo 4665 da uni\u00e3o das freguesias de set\u00fabal - S. Juli\u00e3o, N.S. da Anunciada e Santa Maria da Gra\u00e7a. Sito Rua Cidade de Debrecen n\u00ba 20, 3\u00ba D, 2900-078, Quinta do Para\u00edso, Set\u00fabal",
+        "observacoes": "A AE foi constitu\u00edda fiel deposit\u00e1ria do im\u00f3vel e dever\u00e1 ser contactada para o agendamento de visitas. O pedido de agendamento de visitas dever\u00e1 ser feito com, pelo menos, 5 dias \u00fateis de anteced\u00eancia. \r\nForam reclamados cr\u00e9ditos pela Fazenda Nacional, representada pelo Minist\u00e9rio P\u00fablico.\r\n\u00c9 da \u00fanica e exclusiva responsabilidade dos proponentes a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 assegurar-se que o mesmo corresponde \u00e0s suas expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda.\r\nIMPORTANTE: Nos termos do disposto no artigo 825\u00ba n\u00ba 1 c) do C\u00f3digo do Processo Civil, a falta de dep\u00f3sito do pre\u00e7o pode levar ao arresto em bens suficientes para garantir o valor em falta, acrescido das custas e despesas e sendo aquele, simultaneamente, executado no pr\u00f3prio processo para pagamento daquele valor e acr\u00e9scimos. Adverte-se, ainda, que a falta de dep\u00f3sito do pre\u00e7o poder\u00e1 levar \u00e0 instaura\u00e7\u00e3o de PROCEDIMENTO CRIMINAL contra o proponente.\r\nPagamento integral do pre\u00e7o: 1) Nos termos do n\u00ba2 do artigo 824\u00ba do C\u00f3digo de Processo Civil, o pre\u00e7o ter\u00e1 de se mostrar liquidado no prazo de 15 dias ap\u00f3s a notifica\u00e7\u00e3o do Agente do Execu\u00e7\u00e3o para o fazer. 2) O prazo \u00e9 corrido (contam s\u00e1bados e domingos) mas interrompe nas f\u00e9rias judiciais. 3) Mais se indica que nada obsta a que o adquirente possa recorrer a cr\u00e9dito banc\u00e1rio parcial ou total para pagamento do pre\u00e7o mas alerta-se que por for\u00e7a do per\u00edodo de reflex\u00e3o (7 dias), imperativo por for\u00e7a do n\u00ba 5 do artigo 13\u00ba do Dec Lei 74-A/2017, torna-se muito dif\u00edcil o pagamento do pre\u00e7o,  no prazo indicado de 15 (quinze ) dias. 4) Por se tratar de Leil\u00e3o Online, n\u00e3o h\u00e1 lugar a escritura. 5) O facto do proponente estar a aguardar resposta do financiamento banc\u00e1rio n\u00e3o suspende o prazo de pagamento.",
+        "areaUtilPrivativa": 92.8,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 92.8,
+        "morada": "Rua Cidade de Debrecen, Quinta do Para\u00edso",
+        "moradaNumero": "20",
+        "moradaAndar": "3D",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Set\u00fabal",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Set\u00fabal (S\u00e3o Juli\u00e3o, Nossa Senhora da Anunciada e Santa Maria da Gra\u00e7a)",
+        "moradaCP": "2900-003",
+        "coordenadasLAT": "38.53995838",
+        "coordenadasLON": "-8.89114784",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70360,
+        "processoNumero": "1396/21.6T8STB",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 103449,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"211283614\", \"nome\":\"Fern\u00e3o Orlando dos Santos Abreu Teixeira\", \"requerido\":\"False\"},{\"nif\":\"237724642\", \"nome\":\"Liliana Patr\u00edcia Faria Teixeira Abreu\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 891,
+        "cerimoniaData": "2024-02-14T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 259,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2865",
+        "gestorNome": "Maria Em\u00edlia Catrau",
+        "gestorEmail": "2865@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:38:28",
+        "dataAtualizacao": "2024-01-23T09:38:28",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023140927_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023140927_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023140931_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023140931_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023140939_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023140939_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023140945_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023140945_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023140949_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023140949_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023140957_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023140957_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141004_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141004_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141010_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141010_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141018_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141018_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141022_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141022_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141027_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141027_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141032_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141032_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141036_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141036_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141041_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141041_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141046_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141046_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141051_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141051_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141057_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141057_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141101_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141101_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141108_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141108_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141113_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141113_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141118_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141118_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141123_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141123_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141127_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141127_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141134_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141134_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103449/18122023141139_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103449/18122023141139_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32263,
+                "numero": "194",
+                "fracao": "S",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "12 - Set\u00fabal",
+                "freguesiaDesc": "03 - Setubal (s. Juli\u00e3o)",
+                "artigos": [
+                    {
+                        "numero": "4665",
+                        "tipo": "urbana",
+                        "fracao": "S",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "12 - Set\u00fabal",
+                        "freguesiaDesc": "10 - Uni\u00e3o das freguesias de Set\u00fabal (S\u00e3o Juli\u00e3o, Nossa Senhora da Anunciada e Santa Maria da Gra\u00e7a)"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

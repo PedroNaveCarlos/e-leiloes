@@ -1,0 +1,264 @@
+{
+    "item": {
+        "id": 132189,
+        "origem": 204786,
+        "lanceAtual": 13176.47,
+        "lanceAtualId": 18013,
+        "dataInicio": "2024-01-16T13:48:44",
+        "dataFimInicial": "2024-02-15T14:30:00",
+        "dataFim": "2024-02-15T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP842352024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_93399/17012023171044_800sm.jpg",
+        "titulo": "MORADIA EM RIBAFRIA",
+        "valorBase": 26352.94,
+        "valorAbertura": 13176.47,
+        "valorMinimo": 22400.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T3",
+        "descricao": "Pr\u00e9dio urbano composto por moradia de r\u00e9s-do-ch\u00e3o e primeiro andar com 32m2 sito em Carneiros, Ribafria, freguesia da Uni\u00e3o de Freguesias de Ribafria e Pereiro de Palhacana, concelho de Alenquer, descrito na Conservat\u00f3ria do Registo Predial de Alenquer sob o nr 170 e inscrito na matriz sob o artigo 960.",
+        "observacoes": "Venda conjunta com a Insolv\u00eancia. O im\u00f3vel encontra-se degradado. Os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas, licen\u00e7as e outros aspetos que considerem relevantes, do(s) bem(s). \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. O im\u00f3vel \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisi\u00e7\u00e3o que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.",
+        "areaUtilPrivativa": 28.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 32.0,
+        "morada": "Uni\u00e3o das freguesias de Ribafria e Pereiro de Palhacana",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Alenquer",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Ribafria e Pereiro de Palhacana",
+        "moradaCP": "2580-551",
+        "coordenadasLAT": "39.076043012540076",
+        "coordenadasLON": "-9.07693862915039",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 63780,
+        "processoNumero": "7209/14.8T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 93399,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"191484598\", \"nome\":\"Jos\u00e9 Fernando Neves Rocha\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 650,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5327",
+        "gestorNome": "IN\u00caS FALC\u00c3O COSTA",
+        "gestorEmail": "5327@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:22:22",
+        "dataAtualizacao": "2024-01-23T09:22:22",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171044_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171044_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171021_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171021_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171059_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171059_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171113_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171113_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171144_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171144_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171205_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171205_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171311_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171311_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171320_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171320_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171329_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171329_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171341_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171341_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171350_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171350_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171359_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171359_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171409_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171409_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171429_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171429_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171438_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171438_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171456_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171456_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171505_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171505_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171514_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171514_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171525_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171525_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171547_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171547_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171555_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171555_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171609_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171609_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171619_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171619_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171629_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171629_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171637_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171637_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171644_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171644_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171652_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171652_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171700_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171700_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171710_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171710_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171718_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171718_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171734_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171734_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93399/17012023171742_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93399/17012023171742_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 25979,
+                "numero": "170",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "01 - Alenquer",
+                "freguesiaDesc": "16 - Ribafria",
+                "artigos": [
+                    {
+                        "numero": "960",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "01 - Alenquer",
+                        "freguesiaDesc": "21 - Uni\u00e3o das freguesias de Ribafria e Pereiro de Palhacana"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

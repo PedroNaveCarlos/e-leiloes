@@ -1,0 +1,225 @@
+{
+    "item": {
+        "id": 129686,
+        "origem": 201283,
+        "lanceAtual": 169000.0,
+        "lanceAtualId": 70824,
+        "dataInicio": "2023-12-12T00:00:13",
+        "dataFimInicial": "2024-01-24T10:30:00",
+        "dataFim": "2024-01-24T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1182362023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 6,
+        "capa": "files/Verbas_Fotos/verba_102967/30112023115110_800sm.jpg",
+        "titulo": "T4 - Sito em Set\u00fabal",
+        "valorBase": 200000.0,
+        "valorAbertura": 100000.0,
+        "valorMinimo": 170000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T4",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"3H\", correspondente ao terceiro andar,um fogo, destinada a habita\u00e7\u00e3o, que faz parte do pr\u00e9dio urbano, em regime de propriedade horizontal, sito no Parque Residencial de S. Francisco - Av\u00aa S. Francisco Xavier, n\u00ba 2,3,4, Set\u00fabal, descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Set\u00fabal sob o n\u00ba 2969, da Freguesia de Set\u00fabal (Nossa Senhora da Anunciada), Concelho de Set\u00fabal e inscrito na respectiva matriz predial urbana sob o n\u00ba 4680 da Uni\u00e3o das Freguesias de Set\u00fabal (S. Juli\u00e3o, N.S. da Anunciada e Santa Maria da Gra\u00e7a).",
+        "observacoes": "O im\u00f3vel encontras arrendado com uma renda mensal de 350,00 \u20ac conforme declara\u00e7\u00f5es prestadas pela fiel deposit\u00e1ria. A mesmas apesar de interpelada para fornecer c\u00f3pia do contrato de arrendamento, at\u00e9 ao momento n\u00e3o o fez, desconhecendo o teor e clausulas do mesmo.",
+        "areaUtilPrivativa": 158.4,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 158.4,
+        "morada": "Avenida S\u00e3o Francisco Xavier",
+        "moradaNumero": "Lote 3",
+        "moradaAndar": "3\u00baH",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Set\u00fabal",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Set\u00fabal (S\u00e3o Juli\u00e3o, Nossa Senhora da Anunciada e Santa Maria da Gra\u00e7a)",
+        "moradaCP": "2900-616",
+        "coordenadasLAT": "38.52398033",
+        "coordenadasLON": "-8.90521142",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70064,
+        "processoNumero": "7411/22.9T8VNF",
+        "processoComarca": "Comarca de Braga",
+        "processoComarcaCodigo": "1036",
+        "processoTribunal": "V.N.Famalic\u00e3o - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 102967,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"108108830\", \"nome\":\"Carlos Manuel Marques Marinho\", \"requerido\":\"False\"},{\"nif\":\"238136485\", \"nome\":\"Lynda June Marinho\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 884,
+        "cerimoniaData": "2024-01-24T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 333,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4739",
+        "gestorNome": "HUGO VAZ\u00c3O",
+        "gestorEmail": "4739@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:29:58",
+        "dataAtualizacao": "2024-01-23T09:29:58",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115110_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115110_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115112_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115112_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115114_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115114_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115116_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115116_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115117_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115117_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115119_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115119_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115121_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115121_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115123_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115123_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115125_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115125_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115127_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115127_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115128_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115128_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115130_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115130_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115132_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115132_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115134_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115134_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115135_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115135_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115137_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115137_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115139_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115139_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115141_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115141_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115143_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115143_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115144_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115144_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115146_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115146_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115148_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115148_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115150_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115150_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102967/30112023115151_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102967/30112023115151_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32003,
+                "numero": "2969",
+                "fracao": "3H",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "12 - Set\u00fabal",
+                "freguesiaDesc": "01 - Setubal (nossa Senhora da Anunciada)",
+                "artigos": [
+                    {
+                        "numero": "4680",
+                        "tipo": "urbana",
+                        "fracao": "3H",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "12 - Set\u00fabal",
+                        "freguesiaDesc": "10 - Uni\u00e3o das freguesias de Set\u00fabal (S\u00e3o Juli\u00e3o, Nossa Senhora da Anunciada e Santa Maria da Gra\u00e7a)"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,129 @@
+{
+    "item": {
+        "id": 130091,
+        "origem": 202531,
+        "lanceAtual": 77770.0,
+        "lanceAtualId": 105662,
+        "dataInicio": "2023-12-15T17:27:04",
+        "dataFimInicial": "2024-03-14T14:30:00",
+        "dataFim": "2024-03-14T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP829302023",
+        "tipoId": 1,
+        "subtipoId": 27,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_87395/30062022151515_800sm.jpg",
+        "titulo": "Pr\u00e9dio R\u00fastico sito em Triana com 7,6545ha",
+        "valorBase": 153100.0,
+        "valorAbertura": 76550.0,
+        "valorMinimo": 130135.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "R\u00fastico",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio r\u00fastico composto por cultura arvense, mato e vinha, sito em Contadeira de Cima, descrito na Conservat\u00f3ria do Registo Predial de Alenquer, sob o n\u00ba 421, da freguesia de Triana, concelho Alenquer, distrito de Lisboa, inscrito na matriz predial sob o n.\u00ba 22, sec\u00e7\u00e3o I2, da uni\u00e3o de freguesias de Alenquer (Santo Estev\u00e3o e Triana).",
+        "observacoes": "\u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1 antes de apresentar a proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas, sendo que a n\u00e3o verifica\u00e7\u00e3o pr\u00e9via do im\u00f3vel n\u00e3o \u00e9 fundamento para a desist\u00eancia/anula\u00e7\u00e3o do procedimento de venda.\r\nMais se adverte que n\u00e3o foram efectuadas medi\u00e7\u00f5es exactas do pr\u00e9dio, sendo que as \u00e1reas indicadas s\u00e3o baseadas na informa\u00e7\u00e3o constante na caderneta predial.\r\n\r\nAS VISITAS DECORRER\u00c3O, EXCLUSIVAMENTE, NA \u00daLTIMA 5\u00aa FEIRA ANTES DA DATA FIM DO LEIL\u00c3O.\r\n\r\nFicam os interessados advertidos que para efeitos de consulta dos documentos associados (caderneta predial/certid\u00e3o do registo predial), DEVER\u00c3O EFECTUAR O LOGIN de acesso ao PORTAL e consultar os DOCUMENTOS ANEXOS.\r\n\r\nAo valor da venda acrescem o Imposto Municipal sobre Transmiss\u00f5es Onerosas e o Imposto de Selo que se mostrem devidos.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 76545.0,
+        "morada": "Uni\u00e3o das freguesias de Alenquer (Santo Est\u00eav\u00e3o e Triana)",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Alenquer",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Alenquer (Santo Est\u00eav\u00e3o e Triana)",
+        "moradaCP": "2580-366",
+        "coordenadasLAT": "39.06078463",
+        "coordenadasLON": "-9.02227055",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 60019,
+        "processoNumero": "12486/18.2T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 87395,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"507524578\", \"nome\":\"DOMUS - SILSUL EMPREENDIMENTOS, S. A.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 65,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5085",
+        "gestorNome": "PORF\u00cdRIO VALENTE",
+        "gestorEmail": "5085@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:27:08",
+        "dataAtualizacao": "2024-01-23T09:27:08",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87395/30062022151515_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87395/30062022151515_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87395/30062022151521_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87395/30062022151521_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87395/30062022151526_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87395/30062022151526_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87395/30062022151530_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87395/30062022151530_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87395/30062022151535_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87395/30062022151535_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 22024,
+                "numero": "421",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "01 - Alenquer",
+                "freguesiaDesc": "12 - Alenquer (triana)",
+                "artigos": [
+                    {
+                        "numero": "22",
+                        "tipo": "rustica",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "01 - Alenquer",
+                        "freguesiaDesc": "19 - Uni\u00e3o das freguesias de Alenquer (Santo Est\u00eav\u00e3o e Triana)"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

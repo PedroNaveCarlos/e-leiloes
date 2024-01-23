@@ -1,0 +1,161 @@
+{
+    "item": {
+        "id": 131679,
+        "origem": 194037,
+        "lanceAtual": 98857.39,
+        "lanceAtualId": 1978,
+        "dataInicio": "2024-01-10T00:00:00",
+        "dataFimInicial": "2024-02-14T11:00:00",
+        "dataFim": "2024-02-14T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1150772023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 3,
+        "capa": "files/Verbas_Fotos/verba_100460/12092023160210_800sm.jpg",
+        "titulo": "T 1 no centro da Parede",
+        "valorBase": 35606.2,
+        "valorAbertura": 17803.1,
+        "valorMinimo": 30265.27,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T1",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"C\" , correspondente ao primeiro andar letra B do pr\u00e9dio urbano constitu\u00eddo em propriedade horizontal sito na Rua engenheiro Adelino Amaro da Costa, n\u00ba 358, freguesia da Parede, concelho de Cascais, composto por 2 assoalhadas, com a \u00e1rea de 52, 50 m2, descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Cascais sob o n\u00ba 2502, e inscrito na matriz sob  o artigo 6553, da uni\u00e3o das freguesias de Carcavelos e Parede, com  valor patrimonial de euros 35. 606,20.",
+        "observacoes": "O Agente de Execu\u00e7\u00e3o j\u00e1 est\u00e1 na posse do im\u00f3vel, pelo que foram inseridas as fotos do interior do im\u00f3vel.\r\nO im\u00f3vel encontra - se em estado razo\u00e1vel de conserva\u00e7\u00e3o, necessitando de pequenas repara\u00e7\u00f5es\r\nO im\u00f3vel fica pr\u00f3ximo de transportes, com muito bons acessos.\r\nAs \u00e1reas indicadas servem apenas como refer\u00eancia, pois foram feitas medi\u00e7\u00f5es  exatas no local e s\u00e3o as que constam dos documentos oficiais .\r\nAntes de efetuarem as propostas, os eventuais interessados devem inteirar - se das qualidades e caracter\u00edsticas e todos os outros aspetos que considerem relevantes.\r\nCom a apresenta\u00e7\u00e3o da proposta, presume se que o interessado tenha inspecionado o im\u00f3vel e conhecer as suas caracter\u00edsticas declinando -se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o. O im\u00f3vel \u00e9 vendido no estado em que se encontra pelo que os interessados devem proceder \u00e1 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta por parte do proponente n\u00e3o determina , nos termos legais \u00e1 anula\u00e7\u00e3o da venda. Informo ainda que a tipologia tem por base a informa\u00e7\u00e3o constante da caderneta predial urbana. \r\nOs interessados antes de efetuarem quaisquer propostas, devem consultar as regras de funcionamento  constantes do site www.e-leiloes.pt",
+        "areaUtilPrivativa": 52.5,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 0.0,
+        "morada": "Rua Engenheiro Adelino Amaro da Costa",
+        "moradaNumero": "357",
+        "moradaAndar": "1\u00ba   B",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Cascais",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Carcavelos e Parede",
+        "moradaCP": "2775-366",
+        "coordenadasLAT": "38.69838261",
+        "coordenadasLON": "-9.36153306",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 68363,
+        "processoNumero": "3777/20.3T8OER",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Oeiras - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 100460,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"105663620\", \"nome\":\"Maria da Concei\u00e7\u00e3o Morgado da Cunha\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 891,
+        "cerimoniaData": "2024-02-14T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 391,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2704",
+        "gestorNome": "MARCOLINO FERREIRA VICENTE",
+        "gestorEmail": "2704@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:21:07",
+        "dataAtualizacao": "2024-01-23T09:21:07",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100460/12092023160210_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100460/12092023160210_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100460/12092023160222_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100460/12092023160222_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100460/12092023160235_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100460/12092023160235_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100460/12092023160320_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100460/12092023160320_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100460/12092023160440_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100460/12092023160440_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100460/12092023160458_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100460/12092023160458_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100460/05012024141137_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100460/05012024141137_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100460/05012024141202_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100460/05012024141202_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100460/05012024141228_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100460/05012024141228_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100460/05012024141242_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100460/05012024141242_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100460/05012024141257_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100460/05012024141257_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100460/05012024141308_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100460/05012024141308_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100460/05012024141347_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100460/05012024141347_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100460/05012024141629_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100460/05012024141629_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100460/05012024141721_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100460/05012024141721_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

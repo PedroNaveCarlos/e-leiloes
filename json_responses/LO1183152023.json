@@ -1,0 +1,141 @@
+{
+    "item": {
+        "id": 129701,
+        "origem": 201454,
+        "lanceAtual": 61206.0,
+        "lanceAtualId": 97712,
+        "dataInicio": "2023-12-12T00:00:15",
+        "dataFimInicial": "2024-01-24T10:30:00",
+        "dataFim": "2024-01-24T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1183152023",
+        "tipoId": 1,
+        "subtipoId": 7,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_103031/04122023142359_800sm.jpg",
+        "titulo": "Edif\u00edcio de R/C e 1\u00ba andar para habita\u00e7\u00e3o (S. Sebasti\u00e3o - Set\u00fabal)",
+        "valorBase": 92942.0,
+        "valorAbertura": 46471.0,
+        "valorMinimo": 79000.7,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Pr\u00e9dio",
+        "tipologia": "T3",
+        "descricao": "Pr\u00e9dio urbano correspondente a edif\u00edcio de loja e 1\u00ba andar, sito na Rua Gil Vicente, n\u00bas 56 e 58, freguesia de Set\u00fabal (S\u00e3o Sebasti\u00e3o), concelho de Set\u00fabal, descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Set\u00fabal sob o n.\u00ba 4559 e inscrito na respetiva matriz sob o artigo 215.",
+        "observacoes": "O im\u00f3vel em apre\u00e7o est\u00e1 em mau estado de conserva\u00e7\u00e3o interior e exterior, conforme consta do registo fotogr\u00e1fico em anexo. **** Foi poss\u00edvel verificar que a loja no r\u00e9s-do-ch\u00e3o corresponde a um espa\u00e7o amplo, que o 1\u00ba andar \u00e9 composto por uma cozinha, uma casa de banho, uma sala e um quarto e o 2\u00ba andar por dois quartos e uma casa de banho. **** O 2\u00ba andar corresponde a \u00e1guas-furtadas/s\u00f3t\u00e3o. **** O Sr. Jonas Florentino Jorge (vive no local com a fam\u00edlia, sem qualquer contrato de arrendamento) foi constitu\u00eddo fiel deposit\u00e1rio do bem. **** No entanto, para o efeito de MARCA\u00c7\u00c3O DE VISITA, solicita-se a todos os interessados que contactem a Agente de Execu\u00e7\u00e3o, atrav\u00e9s telefone 229681357, ou do email 2667@solicitador.net. A Agente de Execu\u00e7\u00e3o far\u00e1 a marca\u00e7\u00e3o da visita com o fiel deposit\u00e1rio e ir\u00e1 mediar o agendamento com os potenciais interessados.",
+        "areaUtilPrivativa": 95.25,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 95.25,
+        "morada": "Rua Gil Vicente",
+        "moradaNumero": "56/58",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Set\u00fabal",
+        "moradaFreguesia": "Set\u00fabal (S\u00e3o Sebasti\u00e3o)",
+        "moradaCP": "2910-088",
+        "coordenadasLAT": "38.523995694180016",
+        "coordenadasLON": "-8.885820508003235",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70103,
+        "processoNumero": "1751/15.0T8STB",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 103031,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"256828270\", \"nome\":\"INILDO DIAS FERREIRA\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 884,
+        "cerimoniaData": "2024-01-24T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 382,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2667",
+        "gestorNome": "ABIGAIL DE SOUSA MOREIRA",
+        "gestorEmail": "2667@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:30:09",
+        "dataAtualizacao": "2024-01-23T09:30:09",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103031/04122023142359_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103031/04122023142359_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103031/04122023142446_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103031/04122023142446_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103031/04122023142502_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103031/04122023142502_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103031/04122023142507_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103031/04122023142507_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103031/04122023142519_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103031/04122023142519_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103031/04122023142534_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103031/04122023142534_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103031/04122023142544_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103031/04122023142544_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103031/04122023142548_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103031/04122023142548_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103031/04122023142554_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103031/04122023142554_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103031/04122023142604_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103031/04122023142604_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103031/04122023142613_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103031/04122023142613_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

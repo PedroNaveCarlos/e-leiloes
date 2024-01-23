@@ -1,0 +1,139 @@
+{
+    "item": {
+        "id": 126927,
+        "origem": 199478,
+        "lanceAtual": 250000.1,
+        "lanceAtualId": 10841,
+        "dataInicio": "2023-11-08T19:15:45",
+        "dataFimInicial": "2024-02-06T14:30:00",
+        "dataFim": "2024-02-06T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP812172023",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_82002/16022022181022_800sm.jpg",
+        "titulo": "Moradia e Anexos Para Habita\u00e7\u00e3o e Oficina em Almargem do Bispo",
+        "valorBase": 500000.0,
+        "valorAbertura": 250000.0,
+        "valorMinimo": 425000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio urbano, sito na Avenida Jos\u00e9 Maria Pais, em Almornos, na freguesia de Almargem do Bispo, concelho de Sintra, inscrito actualmente na respectiva matriz sob o artigo 4231 da Uni\u00e3o das Freguesias de Almargem do Bispo, P\u00earo Pinheiro e Montelavar, e descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Sintra sob o n\u00ba 1348/19881012.\r\nO pr\u00e9dio \u00e9 composto por moradia e anexos para habita\u00e7\u00e3o e oficinia, e logradouro.",
+        "observacoes": "N\u00e3o foi poss\u00edvel ao AE obter fotos do interior da fra\u00e7\u00e3o, por a executada n\u00e3o o autorizar. No entanto, verificou que o im\u00f3vel se encontra em razo\u00e1vel estado de conserva\u00e7\u00e3o. Alerta-se que \u00e9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. Dever\u00e1, igualmente, ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidades da venda e ao facto de o bem n\u00e3o ser entregue no momento da conclus\u00e3o do leil\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.\r\nNos termos do disposto no n\u00ba 6 do artigo 833\u00ba, do C\u00f3digo de Processo Civil, a presente venda est\u00e1 dispensada da apresenta\u00e7\u00e3o do alvar\u00e1 de licen\u00e7a de utiliza\u00e7\u00e3o do pr\u00e9dio, certificado energ\u00e9tico e ficha t\u00e9cnica de habita\u00e7\u00e3o, pelo que, constitui \u00f3nus do adquirente a respectiva legaliza\u00e7\u00e3o do im\u00f3vel, se for caso disso.",
+        "areaUtilPrivativa": 448.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 9200.0,
+        "morada": "Avenida Jos\u00e9 Maria Pais",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Almargem do Bispo, P\u00earo Pinheiro e Montelavar",
+        "moradaCP": "2715-230",
+        "coordenadasLAT": "38.8350276918707",
+        "coordenadasLON": "-9.268319606781006",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 56727,
+        "processoNumero": "12322/14.9T2SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 4",
+        "verbaId": 82002,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"111007950\", \"nome\":\"Carlos Manuel Ferreira\", \"requerido\":\"False\"},{\"nif\":\"111007968\", \"nome\":\"Lisete Rosa Paulo Paulino Ferreira\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 360,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1772",
+        "gestorNome": "Jo\u00e3o F. Gon\u00e7alves Carvalho",
+        "gestorEmail": "1772@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:11:55",
+        "dataAtualizacao": "2024-01-23T09:11:55",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82002/16022022181022_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82002/16022022181022_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82002/16022022180939_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82002/16022022180939_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82002/16022022180949_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82002/16022022180949_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82002/16022022181000_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82002/16022022181000_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82002/16022022181011_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82002/16022022181011_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82002/16022022181035_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82002/16022022181035_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Encontra-se pendente a Ac\u00e7\u00e3o registada sob a Ap. 1065 em 06/04/2022, referente ao processo 14289/15.7T8SNT, que corre termos no Ju\u00edzo Central C\u00edvel de Sintra - Juiz 5, do Tribunal Judicial da Comarca de Lisboa Oeste.",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 18579,
+                "numero": "1348",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "03 - Almargem do Bispo",
+                "artigos": [
+                    {
+                        "numero": "4231",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "23 - Uni\u00e3o das freguesias de Almargem do Bispo, P\u00earo Pinheiro e Montelavar"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

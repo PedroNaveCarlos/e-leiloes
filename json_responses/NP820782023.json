@@ -1,0 +1,138 @@
+{
+    "item": {
+        "id": 128347,
+        "origem": 201062,
+        "lanceAtual": 0.0,
+        "dataInicio": "2023-11-28T16:56:47",
+        "dataFimInicial": "2024-01-30T14:30:00",
+        "dataFim": "2024-01-30T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP820782023",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_96868/28042023115249_800sm.jpg",
+        "titulo": "1/2 de loja em Santa Cruz, Torres Vedras, junto \u00e0 praia",
+        "valorBase": 22278.98,
+        "valorAbertura": 11139.49,
+        "valorMinimo": 18937.13,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "1/2 de loja do pr\u00e9dio urbano descrito na CRP de Torres Vedras sob o n\u00ba 1214, fra\u00e7\u00e3o UU, freguesia de Silveira, concelho de Torres Vedras, inscrito na matriz sob o artigo 4447-UU, dos mesmos concelho e freguesia, correspondente a uma divis\u00e3o situada na cave para com\u00e9rcio, com arrecada\u00e7\u00e3o, com a \u00e1rea de 84,95m2, sita na Rua Jer\u00f3nimo Vilarinho, n\u00ba 30, Santa Cruz, 2560-500 Silveira, Torres Vedras.",
+        "observacoes": "O im\u00f3vel encontra-se em estado de conserva\u00e7\u00e3o razo\u00e1vel.",
+        "areaUtilPrivativa": 84.95,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 84.95,
+        "morada": "Rua Judite Navarro",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Torres Vedras",
+        "moradaFreguesia": "Silveira",
+        "moradaCP": "2560-500",
+        "coordenadasLAT": "39.13305137",
+        "coordenadasLON": "-9.38065012",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 66027,
+        "processoNumero": "28426/21.9T8LSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 9",
+        "verbaId": 96868,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"133138836\", \"nome\":\"Ant\u00f3nio Jo\u00e3o Marcelino Luis\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 297,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5464",
+        "gestorNome": "JOANA ROQUE LINO",
+        "gestorEmail": "5464@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:07:35",
+        "dataAtualizacao": "2024-01-23T09:07:35",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96868/28042023115249_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96868/28042023115249_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96868/28042023115314_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96868/28042023115314_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96868/28042023115329_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96868/28042023115329_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96868/28042023115343_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96868/28042023115343_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96868/28042023115358_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96868/28042023115358_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96868/28042023115419_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96868/28042023115419_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96868/28042023115431_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96868/28042023115431_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 28252,
+                "numero": "1214",
+                "fracao": "UU",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "13 - Torres Vedras",
+                "freguesiaDesc": "16 - Silveira",
+                "artigos": [
+                    {
+                        "numero": "4447",
+                        "tipo": "urbana",
+                        "fracao": "UU",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "13 - Torres Vedras",
+                        "freguesiaDesc": "16 - Silveira"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

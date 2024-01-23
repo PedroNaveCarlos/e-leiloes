@@ -1,0 +1,250 @@
+{
+    "item": {
+        "id": 129804,
+        "origem": 201205,
+        "lanceAtual": 22500.0,
+        "lanceAtualId": 133368,
+        "dataInicio": "2023-12-12T23:59:59",
+        "dataFimInicial": "2024-01-24T10:30:00",
+        "dataFim": "2024-01-24T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1181982023",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_102928/29112023155217_800sm.jpg",
+        "titulo": "Quota-parte correspondente a 3/32 em moradia na Caparica, Almada",
+        "valorBase": 45000.0,
+        "valorAbertura": 22500.0,
+        "valorMinimo": 38250.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T2",
+        "descricao": "Quota-parte correspondente a 3/32 avos do pr\u00e9dio urbano sito em Vale Figueira, Casal de Santo Ant\u00f3nio, Sobreda, composto por dois pisos, registado na 1\u00aa Conservat\u00f3ria do Registo Predial de Almada sob a descri\u00e7\u00e3o 7615 da freguesia de Caparica e inscrito na respectiva matriz predial urbana sob o artigo 736 da referida freguesia.",
+        "observacoes": "O im\u00f3vel encontra-se devoluto.\r\nOs equipamentos e/ou bens que possam surgir nas fotos n\u00e3o est\u00e3o inclu\u00eddos nesta dilig\u00eancia de venda. \r\nAs visitas ao im\u00f3vel devem ser previamente agendadas junto do fiel deposit\u00e1rio, atrav\u00e9s do contacto constante neste an\u00fancio (Ver campo \"visitas\"). Para aceder aos documentos e contactos, o interessado deve aceder \u00e0 plataforma com os seus dados de acesso.\r\nO im\u00f3vel \u00e9 vendido no estado de conserva\u00e7\u00e3o em que se encontra. \u00c9 da \u00fanica e exclusiva responsabilidade do interessado a verifica\u00e7\u00e3o do estado de conserva\u00e7\u00e3o do bem a adquirir. Assim, antes de apresentar a proposta de aquisi\u00e7\u00e3o, o interessado dever\u00e1 assegurar-se que o mesmo corresponde \u00e0s suas expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. A falta desta verifica\u00e7\u00e3o pr\u00e9via por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o.\r\nAp\u00f3s o encerramento do leil\u00e3o, o proponente ser\u00e1 oportunamente notificado para efectuar o dep\u00f3sito do pre\u00e7o, desde que n\u00e3o seja exercido direito de prefer\u00eancia (no prazo de 10 dias), sem preju\u00edzo de eventual direito de remiss\u00e3o (artigo 842.\u00ba do CPC).\r\nO proponente deve assegurar as condi\u00e7\u00f5es financeiras para proceder ao pagamento no prazo de 15 dias quando lhe for solicitado sob pena de incorrer em arresto de bens suficientes para garantir o valor em falta, acrescido das custas e despesas, sem preju\u00edzo de procedimento criminal.",
+        "areaUtilPrivativa": 90.0,
+        "areaUtilDependente": 90.0,
+        "areaTotal": 180.0,
+        "morada": "Rua Gil Vicente, Vale Figueira",
+        "moradaNumero": "V. Mig.Ang",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Almada",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Charneca de Caparica e Sobreda",
+        "moradaCP": "2815-839",
+        "coordenadasLAT": "38.64300756709852",
+        "coordenadasLON": "-9.177451729774475",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 65993,
+        "processoNumero": "917/13.2TBALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 102928,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"200673777\", \"nome\":\"S\u00f3nia Marina dos Anjos Alves Beicinha\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 884,
+        "cerimoniaData": "2024-01-24T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 374,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1550",
+        "gestorNome": "Dr. Miguel Cabral",
+        "gestorEmail": "1550@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:30:24",
+        "dataAtualizacao": "2024-01-23T09:30:24",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155217_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155217_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155138_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155138_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155140_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155140_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155141_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155141_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155147_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155147_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155149_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155149_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155151_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155151_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155159_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155159_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155201_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155201_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155203_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155203_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155207_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155207_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155209_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155209_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155211_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155211_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155219_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155219_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155221_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155221_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155225_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155225_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155227_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155227_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155229_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155229_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155309_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155309_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155310_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155310_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155312_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155312_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155314_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155314_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155316_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155316_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155318_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155318_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155320_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155320_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155323_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155323_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155325_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155325_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155328_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155328_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102928/29112023155329_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102928/29112023155329_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31978,
+                "numero": "7615",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "03 - Almada",
+                "freguesiaDesc": "02 - Caparica",
+                "artigos": [
+                    {
+                        "numero": "736",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "03 - Almada",
+                        "freguesiaDesc": "14 - Uni\u00e3o das freguesias de Charneca de Caparica e Sobreda"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

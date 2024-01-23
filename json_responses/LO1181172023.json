@@ -1,0 +1,180 @@
+{
+    "item": {
+        "id": 130948,
+        "origem": 201015,
+        "lanceAtual": 70206.0,
+        "lanceAtualId": 90641,
+        "dataInicio": "2024-01-01T00:00:00",
+        "dataFimInicial": "2024-01-31T11:00:00",
+        "dataFim": "2024-01-31T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1181172023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_102874/28112023143857_800sm.jpg",
+        "titulo": "Apartamento T2 - Santo Ant\u00f3nio da Charneca, Barreiro",
+        "valorBase": 120000.0,
+        "valorAbertura": 60000.0,
+        "valorMinimo": 102000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra D, correspondente ao PRIMEIRO ANDAR ESQUERDO - habita\u00e7\u00e3o com terra\u00e7o, do pr\u00e9dio urbano em regime de propriedade horizontal sito em Vila Ch\u00e3, Rua Manuel Carrapeto, n\u00ba. 34, freguesia de Santo Ant\u00f3nio da Charneca e concelho do Barreiro, descrito na Conservat\u00f3ria do Registo Predial de Barreiro sob o n\u00ba 904 da freguesia de Santo Ant\u00f3nio da Charneca, inscrito na matriz predial urbana sob o artigo 709 da referida freguesia. AP.18 de 2019/11/12.",
+        "observacoes": "Apartamento T2 devoluto de pessoas.\r\nO Agente de execu\u00e7\u00e3o \u00e9 o fiel deposit\u00e1rio do im\u00f3vel.\r\nN\u00e3o est\u00e1 inclu\u00eddo o recheio visualizado nas fotos. \r\nUma janela de um dos quartos foi tapada pelo interior.\r\nAs visitas dever\u00e3o ser solicitadas obrigatoriamente at\u00e9 5 dias \u00fateis antes da data designada para o fim do leil\u00e3o. As mesmas dever\u00e3o ser agendadas diretamente com o fiel deposit\u00e1rio, atrav\u00e9s do contacto dispon\u00edvel no campo das visitas.\r\nTodos os pedidos de informa\u00e7\u00f5es dever\u00e3o ser efetuados no campo \"informa\u00e7\u00f5es\" da plataforma do E-Leil\u00f5es.\r\n\u00c9 da responsabilidade dos interessados / proponentes a verifica\u00e7\u00e3o do estado de conserva\u00e7\u00e3o do bem a adquirir, pelo que dever\u00e3o previamente \u00e0 apresenta\u00e7\u00e3o da proposta assegurar-se que o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas.\r\nCom a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspecionado o im\u00f3vel e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o.\r\nO im\u00f3vel \u00e9 vendido no estado em que se encontra pelo que a falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.\r\nQuem pretender licitar deve conhecer o funcionamento e regras da venda em leil\u00e3o eletr\u00f3nico. Aconselha-se a leitura atentas das perguntas e respostas em https://www.e-leiloes.pt/faqs.aspx",
+        "areaUtilPrivativa": 70.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 70.0,
+        "morada": "Rua Manuel Carrapeto",
+        "moradaNumero": "34",
+        "moradaAndar": "1\u00ba.Esq\u00ba.",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Barreiro",
+        "moradaFreguesia": "Santo Ant\u00f3nio da Charneca",
+        "moradaCP": "2835-765",
+        "coordenadasLAT": "38.63371219",
+        "coordenadasLON": "-9.04116190",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70001,
+        "processoNumero": "7308/19.0T8ALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 102874,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"211834220\", \"nome\":\"Ricardo Borges\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 887,
+        "cerimoniaData": "2024-01-31T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 250,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4158",
+        "gestorNome": "CARLOS MADALENO",
+        "gestorEmail": "4158@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:33:30",
+        "dataAtualizacao": "2024-01-23T09:33:30",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102874/28112023143857_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102874/28112023143857_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102874/28112023143928_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102874/28112023143928_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102874/28112023143957_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102874/28112023143957_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102874/28112023144006_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102874/28112023144006_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102874/28112023144013_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102874/28112023144013_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102874/28112023144048_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102874/28112023144048_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102874/28112023144055_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102874/28112023144055_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102874/28112023144104_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102874/28112023144104_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102874/28112023144110_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102874/28112023144110_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102874/28112023144129_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102874/28112023144129_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102874/28112023144134_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102874/28112023144134_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102874/28112023144212_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102874/28112023144212_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102874/28112023144217_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102874/28112023144217_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102874/28112023144248_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102874/28112023144248_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "N\u00e3o existem \u00f3nus.",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 31948,
+                "numero": "904",
+                "fracao": "D",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "04 - Barreiro",
+                "freguesiaDesc": "07 - Santo Antonio da Charneca",
+                "artigos": [
+                    {
+                        "numero": "709",
+                        "tipo": "urbana",
+                        "fracao": "D",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "04 - Barreiro",
+                        "freguesiaDesc": "07 - Santo Ant\u00f3nio da Charneca"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

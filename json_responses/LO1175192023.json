@@ -1,0 +1,130 @@
+{
+    "item": {
+        "id": 130002,
+        "origem": 199727,
+        "lanceAtual": 64776.35,
+        "lanceAtualId": 41956,
+        "dataInicio": "2023-12-15T00:00:00",
+        "dataFimInicial": "2024-01-24T11:00:00",
+        "dataFim": "2024-01-24T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1175192023",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_102298/09112023160620_800sm.jpg",
+        "titulo": "Loja na Caparica.",
+        "valorBase": 74225.4,
+        "valorAbertura": 37112.7,
+        "valorMinimo": 63091.59,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra A, correspondente ao R\u00e9s do ch\u00e3o direito, do pr\u00e9dio urbano constitu\u00eddo em propriedade horizontal sito em Caparica na Rua dos Trabalhadores Rurais n\u00bas 88 e 90, freguesia de Caparica, descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Almada sob o n\u00ba 5555, inscrito na matriz predial urbana sob o artigo 6568 da Uni\u00e3o das Freguesias de Caparica e Trafaria.",
+        "observacoes": "",
+        "areaUtilPrivativa": 162.33,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 179.77,
+        "morada": "Rua Trabalhadores Rurais",
+        "moradaNumero": "88-90",
+        "moradaAndar": "r/c DTO",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Almada",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Caparica e Trafaria",
+        "moradaCP": "2825-102",
+        "coordenadasLAT": "38.66372091",
+        "coordenadasLON": "-9.19958890",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69603,
+        "processoNumero": "8079/22.8T8ALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 102298,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"137780249\", \"nome\":\"PAULO ALEXANDRE LOPES PINTO\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 884,
+        "cerimoniaData": "2024-01-24T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 335,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1514",
+        "gestorNome": "DR. ARMANDO OLIVEIRA",
+        "gestorEmail": "1514@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:30:37",
+        "dataAtualizacao": "2024-01-23T09:30:37",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102298/09112023160620_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102298/09112023160620_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102298/09112023160623_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102298/09112023160623_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102298/09112023160627_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102298/09112023160627_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102298/09112023160630_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102298/09112023160630_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102298/09112023160633_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102298/09112023160633_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31646,
+                "numero": "5555",
+                "fracao": "A",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "03 - Almada",
+                "freguesiaDesc": "02 - Caparica",
+                "artigos": [
+                    {
+                        "numero": "6568",
+                        "tipo": "urbana",
+                        "fracao": "A",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "03 - Almada",
+                        "freguesiaDesc": "13 - Uni\u00e3o das freguesias de Caparica e Trafaria"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

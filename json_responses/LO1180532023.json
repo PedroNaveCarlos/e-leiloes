@@ -1,0 +1,181 @@
+{
+    "item": {
+        "id": 129575,
+        "origem": 200882,
+        "lanceAtual": 103120.56,
+        "lanceAtualId": 119393,
+        "dataInicio": "2023-12-11T23:59:59",
+        "dataFimInicial": "2024-01-24T10:00:00",
+        "dataFim": "2024-01-24T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1180532023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_56690/07022020135359_800sm.jpg",
+        "titulo": "Apartamento T2 em Set\u00fabal",
+        "valorBase": 44382.35,
+        "valorAbertura": 22191.18,
+        "valorMinimo": 37725.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra \u201cV\u201d do pr\u00e9dio urbano situado no Largo do Po\u00e7o do Concelho, n\u00ba 3 \u2013 3.\u00ba Esq. \u2013 2900-560 em Set\u00fabal, pertencente \u00e0 uni\u00e3o das freguesias de Set\u00fabal (S. Juli\u00e3o, N.\u00aa Senhora da Anunciada e Santa Maria da Gra\u00e7a) e concelho de Set\u00fabal, descrito na 1.\u00aa Conservat\u00f3ria do Registo Predial de Set\u00fabal sob o n\u00ba 331/19920219-V, inscrito na competente matriz predial urbana sob o artigo 1733, com o valor patrimonial atual de \u20ac29.303,05.",
+        "observacoes": "O im\u00f3vel encontra-se em bom estado de conserva\u00e7\u00e3o, necessitando de obras de melhoramento.",
+        "areaUtilPrivativa": 53.64,
+        "areaUtilDependente": 2.55,
+        "areaTotal": 56.19,
+        "morada": "Largo Po\u00e7o do Concelho",
+        "moradaNumero": "3",
+        "moradaAndar": "3.\u00baEsq.",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Set\u00fabal",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Set\u00fabal (S\u00e3o Juli\u00e3o, Nossa Senhora da Anunciada e Santa Maria da Gra\u00e7a)",
+        "moradaCP": "2900-560",
+        "coordenadasLAT": "38.52500459",
+        "coordenadasLON": "-8.88830084",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 40332,
+        "processoNumero": "7924/05.7TBSTB",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Inst. Central - Sec\u00e7\u00e3o de Execu\u00e7\u00e3o - J1",
+        "verbaId": 56690,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"196222559\", \"nome\":\"Nuno Miguel da Costa Greg\u00f3rio Tavares da Silva\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 884,
+        "cerimoniaData": "2024-01-24T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 1170,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5576",
+        "gestorNome": "JOS\u00c9 MARIA GALV\u00c3O TELES",
+        "gestorEmail": "5576@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:29:31",
+        "dataAtualizacao": "2024-01-23T09:29:31",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135359_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135359_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135401_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135401_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135402_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135402_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135404_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135404_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135407_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135407_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135409_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135409_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135412_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135412_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135417_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135417_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135419_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135419_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135422_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135422_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135424_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135424_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135426_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135426_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135428_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135428_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135429_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135429_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135430_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135430_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135432_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135432_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135434_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135434_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135436_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135436_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_56690/07022020135437_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_56690/07022020135437_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

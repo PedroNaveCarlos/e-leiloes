@@ -1,0 +1,154 @@
+{
+    "item": {
+        "id": 131308,
+        "origem": 203826,
+        "lanceAtual": 70700.0,
+        "lanceAtualId": 18450,
+        "dataInicio": "2024-01-04T15:41:14",
+        "dataFimInicial": "2024-02-06T14:30:00",
+        "dataFim": "2024-02-06T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP837252024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_83659/28032022122956_800sm.jpg",
+        "titulo": "Apartamento em Arrentela, Seixal",
+        "valorBase": 76470.59,
+        "valorAbertura": 38235.3,
+        "valorMinimo": 65000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Frac\u00e7\u00e3o autonoma designada pela letra \"C\" destinada a habita\u00e7\u00e3o correspondente ao 1\u00ba andar direito do pr\u00e9dio em regime de propriedade horizontal sito na Av\u00aa General Humberto Delgado, n\u00ba 181, da atua Uni\u00e3o das Freguesias do Seixal, Arrentela e Aldeia de Paio Pires, concelho do Seixal, descrita na Conservat\u00f3ria do Registo Predial de Seixal com o n\u00famero 2753-C da freguesia de Arrentela, concelho do Seixal e inscrita na respectiva matriz predial sob o artigo 2271-C da Atual Uni\u00e3o das Freguesias do Seixal, Arrentela e Aldeia de Paio Pires",
+        "observacoes": "1 - \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o, sendo que a falta de verifica\u00e7\u00e3o do estado de conserva\u00e7\u00e3o do im\u00f3vel n\u00e3o determina a anula\u00e7\u00e3o da venda. 2 - Nos termos do n\u00ba 6 do artigo 833\u00ba, do C\u00f3digo de Processo Civil, a presente venda est\u00e1 dispensada da apresenta\u00e7\u00e3o do alvar\u00e1 de licen\u00e7a de utiliza\u00e7\u00e3o do pr\u00e9dio, certificado energ\u00e9tico e ficha t\u00e9cnica de habita\u00e7\u00e3o, pelo que, nos termos das mesmas disposi\u00e7\u00f5es legais, constitui \u00f3nus do adquirente a respectiva legaliza\u00e7\u00e3o dos im\u00f3veis, se for caso disso; 3 - O fiel deposit\u00e1rio \u00e9 a Agente de Execu\u00e7\u00e3o a quem devem contactar para visitar o im\u00f3vel, sendo que as visitas decorrer\u00e3o no quinto dia anterior ao termo do leil\u00e3o. 4- Na eventualidade de estar a licitar em nome ou representa\u00e7\u00e3o de terceiro, antes de o fazer, deve certificar-se de que tem efetivamente poderes bastantes para licitar em representa\u00e7\u00e3o desse terceiro sendo que: 5 - Caso esteja a licitar em representa\u00e7\u00e3o de uma pessoa coletiva, dever\u00e1 ser o legal representante da mesma, com efetivos poderes para ao ato, de acordo com os respetivos estatutos da sociedade. 6 - Caso se trate de pessoa singular, dever\u00e1 estar munido da competente procura\u00e7\u00e3o, com poderes especiais para o ato. Os poderes de representa\u00e7\u00e3o, num ou noutro caso, dever\u00e3o ser posteriormente demonstrados no processo de execu\u00e7\u00e3o respetivo, caso o bem venha a ser adjudicado. 7- Caso se verifique, no \u00e2mbito do processo de execu\u00e7\u00e3o em causa, que o licitante / utente n\u00e3o tem os poderes de representa\u00e7\u00e3o invocados, este \u00e9 ent\u00e3o considerado PESSOALMENTE RESPONS\u00c1VEL pela apresenta\u00e7\u00e3o da proposta, acarretando para si todo um conjunto de responsabilidades como aquela que resulta da falta de dep\u00f3sito do pre\u00e7o, nos termos do Art. 825.\u00ba do C\u00f3digo de Processo Civil.8 - O im\u00f3vel encontra-se devoluto de pessoas e bens. O im\u00f3vel \u00e9 composto por dois quartos, uma sala, uma cozinha , uma casa de banho e uma despensa.",
+        "areaUtilPrivativa": 62.73,
+        "areaUtilDependente": 9.54,
+        "areaTotal": 72.27,
+        "morada": "Avenida General Humberto Delgado",
+        "moradaNumero": "181",
+        "moradaAndar": "1\u00ba DTO",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Seixal",
+        "moradaFreguesia": "Uni\u00e3o das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",
+        "moradaCP": "2840-254",
+        "coordenadasLAT": "38.62133836",
+        "coordenadasLON": "-9.09464601",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 57814,
+        "processoNumero": "7016/18.9T8ALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 83659,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"207616868\", \"nome\":\"Celia Tavares Gil\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 739,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "6427",
+        "gestorNome": "PATR\u00cdCIA ALVES DE S\u00c1",
+        "gestorEmail": "6427@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:34:11",
+        "dataAtualizacao": "2024-01-23T09:34:11",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_83659/28032022122956_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83659/28032022122956_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_83659/28032022123005_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83659/28032022123005_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_83659/28032022123019_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83659/28032022123019_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_83659/28032022123033_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83659/28032022123033_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_83659/28032022123041_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83659/28032022123041_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_83659/28032022123055_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83659/28032022123055_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_83659/28032022123108_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83659/28032022123108_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_83659/28032022123121_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83659/28032022123121_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_83659/28032022123131_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83659/28032022123131_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_83659/28032022123144_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_83659/28032022123144_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 19711,
+                "numero": "2753",
+                "fracao": "C",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "10 - Seixal",
+                "freguesiaDesc": "03 - Arrentela",
+                "artigos": [
+                    {
+                        "numero": "2271",
+                        "tipo": "urbana",
+                        "fracao": "C",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "10 - Seixal",
+                        "freguesiaDesc": "07 - Uni\u00e3o das freguesias do Seixal, Arrentela e Aldeia de Paio Pires"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

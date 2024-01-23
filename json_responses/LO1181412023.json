@@ -1,0 +1,320 @@
+{
+    "item": {
+        "id": 130809,
+        "origem": 201054,
+        "lanceAtual": 34311.47,
+        "lanceAtualId": 119393,
+        "dataInicio": "2023-12-28T00:00:02",
+        "dataFimInicial": "2024-01-31T10:30:00",
+        "dataFim": "2024-01-31T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1181412023",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 3,
+        "capa": "files/Verbas_Fotos/verba_102831/28112023084351_800sm.jpg",
+        "titulo": "Loja com arrumos e estacionamento em Torres Vedras",
+        "valorBase": 38027.01,
+        "valorAbertura": 19013.51,
+        "valorMinimo": 32322.96,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "T1",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"A\", correspondente a R/c amplo, destinado a com\u00e9rcio e com arrumos numa cave ampla, do pr\u00e9dio urbano sito na Rua dos Plomes, n\u00ba JMB, na atual freguesia de Santa Maria, S\u00e3o Pedro e Matac\u00e3es (extinta freguesia de Torres Vedras (S. Pedro e Santiago)), descrito na CRP de Torres Vedras sob o n\u00ba 4184, e atualmente inscrito na matriz sob o artigo 7157\u00ba (ex-artigo 7087\u00ba).",
+        "observacoes": "\u00c0 referida frac\u00e7\u00e3o est\u00e3o afectos os estacionamentos n\u00ba 1, 2, 3 e 4 no r/c. O executado (sem autoriza\u00e7\u00e3o do condom\u00ednio) fechou o espa\u00e7o destinado aos quatro lugares de estacionamente e transformo-o numa habita\u00e7\u00e3o improvisada, conforme fotografias apostas neste an\u00fancio. A loja encontra-se vazia e sem actividade. Os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e outros aspectos que considerem relevantes, do(s) bem(s). \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. O im\u00f3vel \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisi\u00e7\u00e3o que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.",
+        "areaUtilPrivativa": 18.0,
+        "areaUtilDependente": 103.0,
+        "areaTotal": 121.0,
+        "morada": "Rua Polomes",
+        "moradaNumero": "JMB",
+        "moradaAndar": "r/c",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Torres Vedras",
+        "moradaFreguesia": "Santa Maria, S\u00e3o Pedro e Matac\u00e3es",
+        "moradaCP": "2560-321",
+        "coordenadasLAT": "39.09469926",
+        "coordenadasLON": "-9.25887507",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69970,
+        "processoNumero": "22479/05.4YYLSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 4",
+        "verbaId": 102831,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"149148798\", \"nome\":\"Ant\u00f3nio Carlos dos Santos Gomes\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 887,
+        "cerimoniaData": "2024-01-31T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 572,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3569",
+        "gestorNome": "Cristina Abade",
+        "gestorEmail": "3569@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "218411040",
+        "gestorFax": "",
+        "gestorMorada": "AV. Guerra Junqueiro, n\u00ba 5, 3\u00ba Dto.",
+        "gestorHorario": "2\u00aa a 6\u00aa feira das 9h00 \u00e0s 13h00",
+        "dataServidor": "2024-01-23T09:09:35",
+        "dataAtualizacao": "2024-01-23T09:09:35",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "Fachada do pr\u00e9dio (frente)",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084351_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084351_200.jpg"
+            },
+            {
+                "legenda": "Loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084359_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084359_200.jpg"
+            },
+            {
+                "legenda": "3 Portas de acesso - \u00e0 loja, pr\u00e9dio e estacionamentos",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084401_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084401_200.jpg"
+            },
+            {
+                "legenda": "Porta de acesso \u00e0 loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084403_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084403_200.jpg"
+            },
+            {
+                "legenda": "Loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084620_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084620_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084622_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084622_200.jpg"
+            },
+            {
+                "legenda": "Porta de acesso aos arrumos da loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084623_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084623_200.jpg"
+            },
+            {
+                "legenda": "W/c da loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084632_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084632_200.jpg"
+            },
+            {
+                "legenda": "W/c da loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084633_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084633_200.jpg"
+            },
+            {
+                "legenda": "Arrumos da loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084635_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084635_200.jpg"
+            },
+            {
+                "legenda": "Port\u00e3o que divide os estacionamentos da loja dos comuns ao pr\u00e9dio (vista do exterior)",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084717_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084717_200.jpg"
+            },
+            {
+                "legenda": "Port\u00e3o acesso aos estacionamentos do pr\u00e9dio",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084719_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084719_200.jpg"
+            },
+            {
+                "legenda": "Fachada do pr\u00e9dio (traseiras)",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084722_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084722_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084724_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084724_200.jpg"
+            },
+            {
+                "legenda": "Port\u00e3o que divide os estacionamentos da loja dos comuns ao pr\u00e9dio (vista do interior)",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084726_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084726_200.jpg"
+            },
+            {
+                "legenda": "Wc improvisado no estacionamento",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084731_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084731_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084736_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084736_200.jpg"
+            },
+            {
+                "legenda": "Sala/Cozinha improvisada no estacionamento",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084738_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084738_200.jpg"
+            },
+            {
+                "legenda": "Sala/Cozinha improvisada no estacionamento",
+                "image": "files/Verbas_Fotos/verba_102831/28112023084741_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023084741_200.jpg"
+            },
+            {
+                "legenda": "Porta de entrada para os lugares de estacionamento",
+                "image": "files/Verbas_Fotos/verba_102831/28112023085059_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023085059_200.jpg"
+            },
+            {
+                "legenda": "Estacionamento da loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023085103_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023085103_200.jpg"
+            },
+            {
+                "legenda": "Estacionamento da loja c/ bomba de \u00e1gua para habita\u00e7\u00e3o improvisada",
+                "image": "files/Verbas_Fotos/verba_102831/28112023085104_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023085104_200.jpg"
+            },
+            {
+                "legenda": "Wc / Sala improvisada no estacionamento",
+                "image": "files/Verbas_Fotos/verba_102831/28112023085125_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023085125_200.jpg"
+            },
+            {
+                "legenda": "Quarto improvisado no estacionamento",
+                "image": "files/Verbas_Fotos/verba_102831/28112023085144_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023085144_200.jpg"
+            },
+            {
+                "legenda": "Sala/Cozinha improvisada no estacionamento",
+                "image": "files/Verbas_Fotos/verba_102831/28112023085227_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023085227_200.jpg"
+            },
+            {
+                "legenda": "Porta de entrada \u00e0 habita\u00e7\u00e3o improvisada no estacionamento",
+                "image": "files/Verbas_Fotos/verba_102831/28112023085243_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023085243_200.jpg"
+            },
+            {
+                "legenda": "W/c improvisada no estacionamento",
+                "image": "files/Verbas_Fotos/verba_102831/28112023085247_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023085247_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102831/28112023085249_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023085249_200.jpg"
+            },
+            {
+                "legenda": "Divis\u00e3o da habita\u00e7\u00e3o improvisada",
+                "image": "files/Verbas_Fotos/verba_102831/28112023085253_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023085253_200.jpg"
+            },
+            {
+                "legenda": "Sala/Cozinha improvisada no estacionamento",
+                "image": "files/Verbas_Fotos/verba_102831/28112023085255_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023085255_200.jpg"
+            },
+            {
+                "legenda": "Sala/Cozinha improvisada no estacionamento",
+                "image": "files/Verbas_Fotos/verba_102831/28112023085257_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023085257_200.jpg"
+            },
+            {
+                "legenda": "Loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023085932_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023085932_200.jpg"
+            },
+            {
+                "legenda": "Escadas de acesso aos arrumos da loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023085947_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023085947_200.jpg"
+            },
+            {
+                "legenda": "Acesso aos arrumos da loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023090014_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023090014_200.jpg"
+            },
+            {
+                "legenda": "W/c da loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023090016_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023090016_200.jpg"
+            },
+            {
+                "legenda": "W/c da loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023090018_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023090018_200.jpg"
+            },
+            {
+                "legenda": "Arrumos da loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023090019_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023090019_200.jpg"
+            },
+            {
+                "legenda": "Arrumos da loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023090021_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023090021_200.jpg"
+            },
+            {
+                "legenda": "Porta de acesso \u00e0 loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023090027_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023090027_200.jpg"
+            },
+            {
+                "legenda": "Estacionamento da loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023090039_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023090039_200.jpg"
+            },
+            {
+                "legenda": "Estacionamento da loja e porta de entrada \u00e0 habita\u00e7\u00e3o improvisada",
+                "image": "files/Verbas_Fotos/verba_102831/28112023090040_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023090040_200.jpg"
+            },
+            {
+                "legenda": "Estacionamento da loja",
+                "image": "files/Verbas_Fotos/verba_102831/28112023090042_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023090042_200.jpg"
+            },
+            {
+                "legenda": "Porta de entrada para os lugares de estacionamento",
+                "image": "files/Verbas_Fotos/verba_102831/28112023090902_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102831/28112023090902_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31930,
+                "numero": "4184",
+                "fracao": "A",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "13 - Torres Vedras",
+                "freguesiaDesc": "15 - Torres Vedras (s. Pedro e Santiago)",
+                "artigos": [
+                    {
+                        "numero": "7157",
+                        "tipo": "urbana",
+                        "fracao": "A",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "13 - Torres Vedras",
+                        "freguesiaDesc": "26 - Uni\u00e3o das freguesias de Torres Vedras (S\u00e3o Pedro, Santiago, Santa Maria do Castelo e S\u00e3o Miguel) e Matac\u00e3es"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

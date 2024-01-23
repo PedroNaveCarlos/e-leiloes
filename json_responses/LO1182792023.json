@@ -1,0 +1,156 @@
+{
+    "item": {
+        "id": 129595,
+        "origem": 201364,
+        "lanceAtual": 2944.0,
+        "lanceAtualId": 49801,
+        "dataInicio": "2023-12-12T00:00:02",
+        "dataFimInicial": "2024-01-24T10:00:00",
+        "dataFim": "2024-01-24T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1182792023",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_98763/26062023171742_800sm.jpg",
+        "titulo": "1/3 do Pr\u00e9dio de R/C situado em Godigana",
+        "valorBase": 5771.97,
+        "valorAbertura": 2885.99,
+        "valorMinimo": 4906.17,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "1/3 do Pr\u00e9dio urbano, sito em Godigana, uni\u00e3o das freguesias de S\u00e3o Jo\u00e3o das Lampas e Terrugem, concelho de Sintra, composto de casa de r\u00e9s do ch\u00e3o para habita\u00e7\u00e3o, com a \u00e1rea coberta de 70m2, inscrito na matriz predial sob o artigo 1110 e descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Sintra sob o n\u00famero 4432/Terrugem, com o valor patrimonial global de 17.317,90 euros, determinado no ano de 2021.",
+        "observacoes": "Antes de apresentarem as suas propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e outros aspectos que considerem relevantes, do bem. A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para a desist\u00eancia/anula\u00e7\u00e3o do procedimento de venda.\r\nA visita ao bem ser\u00e1 marcada por interm\u00e9dio da agente de execu\u00e7\u00e3o com o fiel deposit\u00e1rio, pelo que, os eventuais interessados dever\u00e3o contactar com o escrit\u00f3rio da Agente de Execu\u00e7\u00e3o - tel.261336010/964491031.",
+        "areaUtilPrivativa": 70.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 70.0,
+        "morada": "Rua Alto da Eira, Godigana",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de S\u00e3o Jo\u00e3o das Lampas e Terrugem",
+        "moradaCP": "2705-841",
+        "coordenadasLAT": "38.86075736",
+        "coordenadasLON": "-9.37226033",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 67305,
+        "processoNumero": "31/08.2YYLSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 98763,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"211517160\", \"nome\":\"Jo\u00e3o Carlos Pinto de Almeida\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 884,
+        "cerimoniaData": "2024-01-24T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 255,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2770",
+        "gestorNome": "Gabriela Sousa Magalh\u00e3es",
+        "gestorEmail": "2770@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:03:29",
+        "dataAtualizacao": "2024-01-23T09:03:29",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98763/26062023171742_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98763/26062023171742_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98763/26062023171744_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98763/26062023171744_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98763/26062023171747_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98763/26062023171747_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98763/26062023171749_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98763/26062023171749_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98763/26062023171752_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98763/26062023171752_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98763/26062023171755_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98763/26062023171755_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98763/26062023171758_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98763/26062023171758_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98763/26062023171800_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98763/26062023171800_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98763/26062023171803_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98763/26062023171803_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98763/26062023171806_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98763/26062023171806_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98763/26062023171808_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98763/26062023171808_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98763/26062023171820_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98763/26062023171820_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98763/26062023171825_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98763/26062023171825_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98763/26062023171828_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98763/26062023171828_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,165 @@
+{
+    "item": {
+        "id": 131246,
+        "origem": 202868,
+        "lanceAtual": 85000.0,
+        "lanceAtualId": 51171,
+        "dataInicio": "2024-01-04T00:00:09",
+        "dataFimInicial": "2024-02-07T10:30:00",
+        "dataFim": "2024-02-07T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1189062023",
+        "tipoId": 1,
+        "subtipoId": 4,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_103514/20122023132107_800sm.jpg",
+        "titulo": "Armaz\u00e9m",
+        "valorBase": 100000.0,
+        "valorAbertura": 50000.0,
+        "valorMinimo": 85000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Armaz\u00e9m / Ind\u00fastria",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Edif\u00edcio de r\u00e9s do ch\u00e3o para armaz\u00e9m , sito na  Quinta da Lomba Rua Capit\u00e3o Tenente Oliveira e Carmo, n.\u00ba 33 A, Freguesia de Santo Andr\u00e9, Concelho do Barreiro, Distrito de Set\u00fabal, descrito na CRP do Barreiro com o n.\u00ba 1471 e inscrito na matriz predial urbana com o artigo 806",
+        "observacoes": "Os bens s\u00e3o vendidos no estado f\u00edsico e jur\u00eddico que se encontram. \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado dos bens a adquirir, pelo que dever\u00e1 antes de apresentar proposta assegurar-se se os mesmos correspondem \u00e0s suas expectativas e se encontram nas condi\u00e7\u00f5es pretendidas; Com a apresenta\u00e7\u00e3o da proposta, presume-se que os interessados tenham inspecionado o bem e conhecem as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o ou funcionamento, assim como, qualquer descri\u00e7\u00e3o incorreta da informa\u00e7\u00e3o que possa induzir em erro; O comprador assumir\u00e1 todos os custos e despesas inerentes \u00e0 recolha/remo\u00e7\u00e3o e registo do bem adquirido; Os interessados antes de efetuarem quaisquer propostas, devem consultar as regras de funcionamento e as Faq. constantes no site www.e-leiloes.pt ; Na aus\u00eancia do pagamento no prazo estipulado, ser\u00e1 considerada desist\u00eancia e consequente den\u00fancia no portal \u201ce-leil\u00f5es.pt\u201d, assim como ser\u00e3o tomadas as medidas previstas no art.\u00ba 825\u00ba do C\u00f3digo do Processo Civil, nomeadamente, ser\u00e1 responsabilizado pela falta de pagamento, podendo ser determinado o arresto dos seus bens que sejam suficientes para garantir o valor n\u00e3o pago, acrescido das custas e despesas, sem preju\u00edzo de eventual procedimento criminal nos termos do j\u00e1 referido artigo 825.\u00ba do C\u00f3digo de Processo Civil e, sendo ainda, simultaneamente, executado no pr\u00f3prio processo para pagamento daquele valor. As \u00e1reas indicadas correspondem \u00e0s constantes da matriz, n\u00e3o foram efetuadas medi\u00e7\u00f5es ao im\u00f3vel. O im\u00f3vel \u00e9 vendido sem qualquer mob\u00edlia, decora\u00e7\u00e3o, ou outros bens que perten\u00e7am aos executados.",
+        "areaUtilPrivativa": 215.0,
+        "areaUtilDependente": 215.0,
+        "areaTotal": 215.0,
+        "morada": "Rua Capit\u00e3o Tenente Oliveira e Carmo",
+        "moradaNumero": "33-A",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Barreiro",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Alto do Seixalinho, Santo Andr\u00e9 e Verderena",
+        "moradaCP": "2830-163",
+        "coordenadasLAT": "38.64648136",
+        "coordenadasLON": "-9.05865688",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70411,
+        "processoNumero": "1373/18.4T8ALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 103514,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"124211313\", \"nome\":\"M\u00e1rio Afonso  Ruivinho\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 889,
+        "cerimoniaData": "2024-02-07T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 356,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5423",
+        "gestorNome": "MIGUEL \u00c2NGELO LOPES",
+        "gestorEmail": "5423@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:34:47",
+        "dataAtualizacao": "2024-01-23T09:34:47",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103514/20122023132107_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103514/20122023132107_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103514/20122023132031_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103514/20122023132031_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103514/20122023132034_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103514/20122023132034_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103514/20122023132036_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103514/20122023132036_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103514/20122023132041_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103514/20122023132041_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103514/20122023132043_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103514/20122023132043_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103514/20122023132045_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103514/20122023132045_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103514/20122023132047_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103514/20122023132047_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103514/20122023132050_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103514/20122023132050_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103514/20122023132052_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103514/20122023132052_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103514/20122023132055_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103514/20122023132055_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103514/20122023132059_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103514/20122023132059_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32302,
+                "numero": "1471",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "04 - Barreiro",
+                "freguesiaDesc": "04 - Santo Andre",
+                "artigos": [
+                    {
+                        "numero": "806",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "04 - Barreiro",
+                        "freguesiaDesc": "09 - Uni\u00e3o das freguesias de Alto do Seixalinho, Santo Andr\u00e9 e Verderena"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

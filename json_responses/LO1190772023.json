@@ -1,0 +1,150 @@
+{
+    "item": {
+        "id": 131266,
+        "origem": 203401,
+        "lanceAtual": 26512.5,
+        "lanceAtualId": 107164,
+        "dataInicio": "2024-01-04T00:00:11",
+        "dataFimInicial": "2024-02-07T11:00:00",
+        "dataFim": "2024-02-07T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1190772023",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_103666/28122023160008_800sm.jpg",
+        "titulo": "Pr\u00e9dio urbano - Montelavar, Sintra",
+        "valorBase": 45450.0,
+        "valorAbertura": 22725.0,
+        "valorMinimo": 38632.5,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio urbano constitu\u00eddo em propriedade total sem andares nem divis\u00f5es suscet\u00edveis e utiliza\u00e7\u00e3o independente, afeto a habita\u00e7\u00e3o, composto por casa de r/c, 1\u00ba andar e logradouro, sinto em An\u00e7os, Montelavar, freguesia de Uni\u00e3o das Freguesias de Almargem do Bispo, P\u00earo Pinheiro e Montelavar, concelho de Sintra e distrito de Lisboa, inscrito na matriz sob o artigo 1839\u00ba e descrito na 2\u00ba Conservat\u00f3ria do Registo Predial de Sintra sob o n\u00famero 3974 da freguesia de Montelavar.",
+        "observacoes": "Antes de apresentar proposta, dever\u00e1 ter em considera\u00e7\u00e3o o seguinte:\r\n- O im\u00f3vel ser\u00e1 vendido no estado f\u00edsico e jur\u00eddico em que se encontra;\r\n- \u00c9 da responsabilidade dos interessados verificar o estado do im\u00f3vel, sendo certo que as visitas ser\u00e3o efetuadas, no m\u00e1ximo, at\u00e9 5 (cinco) dias \u00fateis antes do t\u00e9rmino do leil\u00e3o, pelo que devem ser solicitadas atempadamente atrav\u00e9s do seguinte email: rui.n.silva@aj.caaj.pt.\r\n- O proponente dever\u00e1 assumir a total responsabilidade pela proposta que efetuar, sendo que n\u00e3o poder\u00e1 desistir da mesma, com o fundamento na falta de visita ao im\u00f3vel ou por o mesmo n\u00e3o corresponder \u00e0s suas expetativas;\r\n- Caso tenha sido o detentor da proposta mais elevada, e se a mesma for  igual ou superior ao valor m\u00ednimo de venda, ser\u00e1 notificado para, no prazo de 10 (dez) dias proceder ao dep\u00f3sito da cau\u00e7\u00e3o, correspondente a 20% do valor proposto;\r\n- Ap\u00f3s ser comprovado o pagamento da referida cau\u00e7\u00e3o, ser\u00e1 notificado para proceder ao pagamento dos impostos devidos (IMT e Imposto de Selo, se aplic\u00e1vel), aos quais seguir\u00e1 a marca\u00e7\u00e3o da escritura p\u00fablica de compra e venda;\r\n- A referida escritura ser\u00e1 realizada em data e local a indicar pelo Administrador Judicial, sendo certo que todos os encargos relacionados com a mesma dever\u00e3o ser suportados pelo proponente;\r\n- No dia da escritura, o proponente dever\u00e1 ainda proceder ao pagamento do remanescente, atrav\u00e9s de cheque banc\u00e1rio ou visado, emitido \u00e0 ordem da Massa Insolvente ou, em alternativa atrav\u00e9s de transfer\u00eancia banc\u00e1ria para a conta banc\u00e1ria da Massa Insolvente at\u00e9 5 (cinco) dias \u00fateis antes da data da escritura;\r\n- Nos termos e para os efeitos do disposto nos artigos 833.\u00ba do CPC e 164.\u00ba do CIRE, est\u00e1 dispensada a exibi\u00e7\u00e3o da Licen\u00e7a de Utiliza\u00e7\u00e3o, Certifica\u00e7\u00e3o Energ\u00e9tica e da Ficha T\u00e9cnica do im\u00f3vel.",
+        "areaUtilPrivativa": 50.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 100.0,
+        "morada": "Rua Mirante",
+        "moradaNumero": "18",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Almargem do Bispo, P\u00earo Pinheiro e Montelavar",
+        "moradaCP": "2715-719",
+        "coordenadasLAT": "38.87534013286825",
+        "coordenadasLON": "-9.30917501449585",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70525,
+        "processoNumero": "9556/23.9T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Com\u00e9rcio - Juiz 2",
+        "verbaId": 103666,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"204820421\", \"nome\":\"Leonel Jos\u00e9 Afonso\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 889,
+        "cerimoniaData": "2024-02-07T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 969,
+        "gestorTipo": "Administrador Judicial",
+        "gestorTipoId": 2,
+        "gestorCedula": "28",
+        "gestorNome": "Rui Nunes Dias Silva",
+        "gestorEmail": "rui.n.silva@aj.caaj.pt",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:13:41",
+        "dataAtualizacao": "2024-01-23T09:13:41",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103666/28122023160008_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103666/28122023160008_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103666/28122023160019_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103666/28122023160019_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103666/28122023160027_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103666/28122023160027_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103666/28122023160033_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103666/28122023160033_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103666/28122023160037_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103666/28122023160037_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103666/28122023160043_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103666/28122023160043_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103666/28122023160048_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103666/28122023160048_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103666/28122023160053_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103666/28122023160053_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103666/28122023160058_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103666/28122023160058_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32400,
+                "numero": "3974",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "06 - Montelavar",
+                "artigos": [
+                    {
+                        "numero": "1839",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "23 - Uni\u00e3o das freguesias de Almargem do Bispo, P\u00earo Pinheiro e Montelavar"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

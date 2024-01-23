@@ -1,0 +1,140 @@
+{
+    "item": {
+        "id": 132505,
+        "origem": 205216,
+        "lanceAtual": 75162.47,
+        "lanceAtualId": 11843,
+        "dataInicio": "2024-01-18T19:02:07",
+        "dataFimInicial": "2024-03-05T14:30:00",
+        "dataFim": "2024-03-05T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP845042024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_101045/29092023153223_800sm.jpg",
+        "titulo": "Apartamento em Massam\u00e1",
+        "valorBase": 84211.26,
+        "valorAbertura": 42105.63,
+        "valorMinimo": 71579.57,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "FRA\u00c7\u00c3O aut\u00f3noma designada pela letra \"O\", correspondente ao QUARTO ANDAR DIREITO COM ARRECADA\u00c7\u00c3O NA SUB-CAVE, do pr\u00e9dio urbano destinado  a habita\u00e7\u00e3o em regime de propriedade horizontal, composto por 12 pisos, sito na Avenida  Azedo Gneco, n\u00ba 4  a 4C, Massam\u00e1, descrito na Conservat\u00f3ria do Registo Predial de Queluz sob a ficha n\u00ba 369/20080430-O, freguesia de Massam\u00e1 e inscrito  na respectiva matriz predial urbana, sob o artigo 709 da Uni\u00e3o das Freguesias de Massam\u00e1 e Monte Abra\u00e3o.",
+        "observacoes": "O im\u00f3vel \u00e9 habitado  pelo executado  e encontra-se no estado  de conserva\u00e7\u00e3o de se pode calcular  pelas fotos que se anexam apresentando alguns focos de humidade.\r\nContudo \u00e9 da responsabilidade dos proponentes  a verifica\u00e7\u00e3o do estado do im\u00f3vel a adquirir, pelo que, antes de apresentar qualquer proposta, dever\u00e1 assegurar-se se o mesmo corresponde \u00e1s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas.\r\nO im\u00f3vel \u00e9 vendido no estado em que se encontra, pelo que se recomenda  aos interessados que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do mesmo. Adverte-se que a falta de verifica\u00e7\u00e3o das condi\u00e7\u00f5es do im\u00f3vel em venda por parte do proponente n\u00e3o permite, nos termos da lei, a anula\u00e7\u00e3o da venda.\r\nOs interessados que pretendam ver o im\u00f3vel, devem encontrar-se registados na plataforma e-leil\u00f5es de modo a ter acesso aos contactos do fiel deposit\u00e1rio e/ou respons\u00e1vel pela venda.\r\nCom a apresenta\u00e7\u00e3o da proposta presume-se que o proponente tenha inspecionado o  im\u00f3vel e que conhece o estado em que se encontra, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o.\r\nN\u00e3o \u00e9 possivel anular uma licita\u00e7\u00e3o depois de concretizada. \r\nA licita\u00e7\u00e3o \u00e9 definitiva e n\u00e3o pode ser revogada, anulada ou por qualquer forma alterada.\r\nAdverte-se que ap\u00f3s o fim do leil\u00e3o, o/a proponente da proposta mais alta (se for igual ao superior ao valor m\u00ednimo) \u00e9 notificado para, no prazo de 15 dias, proceder ao dep\u00f3sito do valor integral da proposta apresentada.\r\nEfetuado o dep\u00f3sito do pre\u00e7o, \u00e9 emitido t\u00edtulo de transmiss\u00e3o a favor do comprador. Caso o dep\u00f3sito do pre\u00e7o n\u00e3o seja efetuado no referido prazo de 15 dias, adverte-se para as consequ\u00eancias previstas no artigo 825\u00ba do C\u00f3digo de Processo Civil, nomeadamente, e por decis\u00e3o do Juiz \"o arresto em bens suficientes para garantir o valor em falta, acrescido das custas e demais despesas, sem prejuizo de procedimento criminal e sendo aquele, simultaneamente, executado no pr\u00f3prio processo para pagamento daquele valor e acr\u00e9scimos legais.",
+        "areaUtilPrivativa": 100.4,
+        "areaUtilDependente": 5.2,
+        "areaTotal": 0.0,
+        "morada": "Avenida Azedo Gneco, Massam\u00e1",
+        "moradaNumero": "4",
+        "moradaAndar": "4\u00baD",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Massam\u00e1 e Monte Abra\u00e3o",
+        "moradaCP": "2745-724",
+        "coordenadasLAT": "38.75429642",
+        "coordenadasLON": "-9.28245989",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 65758,
+        "processoNumero": "7117/21.6T8ALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 101045,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"128316748\", \"nome\":\"JO\u00c3O CARLOS DE JESUS VIEGAS\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 541,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1652",
+        "gestorNome": "Jo\u00e3o Manuel S. Aleixo C\u00e2ndido",
+        "gestorEmail": "1652@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:26:47",
+        "dataAtualizacao": "2024-01-23T09:26:47",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101045/29092023153223_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101045/29092023153223_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101045/29092023153321_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101045/29092023153321_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101045/29092023153341_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101045/29092023153341_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101045/29092023153352_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101045/29092023153352_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101045/29092023153404_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101045/29092023153404_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101045/29092023153415_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101045/29092023153415_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101045/29092023153431_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101045/29092023153431_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101045/29092023153500_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101045/29092023153500_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101045/29092023153510_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101045/29092023153510_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101045/29092023153519_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101045/29092023153519_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101045/29092023153531_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101045/29092023153531_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

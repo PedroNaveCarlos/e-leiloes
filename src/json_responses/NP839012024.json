@@ -1,0 +1,134 @@
+{
+    "item": {
+        "id": 131738,
+        "origem": 204146,
+        "lanceAtual": 127512.5,
+        "lanceAtualId": 3430,
+        "dataInicio": "2024-01-10T12:31:36",
+        "dataFimInicial": "2024-04-09T14:30:00",
+        "dataFim": "2024-04-09T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP839012024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_102739/23112023125242_800sm.jpg",
+        "titulo": "Lote de terreno afecto a moradia em Casal Novo, Famoes",
+        "valorBase": 250000.0,
+        "valorAbertura": 125000.0,
+        "valorMinimo": 212500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T3",
+        "descricao": "Pr\u00e9dio Urbano composto por lote de terreno para constru\u00e7\u00e3o e benfeitoria composta por moradia construida, sito em Casal Novo, Lote 975, o qual confronta do Norte com Rua Engenheiro Duarte Pacheco, do Sul com Lote 976, do Nascente com Pedrenais, Lda e do Poente com Rua Paulo Renato, melhor descrito na Conservat\u00f3ria do Registo Predial de Odivelas sob o n\u00famero TR\u00caS MIL NOVECENTOS E TRINTA E DOIS / Fam\u00f5es, o qual, conforme teor da respetiva certid\u00e3o permanente, se encontra inscrita na matriz com o artigo 10983",
+        "observacoes": "N\u00e3o foi permitido tirar fotos do interior por abranger os bens pessoais da executada e herdeiros. O imovel encontra-se em mau estado de conserva\u00e7\u00e3o, no interior e exterior\r\nA venda inclui a benfeitoria composta pelo predio construido",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 25.0,
+        "areaTotal": 379.3,
+        "morada": "Rua Francisco L\u00e1zaro, Bairro das Fonta\u00ednhas",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Odivelas",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Pontinha e Fam\u00f5es",
+        "moradaCP": "1685-150",
+        "coordenadasLAT": "38.79886406",
+        "coordenadasLON": "-9.20677590",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69904,
+        "processoNumero": "5211/08.8TCLRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 102739,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"192928058\", \"nome\":\"FERNANDA DOS SANTOS BENTO CASTRO\", \"requerido\":\"False\"},{\"nif\":\"151683239\", \"nome\":\"Heran\u00e7a de ANTONIO DE JESUS CEREJO CASTRO BENTO\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 67,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5384",
+        "gestorNome": "NELSON SANTOS",
+        "gestorEmail": "5384@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:48:15",
+        "dataAtualizacao": "2024-01-14T18:48:15",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102739/23112023125242_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102739/23112023125242_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102739/23112023125249_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102739/23112023125249_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102739/23112023125256_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102739/23112023125256_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102739/23112023125301_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102739/23112023125301_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102739/23112023125311_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102739/23112023125311_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102739/23112023125317_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102739/23112023125317_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31868,
+                "numero": "3932",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "16 - Odivelas",
+                "freguesiaDesc": "02 - Fam\u00f5es",
+                "artigos": [
+                    {
+                        "numero": "10983",
+                        "tipo": "rustica",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "16 - Odivelas",
+                        "freguesiaDesc": "14 - Trindade"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,147 @@
+{
+    "item": {
+        "id": 132719,
+        "origem": 176628,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-23T00:00:00",
+        "dataFimInicial": "2024-02-21T10:00:00",
+        "dataFim": "2024-02-21T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1075932023",
+        "tipoId": 1,
+        "subtipoId": 3,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_94405/14022023162023_800sm.jpg",
+        "titulo": "Garagem em Rio de Mouro, actualmente arrendada",
+        "valorBase": 39219.6,
+        "valorAbertura": 19609.8,
+        "valorMinimo": 33336.66,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Garagem / Arrumos",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Im\u00f3vel sito em RUA ADELINO AMARO DA COSTA N\u00ba: 16 Lugar: CASAL OURESSA C\u00f3digo Postal: 2725-208 MEM MARTINS Andar/Divis\u00e3o:  SCV, correspondente a SUB-CAVE - garagem, descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Sintra sob o n\u00famero 1903, frac\u00e7\u00e3o A, Freguesia Algueir\u00e3o-Mem Martins e inscrito na matriz sob o artigo 8258-SCV Freguesia Algueir\u00e3o-Mem Martins.\r\nO Acesso ao im\u00f3vel \u00e9 efectuado pelas traseiras do pr\u00e9dio.",
+        "observacoes": "Foi comprovado que o im\u00f3vel encontra-se em bom estado de conserva\u00e7\u00e3o.IMPORTANTE: Nos termos do disposto no artigo 825\u00ba n\u00ba 1 c) do C\u00f3digo do Processo civil, a falta de dep\u00f3sito do pre\u00e7o pode levar ao arresto em bens suficientes para garantir o valor em falta, acrescido das custas e despesas e sendo aquele, simultaneamente, executado no pr\u00f3prio processo para pagamento daquele valor e acr\u00e9scimos.\r\nAdverte-se, ainda, que a falta de dep\u00f3sito do pre\u00e7o poder\u00e1 levar \u00e0 instaura\u00e7\u00e3o de PROCEDIMENTO CRIMINAL contra o proponente. \r\nAs \u00e1reas e descri\u00e7\u00e3o do im\u00f3vel no presente an\u00fancio, t\u00eam por base, as descritas na certid\u00e3o predial e matricial respetivas.  Os interessados em licitar, dever\u00e3o aferir previamente, por todos meios dispon\u00edveis, se o im\u00f3vel est\u00e1 de acordo com os seus interesses de aquisi\u00e7\u00e3o. A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda. \r\nNos termos do n\u00ba2 do artigo 824\u00ba do C\u00f3digo de Processo Civil, o pre\u00e7o ter\u00e1 de se mostrar integralmente pago no prazo de 15 dias ap\u00f3s a notifica\u00e7\u00e3o do Agente do Execu\u00e7\u00e3o para o fazer. O prazo \u00e9 corrido (contam s\u00e1bados e domingos). \r\nNada obsta a que os interessados possam recorrer a cr\u00e9dito banc\u00e1rio parcial ou total para pagamento do pre\u00e7o, mas alerta-se que, n\u00e3o haver\u00e1 lugar \u00e0 celebra\u00e7\u00e3o de escritura p\u00fablica, pelo que dever\u00e3o, antes de licitar, verificar esta situa\u00e7\u00e3o junto da entidade banc\u00e1ria. O processo de financiamento banc\u00e1rio n\u00e3o suspende o prazo de pagamento.\r\nNos termos do disposto no n\u00ba 6 do artigo 833\u00ba, do C\u00f3digo de Processo Civil, a presente venda est\u00e1 dispensada da apresenta\u00e7\u00e3o do alvar\u00e1 de licen\u00e7a de utiliza\u00e7\u00e3o do pr\u00e9dio, certificado energ\u00e9tico e ficha t\u00e9cnica de habita\u00e7\u00e3o, pelo que, constitui \u00f3nus do adquirente a respectiva obten\u00e7\u00e3o/legaliza\u00e7\u00e3o, se for caso disso. Adverte-se os potenciais interessados que o recheio do im\u00f3vel n\u00e3o faz parte do objecto negocial.",
+        "areaUtilPrivativa": 160.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 160.0,
+        "morada": "Rua Adelino Amaro da Costa, Bairro Ouressa",
+        "moradaNumero": "16",
+        "moradaAndar": "SCV",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Algueir\u00e3o-Mem Martins",
+        "moradaCP": "2725-208",
+        "coordenadasLAT": "38.797537522545326",
+        "coordenadasLON": "-9.355778396129608",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 64426,
+        "processoNumero": "6509/15.4T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Inst. Central - 1\u00aa Sec\u00e7\u00e3o de Execu\u00e7\u00e3o - J3",
+        "verbaId": 94405,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"507722817\", \"nome\":\"Joremp - Empreendimentos Imobili\u00e1rios, S.A.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 894,
+        "cerimoniaData": "2024-02-21T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 304,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5363",
+        "gestorNome": "PEDRO TORRES",
+        "gestorEmail": "5363@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:24:25",
+        "dataAtualizacao": "2024-01-23T09:24:25",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94405/14022023162023_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94405/14022023162023_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94405/14022023162024_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94405/14022023162024_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94405/14022023162025_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94405/14022023162025_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94405/22012024131231_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94405/22012024131231_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94405/22012024131233_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94405/22012024131233_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94405/22012024131235_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94405/22012024131235_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_94405/22012024131237_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_94405/22012024131237_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "2016-10-01",
+                "valor": 240.0,
+                "dataPrazo": "2021-09-30",
+                "descricao": "Contrato de arrendamento com renda mensal de 240\u20ac, tendo o contrato renovado automaticamente em 30-09-2021 pelo per\u00edodo de 5 anos.",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 26617,
+                "numero": "1903",
+                "fracao": "A",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "02 - Algueir\u00e3o-mem Martins",
+                "artigos": [
+                    {
+                        "numero": "8258",
+                        "tipo": "urbana",
+                        "fracao": "SCV",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "02 - Algueir\u00e3o-Mem Martins"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

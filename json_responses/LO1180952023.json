@@ -1,0 +1,296 @@
+{
+    "item": {
+        "id": 129581,
+        "origem": 200967,
+        "lanceAtual": 73551.0,
+        "lanceAtualId": 95520,
+        "dataInicio": "2023-12-12T00:00:00",
+        "dataFimInicial": "2024-01-24T10:00:00",
+        "dataFim": "2024-01-24T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1180952023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 3,
+        "capa": "files/Verbas_Fotos/verba_84332/20042022172014_800sm.jpg",
+        "titulo": "Apartamento na Reboleira - Amadora",
+        "valorBase": 70152.19,
+        "valorAbertura": 35076.1,
+        "valorMinimo": 59629.36,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T1",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra D, composta de r\u00e9s do ch\u00e3o tardoz, com terra\u00e7o com \u00e1rea de 12.40 m2 , do pr\u00e9dio em regime de propriedade horizontal sito na Av. D. Jos\u00e9 I, n\u00ba 8 e 8A, no lugar da Reboleira, Amadora, descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Amadora sob o n\u00ba 199 da freguesia de Reboleira, inscrito na matriz sob o artigo n\u00ba 2112 da freguesia de Venteira que teve origem no artigo 234 da extinta freguesia da Reboleira.",
+        "observacoes": "*Visita ao im\u00f3vel ser\u00e1 efetuada apenas no dia anterior ao fecho do leil\u00e3o, com in\u00edcio \u00e0s 15:00 e t\u00e9rmino \u00e0s 15:45.\r\n*Dever\u00e3o os interessados antes de efetuarem quaisquer propostas, ler atentamente o relat\u00f3rio de avalia\u00e7\u00e3o e consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt e/ou aconselhar-se junto de um Solicitador ou Advogado.\r\n*Dever\u00e3o os interessados, antes de licitarem, visitar o im\u00f3vel e inteirar-se das qualidades, estado e caracter\u00edsticas e outros aspectos que considerem relevantes, do bem. A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para a desist\u00eancia/anula\u00e7\u00e3o do procedimento de venda. \r\n*Dever\u00e3o os interessados antes de efetuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt e/ou aconselhar-se junto de um Solicitador ou Advogado.",
+        "areaUtilPrivativa": 46.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 46.0,
+        "morada": "Avenida Dom Jos\u00e9 I",
+        "moradaNumero": "8",
+        "moradaAndar": "R/c Tardoz",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Amadora",
+        "moradaFreguesia": "\u00c1guas Livres",
+        "moradaCP": "2720-175",
+        "coordenadasLAT": "38.74958180936377",
+        "coordenadasLON": "-9.232796430587769",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 58242,
+        "processoNumero": "12877/12.2YYLSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 9",
+        "verbaId": 84332,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"113926154\", \"nome\":\"Lu\u00eds Filipe de Almeida Costa Pedro\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 884,
+        "cerimoniaData": "2024-01-24T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 525,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4794",
+        "gestorNome": "ALEXANDRE NETO DE ABREU",
+        "gestorEmail": "4794@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "244724103",
+        "gestorFax": "244723563",
+        "gestorMorada": "Rua Nossa Sra. das Dores, n.\u00ba 146, 2.\u00ba Andar - A, 2420-403   Boa Vista",
+        "gestorHorario": "Dias \u00dateis das 9h00m \u00e0s 13h00m",
+        "dataServidor": "2024-01-23T09:03:03",
+        "dataAtualizacao": "2024-01-23T09:03:03",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022172014_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022172014_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171855_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171855_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171857_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171857_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171859_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171859_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171901_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171901_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171903_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171903_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171905_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171905_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171907_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171907_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171909_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171909_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171911_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171911_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171913_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171913_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171915_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171915_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171917_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171917_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171919_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171919_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171921_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171921_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171923_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171923_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171925_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171925_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171927_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171927_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171929_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171929_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171931_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171931_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171933_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171933_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171935_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171935_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171937_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171937_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171939_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171939_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171941_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171941_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171943_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171943_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171945_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171945_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171947_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171947_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171949_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171949_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171951_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171951_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171953_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171953_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171955_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171955_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171957_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171957_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022171959_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022171959_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022172001_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022172001_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022172003_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022172003_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022172005_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022172005_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022172007_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022172007_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022172008_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022172008_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022172010_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022172010_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_84332/20042022172012_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_84332/20042022172012_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Descri\u00e7\u00e3o: AP. 7 de 1991/02/18 - \u00d3nus de Eventual Redu\u00e7\u00e3o de Doa\u00e7\u00e3o - Doa\u00e7\u00e3o feita por Francisco dos Santos Costa Pedro e Maria de Lurdes Almeida Pedro a Lu\u00eds Filipe de Almeida Costa Pedro. ***Conforme consta do relat\u00f3rio que dever\u00e1 ler atentamente:\n\"(...)3. O pr\u00e9dio em avalia\u00e7\u00e3o cont\u00e9m no seu registo uma men\u00e7\u00e3o de \u00f3nus de eventual redu\u00e7\u00e3o de doa\u00e7\u00e3o, pelo que o bem foi doado por conta da leg\u00edtima ao ora executado.4. Este perito, por ser tamb\u00e9m solicitador, entendeu que a avalia\u00e7\u00e3o n\u00e3o poderia apenas ter em conta o estado de conserva\u00e7\u00e3o, idade e \u00e1rea, pelo que entre outros fatores entendeu apreciar e analisar esta limita\u00e7\u00e3o ao uso do pr\u00e9dio. 5. O \u00d3nus de eventual redu\u00e7\u00e3o de doa\u00e7\u00e3o tem o seu suporte legal nos termos do artigo 2118\u00ba e 2168\u00ba a 2178\u00ba do C\u00f3digo Civil (vide registo predial da fra\u00e7\u00e3o) para eventual redu\u00e7\u00e3o de liberalidades nos termos do artigo 2168\u00ba que se transcreve: \u201c 1-Dizem-se inoficiosas as liberalidades, entre vivos ou por morte, que ofendam a leg\u00edtima dos herdeiros legitim\u00e1rios.\n2 - N\u00e3o s\u00e3o inoficiosas as liberalidades a favor do c\u00f4njuge sobrevivo que tenha renunciado \u00e0 heran\u00e7a nos termos da al\u00ednea c) do n.\u00ba 1 do artigo 1700.\u00ba, at\u00e9 \u00e0 parte da heran\u00e7a correspondente \u00e0 leg\u00edtima do c\u00f4njuge caso a ren\u00fancia n\u00e3o existisse.6. Apesar desta an\u00e1lise e recolha de informa\u00e7\u00e3o e que deve obrigatoriamente ser publicitada, n\u00e3o cabe ao perito proceder a uma an\u00e1lise jur\u00eddica do pr\u00e9dio uma vez que n\u00e3o foi essa a sua adjudica\u00e7\u00e3o, por\u00e9m, n\u00e3o pode o ora signat\u00e1rio deixar de realizar a sua obriga\u00e7\u00e3o profissional sem \u201ctrazer \u00e0 luz\u201d esse \u00f3nus. 7. Pese embora a no\u00e7\u00e3o da import\u00e2ncia deste \u00f3nus, do ponto de vista t\u00e9cnico (ao contr\u00e1rio do que acontece no usufruto) o perito n\u00e3o tem ferramentas que lhe permitam homogeneizar (comparar o compar\u00e1vel) porque nenhuma das amostras recolhidas est\u00e1 sujeito a essa limita\u00e7\u00e3o. Tamb\u00e9m n\u00e3o consegue este perito quantificar o valor deste \u00f3nus ,porque n\u00e3o conhece o patrim\u00f3nio dos doadores e desconhece se ainda subsistem vivos outros herdeiros legitim\u00e1rios que possam vir requerer a redu\u00e7\u00e3o desta liberalidade.8. Como referia, o Valor de Mercado estimado n\u00e3o foi homogeneizado por qualquer fator de deprecia\u00e7\u00e3o por estar sujeito ao \u00f3nus de redu\u00e7\u00e3o da doa\u00e7\u00e3o porque as amostras recolhidas n\u00e3o t\u00eam essa condi\u00e7\u00e3o para compara\u00e7\u00e3o. Ademais \u00e9, para este perito, in quantific\u00e1vel o valor dessa limita\u00e7\u00e3o que se sublinha n\u00e3o ser ao uso, habita\u00e7\u00e3o ou rendimento, mas apenas a eventuais transmiss\u00f5es posteriores, mormente, aquelas que possam vir a acontecer com recurso a cr\u00e9dito hipotec\u00e1rio. Por\u00e9m, o valor apurado \u00e9 condizente, n\u00e3o s\u00f3 com o estado de conserva\u00e7\u00e3o, mas com essa condi\u00e7\u00e3o atente, sobretudo, pelo valor no e-leiloes.pt de transa\u00e7\u00e3o de dois T1 nas redondezas e que se usam na an\u00e1lise comparativa e que foram vendidos por cerca de \u20ac88.000,00 e \u20ac86.000,00 respetivamente, isto \u00e9 20 % a menos do valor ora apurado (...) 9. A fra\u00e7\u00e3o aut\u00f3noma em avalia\u00e7\u00e3o pode naturalmente ser vendida em processo executivo e pode tamb\u00e9m ser transacionada no mercado imobili\u00e1rio e at\u00e9 arrendada, por\u00e9m prev\u00ea-se improv\u00e1vel que a mesma seja transacionada com recurso a cr\u00e9dito hipotec\u00e1rio sem que o \u00f3nus seja removido. 10. Cabe a qualquer licitante ou interessado analisar a informa\u00e7\u00e3o contida neste relat\u00f3rio e ponderar juridicamente das consequ\u00eancias que podem decorrer com a aquisi\u00e7\u00e3o de um pr\u00e9dio onerado por um \u00f3nus que se extingue que, sem qualquer a\u00e7\u00e3o judicial, apenas 20 anos depois do \u00f3bito do \u00faltimo dos doadores. 11. Ainda que fora das compet\u00eancias deste perito, sabe-se que o doador faleceu a 4/1/2008 e por isso s\u00e3o decorridos apenas 13 anos e que a doadora \u00e9 ainda viva.(...)\u201d",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

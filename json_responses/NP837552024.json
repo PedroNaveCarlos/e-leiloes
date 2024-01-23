@@ -1,0 +1,149 @@
+{
+    "item": {
+        "id": 131338,
+        "origem": 203883,
+        "lanceAtual": 17506.21,
+        "lanceAtualId": 1867,
+        "dataInicio": "2024-01-05T14:57:21",
+        "dataFimInicial": "2024-02-06T14:30:00",
+        "dataFim": "2024-02-06T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP837552024",
+        "tipoId": 1,
+        "subtipoId": 5,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_82578/03032022141310_800sm.jpg",
+        "titulo": "Terreno para constru\u00e7\u00e3o",
+        "valorBase": 35012.42,
+        "valorAbertura": 17506.21,
+        "valorMinimo": 29760.56,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Terreno Constru\u00e7\u00e3o",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio descrito na CRP de Torres Vedras com o n.\u00ba 1395 e inscrito na matriz predial urbana sob o artigo matricial n.\u00ba 2191 da Freguesia de UNI\u00c3O DAS FREGUESIAS DE CARVOEIRA E CARM\u00d5ES. Sito na Rua do Bairro ,  Serra de S\u00e3o Juli\u00e3o,  Freguesia de Carvoeira,  Concelho de Torres Vedras, Distrito de Lisboa.",
+        "observacoes": "Terreno para constru\u00e7\u00e3o,  inserido localizado nos arredores de Lisboa,  inserido em Vila  de pequena dimens\u00e3o e zona verde, com vista sobre as serras envolventes e onde est\u00e1 a ser constru\u00eddo o eco parque da Serra de S\u00e3o Juli\u00e3o\r\n\r\n\r\n\r\nOs bens s\u00e3o vendidos no estado f\u00edsico e jur\u00eddico que se encontram. \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado dos bens a adquirir, pelo que dever\u00e1 antes de apresentar proposta assegurar-se se os mesmos correspondem \u00e0s suas expectativas e se encontram nas condi\u00e7\u00f5es pretendidas; Com a apresenta\u00e7\u00e3o da proposta, presume-se que os interessados tenham inspecionado o bem e conhecem as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o ou funcionamento, assim como, qualquer descri\u00e7\u00e3o incorreta da informa\u00e7\u00e3o que possa induzir em erro; O comprador assumir\u00e1 todos os custos e despesas inerentes \u00e0 recolha/remo\u00e7\u00e3o e registo do bem adquirido; Os interessados antes de efetuarem quaisquer propostas, devem consultar as regras de funcionamento e as Faq. constantes no site www.e-leiloes.pt ; Na aus\u00eancia do pagamento no prazo estipulado, ser\u00e1 considerada desist\u00eancia e consequente den\u00fancia no portal \u201ce-leil\u00f5es.pt\u201d, assim como ser\u00e3o tomadas as medidas previstas no art.\u00ba 825\u00ba do C\u00f3digo do Processo Civil, nomeadamente, ser\u00e1 responsabilizado pela falta de pagamento, podendo ser determinado o arresto dos seus bens que sejam suficientes para garantir o valor n\u00e3o pago, acrescido das custas e despesas, sem preju\u00edzo de eventual procedimento criminal nos termos do j\u00e1 referido artigo 825.\u00ba do C\u00f3digo de Processo Civil e, sendo ainda, simultaneamente, executado no pr\u00f3prio processo para pagamento daquele valor. As \u00e1reas indicadas correspondem \u00e0s constantes da matriz, n\u00e3o foram efetuadas medi\u00e7\u00f5es ao im\u00f3vel. O im\u00f3vel \u00e9 vendido sem qualquer mob\u00edlia, decora\u00e7\u00e3o, ou outros bens que perten\u00e7am aos executados",
+        "areaUtilPrivativa": 1000.0,
+        "areaUtilDependente": 74.9,
+        "areaTotal": 1000.0,
+        "morada": "Uni\u00e3o das freguesias de Carvoeira e Carm\u00f5es",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Torres Vedras",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Carvoeira e Carm\u00f5es",
+        "moradaCP": "2565-133",
+        "coordenadasLAT": "39.09267109",
+        "coordenadasLON": "-9.16705770",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 57095,
+        "processoNumero": "134/14.4TBTVD",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 82578,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"200630741\", \"nome\":\"Herm\u00ednia Maria Pires Gomes Filipe\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 356,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5423",
+        "gestorNome": "MIGUEL \u00c2NGELO LOPES",
+        "gestorEmail": "5423@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:12:32",
+        "dataAtualizacao": "2024-01-23T09:12:32",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82578/03032022141310_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82578/03032022141310_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82578/03032022141249_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82578/03032022141249_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82578/03032022141252_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82578/03032022141252_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82578/03032022141258_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82578/03032022141258_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82578/03032022141301_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82578/03032022141301_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82578/03032022141305_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82578/03032022141305_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82578/03032022141313_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82578/03032022141313_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82578/03032022141317_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82578/03032022141317_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82578/03032022141321_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82578/03032022141321_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 18970,
+                "numero": "1395",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "13 - Torres Vedras",
+                "freguesiaDesc": "04 - Carvoeira",
+                "artigos": [
+                    {
+                        "numero": "2191",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "13 - Torres Vedras",
+                        "freguesiaDesc": "23 - Uni\u00e3o das freguesias de Carvoeira e Carm\u00f5es"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

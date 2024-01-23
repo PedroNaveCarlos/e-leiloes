@@ -1,0 +1,196 @@
+{
+    "item": {
+        "id": 130802,
+        "origem": 201957,
+        "lanceAtual": 43445.22,
+        "lanceAtualId": 2415,
+        "dataInicio": "2023-12-28T00:00:00",
+        "dataFimInicial": "2024-01-31T10:30:00",
+        "dataFim": "2024-01-31T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1185552023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_101763/23102023124452_800sm.jpg",
+        "titulo": "Apartamento T2 em Vale da Amoreira - Moita",
+        "valorBase": 83500.0,
+        "valorAbertura": 41750.0,
+        "valorMinimo": 70975.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"J\", correspondente ao quarto andar direito, destinado a habita\u00e7\u00e3o, integrada no pr\u00e9dio urbano constitu\u00eddo em regime de propriedade horizontal denominado \u00abLOTE N.\u00ba 11\u00bb, sito na Rua Pablo Picasso, freguesia de Vale da Amoreira, concelho da Moita, descrita na Conservat\u00f3ria do Registo Predial de Moita sob o n.\u00ba 283 \"J\" e inscrita na respetiva matriz sob o artigo 14\"J\", sendo que atualmente pertence \u00e0 Uni\u00e3o das freguesias de Baixa da Banheira e Vale da Amoreira.",
+        "observacoes": "O im\u00f3vel em apre\u00e7o est\u00e1 em razo\u00e1vel estado de conserva\u00e7\u00e3o, conforme consta do registo fotogr\u00e1fico em anexo **** Pr\u00e9dio com elevador. **** Verificou-se que num dos quartos foi removido o pavimento. **** Apesar da caderneta predial referir a tipologia T3, no local verificou-se que o apartamento corresponde a um T2, composto por cozinha, sala comum, corredor, hall de acesso aos quartos e casas de banho, dois quartos, uma casa de banho completa e uma casa de banho de servi\u00e7o.  **** A Agente de Execu\u00e7\u00e3o encontra-se investida na posse do bem, pelo que, as visitas ao local devem ser agendadas previamente junto da mesma. REGIME DE VISITAS: os pedidos de agendamento devem ser feitos at\u00e9 aos \u00faltimos 5 dias \u00fateis antes da data de encerramento do leil\u00e3o. Visitas preferencialmente \u00e0 2\u00aa e 3\u00aa feira. **** Informam-se ainda todos os interessados, que atenta a exist\u00eancia de bens m\u00f3veis no interior do im\u00f3vel, a entrega do bem s\u00f3 poder\u00e1 ocorrer ap\u00f3s a remo\u00e7\u00e3o daqueles.",
+        "areaUtilPrivativa": 83.22,
+        "areaUtilDependente": 2.83,
+        "areaTotal": 86.05,
+        "morada": "Rua Pablo Picasso, Bairro Vale da Amoreira (Novo)",
+        "moradaNumero": "LT. 11",
+        "moradaAndar": "4\u00ba Dt.\u00ba",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Moita",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Baixa da Banheira e Vale da Amoreira",
+        "moradaCP": "2835-268",
+        "coordenadasLAT": "38.64648509073889",
+        "coordenadasLON": "-9.042048454284668",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69236,
+        "processoNumero": "1184/13.3TBMTA",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 101763,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"232598576\", \"nome\":\"Ana Maria dos Reis Fortes Spencer\", \"requerido\":\"False\"},{\"nif\":\"243115563\", \"nome\":\"Maria de Lurdes dos Reis Fortes\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 887,
+        "cerimoniaData": "2024-01-31T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 382,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2667",
+        "gestorNome": "ABIGAIL DE SOUSA MOREIRA",
+        "gestorEmail": "2667@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:33:20",
+        "dataAtualizacao": "2024-01-23T09:33:20",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124452_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124452_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124534_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124534_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124839_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124839_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124844_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124844_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124848_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124848_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124854_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124854_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124858_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124858_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124902_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124902_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124908_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124908_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124912_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124912_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124916_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124916_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124920_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124920_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124926_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124926_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124931_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124931_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124937_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124937_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124944_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124944_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124954_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124954_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023124959_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023124959_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023125005_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023125005_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023125011_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023125011_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101763/23102023125021_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101763/23102023125021_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Nos termos do disposto no art.\u00ba 817\u00ba n\u00ba 4 do C.P.C., informam-se todos os interessados que se encontram pendentes embargos de executado nos presentes autos.",
+                "tipoDesc": "oposi\u00e7\u00e3o pendente"
+            }
+        ],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

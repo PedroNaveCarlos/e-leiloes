@@ -1,0 +1,256 @@
+{
+    "item": {
+        "id": 129661,
+        "origem": 200989,
+        "lanceAtual": 102987.0,
+        "lanceAtualId": 85493,
+        "dataInicio": "2023-12-12T00:00:10",
+        "dataFimInicial": "2024-01-24T10:30:00",
+        "dataFim": "2024-01-24T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1181032023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_102861/28112023123954_800sm.jpg",
+        "titulo": "Apartamento",
+        "valorBase": 51240.89,
+        "valorAbertura": 25620.45,
+        "valorMinimo": 43554.76,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra I, correspondente ao quarto andar esquerdo, destinado a habita\u00e7\u00e3o, com despensa, varanda e arrecada\u00e7\u00e3o no s\u00f3t\u00e3o, do pr\u00e9dio urbano  sito em Rua Trist\u00e3o Vaz Teixeira, lote n\u00ba 28, Carregado, denominado de Barrada, freguesia de Uni\u00e3o das Freguesias de Carregado e Cadafais, concelho de Alenquer, descrito na Conservat\u00f3ria dos Registos Civil, Predial, Comercial e Autom\u00f3veis de Alenquer, sob o n\u00ba. 53/19850502 - I, da freguesia de Carregado, e inscrito na matriz predial urbana da Uni\u00e3o das Freguesias de Carregado e Cadafais sob o n\u00ba.1444.",
+        "observacoes": "Im\u00f3vel em razo\u00e1vel estado de conserva\u00e7\u00e3o, a necessitar de interve\u00e7\u00f5es.\r\nComposto por cozinha com varanda, 2 quartos com roupeiros embutidos, despensa, sala e casa de banho.\r\nPr\u00e9dio com elevador.\r\nNota:\r\nAs \u00e1reas indicadas servem apenas como refer\u00eancia pois n\u00e3o foram feitas medi\u00e7\u00f5es exatas no local. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e todos os outros aspetos que considerem relevantes.\r\nCom a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspecionado o im\u00f3vel e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o.\r\nO im\u00f3vel \u00e9 vendido no estado que se encontra pelo que os interessados devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta por parte do proponente n\u00e3o determina nos termos legais a anula\u00e7\u00e3o da venda.\r\nInformo ainda que a tipologia tem por base a informa\u00e7\u00e3o constante da caderneta predial urbana.\r\nPara ver o im\u00f3vel dever\u00e1 contactar o escrit\u00f3rio da agente de execu\u00e7\u00e3o. N\u00e3o ser\u00e3o agendadas visitas nos \u00faltimos 5 dias \u00fateis antes da data final do leil\u00e3o.",
+        "areaUtilPrivativa": 78.2,
+        "areaUtilDependente": 6.88,
+        "areaTotal": 0.0,
+        "morada": "Praceta Trist\u00e3o Vaz Teixeira",
+        "moradaNumero": "LOTE 28",
+        "moradaAndar": "4\u00baesq",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Alenquer",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Carregado e Cadafais",
+        "moradaCP": "2580-601",
+        "coordenadasLAT": "39.02341805362209",
+        "coordenadasLON": "-8.971737027168274",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69991,
+        "processoNumero": "541/12.7TBALQ",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 102861,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"233106170\", \"nome\":\"Adolfo Alexandre dos Santos Antunes\", \"requerido\":\"False\"},{\"nif\":\"280029918\", \"nome\":\"Lauren Francisca Alexandra Santos Antunes\", \"requerido\":\"False\"},{\"nif\":\"178602892\", \"nome\":\"Paulo Alexandre Pinto dos Reis Antunes\", \"requerido\":\"False\"},{\"nif\":\"215275128\", \"nome\":\"Tiago Alexandre dos Santos Antunes\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 884,
+        "cerimoniaData": "2024-01-24T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 408,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2621",
+        "gestorNome": "Helena Chagas",
+        "gestorEmail": "2621@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:05:19",
+        "dataAtualizacao": "2024-01-23T09:05:19",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023123954_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023123954_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023123956_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023123956_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023123959_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023123959_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124001_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124001_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124004_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124004_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124205_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124205_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124207_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124207_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124210_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124210_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124212_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124212_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124214_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124214_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124217_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124217_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124220_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124220_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124222_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124222_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124225_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124225_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124228_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124228_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124230_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124230_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124233_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124233_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124235_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124235_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124237_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124237_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124240_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124240_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124242_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124242_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124244_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124244_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124247_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124247_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124250_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124250_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124252_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124252_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124254_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124254_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124257_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124257_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124259_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124259_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124302_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124302_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124304_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124304_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124306_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124306_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124309_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124309_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102861/28112023124311_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102861/28112023124311_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "AP. 19 de 1999/09/30 - Restri\u00e7\u00e3o de Interesse P\u00fablico\nRESTRI\u00c7\u00c3O AO DIREITO DE PROPRIEDADE --- Conte\u00fado : --- Inalienabilidade pelo prazo de 25 anos, a contar de 06 de Julho de 1999, tendo sido a comparticipa\u00e7\u00e3o no pre\u00e7o da aquisi\u00e7\u00e3o fixada em 3.657.200$00. --- Reprodu\u00e7\u00e3o da Insc. F-1.",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

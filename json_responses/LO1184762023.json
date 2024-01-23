@@ -1,0 +1,173 @@
+{
+    "item": {
+        "id": 131508,
+        "origem": 201798,
+        "lanceAtual": 334847.83,
+        "lanceAtualId": 41329,
+        "dataInicio": "2024-01-09T00:00:06",
+        "dataFimInicial": "2024-02-14T10:00:00",
+        "dataFim": "2024-02-14T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1184762023",
+        "tipoId": 1,
+        "subtipoId": 4,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_103071/05122023123537_800sm.jpg",
+        "titulo": "im\u00f3vel com 2790 m2 destinado a armaz\u00e9m e industria, com logradouro, em Sintra",
+        "valorBase": 377169.58,
+        "valorAbertura": 188584.79,
+        "valorMinimo": 320594.14,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Armaz\u00e9m / Ind\u00fastria",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio destinado a armaz\u00e9m e actividade industrial, com logradouro, sito na Av. Pedro \u00c1lvares Cabral 727,  nos limites do Casal da Beloura - Capa Rota, lugar de Manique de Cima, descrito na 1\u00aa CRP de Sintra sob o n.\u00ba 4128 da Freguesia de Sintra (S. Pedro de Penaferrim) e inscrito na matriz sob o Art.\u00ba 3870 da Uni\u00e3o das Freguesias de Sintra (S. Maria e S. Miguel, S. Martinho e S. Pedro de Penaferrim). \r\n\r\n\u00c1rea total do terreno de 2.790 m2, com \u00e1rea coberta de 750 m2 e \u00e1rea descoberta de 2.040 m2.\r\n\r\nO im\u00f3vel \u00e9 constitu\u00eddo por \u00e1rea fabril, \u00e1rea de escrit\u00f3rios, copa, casas de banho, logradouro.",
+        "observacoes": "Est\u00e1 instalada no pr\u00e9dio, com contrato de arrendamento v\u00e1lido (c\u00f3pia em anexo), uma f\u00e1brica de trabalhos em vidro, em funcionamento.\r\n\r\nA sociedade arrendat\u00e1ria, na pessoa do seu s\u00f3cio gerente, \u00e9 fiel deposit\u00e1ria do im\u00f3vel. \r\nContactos do fiel deposit\u00e1rio: DLCR Unipessoal Lda - Sr. David Sanches - telem\u00f3vel: 967657002.\r\n\r\nPara agendar visitas dever\u00e1 ser contactada a aqui Agente de Execu\u00e7\u00e3o telf: 968144255. \r\n  \r\nTodos os equipamentos e m\u00f3veis que se encontram dentro do im\u00f3vel pertencem ao estabelecimento da arrendat\u00e1ria. \r\n\r\n\u00c9 da exclusiva responsabilidade do licitante a verifica\u00e7\u00e3o do estado de conserva\u00e7\u00e3o do im\u00f3vel, pelo que dever\u00e1 assegurar-se de que o mesmo se encontra nas condi\u00e7\u00f5es pretendidas, antes de licitar. \r\n\r\nNos termos do n.\u00ba 2 do artigo 824.\u00ba do C\u00f3digo de Processo Civil, o pre\u00e7o dever\u00e1 ser depositado no prazo de 15 dias ap\u00f3s a notifica\u00e7\u00e3o pela Agente do Execu\u00e7\u00e3o, para o efeito. \r\n\r\nA falta de dep\u00f3sito do pre\u00e7o poder\u00e1 dar lugar \u00e0 decreta\u00e7\u00e3o do arresto de bens suficientes para garantir o valor em falta, tudo conforme consta do disposto no artigo 825.\u00ba do CPC, n.\u00ba 1, al.c). \r\n\r\nMais se informa que, de acordo com o disposto no art. 827.\u00ba, n.\u00ba 1, do CPC, a aquisi\u00e7\u00e3o ser\u00e1 efectuada por t\u00edtulo de transmiss\u00e3o emitido pelo Agente de Execu\u00e7\u00e3o (e n\u00e3o por escritura p\u00fablica). \r\n\r\nO facto do licitante estar a aguardar resposta sobre eventual financiamento n\u00e3o suspende o prazo de pagamento supra indicado.",
+        "areaUtilPrivativa": 750.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 2790.0,
+        "morada": "Avenida Pedro \u00c1lvares Cabral",
+        "moradaNumero": "727",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Sintra (Santa Maria e S\u00e3o Miguel, S\u00e3o Martinho e S\u00e3o Pedro de Penaferrim)",
+        "moradaCP": "2710-297",
+        "coordenadasLAT": "38.76069272133486",
+        "coordenadasLON": "-9.365694522857666",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70116,
+        "processoNumero": "3066/13.0T2SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Oeiras - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 103071,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"116463660\", \"nome\":\"Ant\u00f3nio Ribeiro Teixeira\", \"requerido\":\"False\"},{\"nif\":\"116542209\", \"nome\":\"Maria Manuela Almeida Louren\u00e7o Teixeira\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 891,
+        "cerimoniaData": "2024-02-14T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 60,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "6639",
+        "gestorNome": "ANDREA CARVALHO ROSA",
+        "gestorEmail": "6639@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:18:52",
+        "dataAtualizacao": "2024-01-23T09:18:52",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103071/05122023123537_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103071/05122023123537_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103071/05122023123516_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103071/05122023123516_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103071/05122023123518_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103071/05122023123518_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103071/05122023123520_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103071/05122023123520_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103071/05122023123522_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103071/05122023123522_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103071/05122023123524_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103071/05122023123524_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103071/05122023123526_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103071/05122023123526_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103071/05122023123528_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103071/05122023123528_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103071/05122023123530_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103071/05122023123530_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103071/05122023123532_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103071/05122023123532_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103071/05122023123534_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103071/05122023123534_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103071/05122023123536_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103071/05122023123536_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "2019-05-01",
+                "valor": 3900.0,
+                "dataPrazo": "2024-05-01",
+                "descricao": "",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 32079,
+                "numero": "4128",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "12 - Sintra (s. Pedro de Penaferrim)",
+                "artigos": [
+                    {
+                        "numero": "3870",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "28 - Uni\u00e3o das freguesias de Sintra (Santa Maria e S\u00e3o Miguel, S\u00e3o Martinho e S\u00e3o Pedro de Penaferrim)"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

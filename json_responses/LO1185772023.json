@@ -1,0 +1,205 @@
+{
+    "item": {
+        "id": 131220,
+        "origem": 202011,
+        "lanceAtual": 69236.51,
+        "lanceAtualId": 117560,
+        "dataInicio": "2024-01-04T00:00:06",
+        "dataFimInicial": "2024-02-07T10:30:00",
+        "dataFim": "2024-02-07T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1185772023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_103215/11122023172112_800sm.jpg",
+        "titulo": "Apartamento em Santo Ant\u00f3nio dos Cavaleiros * Concelho de Loures",
+        "valorBase": 115000.0,
+        "valorAbertura": 57500.0,
+        "valorMinimo": 97750.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pelas letras EM composta por Habita\u00e7\u00e3o com 3 divis\u00f5es no Piso Dez, Letra E, com arrecada\u00e7\u00e3o n\u00ba1285 no piso Zero, sito na Rua Fern\u00e3o Mendes Pinto, n\u00ba10\u00ba E, 2660-259 Santo Ant\u00f3nio dos Cavaleiros, inscrito na matriz predial urbana n\u00ba 705 da Uni\u00e3o de freguesias de Santo Ant\u00f3nio dos Cavaleiros e Frielas, do concelho de Loures, Distrito de Lisboa, anteriormente inscrito na matriz urbana n\u00ba 446 da freguesia de Santo Ant\u00f3nio dos Cavaleiros (Extinta)  e descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Loures sob o n\u00ba 33-EM Freguesia Santo Ant\u00f3nio dos Cavaleiros.",
+        "observacoes": "*Os bens m\u00f3veis constantes nas fotografias, n\u00e3o fazem parte integrante do im\u00f3vel objeto de venda; * A MARCA\u00c7\u00c3O DE VISITAS passa pelo agendamento pr\u00e9vio com o fiel deposit\u00e1rio (que n\u00e3o \u00e9 o Agente de Execu\u00e7\u00e3o), atrav\u00e9s do contato que apenas se encontra dispon\u00edvel, no campo visitas, ap\u00f3s efetuar o registo e \"Login\" na presente plataforma; *Com a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado conhe\u00e7a as caracter\u00edsticas do bem, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o.*\u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que, dever\u00e1 antes de apresentar proposta assegurar-se que o mesmo corresponde \u00e0s suas expectativas e se encontra nas condi\u00e7\u00f5es pretendidas. *Dever\u00e1 igualmente ter em considera\u00e7\u00e3o que, atendendo \u00e0 especificidade da venda judicial e ao facto de o bem n\u00e3o ser entregue no momento do dep\u00f3sito do pre\u00e7o, o mesmo poder\u00e1 sofrer altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.* Encerrado o Leil\u00e3o e aceite a proposta, o proponente \u00e9 notificado para depositar o pre\u00e7o oferecido num prazo de 15 dias (artigo 824\u00ba n.\u00ba 2 do C\u00f3digo de Processo Civil).* Alertam-se ainda os interessados de que: dever\u00e3o consultar as regras de funcionamento constantes no site e a legisla\u00e7\u00e3o legal em vigor e aplic\u00e1vel; que existem incidentes legais que podem ditar um desfecho diverso do expect\u00e1vel, a saber: a)Exerc\u00edcio do direito de remi\u00e7\u00e3o; b)Exerc\u00edcio do direito de prefer\u00eancia; c)Insolv\u00eancia do(s) executado(s); d)Pagamento da d\u00edvida; e) Eventual verifica\u00e7\u00e3o de irregularidade que dita a invalidade da venda; que compete ao adquirente verificar a exist\u00eancia/inexist\u00eancia de d\u00edvidas ao condom\u00ednio e que; os custos para a transmiss\u00e3o do bem e eventual tomada de posse (quando n\u00e3o h\u00e1 entrega volunt\u00e1rio) s\u00e3o suportados pelo adquirente; *Os pedidos de Informa\u00e7\u00e3o que n\u00e3o identifiquem o n\u00famero de processo ou a refer\u00eancia de leil\u00e3o n\u00e3o ser\u00e3o respondidos.",
+        "areaUtilPrivativa": 63.0,
+        "areaUtilDependente": 4.0,
+        "areaTotal": 63.0,
+        "morada": "Rua Fern\u00e3o Mendes Pinto, Cidade Nova",
+        "moradaNumero": "4",
+        "moradaAndar": "10.\u00ba E",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Loures",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Santo Ant\u00f3nio dos Cavaleiros e Frielas",
+        "moradaCP": "2660-259",
+        "coordenadasLAT": "38.81745772",
+        "coordenadasLON": "-9.16394146",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70234,
+        "processoNumero": "6704/20.4T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 103215,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"238996131\", \"nome\":\"Ivete da Costa dario D Alva Lima Pinto\", \"requerido\":\"False\"},{\"nif\":\"231857632\", \"nome\":\"Pascoal Brand\u00e3o de Monte Cristo Pinto\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 889,
+        "cerimoniaData": "2024-02-07T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 415,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4855",
+        "gestorNome": "MICAEL SILVESTRE",
+        "gestorEmail": "4855@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:12:54",
+        "dataAtualizacao": "2024-01-23T09:12:54",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172112_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172112_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023171938_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023171938_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023171941_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023171941_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023171947_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023171947_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023171950_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023171950_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172003_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172003_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172009_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172009_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172013_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172013_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172016_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172016_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172019_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172019_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172022_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172022_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172031_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172031_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172034_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172034_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172041_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172041_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172047_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172047_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172050_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172050_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172056_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172056_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172103_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172103_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172106_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172106_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103215/11122023172109_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103215/11122023172109_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32155,
+                "numero": "33",
+                "fracao": "EM",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "07 - Loures",
+                "freguesiaDesc": "24 - Santo Antonio dos Cavaleiros",
+                "artigos": [
+                    {
+                        "numero": "705",
+                        "tipo": "urbana",
+                        "fracao": "EM",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "07 - Loures",
+                        "freguesiaDesc": "30 - Uni\u00e3o das freguesias de Santo Ant\u00f3nio dos Cavaleiros e Frielas"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

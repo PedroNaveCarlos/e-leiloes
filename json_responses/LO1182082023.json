@@ -1,0 +1,136 @@
+{
+    "item": {
+        "id": 129627,
+        "origem": 201228,
+        "lanceAtual": 26854.36,
+        "lanceAtualId": 10522,
+        "dataInicio": "2023-12-12T00:00:06",
+        "dataFimInicial": "2024-01-24T10:00:00",
+        "dataFim": "2024-01-24T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1182082023",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_102938/29112023165125_800sm.jpg",
+        "titulo": "Loja",
+        "valorBase": 19770.22,
+        "valorAbertura": 9885.11,
+        "valorMinimo": 16804.69,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra C, correspondente \u00e0 loja, destinada a com\u00e9rcio, no piso zero, do pr\u00e9dio urbano sito em Rua Vice-Almirante Azevedo Coutinho, n\u00ba 17 a 17-D, Falagueira-Venda Nova, freguesia de Falagueira- Venda Nova, concelho de Amadora, descrito na Conservat\u00f3ria dos Registos Predial e Comercial da Amadora, sob o n\u00ba 1728/20070621-C, freguesia Falagueira-Venda Nova, e inscrito na respetiva matriz predial urbana sob o n\u00ba 1071.",
+        "observacoes": "Im\u00f3vel em razo\u00e1vel estado de conserva\u00e7\u00e3o, composto por divis\u00e3o ampla e casa de banho.\r\nOs bens m\u00f3veis que se encontram no interior, n\u00e3o se encontram em venda.\r\nNota:\r\nAs \u00e1reas indicadas servem apenas como refer\u00eancia pois n\u00e3o foram feitas medi\u00e7\u00f5es exatas no local. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e todos os outros aspetos que considerem relevantes.\r\nCom a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspecionado o im\u00f3vel e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o.\r\nO im\u00f3vel \u00e9 vendido no estado que se encontra pelo que os interessados devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta por parte do proponente n\u00e3o determina nos termos legais a anula\u00e7\u00e3o da venda.",
+        "areaUtilPrivativa": 15.066,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 0.0,
+        "morada": "Rua Vice Almirante Azevedo Coutinho",
+        "moradaNumero": "17 D",
+        "moradaAndar": "loja frent",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Amadora",
+        "moradaFreguesia": "Falagueira-Venda Nova",
+        "moradaCP": "2700-843",
+        "coordenadasLAT": "38.75569446",
+        "coordenadasLON": "-9.22248535",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69689,
+        "processoNumero": "18529/13.9T2SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 102938,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"130645885\", \"nome\":\"Ana Paula Lima Guerreiro om\u00e1s\", \"requerido\":\"False\"},{\"nif\":\"159405530\", \"nome\":\"Jos\u00e9 Manuel Espinheira Tom\u00e1s\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 884,
+        "cerimoniaData": "2024-01-24T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 408,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2621",
+        "gestorNome": "Helena Chagas",
+        "gestorEmail": "2621@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:04:01",
+        "dataAtualizacao": "2024-01-23T09:04:01",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102938/29112023165125_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102938/29112023165125_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102938/29112023165128_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102938/29112023165128_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102938/29112023165130_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102938/29112023165130_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102938/29112023165131_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102938/29112023165131_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102938/29112023165133_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102938/29112023165133_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102938/29112023165135_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102938/29112023165135_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102938/29112023165136_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102938/29112023165136_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102938/29112023165138_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102938/29112023165138_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102938/29112023165140_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102938/29112023165140_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "CONTRATO DE ARRENDAMENTO\nFoi junto aos autos o contrato de arrendamento, que se junta em anexo.\nDever\u00e1 contactar o n\u00famero constante no an\u00fancio do leil\u00e3o a fim de confirmar todas as quest\u00f5es que tenha por convenientes, nomeadamente os valores atuais da renda.",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

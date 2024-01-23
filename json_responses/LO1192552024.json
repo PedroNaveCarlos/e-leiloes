@@ -1,0 +1,200 @@
+{
+    "item": {
+        "id": 131861,
+        "origem": 203810,
+        "lanceAtual": 56038.35,
+        "lanceAtualId": 90641,
+        "dataInicio": "2024-01-11T00:00:04",
+        "dataFimInicial": "2024-02-14T10:00:00",
+        "dataFim": "2024-02-14T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1192552024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_103792/04012024131459_800sm.jpg",
+        "titulo": "Apartamento T2 Montijo",
+        "valorBase": 109868.34,
+        "valorAbertura": 54934.17,
+        "valorMinimo": 93388.09,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra\"E\" correspondente ao 2\u00ba andar direito do pr\u00e9dio urbano constitu\u00eddo em propriedade horizontal sito na Rua Guerra Junqueiro, n\u00ba 28, 34 e 40, 2870-011 Montijo.\r\nN\u00e3o foi poss\u00edvel aceder \u00e0 fra\u00e7\u00e3o pelo que todas informa\u00e7\u00f5es referentes \u00e0 sua composi\u00e7\u00e3o e ao seu estado de conserva\u00e7\u00e3o foram retiradas da respetiva certid\u00e3o matricial e do registo fotogr\u00e1fico constante do relat\u00f3rio de avalia\u00e7\u00e3o junto aos autos. A  fra\u00e7\u00e3o destina-se a habita\u00e7\u00e3o e, de acordo com o registo fotogr\u00e1fico, \u00e9 composta por hall, cozinha, despensa, sala, instala\u00e7\u00e3o sanit\u00e1ria, 2 quartos e marquise.O apartamento, visto do exterior, aparenta estar bem conservado. Pr\u00e9dio sem elevador.\r\nSendo a verifica\u00e7\u00e3o do estado do im\u00f3vel e da sua real tipologia da \u00fanica e exclusiva responsabilidade do proponente, dever\u00e1 este ultimo, antes de apresentar qualquer proposta, assegurar-se de que o im\u00f3vel corresponde \u00e0s suas expectativas e se encontra nas condi\u00e7\u00f5es pretendidas. Efetivamente, nos termos e para os efeitos do disposto no art.838.\u00ba do C\u00f3digo de Processo Civil, presume-se que o proponente inspecionou o im\u00f3vel, conhece as suas caracter\u00edsticas, o seu estado de manuten\u00e7\u00e3o e conserva\u00e7\u00e3o, declinando-se toda e qualquer responsabilidade pela falta de verifica\u00e7\u00e3o daqueles pressupostos, sendo que esta falta de verifica\u00e7\u00e3o, n\u00e3o constitui motivo para anula\u00e7\u00e3o da venda. O proponente dever\u00e1, igualmente, ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidades da venda e ao facto de o im\u00f3vel poder n\u00e3o ser entregue no momento da conclus\u00e3o do leil\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.\r\nNos termos do art.\u00ba 842.\u00ba e seguintes, do C.P.C. \u2013 C\u00f3digo do Processo Civil, aprovado pela Lei n.\u00ba 41/2013, de 26 de Junho, na sua vers\u00e3o dada pela Lei n.\u00ba 114/2017, de 29 de Dezembro, aos descendentes ou ascendentes dos executados \u00e9 reconhecido o direito de remir o presente im\u00f3vel pelo pre\u00e7o que tiver sido feita a adjudica\u00e7\u00e3o ou a venda. A presente venda est\u00e1 dispensada da apresenta\u00e7\u00e3o do alvar\u00e1 de licen\u00e7a de utiliza\u00e7\u00e3o do pr\u00e9dio, do certificado energ\u00e9tico e da ficha t\u00e9cnica, constituindo \u00f3nus do adquirente a respetiva legaliza\u00e7\u00e3o quando exig\u00edvel (art.838.\u00ba, n.\u00ba6 do CPC). A eventual compra e venda ficar\u00e1 sempre sujeita \u00e0 pr\u00e9via notifica\u00e7\u00e3o dos eventuais preferentes para, querendo, virem exercer o seu direito.",
+        "observacoes": "",
+        "areaUtilPrivativa": 67.25,
+        "areaUtilDependente": 15.18,
+        "areaTotal": 82.43,
+        "morada": "Rua Guerra Junqueiro",
+        "moradaNumero": "28",
+        "moradaAndar": "2\u00ba Dto",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Montijo",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Montijo e Afonsoeiro",
+        "moradaCP": "2870-333",
+        "coordenadasLAT": "38.70547377",
+        "coordenadasLON": "-8.97523993",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70598,
+        "processoNumero": "1013/22.7T8MTJ",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Montijo - JL C\u00edvel",
+        "verbaId": 103792,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"237392526\", \"nome\":\"\u00c2ngela Maria Santana Lino - Requerida\", \"requerido\":\"True\"},{\"nif\":\"238341305\", \"nome\":\"Luis Miguel Pereira de Carvalho - Requerente\", \"requerido\":\"True\"}]",
+        "cerimoniaId": 892,
+        "cerimoniaData": "2024-02-14T15:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 59,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "6646",
+        "gestorNome": "ELSA SOBRAL",
+        "gestorEmail": "6646@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:36:54",
+        "dataAtualizacao": "2024-01-23T09:36:54",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131459_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131459_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131502_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131502_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131505_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131505_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131508_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131508_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131510_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131510_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131513_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131513_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131516_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131516_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131518_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131518_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131521_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131521_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131524_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131524_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131526_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131526_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131529_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131529_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131532_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131532_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131535_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131535_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131537_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131537_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131540_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131540_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131543_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131543_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131546_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131546_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103792/04012024131548_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103792/04012024131548_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32450,
+                "numero": "5476",
+                "fracao": "E",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "07 - Montijo",
+                "freguesiaDesc": "02 - Montijo",
+                "artigos": [
+                    {
+                        "numero": "4121",
+                        "tipo": "urbana",
+                        "fracao": "E",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "07 - Montijo",
+                        "freguesiaDesc": "10 - Uni\u00e3o das freguesias de Montijo e Afonsoeiro"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

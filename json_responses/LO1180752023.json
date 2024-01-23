@@ -1,0 +1,178 @@
+{
+    "item": {
+        "id": 129584,
+        "origem": 200924,
+        "lanceAtual": 92739.7,
+        "lanceAtualId": 104449,
+        "dataInicio": "2023-12-12T00:00:00",
+        "dataFimInicial": "2024-01-24T10:00:00",
+        "dataFim": "2024-01-24T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1180752023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_91783/18112022112833_800sm.jpg",
+        "titulo": "T2 Idanha, Queluz",
+        "valorBase": 173000.0,
+        "valorAbertura": 86500.0,
+        "valorMinimo": 147050.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"H\", correspondente ao R\u00e9s do Ch\u00e3o B - Bloco B - habita\u00e7\u00e3o - com um parqueamento na cave com os n\u00ba 33 e uma arrecada\u00e7\u00e3o na cave com o n\u00ba 26.\r\nDescrito na Conservat\u00f3ria do Registo Predial de Queluz, freguesia de Belas com o n\u00ba 4780/20110603 - H e inscrito na matriz sob o artigo 49.",
+        "observacoes": "IM\u00d3VEL ARRENDADO",
+        "areaUtilPrivativa": 88.0,
+        "areaUtilDependente": 17.68,
+        "areaTotal": 105.68,
+        "morada": "Rua Doutor Bernardino Machado",
+        "moradaNumero": "1",
+        "moradaAndar": "R/C B",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Queluz e Belas",
+        "moradaCP": "2605-093",
+        "coordenadasLAT": "38.77446880",
+        "coordenadasLON": "-9.27206767",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 62693,
+        "processoNumero": "2861/14.7T2SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 91783,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"104349131\", \"nome\":\"Fid\u00e9lio Dami\u00e3o In\u00e1cio\", \"requerido\":\"False\"},{\"nif\":\"104349140\", \"nome\":\"Maria Teresa Carvalheiro da Costa In\u00e1cio\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 884,
+        "cerimoniaData": "2024-01-24T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 76,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "6663",
+        "gestorNome": "MAFALDA PIRES DE LIMA",
+        "gestorEmail": "6663@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:03:22",
+        "dataAtualizacao": "2024-01-23T09:03:22",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91783/18112022112833_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91783/18112022112833_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91783/18112022112651_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91783/18112022112651_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91783/18112022112658_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91783/18112022112658_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91783/18112022112709_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91783/18112022112709_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91783/18112022112719_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91783/18112022112719_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91783/18112022112730_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91783/18112022112730_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91783/18112022112739_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91783/18112022112739_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91783/18112022112750_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91783/18112022112750_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91783/18112022112803_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91783/18112022112803_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91783/18112022112823_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91783/18112022112823_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91783/18112022112846_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91783/18112022112846_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91783/18112022112915_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91783/18112022112915_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91783/18112022112921_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91783/18112022112921_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "2015-11-01",
+                "valor": 380.0,
+                "dataPrazo": "2016-11-01",
+                "descricao": "renova\u00e7\u00f5es autom\u00e1ticas nos termos legais",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 24957,
+                "numero": "4780",
+                "fracao": "H",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "04 - Belas",
+                "artigos": [
+                    {
+                        "numero": "49",
+                        "tipo": "urbana",
+                        "fracao": "H",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "26 - Uni\u00e3o das freguesias de Queluz e Belas"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

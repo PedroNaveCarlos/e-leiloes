@@ -1,0 +1,179 @@
+{
+    "item": {
+        "id": 129827,
+        "origem": 202159,
+        "lanceAtual": 0.0,
+        "dataInicio": "2023-12-13T12:49:32",
+        "dataFimInicial": "2024-03-12T14:30:00",
+        "dataFim": "2024-03-12T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP826882023",
+        "tipoId": 1,
+        "subtipoId": 4,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_63971/14102020170855_800sm.jpg",
+        "titulo": "Armaz\u00e9m Industrial \u2013 Barreiro",
+        "valorBase": 2352941.18,
+        "valorAbertura": 1176470.59,
+        "valorMinimo": 2000000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Armaz\u00e9m / Ind\u00fastria",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Armaz\u00e9m para actividade industrial, localizado em Sete Portais - Telha, na Uni\u00e3o das Freguesias de Alto do Seixalinho, Santo Andr\u00e9 e Verderena, Concelho do Barreiro, inscrito na matriz urbana sob o artigo 4029 e descrito na Conservat\u00f3ria do Registo Predial sob o n.\u00ba 1161.",
+        "observacoes": "Armaz\u00e9m inserido em Zona Industrial, pr\u00f3ximo do Hipermercado Continente Modelo do Barreiro, com 6.572,31 m2, inserido em terreno com 7.526,00 m2.\r\nO im\u00f3vel encontra-se em bom estado de conserva\u00e7\u00e3o.\r\n\u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1, antes de apresentar proposta, assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. O bem \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisi\u00e7\u00e3o que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda. A informa\u00e7\u00e3o anterior n\u00e3o dispensa a consulta da documenta\u00e7\u00e3o do im\u00f3vel disponibilizada. Ao valor da venda acrescem o Imposto Municipal sobre Transmiss\u00f5es Onerosas e o Imposto do Selo que se mostrem devidos. \r\nO Agente de Execu\u00e7\u00e3o \u00e9 o fiel deposit\u00e1rio do im\u00f3vel.\r\nAs visitas ser\u00e3o agendadas para um \u00fanico dia, na semana anterior \u00e0 data do Leil\u00e3o, mediante marca\u00e7\u00e3o pr\u00e9via.",
+        "areaUtilPrivativa": 6722.52,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 7526.0,
+        "morada": "Rua Oper\u00e1rios, Sete Portais",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Barreiro",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Alto do Seixalinho, Santo Andr\u00e9 e Verderena",
+        "moradaCP": "2830-237",
+        "coordenadasLAT": "38.63838480",
+        "coordenadasLON": "-9.05665018",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 41576,
+        "processoNumero": "5089/12.7TBVNG",
+        "processoComarca": "Comarca do Porto",
+        "processoComarcaCodigo": "1049",
+        "processoTribunal": "Porto - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 4",
+        "verbaId": 63971,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"158468651\", \"nome\":\"Francisco Jos\u00e9 Nunes Vieira Pita\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 42,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4755",
+        "gestorNome": "PEDRO JESUS",
+        "gestorEmail": "4755@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:41:30",
+        "dataAtualizacao": "2024-01-23T09:41:30",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_63971/14102020170855_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_63971/14102020170855_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_63971/14102020170835_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_63971/14102020170835_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_63971/14102020170844_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_63971/14102020170844_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_63971/14102020170849_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_63971/14102020170849_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_63971/14102020170852_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_63971/14102020170852_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_63971/14102020170857_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_63971/14102020170857_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_63971/14102020170859_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_63971/14102020170859_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_63971/14102020170901_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_63971/14102020170901_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_63971/23102020122133_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_63971/23102020122133_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_63971/23102020122135_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_63971/23102020122135_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_63971/23102020122137_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_63971/23102020122137_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_63971/23102020122139_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_63971/23102020122139_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_63971/23102020122141_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_63971/23102020122141_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_63971/23102020122142_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_63971/23102020122142_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_63971/23102020122144_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_63971/23102020122144_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 5785,
+                "numero": "1161",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "04 - Barreiro",
+                "freguesiaDesc": "04 - Santo Andre",
+                "artigos": [
+                    {
+                        "numero": "4029",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "04 - Barreiro",
+                        "freguesiaDesc": "09 - Uni\u00e3o das freguesias de Alto do Seixalinho, Santo Andr\u00e9 e Verderena"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

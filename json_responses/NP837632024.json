@@ -1,0 +1,143 @@
+{
+    "item": {
+        "id": 131346,
+        "origem": 203891,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-05T15:40:38",
+        "dataFimInicial": "2024-03-05T14:30:00",
+        "dataFim": "2024-03-05T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP837632024",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_91947/22112022195127_800sm.jpg",
+        "titulo": "Loja em zona de com\u00e9rcio",
+        "valorBase": 100000.0,
+        "valorAbertura": 50000.0,
+        "valorMinimo": 85000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra B, correspondente ao r\u00e9s-do-ch\u00e3o esquerdo, para com\u00e9rcio, do pr\u00e9dio urbano, em regime de propriedade horizontal, sito na Av. Marcos Portugal, n.\u00ba 7, 7 A e 7 B, freguesia de Amora, concelho de Seixal, descrito na conservat\u00f3ria do registo predial de Amora sob o n.\u00ba 2420, inscrito na matriz sob o artigo 7633.",
+        "observacoes": "O im\u00f3vel em venda est\u00e1 inserido em zona de f\u00e1cil acesso rodovi\u00e1rio, servido por transportes p\u00fablicos e   de com\u00e9rcio local em \u00e1rea circundante e em razo\u00e1vel estado de conserva\u00e7\u00e3o, dispondo de um WC,  uma divis\u00e3o para copa ou outro fim e despensa.\r\n\r\n\r\nAdverte-se os proponentes que dever\u00e3o, antes de apresentar qualquer proposta, visitar o im\u00f3vel de modo a conhecer o seu interior e exterior, uma vez que o mesmo ser\u00e1 vendido no estado em que se encontra, declinando-se qualquer responsabilidade pela n\u00e3o verifica\u00e7\u00e3o pr\u00e9via do estado do mesmo.\r\n\r\n Terminado o leil\u00e3o eletr\u00f3nico, caso se verifique que a melhor proposta \u00e9 superior a 85% do valor base, estando assim reunidas condi\u00e7\u00f5es para que se concretize a adjudica\u00e7\u00e3o, haver\u00e1 que garantir o seguinte : \r\na) Que o proponente  depositou o pre\u00e7o e demonstrou o cumprimento das obriga\u00e7\u00f5es fiscais, designadamente a liquida\u00e7\u00e3o do IMT (Imposto Municipal Sobre as Transmiss\u00f5es Onerosas de Im\u00f3veis) e IS (Imposto de Selo), o que dever\u00e1 fazer no prazo de 15 dias contados da notifica\u00e7\u00e3o da presente decis\u00e3o (n\u00ba2 do artigo 824\u00ba do CPC);\r\nb) Que n\u00e3o foi exercido direito de prefer\u00eancia (no prazo de 10 dias), sem preju\u00edzo de eventuais direito de remiss\u00e3o (artigo 842\u00ba do CPC). \r\n\r\nA demonstra\u00e7\u00e3o da liquida\u00e7\u00e3o do Imposto de Selo e IMT \u00e9 feita pela entrega ao agente de execu\u00e7\u00e3o do duplicado da declara\u00e7\u00e3o modelo 1 de IMT/IS, a respectiva liquida\u00e7\u00e3o e o comprovativo de pagamento. Uma vez que se trata de venda judicial, a liquida\u00e7\u00e3o de IMT/IS \u00e9 feita junto de qualquer servi\u00e7o de finan\u00e7as. A licita\u00e7\u00e3o \u00e9 definitiva e n\u00e3o pode ser revogada, anulada ou por qualquer forma alterada. Caso a sua licita\u00e7\u00e3o seja superior ao valor m\u00ednimo e, com o encerramento do leil\u00e3o, se verifique que \u00e9 a licita\u00e7\u00e3o mais elevada, fica obrigado ao dep\u00f3sito do pre\u00e7o, com as consequ\u00eancias previstas no artigo 825.\u00ba do C\u00f3digo de Processo Civil, nomeadamente, por decis\u00e3o do Juiz, \u00abo arresto em bens suficientes para garantir o valor em falta, acrescido das custas e despesas, sem preju\u00edzo de procedimento criminal e sendo aquele, simultaneamente, executado no pr\u00f3prio processo para pagamento daquele valor e acr\u00e9scimos.",
+        "areaUtilPrivativa": 88.99,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 88.99,
+        "morada": "Avenida Marcos Portugal",
+        "moradaNumero": "7",
+        "moradaAndar": "R/Ch Esq\u00ba",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Seixal",
+        "moradaFreguesia": "Amora",
+        "moradaCP": "2845-609",
+        "coordenadasLAT": "38.62524617",
+        "coordenadasLON": "-9.11574946",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 62820,
+        "processoNumero": "27759/18.6T8LSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 91947,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"186631502\", \"nome\":\"Mendes Sadrudine Alaudine\", \"requerido\":\"False\"},{\"nif\":\"191320226\", \"nome\":\"SABRINA CASSAM\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 57,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5811",
+        "gestorNome": "IOLANDA MAIA",
+        "gestorEmail": "5811@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:40:57",
+        "dataAtualizacao": "2024-01-23T09:40:57",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91947/22112022195127_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91947/22112022195127_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91947/22112022195234_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91947/22112022195234_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91947/22112022195309_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91947/22112022195309_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91947/22112022195341_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91947/22112022195341_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91947/22112022195413_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91947/22112022195413_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91947/22112022195449_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91947/22112022195449_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91947/22112022195545_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91947/22112022195545_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91947/23012023105055_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91947/23012023105055_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 25053,
+                "numero": "2420",
+                "fracao": "B",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "10 - Seixal",
+                "freguesiaDesc": "02 - Amora",
+                "artigos": [
+                    {
+                        "numero": "7633",
+                        "tipo": "urbana",
+                        "fracao": "B",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "10 - Seixal",
+                        "freguesiaDesc": "02 - Amora"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

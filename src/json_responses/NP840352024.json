@@ -1,0 +1,243 @@
+{
+    "item": {
+        "id": 131918,
+        "origem": 204344,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-11T15:49:50",
+        "dataFimInicial": "2024-04-10T14:30:00",
+        "dataFim": "2024-04-10T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP840352024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 6,
+        "capa": "files/Verbas_Fotos/verba_32889/30102018175841_800sm.jpg",
+        "titulo": "Moradia geminada em Cascais",
+        "valorBase": 605000.0,
+        "valorAbertura": 302500.0,
+        "valorMinimo": 514250.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T4",
+        "descricao": "Pr\u00e9dio urbano, r\u00e9s-do-ch\u00e3o, primeiro, segundo andares e s\u00f3t\u00e3o, sito na Rua Ant\u00f3nio Nola, n\u00ba 17, Bairro do Ros\u00e1rio, freguesia de Cascais e Estoril, concelho de Cascais, inscrito na respectiva matriz sob o artigo 3136, descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Cascais sob o n\u00ba 280 - freguesia Cascais",
+        "observacoes": "O im\u00f3vel apresenta v\u00e1rias infiltra\u00e7\u00f5es, estando o soalho/ch\u00e3o do \u00faltimo piso especialmente danificado.\r\nA casa sofre de problemas no sistema de canaliza\u00e7\u00e3o e electricidade.\r\nEm geral carece de obras de repara\u00e7\u00e3o e/ou manuten\u00e7\u00e3o, incluindo exterior (piso e paredes).\r\nA piscina (estrutura e m\u00e1quinas) est\u00e1 completamente inutilizada.\r\nO im\u00f3vel encontra-se habitado. \r\nAdverte-se que: Cabe exclusivamente ao proponente a responsabilidade de verificar se o estado e caracter\u00edsticas do bem a adquirir correspondem \u00e0s suas expectativas. O que dever\u00e1 efectuar antes de apresentar a competente proposta.\r\nAconselha-se a pr\u00e9via leitura atenta das regras e faq's dispon\u00edveis em https://www.e-leiloes.pt/regras.aspx e https://www.e-leiloes.pt/faqs.aspx.",
+        "areaUtilPrivativa": 176.0,
+        "areaUtilDependente": 8.0,
+        "areaTotal": 420.0,
+        "morada": "Rua Ant\u00f3nio de Nola, Bairro do Ros\u00e1rio",
+        "moradaNumero": "17",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Cascais",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Cascais e Estoril",
+        "moradaCP": "2750-156",
+        "coordenadasLAT": "38.69865545",
+        "coordenadasLON": "-9.43321843",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 24462,
+        "processoNumero": "3644/12.4TBCSC",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 32889,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"130672505\", \"nome\":\"Norberto Rosa Pereira Relha\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 444,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3562",
+        "gestorNome": "Jose Faustino",
+        "gestorEmail": "3562@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "214456697",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "11h00m \u00e0s 13h00m",
+        "dataServidor": "2024-01-14T18:48:22",
+        "dataAtualizacao": "2024-01-14T18:48:22",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175841_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175841_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175437_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175437_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175442_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175442_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175445_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175445_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175448_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175448_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175451_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175451_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175455_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175455_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175459_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175459_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175502_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175502_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175506_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175506_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175510_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175510_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175513_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175513_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175517_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175517_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175520_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175520_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175524_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175524_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175528_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175528_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175532_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175532_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175536_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175536_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175539_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175539_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175543_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175543_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175547_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175547_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175550_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175550_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175554_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175554_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175558_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175558_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175603_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175603_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175607_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175607_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_32889/30102018175612_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_32889/30102018175612_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Direito de habita\u00e7\u00e3o a favor de Ana Maria Carreto Costa, conforme Ap. 48 de 2002/01/11, o qual n\u00e3o caducar\u00e1 com a venda judicial.",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 18721,
+                "numero": "280",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "05 - Cascais",
+                "freguesiaDesc": "03 - Cascais",
+                "artigos": [
+                    {
+                        "numero": "3136",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "05 - Cascais",
+                        "freguesiaDesc": "02 - Freixo de Espada a Cinta"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,199 @@
+{
+    "item": {
+        "id": 132116,
+        "origem": 203948,
+        "lanceAtual": 40420.0,
+        "lanceAtualId": 54248,
+        "dataInicio": "2024-01-15T00:00:01",
+        "dataFimInicial": "2024-02-14T10:30:00",
+        "dataFim": "2024-02-14T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1193242024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_103844/08012024120045_800sm.jpg",
+        "titulo": "Apartamento T2 na Baixa da Banheira - Moita - Set\u00fabal",
+        "valorBase": 47552.75,
+        "valorAbertura": 23776.38,
+        "valorMinimo": 40419.84,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Pr\u00e9dio urbano, frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"I\", correspondente ao 2.\u00ba andar C, destinado a habita\u00e7\u00e3o, com arrecada\u00e7\u00e3o no s\u00f3t\u00e3o, sito na Rua Francisco Miguel, n.\u00ba 106 - Baixa da Banheira, inscrito na matriz urbana da uni\u00e3o das freguesias de Baixa da Banheira e Vale da Amoreira sob o art.\u00ba 3623 (anterior artigo 3756 da freguesia da Baixa da Banheira), descrito na Conservat\u00f3ria do Registo Predial  da Moita sob o n.\u00ba 306/19891219 - I, com o valor patrimonial de 47.552,75 euros.",
+        "observacoes": "Im\u00f3vel que se encontra arrendado atrav\u00e9s de contrato de arrendamento datado de 24.10.1989, que n\u00e3o caducar\u00e1 com a venda do im\u00f3vel e de que \u00e9 paga a renda mensal de 195,00 euros (actual).\r\n\u00c9 desconhecido o valor do condom\u00ednio.",
+        "areaUtilPrivativa": 78.566,
+        "areaUtilDependente": 22.87,
+        "areaTotal": 101.436,
+        "morada": "Rua Francisco Miguel",
+        "moradaNumero": "106",
+        "moradaAndar": "2.\u00baC",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Moita",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Baixa da Banheira e Vale da Amoreira",
+        "moradaCP": "2835-123",
+        "coordenadasLAT": "38.654290050349815",
+        "coordenadasLON": "-9.039870500564575",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70638,
+        "processoNumero": "4551/21.5T8ALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 103844,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"168020742\", \"nome\":\"M\u00f3nica Sofia Nobre da Concei\u00e7\u00e3o da Cruz Costa Santos\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 892,
+        "cerimoniaData": "2024-02-14T15:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 41,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3726",
+        "gestorNome": "JOS\u00c9 LU\u00cdS FONSECA",
+        "gestorEmail": "3726@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:37:45",
+        "dataAtualizacao": "2024-01-23T09:37:45",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024120045_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024120045_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115505_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115505_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115507_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115507_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115508_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115508_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115510_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115510_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115511_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115511_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115513_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115513_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115514_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115514_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115516_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115516_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115517_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115517_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115519_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115519_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115520_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115520_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115522_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115522_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115523_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115523_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115525_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115525_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115526_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115526_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103844/08012024115528_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103844/08012024115528_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "1989-10-24",
+                "valor": 195.0,
+                "dataPrazo": "2024-04-30",
+                "descricao": "",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 32476,
+                "numero": "306",
+                "fracao": "I",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "06 - Moita",
+                "freguesiaDesc": "02 - Baixa da Banheira",
+                "artigos": [
+                    {
+                        "numero": "3623",
+                        "tipo": "urbana",
+                        "fracao": "I",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "06 - Moita",
+                        "freguesiaDesc": "07 - Uni\u00e3o das freguesias de Baixa da Banheira e Vale da Amoreira"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

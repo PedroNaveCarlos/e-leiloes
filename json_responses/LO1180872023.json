@@ -1,0 +1,150 @@
+{
+    "item": {
+        "id": 130669,
+        "origem": 200945,
+        "lanceAtual": 2356.78,
+        "lanceAtualId": 120962,
+        "dataInicio": "2023-12-27T00:00:02",
+        "dataFimInicial": "2024-01-31T10:00:00",
+        "dataFim": "2024-01-31T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1180872023",
+        "tipoId": 1,
+        "subtipoId": 3,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_100595/15092023163214_800sm.jpg",
+        "titulo": "Arrecada\u00e7\u00e3o -  Rua Dr. Ant\u00f3nio Manito - Set\u00fabal",
+        "valorBase": 4352.94,
+        "valorAbertura": 2176.47,
+        "valorMinimo": 3700.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Garagem / Arrumos",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"U\" correspondente \u00e0 arrecada\u00e7\u00e3o n.\u00ba 12, no piso menos 3, do pr\u00e9dio urbano sito na Av\u00aa Dr. Ant\u00f3nio Rodrigues Manito, n.\u00bas 47, 47A a 47H e Rua Mendon\u00e7a e Costa n.\u00bas 7, 7A a 7E, descrito na 1.\u00aa Conservat\u00f3ria do Registo Predial de Set\u00fabal sob o n.\u00ba 1083 da freguesia de Set\u00fabal (S. Juli\u00e3o), concelho de Set\u00fabal, inscrito na respetiva matriz sob o art.\u00ba 4091 da Uni\u00e3o de Freguesias de Set\u00fabal (S. Juli\u00e3o, Nossa Senhora da Anunciada e Santa Maria da Gra\u00e7a).",
+        "observacoes": "Arrecada\u00e7\u00e3o com o n.\u00ba 12 no piso menos tr\u00eas.\r\n\r\nRecomenda\u00e7\u00e3o geral - leil\u00f5es eletr\u00f3nicos - previamente \u00e0 apresenta\u00e7\u00e3o de proposta, deve visitar o bem im\u00f3vel, uma vez que este \u00e9 vendido no estado em que se encontra. Ap\u00f3s apresentada proposta, a mesma n\u00e3o pode ser retirada. \r\n\r\n\u00c9 OBRIGAT\u00d3RIO o dep\u00f3sito do pre\u00e7o no prazo de quinze dias. N\u00e3o sendo depositado o pre\u00e7o no referido prazo, a Agente de Execu\u00e7\u00e3o poder\u00e1 promover, com autoriza\u00e7\u00e3o judicial pr\u00e9via, o arresto dos bens do proponente que ven\u00e7a o leil\u00e3o e n\u00e3o proceda ao dep\u00f3sito do pre\u00e7o - ler atentamente o disposto no artigo 825\u00ba, n.\u00ba 1 al. c) do C\u00f3digo de Processo Civil.\r\n\r\nO im\u00f3vel \u00e9 vendido conjuntamente com o Ilustre Administrador da Insolv\u00eancia Dr. Rom\u00e3o Manuel Claro Nunes pelo que, a formaliza\u00e7\u00e3o da transmiss\u00e3o dever\u00e1 ser realizada atrav\u00e9s de escritura p\u00fablica, cujos custos s\u00e3o suportados pelo adquirente.\r\nO adquirente deve igualmente suportar os impostos que sejam devidos pela transmiss\u00e3o (IMT e/ou IS).\r\n\r\nPara visitar o bem im\u00f3vel, por favor, contacte o fiel deposit\u00e1rio. Os dados do fiel deposit\u00e1rio podem ser consultados fazendo a consulta do an\u00fancio completo que fica dispon\u00edvel ap\u00f3s entrar na sua \u00e1rea reservada deste s\u00edtio da internet.",
+        "areaUtilPrivativa": 5.14,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 5.14,
+        "morada": "Avenida Doutor Ant\u00f3nio Rodrigues Manito",
+        "moradaNumero": "47",
+        "moradaAndar": "A12-3",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Set\u00fabal",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Set\u00fabal (S\u00e3o Juli\u00e3o, Nossa Senhora da Anunciada e Santa Maria da Gra\u00e7a)",
+        "moradaCP": "2900-058",
+        "coordenadasLAT": "38.53378205578015",
+        "coordenadasLON": "-8.893105387687683",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 68444,
+        "processoNumero": "4862/21.0T8STB",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 100595,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"178997056\", \"nome\":\"Paulo Jorge Branco Magalh\u00e3es\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 887,
+        "cerimoniaData": "2024-01-31T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 311,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5397",
+        "gestorNome": "DANIELA PORTUGAL DE CARVALHO",
+        "gestorEmail": "5397@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:33:06",
+        "dataAtualizacao": "2024-01-23T09:33:06",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100595/15092023163214_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100595/15092023163214_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100595/15092023163220_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100595/15092023163220_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100595/15092023163227_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100595/15092023163227_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100595/15092023163232_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100595/15092023163232_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100595/15092023163238_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100595/15092023163238_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100595/15092023163304_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100595/15092023163304_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100595/15092023163310_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100595/15092023163310_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100595/15092023163317_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100595/15092023163317_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100595/15092023163324_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100595/15092023163324_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 30574,
+                "numero": "1083",
+                "fracao": "U",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "12 - Set\u00fabal",
+                "freguesiaDesc": "03 - Setubal (s. Juli\u00e3o)",
+                "artigos": [
+                    {
+                        "numero": "4901",
+                        "tipo": "urbana",
+                        "fracao": "U",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "12 - Set\u00fabal",
+                        "freguesiaDesc": "10 - Uni\u00e3o das freguesias de Set\u00fabal (S\u00e3o Juli\u00e3o, Nossa Senhora da Anunciada e Santa Maria da Gra\u00e7a)"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

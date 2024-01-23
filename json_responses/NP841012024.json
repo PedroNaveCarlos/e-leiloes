@@ -1,0 +1,268 @@
+{
+    "item": {
+        "id": 131998,
+        "origem": 204468,
+        "lanceAtual": 318750.0,
+        "lanceAtualId": 3769,
+        "dataInicio": "2024-01-12T12:43:37",
+        "dataFimInicial": "2024-03-12T14:30:00",
+        "dataFim": "2024-03-12T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP841012024",
+        "tipoId": 1,
+        "subtipoId": 8,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_101026/29092023091823_800sm.jpg",
+        "titulo": "Pr\u00e9dio misto, com habita\u00e7\u00e3o e armazem destinado a actividade agr\u00edcola e outros",
+        "valorBase": 637500.0,
+        "valorAbertura": 318750.0,
+        "valorMinimo": 541875.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Quinta / Misto",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio misto, composto por vinha, cultura arvenses, \u00e1rvores de fruto e casa de arrecada\u00e7\u00e3o, com \u00e1rea total de 18200 m2, sendo a \u00e1rea coberta de 496.82 m2 e a \u00e1rea descoberta de 17.703,18m2. Foram constru\u00eddos os seguintes urbanos: a) armaz\u00e9m agr\u00edcola, destinado a actividade agr\u00edcola, com \u00e1rea coberta de 200 m2, e \u00e1rea descoberta de 30 m2; b) habita\u00e7\u00e3o tipo T5, de um s\u00f3 piso, com 6 divis\u00f5es e 2 casas de banho, com \u00e1rea coberta de 240 m2 e anexo destinado a m\u00e1quinas com \u00e1rea coberta de 13.87 m2, e \u00e1rea descoberta de 486.13 m2; c) Cozinha e refeit\u00f3rio, destinado a apoio de actividade agr\u00edcola, exercida no local, composta de 2 divis\u00f5es e casa de banho, com \u00e1rea coberta de 40.95 m2, integrando ainda uma cabine com \u00e1rea coberta de 2m2 e \u00e1rea descoberta de 7.05 m2, sito em Pinheiro da Cruz ou Pinhal da Cruz ou Pinhal da Cruzinha, inscrito na matriz sob o artigo r\u00fastico n\u00ba 27, sec\u00e7\u00e3o AM e artigos urbanos n\u00bas 6195, 6196, 6197, todos da freguesia e concelho de Alcochete, descrito sob o n\u00ba 1447 daquela freguesia e concelho\r\n\r\nNOTA: A \u00c1REA PRIVATIVA e DEPENDENTE INDICADA \u00c9 A QUE CONSTA NA CADERNETA PREDIAL DOS ARTIGOS URBANOS QUE COMP\u00d5E O IM\u00d3VEL; A \u00c1ERA TOTAL \u00c9 A QUE CONSTA NA INFORMA\u00c7\u00c3O PREDIAL",
+        "observacoes": "Faz-se saber que:  \u00c9 da \u00fanica responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1, se assim entender, antes de apresentar proposta assegurar-se que o mesmo corresponde as suas expetativas e que e encontra nas condi\u00e7\u00f5es pretendidas, uma vez que, com apresenta\u00e7\u00e3o de proposta, presume-se que o proponente tenha inspecionado o bem supra descrito, e conhece as suas caracter\u00edsticas e consequentemente, declina qual responsabilidade pelo seu estado de conserva\u00e7\u00e3o e nos casos aplic\u00e1veis, do seu eventual funcionamento; - O presente bem \u00e9 vendido no estado f\u00edsico e jur\u00eddico em que se encontra, sem garantias de quaisquer v\u00edcios que possam surgir ou que eventualmente existam; - N\u00e3o ser\u00e3o asseguradas visitas ao bem nos 5 (cinco) dias \u00fateis imediatamente anteriores \u00e0 data de termo do leil\u00e3o. - As visitas s\u00e3o efetuadas em hor\u00e1rio de expediente e mediante agendamento pr\u00e9vio para os contactos indicados no campo visitas, sendo ao AE Signat\u00e1ria respons\u00e1vel pela marca\u00e7\u00e3o das mesmas no seu escrit\u00f3rio.\r\n Adverte-se que: Se ao termo do leil\u00e3o, o valor da melhor proposta for superior ao valor m\u00ednimo, fica o proponente obrigado ao dep\u00f3sito do valor proposto, podendo-se promover o arresto de bens suficientes para garantir o suprarreferido valor, nos termos da al. c), do n.\u00ba 1, do art.\u00ba 825.\u00ba, do C.P.C. \u2013 C\u00f3digo do Processo Civil.",
+        "areaUtilPrivativa": 280.95,
+        "areaUtilDependente": 15.87,
+        "areaTotal": 18200.0,
+        "morada": "Alcochete",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Alcochete",
+        "moradaFreguesia": "Alcochete",
+        "moradaCP": "2890-162",
+        "coordenadasLAT": "38.71978199",
+        "coordenadasLON": "-8.92649799",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 68739,
+        "processoNumero": "4770/22.7T8ALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 101026,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"510313264\", \"nome\":\"Choupana do Rio Empreendimentos SA\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 266,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4478",
+        "gestorNome": "S\u00f3nia Teixeira",
+        "gestorEmail": "4478@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:42:06",
+        "dataAtualizacao": "2024-01-23T09:42:06",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091823_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091823_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091712_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091712_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091717_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091717_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091721_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091721_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091724_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091724_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091727_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091727_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091730_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091730_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091732_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091732_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091735_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091735_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091738_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091738_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091740_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091740_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091743_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091743_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091746_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091746_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091750_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091750_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091755_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091755_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091759_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091759_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091804_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091804_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091807_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091807_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091811_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091811_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091815_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091815_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091819_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091819_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091826_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091826_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091830_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091830_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091833_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091833_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091837_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091837_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091840_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091840_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091843_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091843_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101026/29092023091847_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101026/29092023091847_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 30814,
+                "numero": "1447",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "02 - Alcochete",
+                "freguesiaDesc": "01 - Alcochete",
+                "artigos": [
+                    {
+                        "numero": "27",
+                        "tipo": "rustica",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "02 - Alcochete",
+                        "freguesiaDesc": "01 - Alcochete"
+                    },
+                    {
+                        "numero": "6197",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "02 - Alcochete",
+                        "freguesiaDesc": "01 - Alcochete"
+                    },
+                    {
+                        "numero": "6195",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "02 - Alcochete",
+                        "freguesiaDesc": "01 - Alcochete"
+                    },
+                    {
+                        "numero": "6196",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "02 - Alcochete",
+                        "freguesiaDesc": "01 - Alcochete"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

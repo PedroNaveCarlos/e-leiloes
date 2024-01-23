@@ -1,0 +1,235 @@
+{
+    "item": {
+        "id": 130944,
+        "origem": 202509,
+        "lanceAtual": 212100.0,
+        "lanceAtualId": 5769,
+        "dataInicio": "2023-12-31T23:59:59",
+        "dataFimInicial": "2024-01-31T11:00:00",
+        "dataFim": "2024-01-31T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1187512023",
+        "tipoId": 1,
+        "subtipoId": 5,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_101944/30102023124011_800sm.jpg",
+        "titulo": "Lote Terreno p/Constru\u00e7\u00e3o(C/benfeitoria constru\u00edda) -Csl.Granja de Cima - Sintra",
+        "valorBase": 290000.0,
+        "valorAbertura": 145000.0,
+        "valorMinimo": 246500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Terreno Constru\u00e7\u00e3o",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio urbano composto por lote de terreno para constru\u00e7\u00e3o, onde se encontra em fase de constru\u00e7\u00e3o uma vivenda de 2 pisos (R/C e cave) o qual se encontra amplo e em tosco, sito na Rua Jos\u00e9 In\u00e1cio do Couto, n\u00ba 21, no Casal da Granja de Cima, Limites de V\u00e1rzea de Sintra, freguesia de Sintra (S. Martinho), concelho de Sintra, inscrito na respectiva matriz sob o artigo 5026 da uni\u00e3o de freguesias de Sintra (S. Maria, S. Miguel, S. Martinho e S. Pedro de Penaferrim) e descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Sintra sob o n\u00ba 3804/20071211.",
+        "observacoes": "Alerta-se que \u00e9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. Dever\u00e1, igualmente, ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidades da venda, o facto de o bem n\u00e3o ser entregue no momento da conclus\u00e3o do leil\u00e3o.\r\nFica a cargo do adquirente promover o averbamento da constru\u00e7\u00e3o destinada a habita\u00e7\u00e3o, assim como o seu licenciamento.\r\nREGIME DE VISITAS: n\u00e3o ser\u00e3o agendadas visitas nos \u00faltimos 5 dias \u00fateis antes da data de encerramento do leil\u00e3o.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 5002.0,
+        "morada": "Rua Jos\u00e9 In\u00e1cio Couto, Casal da Granja",
+        "moradaNumero": "21",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Sintra (Santa Maria e S\u00e3o Miguel, S\u00e3o Martinho e S\u00e3o Pedro de Penaferrim)",
+        "moradaCP": "2710-652",
+        "coordenadasLAT": "38.83480204501328",
+        "coordenadasLON": "-9.40103530883789",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69356,
+        "processoNumero": "9470/12.3T2SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 4",
+        "verbaId": 101944,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"508349370\", \"nome\":\"Sun Avenida - Energias Renov\u00e1veis de Portugal, Lda.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 887,
+        "cerimoniaData": "2024-01-31T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 360,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1772",
+        "gestorNome": "Jo\u00e3o F. Gon\u00e7alves Carvalho",
+        "gestorEmail": "1772@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:10:32",
+        "dataAtualizacao": "2024-01-23T09:10:32",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023124011_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023124011_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123903_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123903_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123910_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123910_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123913_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123913_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123918_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123918_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123921_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123921_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123924_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123924_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123927_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123927_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123930_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123930_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123932_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123932_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123935_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123935_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123938_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123938_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123940_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123940_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123943_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123943_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123946_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123946_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123949_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123949_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123951_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123951_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123954_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123954_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023123957_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023123957_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023124000_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023124000_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023124003_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023124003_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023124005_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023124005_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023124008_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023124008_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023124014_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023124014_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023124017_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023124017_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101944/30102023124020_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101944/30102023124020_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31446,
+                "numero": "3804",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "11 - Sintra (s. Martinho)",
+                "artigos": [
+                    {
+                        "numero": "5026",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "28 - Uni\u00e3o das freguesias de Sintra (Santa Maria e S\u00e3o Miguel, S\u00e3o Martinho e S\u00e3o Pedro de Penaferrim)"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

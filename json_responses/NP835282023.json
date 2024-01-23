@@ -1,0 +1,123 @@
+{
+    "item": {
+        "id": 130907,
+        "origem": 203491,
+        "lanceAtual": 0.0,
+        "dataInicio": "2023-12-29T16:36:35",
+        "dataFimInicial": "2024-01-30T14:30:00",
+        "dataFim": "2024-01-30T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP835282023",
+        "tipoId": 1,
+        "subtipoId": 5,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_91738/17112022152453_800sm.jpg",
+        "titulo": "Terreno para Constru\u00e7\u00e3o na Marateca - Lote 51",
+        "valorBase": 23182.6,
+        "valorAbertura": 11591.3,
+        "valorMinimo": 19705.21,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Terreno Constru\u00e7\u00e3o",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Lote de Terreno para Constru\u00e7\u00e3o, designado por Lote n.\u00ba 51, situado em \u00c1guas de Moura, actualmente sito na R. Ant\u00f3nio Tavares J\u00fanior, freguesia de Marateca, concelho de Palmela, descrito na Conservat\u00f3ria do Registo Predial de Palmela sob o n.\u00ba 1477, inscrito na matriz predial urbana actualmente designada Uni\u00e3o das Freguesias de Poceir\u00e3o e Marateca sob o artigo 47.",
+        "observacoes": "Lote de terreno para constru\u00e7\u00e3o, localizado junto ao centro de Marateca, relativamente perto de com\u00e9rcio, servi\u00e7os, transportes e escolas. Com as \u00e1reas: \u00c1rea total: 140,00 m2; \u00c1rea de Implanta\u00e7\u00e3o do Edif\u00edcio: 84,00m2 \u00c1rea Bruta de Constru\u00e7\u00e3o: 140,00m2 \u00c1rea Bruta Dependente: 0,00m2\r\nNa presente execu\u00e7\u00e3o n\u00e3o se encontra pendente qualquer oposi\u00e7\u00e3o, no entanto foram reclamados cr\u00e9ditos pela Seguran\u00e7a Social. \r\nAdvertem-se os interessados que \u00e9 da sua \u00fanica e exclusiva responsabilidade a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 assegurar-se que o mesmo corresponde \u00e0s suas expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 140.0,
+        "morada": "Rua Alberto Valente",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Palmela",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Poceir\u00e3o e Marateca",
+        "moradaCP": "2965-557",
+        "coordenadasLAT": "38.588312849937346",
+        "coordenadasLON": "-8.69243860244751",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 62645,
+        "processoNumero": "4718/21.6T8STB",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 91738,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"503546569\", \"nome\":\"Urbimeta- Gest\u00e3o Urbanistica, Sa\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 746,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1635",
+        "gestorNome": "Marina Campos",
+        "gestorEmail": "1635@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:31:25",
+        "dataAtualizacao": "2024-01-23T09:31:25",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91738/17112022152453_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91738/17112022152453_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91738/17112022152448_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91738/17112022152448_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91738/17112022152450_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91738/17112022152450_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91738/17112022152455_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91738/17112022152455_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 24920,
+                "numero": "1477",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "08 - Palmela",
+                "freguesiaDesc": "01 - Marateca",
+                "artigos": [
+                    {
+                        "numero": "47",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "08 - Palmela",
+                        "freguesiaDesc": "06 - Uni\u00e3o das freguesias de Poceir\u00e3o e Marateca"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

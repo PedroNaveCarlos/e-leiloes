@@ -1,0 +1,171 @@
+{
+    "item": {
+        "id": 130500,
+        "origem": 203065,
+        "lanceAtual": 0.0,
+        "dataInicio": "2023-12-22T08:45:31",
+        "dataFimInicial": "2024-03-21T14:30:00",
+        "dataFim": "2024-03-21T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP832712023",
+        "tipoId": 1,
+        "subtipoId": 5,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_101855/27102023124315_800sm.jpg",
+        "titulo": "14/16 avos de Terreno para constru\u00e7\u00e3o em Lisboa",
+        "valorBase": 5635000.0,
+        "valorAbertura": 2817500.0,
+        "valorMinimo": 4789750.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Terreno Constru\u00e7\u00e3o",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Direito a 14/16 avos do Pr\u00e9dio Misto, antiga \"Quinta do Coxo\" no Alto do Varej\u00e3o, com 17.360m2 de \u00e1rea total, sendo 274m2 de \u00e1rea coberta relativa \u00e0 parte urbana composta por cinco constru\u00e7\u00f5es abarracadas e 17.086m2 de \u00e1rea descoberta relativa \u00e0 parte r\u00fastica, com acesso/serventia pela Rua Lopes n\u00ba 38, descrito na Conservat\u00f3ria do Registo Predial de Lisboa com a ficha 2398 da freguesia de Santa Engr\u00e1cia, inscrito na matriz predial r\u00fastica sob o artigo 2 da freguesia de Penha de Fran\u00e7a, e na matriz predial urbana com os artigos 98, 99, 100 e 101 da mesma freguesia.",
+        "observacoes": "Terreno atualmente classificado como urbano, inserido no Plano de Pormenor Urban\u00edstico da Cal\u00e7ada das Lajes, aprovado pela C\u00e2mara Municipal de Lisboa conforme publica\u00e7\u00e3o no Di\u00e1rio da Rep\u00fablica - DR, 2\u00aa S\u00e9rie n\u00ba 194 (Pag. 226 e seg) de 06-10-2021, sendo compropriet\u00e1rio (2/14 avos) a F\u00e1brica da Igreja de S\u00e3o Francisco de Assis, cuja Templo e espa\u00e7o circundante est\u00e1 j\u00e1 edificado.\r\nToda a informa\u00e7\u00e3o sobre a capacidade de constru\u00e7\u00e3o atribu\u00edda ao terreno em venda, bem como encargos e obriga\u00e7\u00f5es considerados, est\u00e1 patente na p\u00e1gina internet da C\u00e2mara Municipal de Lisboa com o link \r\nhttps://www.lisboa.pt/cidade/urbanismo/planeamento-urbano/planos-de-pormenor/detalhe/calcada-das-lajes",
+        "areaUtilPrivativa": 274.0,
+        "areaUtilDependente": 17086.0,
+        "areaTotal": 17360.0,
+        "morada": "Rua Lopes",
+        "moradaNumero": "38",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lisboa",
+        "moradaFreguesia": "Penha de Fran\u00e7a",
+        "moradaCP": "1900-299",
+        "coordenadasLAT": "38.724094644101164",
+        "coordenadasLON": "-9.119853973388672",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69314,
+        "processoNumero": "2795/04.3TTLSB-A",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Trabalho - Juiz 5",
+        "verbaId": 101855,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"501499229\", \"nome\":\"Vilanorte Constru\u00e7\u00f5es Lda.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 19,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3860",
+        "gestorNome": "Emanuel Salazar Ara\u00fajo",
+        "gestorEmail": "3860@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:27:23",
+        "dataAtualizacao": "2024-01-23T09:27:23",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "Vista geral",
+                "image": "files/Verbas_Fotos/verba_101855/27102023124315_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101855/27102023124315_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101855/27102023164414_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101855/27102023164414_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101855/27102023164425_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101855/27102023164425_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101855/27102023164440_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101855/27102023164440_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101855/27102023164455_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101855/27102023164455_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101855/27102023164504_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101855/27102023164504_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Terreno inserido em Plano de Pormenor Urban\u00edstico aprovado pela C\u00e2mara Municipal de Lisboa",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 31434,
+                "numero": "2398",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "06 - Lisboa",
+                "freguesiaDesc": "29 - Santa Engracia",
+                "artigos": [
+                    {
+                        "numero": "2",
+                        "tipo": "rustica",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "63 - Penha de Fran\u00e7a"
+                    },
+                    {
+                        "numero": "98",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "63 - Penha de Fran\u00e7a"
+                    },
+                    {
+                        "numero": "99",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "63 - Penha de Fran\u00e7a"
+                    },
+                    {
+                        "numero": "100",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "63 - Penha de Fran\u00e7a"
+                    },
+                    {
+                        "numero": "101",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "63 - Penha de Fran\u00e7a"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

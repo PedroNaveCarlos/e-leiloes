@@ -1,0 +1,122 @@
+{
+    "item": {
+        "id": 127679,
+        "origem": 200316,
+        "lanceAtual": 128235.51,
+        "lanceAtualId": 55247,
+        "dataInicio": "2023-11-20T10:42:10",
+        "dataFimInicial": "2024-02-20T14:30:00",
+        "dataFim": "2024-02-20T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP816772023",
+        "tipoId": 1,
+        "subtipoId": 7,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_96193/31032023151754_800sm.jpg",
+        "titulo": "Pr\u00e9dio sito em Moita dos Ferreiros - Lourinh\u00e3",
+        "valorBase": 256471.0,
+        "valorAbertura": 128235.5,
+        "valorMinimo": 218000.35,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Pr\u00e9dio",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio urbano, descrito sob o n.\u00ba 1751, junto da Conservat\u00f3ria do Registo Predial, Comercial e Autom\u00f3veis da Lourinh\u00e3, freguesia de Moita dos Ferreiros, inscrito na respetiva matriz predial urbana sob o art.\u00ba 2435, da freguesia de Moita dos Ferreiros, sito na Rua Veiga Rego, n.\u00ba 8, em Moita dos Ferreiros, composto por Edif\u00edcio de r\u00e9s-do-ch\u00e3o destinado a escrit\u00f3rios, com garagem e arrumos, primeiro andar destinado a habita\u00e7\u00e3o, com varanda e terra\u00e7o, s\u00f3t\u00e3o destinado a arrumos e logradouro.",
+        "observacoes": "- ESTADO DE CONSERVA\u00c7\u00c3O: O estado de conserva\u00e7\u00e3o do im\u00f3vel \u00e9 razo\u00e1vel. \r\n- FOTOS: N\u00e3o foi autorizada a recolha de fotos do interior.\r\n- VERIFICA\u00c7\u00c3O DO BEM: As \u00e1reas indicadas servem apenas como refer\u00eancia pois n\u00e3o foram feitas medi\u00e7\u00f5es exatas no local. \u00c9 da \u00fanica e exclusiva responsabilidade dos proponentes a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 assegurar-se que o mesmo corresponde \u00e0s suas expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda. \r\n- ENCARGOS COM A COMPRA E VENDA: Venda sujeita a IMT e Imposto de selo (se aplic\u00e1veis nos termos dos respetivos c\u00f3digos).\r\n- VISITAS: Para efeitos de visita dever\u00e1 ser contactado o diretor financeiro da Executada, conforme por aquela indicado, atrav\u00e9s dos contatos disponibilizados para o efeito.\r\n- OUTRAS INFORMA\u00c7\u00d5ES: No im\u00f3vel encontra-se a laborar a sociedade executada.",
+        "areaUtilPrivativa": 536.61,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 536.61,
+        "morada": "Rua Veiga Rego",
+        "moradaNumero": "8",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lourinh\u00e3",
+        "moradaFreguesia": "Moita dos Ferreiros",
+        "moradaCP": "2530-499",
+        "coordenadasLAT": "39.24661050",
+        "coordenadasLON": "-9.22278396",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 45764,
+        "processoNumero": "7719/16.2T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 96193,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"504278959\", \"nome\":\"Ajfs - Obras P\u00fablicas, S.A.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 64,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "6719",
+        "gestorNome": "HUGO TORRADO",
+        "gestorEmail": "6719@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:22:37",
+        "dataAtualizacao": "2024-01-23T09:22:37",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96193/31032023151754_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96193/31032023151754_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96193/31032023151752_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96193/31032023151752_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "2019-03-01",
+                "valor": 550.0,
+                "dataPrazo": "2029-03-01",
+                "descricao": "",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 27789,
+                "numero": "1751",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "08 - Lourinh\u00e3",
+                "freguesiaDesc": "03 - Moita dos Ferreiros",
+                "artigos": [
+                    {
+                        "numero": "2435",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "08 - Lourinh\u00e3",
+                        "freguesiaDesc": "03 - Moita dos Ferreiros"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

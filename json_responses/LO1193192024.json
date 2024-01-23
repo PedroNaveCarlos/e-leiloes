@@ -1,0 +1,220 @@
+{
+    "item": {
+        "id": 132115,
+        "origem": 203942,
+        "lanceAtual": 76500.0,
+        "lanceAtualId": 43453,
+        "dataInicio": "2024-01-15T00:00:01",
+        "dataFimInicial": "2024-02-14T10:30:00",
+        "dataFim": "2024-02-14T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1193192024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_103840/08012024111813_800sm.jpg",
+        "titulo": "Apartamento T2 - Arruda dos Vinhos",
+        "valorBase": 90000.0,
+        "valorAbertura": 45000.0,
+        "valorMinimo": 76500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"J\" do pr\u00e9dio em regime de propriedade horizontal afeta a habita\u00e7\u00e3o, sito na Rua Fernando Pessoa  n.\u00ba 1 3\u00ba andar frente, inscrita na matriz predial urbana sob o artigo 2587\u00ba da freguesia de Arruda dos Vinhos e descrita na Conservat\u00f3ria do Registo Predial de Arruda dos Vinhos sob a ficha 588 - J - da referida freguesia.",
+        "observacoes": "A A.E. tomou posse do im\u00f3vel, pelo que os interessados em visitar o mesmo dever\u00e3o, previamente, contact\u00e1-la para efeitos de agendamento de visitas, atrav\u00e9s do contacto dispon\u00edvel para o efeito no campo \"Visitas por Marca\u00e7\u00e3o\". Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas, licen\u00e7as e outros aspetos que considerem relevantes, do(s) bem(ns). A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda. Os interessados antes de efetuarem quaisquer propostas, devem consultar as regras de funcionamento e as Faq constantes no site www.e-leiloes.pt.",
+        "areaUtilPrivativa": 82.5,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 82.5,
+        "morada": "Rua Fernando Pessoa",
+        "moradaNumero": "1",
+        "moradaAndar": "3\u00ba Ft",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Arruda dos Vinhos",
+        "moradaFreguesia": "Arruda dos Vinhos",
+        "moradaCP": "2630-238",
+        "coordenadasLAT": "38.98847451",
+        "coordenadasLON": "-9.08030620",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70636,
+        "processoNumero": "6544/11.1TBVFX",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 103840,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"204257867\", \"nome\":\"Rui Miguel Matos Ventura\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 892,
+        "cerimoniaData": "2024-02-14T15:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 77,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4200",
+        "gestorNome": "CL\u00c1UDIA RODRIGUES",
+        "gestorEmail": "4200@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:20:37",
+        "dataAtualizacao": "2024-01-23T09:20:37",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111813_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111813_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111659_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111659_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111701_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111701_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111703_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111703_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111705_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111705_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111707_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111707_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111709_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111709_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111711_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111711_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111713_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111713_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111715_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111715_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111717_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111717_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111719_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111719_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111721_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111721_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111723_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111723_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111725_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111725_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111727_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111727_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111728_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111728_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111730_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111730_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111732_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111732_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111811_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111811_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111815_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111815_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111817_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111817_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103840/08012024111819_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103840/08012024111819_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32473,
+                "numero": "588",
+                "fracao": "J",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "02 - Arruda dos Vinhos",
+                "freguesiaDesc": "02 - Arruda dos Vinhos",
+                "artigos": [
+                    {
+                        "numero": "2587",
+                        "tipo": "urbana",
+                        "fracao": "J",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "02 - Arruda dos Vinhos",
+                        "freguesiaDesc": "02 - Arruda dos Vinhos"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,310 @@
+{
+    "item": {
+        "id": 131514,
+        "origem": 201995,
+        "lanceAtual": 292265.24,
+        "lanceAtualId": 3301,
+        "dataInicio": "2024-01-09T00:00:07",
+        "dataFimInicial": "2024-02-14T10:00:00",
+        "dataFim": "2024-02-14T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1185742023",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_103207/11122023152429_800sm.jpg",
+        "titulo": "Moradia com garagem e piscina na Aroeira",
+        "valorBase": 498500.0,
+        "valorAbertura": 249250.0,
+        "valorMinimo": 423725.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T3",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma \"B\", correspondente ao Lote quatro direito, do pr\u00e9dio urbano em regime de propriedade horizontal, situado na Aroeira, na Rua Fernando Calhau, n.\u00ba 15, descrito na 2\u00aa CRP de Almada, sob o n\u00ba 13544 e inscrito na respectiva matriz com o artigo matricial n\u00ba 19947, da Uni\u00e3o das freguesias de Charneca de Caparica e Sobreda, concelho de Almada.",
+        "observacoes": "O im\u00f3vel precisa de algumas obras de manuten\u00e7\u00e3o e conserva\u00e7\u00e3o. Padece de algumas humidades e infiltra\u00e7\u00f5es.\r\nNa garagem foi colocada divis\u00f3ria em pladur para aproveitamento do espa\u00e7o com mais uma divis\u00e3o. A zona de lavandaria criada no jardim n\u00e3o \u00e9 de origem e n\u00e3o consta na planta do im\u00f3vel. O regime de visitas \u00e9 por marca\u00e7\u00e3o com o executado. Os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e outros aspectos que considerem relevantes, do(s) bem(s). \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. O im\u00f3vel \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisi\u00e7\u00e3o que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.",
+        "areaUtilPrivativa": 155.25,
+        "areaUtilDependente": 40.7,
+        "areaTotal": 195.95,
+        "morada": "Rua Fernando Calhau",
+        "moradaNumero": "15",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Almada",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Charneca de Caparica e Sobreda",
+        "moradaCP": "2820-128",
+        "coordenadasLAT": "38.58453834",
+        "coordenadasLON": "-9.17428998",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70226,
+        "processoNumero": "19882/16.8T8LSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 103207,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"259535192\", \"nome\":\"Rosilene F\u00e1tima Kuhn Franco\", \"requerido\":\"False\"},{\"nif\":\"208662391\", \"nome\":\"Samuel David Morais Franco\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 891,
+        "cerimoniaData": "2024-02-14T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 572,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3569",
+        "gestorNome": "Cristina Abade",
+        "gestorEmail": "3569@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "218411040",
+        "gestorFax": "",
+        "gestorMorada": "AV. Guerra Junqueiro, n\u00ba 5, 3\u00ba Dto.",
+        "gestorHorario": "2\u00aa a 6\u00aa feira das 9h00 \u00e0s 13h00",
+        "dataServidor": "2024-01-23T09:36:28",
+        "dataAtualizacao": "2024-01-23T09:36:28",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "Fachada do im\u00f3vel",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152429_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152429_200.jpg"
+            },
+            {
+                "legenda": "Fachada do im\u00f3vel",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152427_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152427_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152432_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152432_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152438_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152438_200.jpg"
+            },
+            {
+                "legenda": "Entrada",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152440_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152440_200.jpg"
+            },
+            {
+                "legenda": "Escadas de acesso ao primeiro andar",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152441_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152441_200.jpg"
+            },
+            {
+                "legenda": "Sala",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152443_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152443_200.jpg"
+            },
+            {
+                "legenda": "Sala",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152445_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152445_200.jpg"
+            },
+            {
+                "legenda": "Jardim",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152446_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152446_200.jpg"
+            },
+            {
+                "legenda": "Zona da Churrasqueira",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152448_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152448_200.jpg"
+            },
+            {
+                "legenda": "Jardim e lavandaria ao fundo",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152452_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152452_200.jpg"
+            },
+            {
+                "legenda": "Piscina",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152454_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152454_200.jpg"
+            },
+            {
+                "legenda": "Jardim",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152455_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152455_200.jpg"
+            },
+            {
+                "legenda": "Cozinha",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152457_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152457_200.jpg"
+            },
+            {
+                "legenda": "Cozinha",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152459_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152459_200.jpg"
+            },
+            {
+                "legenda": "Cozinha",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152501_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152501_200.jpg"
+            },
+            {
+                "legenda": "Anexo da garagem",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152502_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152502_200.jpg"
+            },
+            {
+                "legenda": "Garagem",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152504_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152504_200.jpg"
+            },
+            {
+                "legenda": "Lavandaria",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152505_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152505_200.jpg"
+            },
+            {
+                "legenda": "Tecto da lavandaria",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152507_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152507_200.jpg"
+            },
+            {
+                "legenda": "Vista da lavandaria",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152509_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152509_200.jpg"
+            },
+            {
+                "legenda": "Corredor da entrada",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152510_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152510_200.jpg"
+            },
+            {
+                "legenda": "W/c de servi\u00e7o",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152512_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152512_200.jpg"
+            },
+            {
+                "legenda": "Quarto 1",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152515_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152515_200.jpg"
+            },
+            {
+                "legenda": "Quarto 1",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152517_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152517_200.jpg"
+            },
+            {
+                "legenda": "Terra\u00e7o de um dos quartos no primeiro andar",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152519_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152519_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152521_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152521_200.jpg"
+            },
+            {
+                "legenda": "Vista do primeiro andar",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152524_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152524_200.jpg"
+            },
+            {
+                "legenda": "W/c comum",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152526_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152526_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152528_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152528_200.jpg"
+            },
+            {
+                "legenda": "Suite",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152533_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152533_200.jpg"
+            },
+            {
+                "legenda": "Suite",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152534_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152534_200.jpg"
+            },
+            {
+                "legenda": "Terra\u00e7o de um dos quartos no primeiro andar",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152536_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152536_200.jpg"
+            },
+            {
+                "legenda": "W/c da suite",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152538_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152538_200.jpg"
+            },
+            {
+                "legenda": "W/c da suite",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152540_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152540_200.jpg"
+            },
+            {
+                "legenda": "W/c da suite",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152541_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152541_200.jpg"
+            },
+            {
+                "legenda": "Suite",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152545_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152545_200.jpg"
+            },
+            {
+                "legenda": "Garagem",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152547_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152547_200.jpg"
+            },
+            {
+                "legenda": "Lateral de Acesso \u00e0 zona da piscina",
+                "image": "files/Verbas_Fotos/verba_103207/11122023152549_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023152549_200.jpg"
+            },
+            {
+                "legenda": "Port\u00e3o de entrada da garagem",
+                "image": "files/Verbas_Fotos/verba_103207/11122023154037_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023154037_200.jpg"
+            },
+            {
+                "legenda": "Fachada lateral do im\u00f3vel",
+                "image": "files/Verbas_Fotos/verba_103207/11122023154135_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103207/11122023154135_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32152,
+                "numero": "13544",
+                "fracao": "B",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "03 - Almada",
+                "freguesiaDesc": "09 - Charneca de Caparica",
+                "artigos": [
+                    {
+                        "numero": "19947",
+                        "tipo": "urbana",
+                        "fracao": "B",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "03 - Almada",
+                        "freguesiaDesc": "14 - Uni\u00e3o das freguesias de Charneca de Caparica e Sobreda"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

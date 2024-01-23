@@ -1,0 +1,155 @@
+{
+    "item": {
+        "id": 131703,
+        "origem": 202364,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-10T00:00:04",
+        "dataFimInicial": "2024-02-14T11:00:00",
+        "dataFim": "2024-02-14T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1186982023",
+        "tipoId": 1,
+        "subtipoId": 5,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_103329/14122023162553_800sm.jpg",
+        "titulo": "1/2 (metade) de lote de terreno para constru\u00e7\u00e3o com benfeitorias",
+        "valorBase": 107000.0,
+        "valorAbertura": 53500.0,
+        "valorMinimo": 90950.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Terreno Constru\u00e7\u00e3o",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "1/2 (metade) titularidade do executado Filipe Tiago dos Santos Ferreira, do pr\u00e9dio urbano composto por parcela de terreno para constru\u00e7\u00e3o, sito em Rua do Dep\u00f3sito, lote G22, Quinta das Laranjeiras, Pinhal de Frades, Freguesia de Fern\u00e3o Ferro, Concelho de Seixal, descrito na Conservat\u00f3ria do Registo Predial de Seixal, sob o n\u00ba 365/19961009, Freguesia de Fern\u00e3o Ferro, inscrito na matriz predial urbana da Freguesia de Fern\u00e3o Ferro, sob o n\u00ba 7631.",
+        "observacoes": "Na parcela de terreno para constru\u00e7\u00e3o encontram-se implantadas/edificadas benfeitorias. \r\nSegundo a informa\u00e7\u00e3o que foi poss\u00edvel obter em dilig\u00eancia ao bem, este encontra-se ocupado pelos pais do executado, informa\u00e7\u00e3o que dever\u00e1 confirmar com o fiel deposit\u00e1rio.\r\nDesconhece-se no processo executivo se tais constru\u00e7\u00f5es/benfeitorias ter\u00e3o sido objeto de legaliza\u00e7\u00e3o junto da C\u00e2mara Municipal e outras eventuais entidades competentes, tendo sido obitido a informa\u00e7\u00e3o de que a edifica\u00e7\u00e3o ali implantada se encontra interligada.\r\nNota:\r\nAs \u00e1reas indicadas servem apenas como refer\u00eancia pois n\u00e3o foram feitas medi\u00e7\u00f5es exatas no local. Cuja regulariza\u00e7\u00e3o predial/finan\u00e7as, quanto a eventuais diverg\u00eancias entre as cadernetas prediais/finan\u00e7as e o registo predial compete e \u00e9 da total responsabilidade do adquirente, junto das entidades competentes. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e todos os outros aspetos que considerem relevantes.\r\nCom a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspecionado o im\u00f3vel e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o.\r\nO im\u00f3vel \u00e9 vendido no estado que se encontra pelo que os interessados devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta por parte do proponente n\u00e3o determina nos termos legais a anula\u00e7\u00e3o da venda.\r\nExiste reclama\u00e7\u00e3o de cr\u00e9ditos da qual ainda n\u00e3o foi proferida senten\u00e7a.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 1038.0,
+        "morada": "Rua Dep\u00f3sito",
+        "moradaNumero": "43 A e B",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Seixal",
+        "moradaFreguesia": "Fern\u00e3o Ferro",
+        "moradaCP": "2865-452",
+        "coordenadasLAT": "38.58073135188431",
+        "coordenadasLON": "-9.093353748321533",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70303,
+        "processoNumero": "276/20.7T8ALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 103329,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"212099876\", \"nome\":\"Filipe Tiago dos Santos Ferreira\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 891,
+        "cerimoniaData": "2024-02-14T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 336,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2616",
+        "gestorNome": "Jos\u00e9 Maria Soares Sequeira",
+        "gestorEmail": "2616@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:38:07",
+        "dataAtualizacao": "2024-01-23T09:38:07",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103329/14122023162553_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103329/14122023162553_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103329/14122023162559_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103329/14122023162559_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103329/14122023162601_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103329/14122023162601_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103329/14122023162604_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103329/14122023162604_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103329/14122023162607_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103329/14122023162607_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103329/14122023162610_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103329/14122023162610_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103329/14122023162612_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103329/14122023162612_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103329/14122023162615_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103329/14122023162615_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103329/14122023162618_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103329/14122023162618_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103329/14122023162621_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103329/14122023162621_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103329/14122023162623_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103329/14122023162623_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103329/14122023162626_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103329/14122023162626_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103329/14122023162629_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103329/14122023162629_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Conservat\u00f3ria do Registo Predial de Seixal\nOFICIOSO\nAP. 1825 de 2016/01/18 09:44:02 UTC - \u00d3NUS\nRegistado no Sistema em: 2016/02/08 09:44:02 UTC\nABRANGE 54 PR\u00c9DIOS\n\u00d3nus de n\u00e3o indemniza\u00e7\u00e3o pela demoli\u00e7\u00e3o das constru\u00e7\u00f5es principais existentes nos lotes G1B,\nG3, G7A, G8B, G10, G13, G14, G19, G21, G22, G25, G26, G27A, G28A, G30, G30A, G31, G32B, G41,\nG47A, G47B, G51, G53A, G53B, G57, G58, G62, G64, G65, G67, G68, G70A, G70B e G78; b) Anexos\nexistentes nos lotes G-4, G7, G8A, G8B, G10, G11, G12, G13, G14, G15, G16, G17, G18, G21,\nG22, G23, G24, G25, G26, G27A, G27B, G28A, G29, G30A, G31, G32A, G32B, G33, G35, G36, G41,\nG44, G45, G47A, G49, G50, G53A, G54, G55, G57, G58, G59A, G61, G62, G63, G65, G68, G69, G70A,\nG70B, G72B, G74 e G78; c) Anexo existente a demolir no lote G17. Esta constru\u00e7\u00e3o \u00e9\nobrigat\u00f3riamente a demolir, uma vez que ocupa \u00e1rea de ced\u00eancia ao Dom\u00ednio P\u00fablica Municipal\n(arruamento).",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

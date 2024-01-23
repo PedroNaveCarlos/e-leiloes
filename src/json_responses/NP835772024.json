@@ -1,0 +1,184 @@
+{
+    "item": {
+        "id": 131820,
+        "origem": 203562,
+        "lanceAtual": 26460.74,
+        "lanceAtualId": 124442,
+        "dataInicio": "2024-01-10T22:04:40",
+        "dataFimInicial": "2024-04-09T14:30:00",
+        "dataFim": "2024-04-09T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP835772024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_103649/28122023102223_800sm.jpg",
+        "titulo": "Apartamento T2 sito em Vialonga",
+        "valorBase": 48000.0,
+        "valorAbertura": 24000.0,
+        "valorMinimo": 40800.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra H, correspondente ao TERCEIRO ANDAR ESQUERDO para habita\u00e7\u00e3o, do pr\u00e9dio em regime de propriedade horizontal sito na Rua Almada Negreiros, Banda 8 , lote F em Vialonga, freguesia de Vialonga, concelho de Vila Franca de Xira, inscrito na matriz sob o artigo 1994 e descrito na Segunda Conservat\u00f3ria do Registo Predial de Vila Franca de Xira sob o numero 1445/ Vialonga.",
+        "observacoes": "-Im\u00f3vel composto por 2 quartos, wc, sala, despensa e cozinha com m\u00f3veis incompletos.\r\n-Piso flutuante nos quartos e na despensa, sendo cer\u00e2mico nas restantes divis\u00f5es.\r\n-Encontra-se em razo\u00e1vel estado de conserva\u00e7\u00e3o.\r\n-Pr\u00e9dio sem elevador.\r\n- Dever\u00e3o ainda os interessados antes de efetuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt e/ou aconselhar-se junto de um Solicitador ou Advogado.\r\n- \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. Dever\u00e1 igualmente ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidade da venda e ao facto de o bem n\u00e3o ser entregue no momento da adjudica\u00e7\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.\r\n- Regime de visitas \u2013 Favor entrar em contacto com o Agente de Execu\u00e7\u00e3o.",
+        "areaUtilPrivativa": 61.8,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 61.8,
+        "morada": "Rua Almada Negreiros",
+        "moradaNumero": "8",
+        "moradaAndar": "3\u00baESQ",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Vila Franca de Xira",
+        "moradaFreguesia": "Vialonga",
+        "moradaCP": "2625-638",
+        "coordenadasLAT": "38.87612982",
+        "coordenadasLON": "-9.08550894",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70512,
+        "processoNumero": "346/05.1TBVFX-A",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 103649,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"103539930\", \"nome\":\"AM\u00c9RICO JOAQUIM PEREIRA DA SILVA\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 44,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5094",
+        "gestorNome": "JOEL SILVA ANTUNES",
+        "gestorEmail": "5094@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-14T18:48:20",
+        "dataAtualizacao": "2024-01-14T18:48:20",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102223_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102223_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102124_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102124_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102126_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102126_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102128_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102128_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102130_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102130_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102132_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102132_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102138_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102138_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102140_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102140_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102141_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102141_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102144_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102144_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102147_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102147_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102150_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102150_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102151_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102151_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102154_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102154_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102156_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102156_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103649/28122023102158_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103649/28122023102158_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32383,
+                "numero": "1445",
+                "fracao": "H",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "14 - Vila Franca de Xira",
+                "freguesiaDesc": "08 - Vialonga",
+                "artigos": [
+                    {
+                        "numero": "1994",
+                        "tipo": "urbana",
+                        "fracao": "H",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "14 - Vila Franca de Xira",
+                        "freguesiaDesc": "07 - Montemor-o-velho"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

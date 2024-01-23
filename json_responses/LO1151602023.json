@@ -1,0 +1,174 @@
+{
+    "item": {
+        "id": 132071,
+        "origem": 194298,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-14T00:00:00",
+        "dataFimInicial": "2024-02-14T10:30:00",
+        "dataFim": "2024-02-14T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1151602023",
+        "tipoId": 1,
+        "subtipoId": 27,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_100471/12092023174328_800sm.jpg",
+        "titulo": "Pr\u00e9dio r\u00fastico denominado Lombo, em Lugar do Morgado - Vila Franca de Xira",
+        "valorBase": 34800.0,
+        "valorAbertura": 17400.0,
+        "valorMinimo": 29580.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "R\u00fastico",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio r\u00fastico composto de terras de cultura arvense e leito de curso de \u00e1gua, denominado \"Lombo\", sito no Lugar do Morgado, descrito na 2.\u00aa Conservat\u00f3ria do Registo Predial de Vila Franca de Xira sob o n.\u00ba 3272 da freguesia de Vialonga, concelho de Vila Franca de Xira, inscrito na respetiva matriz sob o n.\u00ba 2, Sec\u00e7\u00e3o Z.",
+        "observacoes": "POR FAVOR LER AS OBSERVA\u00c7\u00d5ES AT\u00c9 AO FIM \r\nNo local existe uma \"casa\" em tijolo, com telhado em chapa de zinco, com dois compartimentos com entrada independente, sem quaisquer condi\u00e7\u00f5es de habitabilidade. Existem tamb\u00e9m \"barracas\" em madeira. No local vive um casal, o Sr. Francisco e sua esposa que ali se recolheram por n\u00e3o terem casa.\r\nDever\u00e1 localizar o bem im\u00f3vel com as seguintes coordenadas:\r\n -83094,267;-88707,253\r\n\r\n- note-se que a localiza\u00e7\u00e3o indicada no mapa no e-leiloes n\u00e3o \u00e9 exacta, nem o im\u00f3vel se situa exactamente no Largo de Alpriate, dever\u00e1 antes atentar-se nas fotografias anexas ao leil\u00e3o e nas coordenadas que se indica no par\u00e1grafo anterior.\r\n\r\nRecomenda\u00e7\u00e3o geral - leil\u00f5es eletr\u00f3nicos - previamente \u00e0 apresenta\u00e7\u00e3o de proposta, deve visitar o bem im\u00f3vel, uma vez que este \u00e9 vendido no estado em que se encontra. Ap\u00f3s apresentada proposta, a mesma n\u00e3o pode ser retirada. Trata-se de um pr\u00e9dio r\u00fastico pelo que, basta dirigir-se ao local a qualquer hora para ver o im\u00f3vel.\r\n\r\n\u00c9 OBRIGAT\u00d3RIO o dep\u00f3sito do pre\u00e7o no prazo de quinze dias. N\u00e3o sendo depositado o pre\u00e7o no referido prazo, a Agente de Execu\u00e7\u00e3o poder\u00e1 promover, com autoriza\u00e7\u00e3o judicial pr\u00e9via, o arresto dos bens do proponente que ven\u00e7a o leil\u00e3o e n\u00e3o proceda ao dep\u00f3sito do pre\u00e7o - ler atentamente o disposto no artigo 825\u00ba, n.\u00ba 1 al. c) do C\u00f3digo de Processo Civil.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 4.4,
+        "morada": "Largo Alpriate, Alpriate",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Vila Franca de Xira",
+        "moradaFreguesia": "Vialonga",
+        "moradaCP": "2625-571",
+        "coordenadasLAT": "38.86497387225007",
+        "coordenadasLON": "-9.091873168945312",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 68379,
+        "processoNumero": "7812/20.7T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 100471,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"502291753\", \"nome\":\"Fontalgarve - Empreendimentos Imobili\u00e1rios, S. A.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 892,
+        "cerimoniaData": "2024-02-14T15:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 311,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5397",
+        "gestorNome": "DANIELA PORTUGAL DE CARVALHO",
+        "gestorEmail": "5397@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:20:13",
+        "dataAtualizacao": "2024-01-23T09:20:13",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100471/12092023174328_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100471/12092023174328_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100471/22122023171819_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100471/22122023171819_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100471/22122023171826_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100471/22122023171826_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100471/22122023171832_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100471/22122023171832_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100471/22122023171838_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100471/22122023171838_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100471/22122023171845_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100471/22122023171845_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100471/22122023171953_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100471/22122023171953_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100471/22122023172000_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100471/22122023172000_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100471/22122023172009_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100471/22122023172009_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100471/22122023172015_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100471/22122023172015_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100471/22122023172041_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100471/22122023172041_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100471/22122023172049_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100471/22122023172049_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100471/22122023172057_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100471/22122023172057_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100471/22122023172104_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100471/22122023172104_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 30517,
+                "numero": "3272",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "14 - Vila Franca de Xira",
+                "freguesiaDesc": "08 - Vialonga",
+                "artigos": [
+                    {
+                        "numero": "2",
+                        "tipo": "rustica",
+                        "fracao": "Z",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "14 - Vila Franca de Xira",
+                        "freguesiaDesc": "08 - Vialonga"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

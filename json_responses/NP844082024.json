@@ -1,0 +1,143 @@
+{
+    "item": {
+        "id": 132411,
+        "origem": 205064,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-18T08:09:31",
+        "dataFimInicial": "2024-04-17T14:30:00",
+        "dataFim": "2024-04-17T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP844082024",
+        "tipoId": 1,
+        "subtipoId": 4,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_87887/15072022085317_800sm.jpg",
+        "titulo": "DIREITO SOBRE IMOVEL, SANTO ANDR\u00c9, SANTIAGO DO CAC\u00c9M",
+        "valorBase": 197168.37,
+        "valorAbertura": 98584.19,
+        "valorMinimo": 167593.11,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Armaz\u00e9m / Ind\u00fastria",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Direito de superf\u00edcie sobre a frac\u00e7\u00e3o aut\u00f3noma designada pela letra A, composta por cave \u2013 com\u00e9rcio \u2013 com logradouro com a \u00e1rea de 228.33 m2, do pr\u00e9dio sito na Avenida de Sines, Lote 148, freguesia de Santo Andr\u00e9, concelho de Santiago do Cac\u00e9m, inscrito na matriz sob o art. 6449\u00ba-A e descrito no registo predial sob o n\u00ba 2523\u00ba-",
+        "observacoes": "Faz-se saber que:  \u00c9 da \u00fanica responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1, se assim entender, antes de apresentar proposta assegurar-se que o mesmo corresponde as suas expetativas e que e encontra nas condi\u00e7\u00f5es pretendidas, uma vez que, com apresenta\u00e7\u00e3o de proposta, presume-se que o proponente tenha inspecionado o bem supra descrito, e conhece as suas caracter\u00edsticas e consequentemente, declina qual responsabilidade pelo seu estado de conserva\u00e7\u00e3o e nos casos aplic\u00e1veis, do seu eventual funcionamento; - O presente bem \u00e9 vendido no estado f\u00edsico e jur\u00eddico em que se encontra, sem garantias de quaisquer v\u00edcios que possam surgir ou que eventualmente existam; - N\u00e3o ser\u00e3o asseguradas visitas ao bem nos 5 (cinco) dias \u00fateis imediatamente anteriores \u00e0 data de termo do leil\u00e3o. - As visitas s\u00e3o efetuadas em hor\u00e1rio de expediente e mediante agendamento pr\u00e9vio para os contactos indicados no campo visitas \r\n Adverte-se que: Se ao termo do leil\u00e3o, o valor da melhor proposta for superior ao valor m\u00ednimo, fica o proponente obrigado ao dep\u00f3sito do valor proposto, podendo-se promover o arresto de bens suficientes para garantir o suprarreferido valor, nos termos da al. c), do n.\u00ba 1, do art.\u00ba 825.\u00ba, do C.P.C. \u2013 C\u00f3digo do Processo Civil.",
+        "areaUtilPrivativa": 203.67,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 203.67,
+        "morada": "Avenida Sines, Bairro Zil",
+        "moradaNumero": "148",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Santiago do Cac\u00e9m",
+        "moradaFreguesia": "Santo Andr\u00e9",
+        "moradaCP": "7500-220",
+        "coordenadasLAT": "38.04812711",
+        "coordenadasLON": "-8.78943896",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 60326,
+        "processoNumero": "8561/17.9T8STB",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 87887,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"183201469\", \"nome\":\"Miguel Gon\u00e7alves Campo\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 266,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4478",
+        "gestorNome": "S\u00f3nia Teixeira",
+        "gestorEmail": "4478@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:44:17",
+        "dataAtualizacao": "2024-01-23T09:44:17",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87887/15072022085317_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87887/15072022085317_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87887/15072022085322_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87887/15072022085322_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87887/15072022085326_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87887/15072022085326_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87887/15072022085329_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87887/15072022085329_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87887/15072022085332_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87887/15072022085332_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87887/15072022085335_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87887/15072022085335_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87887/15072022085339_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87887/15072022085339_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87887/15072022085342_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87887/15072022085342_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 22345,
+                "numero": "2523",
+                "fracao": "A",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "09 - Santiago do Cac\u00e9m",
+                "freguesiaDesc": "07 - Santo Andre",
+                "artigos": [
+                    {
+                        "numero": "6449",
+                        "tipo": "urbana",
+                        "fracao": "A",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "09 - Santiago do Cac\u00e9m",
+                        "freguesiaDesc": "07 - Santo Andr\u00e9"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

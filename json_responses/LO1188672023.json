@@ -1,0 +1,130 @@
+{
+    "item": {
+        "id": 130709,
+        "origem": 202729,
+        "lanceAtual": 41588.24,
+        "lanceAtualId": 17687,
+        "dataInicio": "2023-12-27T00:00:06",
+        "dataFimInicial": "2024-01-31T10:30:00",
+        "dataFim": "2024-01-31T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1188672023",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_103069/05122023165059_800sm.jpg",
+        "titulo": "Loja e recheio na Baixa da Banheira - Moita",
+        "valorBase": 83176.47,
+        "valorAbertura": 41588.24,
+        "valorMinimo": 70700.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designa pela letra \u201cA\u201d, correspondente ao r\u00e9s-do-ch\u00e3o, destinada a Com\u00e9rcio, descrita na Conservat\u00f3ria do Registo Predial da Moita, sob a ficha n.\u00ba 298-A, da freguesia da Baixa da Banheira, com entrada pela Rua Jos\u00e9 de Almeida, n.\u00ba 10 e Rua Soeiro Pereira Gomes, n.\u00ba 16-B, inscrito na matriz predial urbana sob o art.\u00ba n.\u00ba 3734, da uni\u00e3o das Freguesias da Baixa da Banheira e Vale da Amoreira.\r\n\r\nMobili\u00e1rio: Bancada com t\u00e1bua de corte com arruma\u00e7\u00e3o; duas bancadas com t\u00e1bua de corte; arm\u00e1rio;\r\n\r\nEquipamento inform\u00e1tico: Painel el\u00e9trico \"sua vez\"; sistema de som marca Panasonic;\r\n\r\nEquipamento geral: Vitrina expositora refrigerada marca Framec; balc\u00e3o expositor refrigerado marca Tasselli modelo Ambra matr\u00edcula 11110; balc\u00e3o expositor refrigerado marca Tasselli,modelo Ambra, matr\u00edcula 1089LL; balc\u00e3o expositor refrigerado em L marca Tasselli, modelo Ambra, matr\u00edcula 11841; duas armadilhas el\u00e9trica para insetos marca Fiamma; dispensador de senhas; dois expositores em gancho em inox; arm\u00e1rio com lavat\u00f3rio; m\u00e1quina de selar a v\u00e1cuo marca Kleiner; c\u00e2mara refrigerada com aproximadamente 2m x 2m marca Tasseli; bancada em inox com dois lavat\u00f3rios; linha a\u00e9rea de transporte de carne em inox; esterilizador de facas em inox com nove facas; termoacumulador marca Teka; lava m\u00e3os em inox marca Mecanipol; balan\u00e7a marca Medines;\r\n\r\nExist\u00eancias:\r\nDispensador de papel e dois extintores;",
+        "observacoes": "Bem im\u00f3vel e bens m\u00f3veis s\u00e3o vendidos em conjunto, sendo que 97,1711 % do valor total ser\u00e1 atribu\u00eddo ao im\u00f3vel e os restantes 2,8289 % aos bens m\u00f3veis, este acrescido de IVA \u00e0 taxa legal em vigor.",
+        "areaUtilPrivativa": 109.82,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 109.82,
+        "morada": "Rua Francisco Miguel",
+        "moradaNumero": "40, 40-A",
+        "moradaAndar": "r/c",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Moita",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Baixa da Banheira e Vale da Amoreira",
+        "moradaCP": "2835-123",
+        "coordenadasLAT": "38.65391396",
+        "coordenadasLON": "-9.04078273",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70120,
+        "processoNumero": "2098/22.1T8BRR",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Barreiro - Ju\u00edzo Com\u00e9rcio - Juiz 3",
+        "verbaId": 103069,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"119952378\", \"nome\":\"Francisco Jos\u00e9 Guerreiro da Silva\", \"requerido\":\"False\"},{\"nif\":\"119952386\", \"nome\":\"Rosa Maria da Costa de Sousa Bolotas da Silva\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 887,
+        "cerimoniaData": "2024-01-31T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 857,
+        "gestorTipo": "Administrador Judicial",
+        "gestorTipoId": 2,
+        "gestorCedula": "19",
+        "gestorNome": "Florentino M. Lu\u00eds",
+        "gestorEmail": "florentino.m.luis@aj.caaj.pt",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:33:16",
+        "dataAtualizacao": "2024-01-23T09:33:16",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103069/05122023165059_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103069/05122023165059_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103069/05122023165110_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103069/05122023165110_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103069/05122023165120_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103069/05122023165120_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103069/05122023165129_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103069/05122023165129_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Declara\u00e7\u00e3o de Insolv\u00eancia",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 32077,
+                "numero": "298",
+                "fracao": "A",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "06 - Moita",
+                "freguesiaDesc": "02 - Baixa da Banheira",
+                "artigos": [
+                    {
+                        "numero": "3734",
+                        "tipo": "urbana",
+                        "fracao": "A",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "06 - Moita",
+                        "freguesiaDesc": "07 - Uni\u00e3o das freguesias de Baixa da Banheira e Vale da Amoreira"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,171 @@
+{
+    "item": {
+        "id": 132241,
+        "origem": 204863,
+        "lanceAtual": 375247.37,
+        "lanceAtualId": 7536,
+        "dataInicio": "2024-01-16T16:20:28",
+        "dataFimInicial": "2024-01-31T14:30:00",
+        "dataFim": "2024-01-31T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP842872024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_98464/16062023115835_800sm.jpg",
+        "titulo": "Apartamento T2 em Lisboa -  Empreendimento Twin Towers",
+        "valorBase": 656700.0,
+        "valorAbertura": 328350.0,
+        "valorMinimo": 558195.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "frac\u00e7\u00e3o aut\u00f3noma designada pelas letras IS, correspondente ao Edif\u00edcio IV - d\u00e9cimo oitavo andar C, para habita\u00e7\u00e3o, com estacionamento, n\u00ba 167 e a arrecada\u00e7\u00e3o, n\u00ba85, na cave privativa 3, no piso menos seis, do pr\u00e9dio sito na Rua de Campolide, Empreendimento Twin Towers, n\u00bas 351, 351 A a 351 G e Via Um \u00e0 Rua de Campolide, n\u00bas 2, 2 A a 2 C, 2 F a 2 J, 2 K a 2 S, na freguesia de Campolide, concelho de Lisboa, descrito na C.R. Predial de Lisboa sob o n.\u00ba 3084/S\u00e3o Sebasti\u00e3o da Pedreira e inscrito na matriz sob o artigo 3391/Campolide.",
+        "observacoes": "O im\u00f3vel encontra-se habitado pelos executados. Situa-se no empreendimento Twin Towers, um condom\u00ednio com seguran\u00e7a 24h/dia. Encontra-se em bom estado de conserva\u00e7\u00e3o e \u00e9 composto por hall de entrada, sala, cozinha com despensa e marquise, um quarto, uma suite e uma casa de banho. O quarto e a suite t\u00eam roupeiros embutidos e no hall existem mais dois roupeiros, tamb\u00e9m embutidos. Tem, tamb\u00e9m, um lugar de estacionamento.\r\n\r\nTodos os bens m\u00f3veis vis\u00edveis nas fotografias n\u00e3o s\u00e3o parte integrante do bem im\u00f3vel, pertencendo aos executados e ao seu agregado familiar, pelo que n\u00e3o se encontram inclu\u00eddos na venda. \r\nO im\u00f3vel \u00e9 vendido no estado f\u00edsico, jur\u00eddico e documental em que se encontra. \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 assegurar-se que o mesmo corresponde \u00e0s suas expectativas e vontade e que se encontra nas condi\u00e7\u00f5es pretendidas. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.\r\n\r\nADVERTE-SE PARA:\r\n\r\na)\tArtigo 833\u00ba n\u00ba 6 do C\u00f3digo de Processo Civil: \u201c  A venda de im\u00f3vel em que tenha sido, ou esteja sendo, feita constru\u00e7\u00e3o urbana, ou de fra\u00e7\u00e3o dele, pode efetuar-se no estado em que se encontre, com dispensa da licen\u00e7a de utiliza\u00e7\u00e3o ou de constru\u00e7\u00e3o, cuja falta de apresenta\u00e7\u00e3o a entidade com compet\u00eancia para a formaliza\u00e7\u00e3o do ato faz consignar no documento, constituindo \u00f3nus do adquirente a respetiva legaliza\u00e7\u00e3o.\u201d\r\n\r\nb)\tArtigo 19\u00ba do Decreto-Lei n.\u00ba 10/2024, de 8 de janeiro: \u201c Na realiza\u00e7\u00e3o de neg\u00f3cios jur\u00eddicos que envolvam a transmiss\u00e3o de propriedade de pr\u00e9dios urbanos (\u2026. ) o im\u00f3vel pode n\u00e3o dispor dos t\u00edtulos urban\u00edsticos necess\u00e1rios para a utiliza\u00e7\u00e3o (\u2026)\u201d, inclu\u00eddo o certificado energ\u00e9tico.\r\n\r\n\r\nPodem tamb\u00e9m ser remetidas propostas para o bem em venda atrav\u00e9s de outros meios, nomeadamente, atrav\u00e9s de e-mail: 1656@solicitador.net, ou mediante carta remetida via postal para Rua Vitor Cordon, n.\u00ba 2, Bloco 3, 1.\u00ba frente, 2640-539 Mafra. Alerta-se para o facto de que s\u00f3 ser\u00e3o aceites propostas devidamente identificadas e apresentadas at\u00e9 ao t\u00e9rmino desta publicita\u00e7\u00e3o.",
+        "areaUtilPrivativa": 127.5,
+        "areaUtilDependente": 30.0,
+        "areaTotal": 157.5,
+        "morada": "Rua Campolide",
+        "moradaNumero": "351-Edf IV",
+        "moradaAndar": "18\u00ba C",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lisboa",
+        "moradaFreguesia": "Campolide",
+        "moradaCP": "1070-034",
+        "coordenadasLAT": "38.73855285385149",
+        "coordenadasLON": "-9.167650938034058",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 67080,
+        "processoNumero": "17576/19.1T8LSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 5",
+        "verbaId": 98464,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"125965176\", \"nome\":\"Celestino Fernandes de Almeida\", \"requerido\":\"False\"},{\"nif\":\"116908882\", \"nome\":\"Guilhermina Borges Martins dos Reis\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 286,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1656",
+        "gestorNome": "Ana Teresa Zorro",
+        "gestorEmail": "1656@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:11:13",
+        "dataAtualizacao": "2024-01-23T09:11:13",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023115835_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023115835_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023115842_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023115842_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023115857_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023115857_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023115900_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023115900_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023120057_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023120057_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023120327_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023120327_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023120331_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023120331_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023120352_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023120352_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023120422_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023120422_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023120511_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023120511_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023120513_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023120513_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023120803_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023120803_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023120829_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023120829_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023120832_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023120832_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023120836_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023120836_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023120839_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023120839_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98464/16062023120842_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98464/16062023120842_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

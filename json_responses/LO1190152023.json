@@ -1,0 +1,270 @@
+{
+    "item": {
+        "id": 131245,
+        "origem": 203265,
+        "lanceAtual": 149434.23,
+        "lanceAtualId": 31042,
+        "dataInicio": "2024-01-04T00:00:09",
+        "dataFimInicial": "2024-02-07T10:30:00",
+        "dataFim": "2024-02-07T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1190152023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_103512/20122023130540_800sm.jpg",
+        "titulo": "Apartamento na Charneca da Caparica",
+        "valorBase": 161891.0,
+        "valorAbertura": 80945.5,
+        "valorMinimo": 137607.35,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma com a letra S do pr\u00e9dio urbano descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Almada sob o n\u00ba 8538-S, freguesia da Charneca da Caparica, concelho de Almada, inscrito na matriz predial urbana sob o artigo 17471-S, da Uni\u00e3o de Freguesias de Charneca de Caparica e Sobreda, concelho de Almada, correspondente ao 3\u00ba andar dt\u00ba do pr\u00e9dio n\u00ba 4 da Rua Alexandre Cabral, 2820-508 Palhais, para habita\u00e7\u00e3o, com arrecada\u00e7\u00e3o no s\u00f3t\u00e3o.",
+        "observacoes": "A agente de execu\u00e7\u00e3o tem a posse do im\u00f3vel. As visitas dos interessados ser\u00e3o efetuadas num \u00fanico dia, na \u00faltima semana do leil\u00e3o, por agendamento com a signat\u00e1ria.\r\nO im\u00f3vel encontra-se em bom estado de conserva\u00e7\u00e3o.",
+        "areaUtilPrivativa": 102.25,
+        "areaUtilDependente": 17.9,
+        "areaTotal": 120.15,
+        "morada": "Rua Alexandre Cabral, Palhais",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Almada",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Charneca de Caparica e Sobreda",
+        "moradaCP": "2820-508",
+        "coordenadasLAT": "38.62851327498634",
+        "coordenadasLON": "-9.195653200149536",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70410,
+        "processoNumero": "9205/22.2T8ALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 103512,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"209198672\", \"nome\":\"Beatriz Barradas dos Santos Alves\", \"requerido\":\"False\"},{\"nif\":\"115998322\", \"nome\":\"Jos\u00e9 Manuel da Costa Alves\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 889,
+        "cerimoniaData": "2024-02-07T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 297,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5464",
+        "gestorNome": "JOANA ROQUE LINO",
+        "gestorEmail": "5464@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:34:32",
+        "dataAtualizacao": "2024-01-23T09:34:32",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023130540_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023130540_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023130608_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023130608_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023130627_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023130627_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023130648_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023130648_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023130704_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023130704_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023130723_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023130723_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023130736_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023130736_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023130759_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023130759_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023130812_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023130812_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023130824_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023130824_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023130840_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023130840_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023130903_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023130903_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023130921_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023130921_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023130937_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023130937_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131000_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131000_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131014_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131014_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131029_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131029_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131043_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131043_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131103_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131103_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131114_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131114_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131136_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131136_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131155_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131155_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131207_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131207_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131219_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131219_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131243_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131243_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131259_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131259_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131315_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131315_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131330_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131330_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131350_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131350_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131402_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131402_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131416_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131416_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131432_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131432_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103512/20122023131442_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103512/20122023131442_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32301,
+                "numero": "8538",
+                "fracao": "S",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "03 - Almada",
+                "freguesiaDesc": "09 - Charneca de Caparica",
+                "artigos": [
+                    {
+                        "numero": "17471",
+                        "tipo": "urbana",
+                        "fracao": "S",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "03 - Almada",
+                        "freguesiaDesc": "14 - Uni\u00e3o das freguesias de Charneca de Caparica e Sobreda"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,124 @@
+{
+    "item": {
+        "id": 127909,
+        "origem": 200730,
+        "lanceAtual": 0.0,
+        "dataInicio": "2023-11-23T16:57:27",
+        "dataFimInicial": "2024-02-21T14:30:00",
+        "dataFim": "2024-02-21T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP819012023",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_3555/19122016160459_2_800sm.jpg",
+        "titulo": "LOJA CENTRO COMERCIAL - AGUALVA - CAC\u00c9M - CENTRO",
+        "valorBase": 34182.17,
+        "valorAbertura": 17091.09,
+        "valorMinimo": 29054.84,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pelas letras CJ, correspondente \u00e0 Loja 6 , r\u00e9s-do-ch\u00e3o do  pr\u00e9dio urbano sito na freguesia de Agualva e Mira- Sintra, concelho de Sintra ( Av. Dos bons amigos n\u00ba 87, 87-A,87-B, 87-C e 87-D) , destinado a com\u00e9rcio, descrito na CRP de Agualva-Cac\u00e9m  sob o n\u00ba 16 e inscrito na matriz sob o art.\u00ba. 2783 da Uni\u00e3o das freguesias de Agualva e Mira-Sintra.",
+        "observacoes": "Adverte-se que o im\u00f3vel encontra-se arrendado ao Sr. Deepak Chadha, pela renda SEMESTRAL de 900,00 Euros (Novecentos euros) acrescida do imposto devido ao Servi\u00e7o de Finan\u00e7as, tendo o contrato a dura\u00e7\u00e3o de 6 meses, com inicio a 1 de Julho de 2016, renovando-se automaticamente pelo mesmo per\u00edodo caso n\u00e3o haja den\u00fancia pelas partes, encontrando-se assim a fra\u00e7\u00e3o ocupada. -----Apresenta as condi\u00e7\u00f5es vis\u00edveis nas fotografias sendo que os bens m\u00f3veis ali constantes n\u00e3o se encontram em venda.----- \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do pr\u00e9dio a adquirir, pelo que, dever\u00e1 antes de apresentar proposta, verificar se o mesmo corresponde \u00e0s suas expectativas e condi\u00e7\u00f5es previstas pelo adquirente. ----Dever\u00e1 ter em considera\u00e7\u00e3o que, atendendo \u00e0 natureza da venda e ao facto de o bem n\u00e3o ser entregue no momento da aquisi\u00e7\u00e3o/adjudica\u00e7\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio. Existe reclama\u00e7\u00e3o de cr\u00e9ditos e senten\u00e7a de gradua\u00e7\u00e3o. \u00c1rea bruta privativa: 31,35 m2---REQUERIMENTO DE ADJUDICA\u00c7\u00c3O DE CREDOR: O credor com garantia real requereu a adjudica\u00e7\u00e3o do bem pelo pre\u00e7o indicado, pelo que s\u00f3 ser\u00e3o aceites propostas de valor superior",
+        "areaUtilPrivativa": 31.35,
+        "areaUtilDependente": 31.35,
+        "areaTotal": 31.35,
+        "morada": "Avenida Bons Amigos",
+        "moradaNumero": "87",
+        "moradaAndar": "R/C loja 6",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Agualva e Mira-Sintra",
+        "moradaCP": "2735-081",
+        "coordenadasLAT": "38.77163460949151",
+        "coordenadasLON": "-9.292255640029907",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 2929,
+        "processoNumero": "22692/12.8YYLSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Inst. Central - 1\u00aa Sec\u00e7\u00e3o de Execu\u00e7\u00e3o - J6",
+        "verbaId": 3555,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"508392985\", \"nome\":\"SAMATI - CONSTRU\u00c7\u00c3O CIVIL UNIPESSOAL LDA\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 26,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3844",
+        "gestorNome": "ANT\u00d3NIO PEREIRA",
+        "gestorEmail": "3844@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:25:17",
+        "dataAtualizacao": "2024-01-23T09:25:17",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_3555/19122016160459_2_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_3555/19122016160459_2_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_3555/19122016160459_3_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_3555/19122016160459_3_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_3555/19122016160500_5_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_3555/19122016160500_5_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_3555/19122016160500_6_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_3555/19122016160500_6_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_3555/19122016160500_7_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_3555/19122016160500_7_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_3555/19122016170423_1_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_3555/19122016170423_1_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_3555/19122016170430_1_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_3555/19122016170430_1_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Frac\u00e7\u00e3o arrendada conforme supra referido.",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

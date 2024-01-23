@@ -1,0 +1,143 @@
+{
+    "item": {
+        "id": 127501,
+        "origem": 200204,
+        "lanceAtual": 0.0,
+        "dataInicio": "2023-11-17T09:59:58",
+        "dataFimInicial": "2024-02-15T14:30:00",
+        "dataFim": "2024-02-15T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP816142023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_99874/12082023121740_800sm.jpg",
+        "titulo": "Direito a 1/3 em im\u00f3vel sito no Lavradio (Barreiro)",
+        "valorBase": 51233.33,
+        "valorAbertura": 25616.67,
+        "valorMinimo": 43548.33,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Direito a 1/3 que a executada \u00e9 titular na fra\u00e7\u00e3o aut\u00f3noma designada pela letra S, correspondente ao quarto andar B, destinado a habita\u00e7\u00e3o, com arrecada\u00e7\u00e3o, a qual faz parte do pr\u00e9dio urbano em regime de propriedade horizontal, sito na Rua Dr. C\u00e9sar Coelho, n.\u00ba 11, freguesia do Lavradio, descrito na Conservat\u00f3ria do Registo Predial do Barreiro sob o n.\u00ba 84 e inscrito na respetiva matriz com o artigo 3278, da uni\u00e3o das freguesias do Barreiro e Lavradio.",
+        "observacoes": "O im\u00f3vel encontra-se em razo\u00e1vel estado geral de conserva\u00e7\u00e3o, n\u00e3o tendo sido detetada qualquer anomalia digna de registo. O im\u00f3vel encontra-se habitado pelos pais da executada. Nas imedia\u00e7\u00f5es do im\u00f3vel encontra-se um vasto leque de servi\u00e7os e com\u00e9rcio. Os interessados em apresentar propostas devem proceder \u00e0 pr\u00e9via verifica\u00e7\u00e3o do estado do bem, porquanto a apresenta\u00e7\u00e3o da proposta n\u00e3o dispensa a verifica\u00e7\u00e3o do estado do bem. Pelo que, para os termos e feitos do disposto no art. 838.\u00ba do C\u00f3digo de Processo Civil, presume-se que o proponente inspecionou o im\u00f3vel, conhece as suas caracter\u00edsticas, o seu estado de manuten\u00e7\u00e3o e conserva\u00e7\u00e3o, declinando-se toda e qualquer responsabilidade pela falta de verifica\u00e7\u00e3o daqueles pressupostos, sendo que esta falta de verifica\u00e7\u00e3o, n\u00e3o constitui motivo para anula\u00e7\u00e3o da venda. A venda est\u00e1 dispensada da apresenta\u00e7\u00e3o do alvar\u00e1 de licen\u00e7a de utiliza\u00e7\u00e3o do pr\u00e9dio, do certificado energ\u00e9tico e da ficha t\u00e9cnica, constituindo \u00f3nus do adquirente a respetiva legaliza\u00e7\u00e3o quando exig\u00edvel (art.838.\u00ba, n.\u00ba6 do CPC). Alertam-se os interessados em apresentar propostas que n\u00e3o \u00e9 poss\u00edvel anular, revogar, ou alterar uma licita\u00e7\u00e3o depois de concretizada.",
+        "areaUtilPrivativa": 126.0,
+        "areaUtilDependente": 6.88,
+        "areaTotal": 132.88,
+        "morada": "Rua C\u00e9sar Coelho, Urbaniza\u00e7\u00e3o Quinta dos Loios",
+        "moradaNumero": "11",
+        "moradaAndar": "4.\u00ba B",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Barreiro",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Barreiro e Lavradio",
+        "moradaCP": "2835-345",
+        "coordenadasLAT": "38.664121497097796",
+        "coordenadasLON": "-9.051575660705566",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 30824,
+        "processoNumero": "4020/08.9TBBRR",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 99874,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"184168562\", \"nome\":\"Rosa Margarida Guerra Espanhol Diogo\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 271,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5635",
+        "gestorNome": "R\u00daBEN ROM\u00c3O",
+        "gestorEmail": "5635@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:39:08",
+        "dataAtualizacao": "2024-01-23T09:39:08",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99874/12082023121740_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99874/12082023121740_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99874/12082023121748_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99874/12082023121748_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99874/12082023121801_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99874/12082023121801_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99874/12082023121818_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99874/12082023121818_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99874/12082023121831_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99874/12082023121831_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99874/12082023121839_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99874/12082023121839_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99874/12082023121846_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99874/12082023121846_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99874/12082023121855_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99874/12082023121855_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 30181,
+                "numero": "84",
+                "fracao": "S",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "04 - Barreiro",
+                "freguesiaDesc": "02 - Lavradio",
+                "artigos": [
+                    {
+                        "numero": "3278",
+                        "tipo": "urbana",
+                        "fracao": "S",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "04 - Barreiro",
+                        "freguesiaDesc": "10 - Uni\u00e3o das freguesias de Barreiro e Lavradio"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

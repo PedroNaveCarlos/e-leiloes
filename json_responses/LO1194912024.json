@@ -1,0 +1,294 @@
+{
+    "item": {
+        "id": 132755,
+        "origem": 204380,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-23T00:00:05",
+        "dataFimInicial": "2024-02-21T10:00:00",
+        "dataFim": "2024-02-21T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1194912024",
+        "tipoId": 1,
+        "subtipoId": 7,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_103970/11012024152311_800sm.jpg",
+        "titulo": "Pr\u00e9dio em Lisboa",
+        "valorBase": 1585000.0,
+        "valorAbertura": 792500.0,
+        "valorMinimo": 1347250.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Pr\u00e9dio",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Im\u00f3vel Urbano situado na Rua do Mirador, n\u00bas 82, 84, 86 e 88 e Cal\u00e7ada da Boa-Hora, n.\u00bas 210, 212 e 214, em Ajuda, freguesia de Ajuda, concelho de Lisboa, composto de dois pr\u00e9dios:\r\na) Pr\u00e9dio urbano sito na Rua do Mirador, n.s 82 a 86, Ajuda, Lisboa, composto de R\u00e9s-do-ch\u00e3o, loja, primeiro andar e logradouro, com \u00e1rea coberta de 83,85 m2 e logradouro 8 m2, inscrito na matriz sob o artigo 547, freguesia de Ajuda, a que foi atribu\u00eddo o valor base de 395.000,00 \u20ac\r\nb) Pr\u00e9dio urbano sito na Rua do Mirador, n.\u00ba 88 e Cal\u00e7ada da Boa-Hora, n.s 210 a 214, Ajuda, Lisboa, composto de R\u00e9s-do-ch\u00e3o, primeiro andar, segundo andar, \u00e1guas furtadas , loja e logradouro com 6,6 m2 e de \u00e1rea coberta 170,00 m2, inscrito na matriz sob o artigo 548, freguesia de Ajuda, ambos descritos na Conservat\u00f3ria do Registo Predial de Lisboa sob o n.\u00ba 4038/20110105, fregueisia de Ajuda, a que foi atribuido o valor base de 1.190.000,00 \u20ac",
+        "observacoes": "O im\u00f3vel composto de dois pr\u00e9dios, que vai \u00e0 venda n\u00e3o foi objeto de penhora, pois trata-se de um processo de partilha judicial, pelo que a venda foi determinada por decis\u00e3o judicial conforme conta de documento em anexo.\r\nO im\u00f3vel n\u00e3o se encontra em bom estado de conserva\u00e7\u00e3o conforme as fotografias documentam, e conforme podem ser observadas em visitas ao im\u00f3vel pelos eventuais interessados.\r\nO im\u00f3vel encontra-se devoluto exceto o 1.\u00ba andar do pr\u00e9dio urbano na Rua do Mirador, 82 a 86, Lisboa, que se encontra arrendado a Eug\u00e9nio Braz e Maria In\u00e1cia Pereira dos Santos Braz, por contrato anterior a 1990 (conforme despacho em anexo), com uma renda mensal de 160,00 \u20ac, pelo que antes da adjudica\u00e7\u00e3o o AE, vai notificar os referidos arrendat\u00e1rios, para no prazo de 30 dias, querendo exercerem o direito de prefer\u00eancia.\r\nO Fiel deposit\u00e1rio \u00e9 o Agente de Execu\u00e7\u00e3o deste processo, nos termos do art.\u00ba 756\u00ba do CPC, que est\u00e1 na posse das chaves do im\u00f3vel e que ir\u00e1 mostr\u00e1-lo a eventuais interessados.\r\nFica determinado que o im\u00f3vel ser\u00e1 mostrado a quem estiver interessado na \u00faltima Quinta-Feira, antes do t\u00e9rmino do leil\u00e3o, das 15:30 hoaras \u00e1s 17:00 horas.",
+        "areaUtilPrivativa": 535.3,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 535.3,
+        "morada": "Rua Mirador",
+        "moradaNumero": "82 a88",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lisboa",
+        "moradaFreguesia": "Ajuda",
+        "moradaCP": "1300-416",
+        "coordenadasLAT": "38.703785439774165",
+        "coordenadasLON": "-9.192595481872559",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70705,
+        "processoNumero": "24808/21.4T8LSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Inst. Local - Sec\u00e7\u00e3o C\u00edvel - J10",
+        "verbaId": 103970,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"501481036\", \"nome\":\"Estado Portugu\u00eas\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 894,
+        "cerimoniaData": "2024-02-21T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 317,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1252",
+        "gestorNome": "Jos\u00e9 M\u00e1rio Marques Santiago",
+        "gestorEmail": "1252@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:24:54",
+        "dataAtualizacao": "2024-01-23T09:24:54",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024152311_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024152311_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024151614_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024151614_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024151635_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024151635_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024151657_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024151657_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024151719_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024151719_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024151745_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024151745_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024152223_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024152223_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024152247_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024152247_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024152356_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024152356_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024152422_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024152422_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024152446_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024152446_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024152555_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024152555_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024152938_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024152938_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153339_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153339_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153351_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153351_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153406_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153406_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153433_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153433_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153458_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153458_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153536_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153536_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153558_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153558_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153616_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153616_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153648_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153648_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153703_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153703_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153741_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153741_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153801_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153801_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153822_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153822_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153844_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153844_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153909_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153909_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153924_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153924_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153938_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153938_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024153956_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024153956_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024154023_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024154023_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024170945_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024170945_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024171107_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024171107_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024171129_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024171129_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024171150_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024171150_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103970/11012024171232_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103970/11012024171232_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "O primeiro andar do pr\u00e9dio urbano sito na Rua do Mirador n.\u00ba 82 a 86 encontra-se arrendado a Eug\u00e9nio Braz e Maria In\u00e1cia Pereira dos Santos Braz por contrato anterior a 1990 e com uma renda mensal de 160,00 \u20ac",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 32539,
+                "numero": "4038",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "06 - Lisboa",
+                "freguesiaDesc": "01 - Ajuda",
+                "artigos": [
+                    {
+                        "numero": "547 e 548",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "01 - Ajuda"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

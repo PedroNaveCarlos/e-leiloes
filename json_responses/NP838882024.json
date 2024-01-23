@@ -1,0 +1,145 @@
+{
+    "item": {
+        "id": 131656,
+        "origem": 204131,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-09T18:10:31",
+        "dataFimInicial": "2024-03-12T14:30:00",
+        "dataFim": "2024-03-12T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP838882024",
+        "tipoId": 1,
+        "subtipoId": 28,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_11447/07092017181721_800sm.jpg",
+        "titulo": "Im\u00f3vel destinado a com\u00e9rcio em  Vila Nova de Santo Andr\u00e9",
+        "valorBase": 96386.58,
+        "valorAbertura": 48193.29,
+        "valorMinimo": 81928.59,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Outro",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio urbano, destinado a com\u00e9rcio, sito em Largo principal do Bairro dos 250 Fogos,  Bairro da Atalaia Norte,, atualmente Rua dos Pioneiros, n\u00ba 251,em Vila Nova De Santo Andr\u00e9, inscrito na matriz predial urbana sob o artigo 1408 da freguesia de Santo Andr\u00e9, concelho de Santiago do Cac\u00e9m e descrito na Conservat\u00f3ria do Registo Predial de Santiago do Cac\u00e9m sob o n\u00ba 1406.",
+        "observacoes": "",
+        "areaUtilPrivativa": 130.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 160.0,
+        "morada": "Avenida Santiago, Bairro da Atalaia",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Santiago do Cac\u00e9m",
+        "moradaFreguesia": "Santo Andr\u00e9",
+        "moradaCP": "7500-110",
+        "coordenadasLAT": "38.0582628255108",
+        "coordenadasLON": "-8.793869018554688",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 9459,
+        "processoNumero": "302/09.0T2STC",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 11447,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"101946384\", \"nome\":\"Jos\u00e9 Manuel Lima Silva Campos\", \"requerido\":\"False\"},{\"nif\":\"101946376\", \"nome\":\"Maria Odete Sousa Silva Campos\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 80,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1648",
+        "gestorNome": "Isabel Maria Reis Mendes",
+        "gestorEmail": "1648@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:41:38",
+        "dataAtualizacao": "2024-01-23T09:41:38",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_11447/07092017181721_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_11447/07092017181721_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_11447/07092017182640_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_11447/07092017182640_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_11447/07092017183221_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_11447/07092017183221_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_11447/07092017183258_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_11447/07092017183258_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_11447/07092017183453_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_11447/07092017183453_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_11447/07092017183646_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_11447/07092017183646_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_11447/07092017183938_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_11447/07092017183938_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_11447/07092017184125_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_11447/07092017184125_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_11447/07092017184233_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_11447/07092017184233_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_11447/07092017184319_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_11447/07092017184319_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_11447/07092017184757_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_11447/07092017184757_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_11447/07092017184919_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_11447/07092017184919_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

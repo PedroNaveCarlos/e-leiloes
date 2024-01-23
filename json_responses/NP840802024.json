@@ -1,0 +1,154 @@
+{
+    "item": {
+        "id": 131977,
+        "origem": 204433,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-12T11:08:45",
+        "dataFimInicial": "2024-03-12T14:30:00",
+        "dataFim": "2024-03-12T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP840802024",
+        "tipoId": 1,
+        "subtipoId": 27,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_98341/13062023150020_800sm.jpg",
+        "titulo": "Compropriedade de 1/3 do pr\u00e9dio r\u00fastico sito em Igreja Nova",
+        "valorBase": 6000.0,
+        "valorAbertura": 3000.0,
+        "valorMinimo": 5100.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "R\u00fastico",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Compropriedade de um ter\u00e7o do pr\u00e9dio r\u00fastico denominado Olheiros e Pitorra ou Pitona, sito nos limites de Baldeireira, freguesia de Igreja Nova e Cheleiros, concelho de Mafra, composto por pinhal e cultura arvense, com a \u00e1rea de 4.937m2, a confrontar do norte com Artur Manuel Pedroso, do sul com Francisco Jacinto, do nascente com caminho e do poente com regueira, descrito na C.R. Predial de Mafra sob n.\u00ba 2666/Igreja Nova e inscrito na matriz cadastral sob o artigo 75 da sec\u00e7\u00e3o C, da uni\u00e3o das freguesias de Igreja Nova e Cheleiros.",
+        "observacoes": "Advertem-se os interessados que a executada desconhece a localiza\u00e7\u00e3o exata do bem, tendo esta sido obtida por investiga\u00e7\u00e3o pr\u00f3pria de acordo com a documenta\u00e7\u00e3o oficial do pr\u00e9dio r\u00fastico, pelo que poder\u00e3o existir diverg\u00eancias.\r\nO bem \u00e9 vendido no estado f\u00edsico, jur\u00eddico e documental em que se encontra, pelo que a falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.\r\nAdverte-se os eventuais interessados que uma vez que se trata da venda de um pr\u00e9dio r\u00fastico, poder\u00e3o os mesmos integrar os requisitos para que sejam exercidos eventuais direitos de prefer\u00eancia na sua aquisi\u00e7\u00e3o.\r\nAconselha-se os potenciais interessados a obter junto da C\u00e2mara as informa\u00e7\u00f5es e esclarecimentos que julguem ser necess\u00e1rios para a forma\u00e7\u00e3o da vontade em adquirir.\r\nDever\u00e3o os interessados, antes de efectuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt e/ou aconselhar-se com Solicitador ou Advogado.\r\nPodem tamb\u00e9m ser remetidas propostas para o bem em venda atrav\u00e9s de outros meios, nomeadamente, atrav\u00e9s de e-mail: 1656@solicitador.net, ou mediante carta remetida via postal para Rua Vitor Cordon, n.\u00ba 2, Bloco 3, 1.\u00ba frente, 2640-539 Mafra.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 4937.0,
+        "morada": "Sem Nome",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Mafra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Igreja Nova e Cheleiros",
+        "moradaCP": "2640-376",
+        "coordenadasLAT": "38.920538060315565",
+        "coordenadasLON": "-9.32790756225586",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 66998,
+        "processoNumero": "1278/17.6T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 4",
+        "verbaId": 98341,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"118791427\", \"nome\":\"Maria de Jesus Ventura Figueiras Esteves\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 286,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1656",
+        "gestorNome": "Ana Teresa Zorro",
+        "gestorEmail": "1656@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:27:02",
+        "dataAtualizacao": "2024-01-23T09:27:02",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98341/13062023150020_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98341/13062023150020_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98341/13062023150022_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98341/13062023150022_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98341/13062023150023_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98341/13062023150023_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98341/13062023150025_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98341/13062023150025_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98341/13062023150027_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98341/13062023150027_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98341/13062023150029_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98341/13062023150029_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98341/13062023150030_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98341/13062023150030_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98341/13062023150032_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98341/13062023150032_200.jpg"
+            },
+            {
+                "legenda": "Mapa sec\u00e7\u00e3o cadastral",
+                "image": "files/Verbas_Fotos/verba_98341/13062023151041_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98341/13062023151041_200.jpg"
+            },
+            {
+                "legenda": "Mapa de localiza\u00e7\u00e3o constante do relat\u00f3rio de avalia\u00e7\u00e3o",
+                "image": "files/Verbas_Fotos/verba_98341/13062023152323_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98341/13062023152323_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 29206,
+                "numero": "2666",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "09 - Mafra",
+                "freguesiaDesc": "08 - Igreja Nova",
+                "artigos": [
+                    {
+                        "numero": "75",
+                        "tipo": "rustica",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "09 - Mafra",
+                        "freguesiaDesc": "20 - Uni\u00e3o das freguesias de Igreja Nova e Cheleiros"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

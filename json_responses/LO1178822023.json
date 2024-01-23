@@ -1,0 +1,240 @@
+{
+    "item": {
+        "id": 129993,
+        "origem": 200479,
+        "lanceAtual": 35191.81,
+        "lanceAtualId": 90641,
+        "dataInicio": "2023-12-14T23:59:59",
+        "dataFimInicial": "2024-01-24T11:00:00",
+        "dataFim": "2024-01-24T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1178822023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_102649/21112023130249_800sm.jpg",
+        "titulo": "1/2 Apartamento na Idanha",
+        "valorBase": 55000.0,
+        "valorAbertura": 27500.0,
+        "valorMinimo": 46750.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "1/2 da Frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"H\", destinada a habita\u00e7\u00e3o, correspondente ao 3\u00ba. Esquerdo do pr\u00e9dio Urbano em regime de propriedade horizontal sito na Rua Alice Oeiras, N\u00ba 23, na localidade de Idanha, freguesia de Belas, concelho de Sintra, descrito na Conservat\u00f3ria do Registo Predial de Queluz sob o n\u00ba. 1164, inscrito na matriz predial urbana da freguesia actualmente designada por Uni\u00e3o de Freguesias de Queluz e Belas sob o artigo 2813.",
+        "observacoes": "O im\u00f3vel \u00e9 composto de um hall de entrada com roupeiro, dois quartos, uma cozinha, uma sala e uma casa de banho.\r\nTem duas varandas uma virada para a frente e outra para as traseiras.\r\nO im\u00f3vel encontra-se em bom estado de conserva\u00e7\u00e3o geral, localizado numa zona Residencial, servida de comercio, escolas, servi\u00e7os e transportes com bons acessos \u00e0 CREL.\r\nNo im\u00f3vel reside a Sra. Ana a titulo de arrendat\u00e1ria, no entanto, n\u00e3o se encontra registado qualquer contrato de arrendamento.\r\nNa presente execu\u00e7\u00e3o encontra pendente oposi\u00e7\u00e3o, no entanto, foram reclamados cr\u00e9ditos pela Fazenda Nacional. \r\nAdvertem-se os interessados que \u00e9 da sua \u00fanica e exclusiva responsabilidade a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 assegurar-se que o mesmo corresponde \u00e0s suas expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda.",
+        "areaUtilPrivativa": 76.38,
+        "areaUtilDependente": 39.31,
+        "areaTotal": 115.69,
+        "morada": "Rua Alice Oeiras",
+        "moradaNumero": "23",
+        "moradaAndar": "3\u00ba Esq.",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Queluz e Belas",
+        "moradaCP": "2605-108",
+        "coordenadasLAT": "38.77304823256503",
+        "coordenadasLON": "-9.26995575428009",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 45696,
+        "processoNumero": "27021/15.6T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 102649,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"226202283\", \"nome\":\"NUNO ALEXANDRE SANCHES GOMES TAVARES\", \"requerido\":\"False\"},{\"nif\":\"210876620\", \"nome\":\"Paula S\u00edlvia Andrade Melo\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 884,
+        "cerimoniaData": "2024-01-24T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 746,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1635",
+        "gestorNome": "Marina Campos",
+        "gestorEmail": "1635@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-01-23T09:06:14",
+        "dataAtualizacao": "2024-01-23T09:06:14",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130249_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130249_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023125934_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023125934_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023125936_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023125936_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023125939_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023125939_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130008_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130008_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130010_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130010_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130013_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130013_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130015_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130015_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130030_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130030_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130032_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130032_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130034_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130034_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130036_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130036_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130055_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130055_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130058_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130058_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130100_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130100_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130103_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130103_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130105_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130105_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130110_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130110_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130112_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130112_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130114_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130114_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130134_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130134_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130136_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130136_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130139_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130139_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130143_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130143_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130237_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130237_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130243_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130243_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102649/21112023130254_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102649/21112023130254_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31826,
+                "numero": "1164",
+                "fracao": "H",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "04 - Belas",
+                "artigos": [
+                    {
+                        "numero": "2813",
+                        "tipo": "urbana",
+                        "fracao": "H",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "26 - Uni\u00e3o das freguesias de Queluz e Belas"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}
