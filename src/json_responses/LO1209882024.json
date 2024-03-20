@@ -1,0 +1,205 @@
+{
+    "item": {
+        "id": 136305,
+        "origem": 207872,
+        "lanceAtual": 102941.18,
+        "lanceAtualId": 11495,
+        "dataInicio": "2024-03-04T00:00:00",
+        "dataFimInicial": "2024-04-10T10:00:00",
+        "dataFim": "2024-04-10T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1209882024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_105264/16022024152812_800sm.jpg",
+        "titulo": "Moradia em Sobral de Monre Agra\u00e7o",
+        "valorBase": 205882.36,
+        "valorAbertura": 102941.18,
+        "valorMinimo": 175000.01,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T3",
+        "descricao": "Pr\u00e9dio urbano, situado na rua Her\u00f3is da B\u00e9lgica, N\u00ba 57, Sobral de Monte Agra\u00e7o, composto por casa de r\u00e9s-do-ch\u00e3o e 1\u00ba andar, para habita\u00e7\u00e3o, com a \u00e1rea total de 94,25 m2, inscrito na matriz predial urbana sob o artigo 318 da freguesia e concelho de Sobral de Monte Agra\u00e7o e descrito na Conservat\u00f3ria do Registo Predial de Sobral de Monte Agra\u00e7o sob o n\u00ba 1882.",
+        "observacoes": "A casa encontra-se habitada pela M\u00e3e do executado.",
+        "areaUtilPrivativa": 94.25,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 94.25,
+        "morada": "Rua Her\u00f3is da B\u00e9lgica",
+        "moradaNumero": "55",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sobral Monte Agra\u00e7o",
+        "moradaFreguesia": "Sobral de Monte Agra\u00e7o",
+        "moradaCP": "2590-022",
+        "coordenadasLAT": "39.01727480972151",
+        "coordenadasLON": "-9.151815176010131",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 44782,
+        "processoNumero": "1627/19.2T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 105264,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"164867716\", \"nome\":\"Maria de F\u00e1tima Bento Carvalho Paulino\", \"requerido\":\"False\"},{\"nif\":\"158286669\", \"nome\":\"Paulo Jorge Martinho Paulino\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 908,
+        "cerimoniaData": "2024-04-10T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 372,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3947",
+        "gestorNome": "Elsa Custodinho",
+        "gestorEmail": "3947@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:27:25",
+        "dataAtualizacao": "2024-03-20T10:27:25",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152812_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152812_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152815_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152815_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152817_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152817_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152819_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152819_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152821_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152821_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152823_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152823_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152825_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152825_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152827_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152827_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152829_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152829_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152831_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152831_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152834_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152834_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152836_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152836_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152838_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152838_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152840_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152840_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152842_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152842_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152844_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152844_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152848_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152848_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152850_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152850_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152852_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152852_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105264/16022024152855_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105264/16022024152855_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 33369,
+                "numero": "1882",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "12 - Sobral Monte Agra\u00e7o",
+                "freguesiaDesc": "03 - Sobral de Monte Agra\u00e7o",
+                "artigos": [
+                    {
+                        "numero": "318",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "12 - Sobral Monte Agra\u00e7o",
+                        "freguesiaDesc": "03 - Sobral de Monte Agra\u00e7o"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

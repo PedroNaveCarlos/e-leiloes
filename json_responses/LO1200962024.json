@@ -1,0 +1,131 @@
+{
+    "item": {
+        "id": 134548,
+        "origem": 205691,
+        "lanceAtual": 164125.0,
+        "lanceAtualId": 130544,
+        "dataInicio": "2024-02-12T00:00:03",
+        "dataFimInicial": "2024-03-13T10:00:00",
+        "dataFim": "2024-03-13T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1200962024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 6,
+        "capa": "files/Verbas_Fotos/verba_90732/24102022122959_800sm.jpg",
+        "titulo": "Moradia- Ericeira",
+        "valorBase": 325000.0,
+        "valorAbertura": 162500.0,
+        "valorMinimo": 276250.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T4",
+        "descricao": "Pr\u00e9dio urbano, destinado a habita\u00e7\u00e3o, em Prop. Total sem Andares nem Div. Susc. de Utiliz. Independente composto por casa de cave, r/c e 1\u00ba andar para habita\u00e7\u00e3o, sito na Av\u00aa Colinas do Atl\u00e2ntico - Casal do Querido N\u00ba: 18, 2655-001 ERICEIRA. Inscrita na matriz predial urbana sob o art.\u00ba 6064, da freguesia de Ericeira e descrita na 1\u00aa Conservat\u00f3ria do Registo Predial de Mafra sob o registo n\u00ba 2209, da Freguesia de Ericeira.",
+        "observacoes": "Im\u00f3vel em razo\u00e1vel estado de conserva\u00e7\u00e3o, composto por 3 pisos, ser utilizado da seguinte forma: cave com garagem e adega, R/c  com sala, cozinha, WC, escrit\u00f3rio e terra\u00e7o e 1\u00ba piso com 1 suite, 2 quartos e casa de banho. Nota: As \u00e1reas indicadas servem apenas como refer\u00eancia pois n\u00e3o foram feitas medi\u00e7\u00f5es exatas no local. Cuja regulariza\u00e7\u00e3o predial/finan\u00e7as, quanto a \u00e1reas e a outras eventuais diverg\u00eancias entre as cadernetas prediais/finan\u00e7as e o registo predial compete e \u00e9 da total responsabilidade do adquirente, junto das entidades competentes. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e todos os outros aspetos que considerem relevantes. Com a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspecionado o im\u00f3vel e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o. O im\u00f3vel \u00e9 vendido no estado que se encontra pelo que os interessados devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta por parte do proponente n\u00e3o determina nos termos legais a anula\u00e7\u00e3o da venda. Informo ainda que a tipologia tem por base a informa\u00e7\u00e3o constante da caderneta predial urbana.\r\nTenha ainda aten\u00e7\u00e3o do seguinte: Na eventualidade de estar a licitar em nome ou representa\u00e7\u00e3o de terceiro, antes de o fazer, deve certificar-se de que tem efetivamente poderes bastantes para licitar em representa\u00e7\u00e3o desse terceiro sendo que: - Caso esteja a licitar em representa\u00e7\u00e3o de uma pessoa coletiva, dever\u00e1 ser o legal representante da mesma, com efetivos poderes para ao ato, de acordo com os respetivos estatutos da sociedade. - Caso se trate de pessoa singular, dever\u00e1 estar munido da competente procura\u00e7\u00e3o, com poderes especiais para o ato. Os poderes de representa\u00e7\u00e3o, num ou noutro caso dever\u00e3o ser posteriormente demonstrados no processo de execu\u00e7\u00e3o respetivo, caso o bem venha a ser adjudicado. Caso se verifique, no \u00e2mbito do processo de execu\u00e7\u00e3o em causa, que o licitante / utente n\u00e3o tem os poderes de representa\u00e7\u00e3o invocados, este \u00e9 ent\u00e3o considerado PESSOALMENTE RESPONS\u00c1VEL pela apresenta\u00e7\u00e3o da proposta, acarretando para si todo um conjunto de responsabilidades como aquela que resulta da falta de dep\u00f3sito do pre\u00e7o, nos termos do Art. 825.\u00ba do C\u00f3digo de Processo Civil.",
+        "areaUtilPrivativa": 178.0,
+        "areaUtilDependente": 93.0,
+        "areaTotal": 271.0,
+        "morada": "Avenida Colinas do Atl\u00e2ntico, Urbaniza\u00e7\u00e3o Colinas do Atl\u00e2ntico",
+        "moradaNumero": "18",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Mafra",
+        "moradaFreguesia": "Ericeira",
+        "moradaCP": "2655-442",
+        "coordenadasLAT": "38.98531344",
+        "coordenadasLON": "-9.41297300",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 62031,
+        "processoNumero": "4960/10.5TCLRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Inst. Central - Sec\u00e7\u00e3o de Execu\u00e7\u00e3o - J3",
+        "verbaId": 90732,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"152778098\", \"nome\":\"JOSE MANUEL MOREIRA FERNANDES\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 902,
+        "cerimoniaData": "2024-03-13T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 1181,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4714",
+        "gestorNome": "RITA SOARES GARCIA",
+        "gestorEmail": "4714@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:55:31",
+        "dataAtualizacao": "2024-02-12T19:55:31",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "exterior",
+                "image": "files/Verbas_Fotos/verba_90732/24102022122959_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90732/24102022122959_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90732/24102022124130_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90732/24102022124130_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90732/24102022124145_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90732/24102022124145_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90732/24102022124156_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90732/24102022124156_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90732/24102022124224_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90732/24102022124224_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90732/24102022124237_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90732/24102022124237_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90732/24102022124248_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90732/24102022124248_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90732/24102022124301_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90732/24102022124301_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90732/24102022124315_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90732/24102022124315_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -60,8 +60,8 @@
         "gestorFax": "",
         "gestorMorada": "",
         "gestorHorario": "",
-        "dataServidor": "2024-01-14T18:47:58",
-        "dataAtualizacao": "2024-01-14T18:47:58",
+        "dataServidor": "2024-03-20T10:20:53",
+        "dataAtualizacao": "2024-03-20T10:20:53",
         "iniciado": true,
         "terminado": false,
         "ultimos5m": false,
@@ -288,7 +288,7 @@
                         "fracao": "",
                         "distritoDesc": "11 - Lisboa",
                         "concelhoDesc": "08 - Lourinh\u00e3",
-                        "freguesiaDesc": "12 - Vilar Barroco"
+                        "freguesiaDesc": "14 - Uni\u00e3o das freguesias de S\u00e3o Bartolomeu dos Galegos e Moledo"
                     }
                 ]
             }

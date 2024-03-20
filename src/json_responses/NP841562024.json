@@ -2,8 +2,8 @@
     "item": {
         "id": 132053,
         "origem": 204597,
-        "lanceAtual": 12500.0,
-        "lanceAtualId": 15112,
+        "lanceAtual": 12600.0,
+        "lanceAtualId": 10155,
         "dataInicio": "2024-01-12T18:01:14",
         "dataFimInicial": "2024-04-11T14:30:00",
         "dataFim": "2024-04-11T14:30:00",
@@ -61,8 +61,8 @@
         "gestorFax": "",
         "gestorMorada": "",
         "gestorHorario": "",
-        "dataServidor": "2024-01-14T18:48:27",
-        "dataAtualizacao": "2024-01-14T18:48:27",
+        "dataServidor": "2024-03-20T10:32:51",
+        "dataAtualizacao": "2024-03-20T10:32:51",
         "iniciado": true,
         "terminado": false,
         "ultimos5m": false,
@@ -89,7 +89,7 @@
                         "fracao": "",
                         "distritoDesc": "10 - Leiria",
                         "concelhoDesc": "06 - Caldas da Rainha",
-                        "freguesiaDesc": "82 - Ucha"
+                        "freguesiaDesc": "11 - Santa Catarina"
                     }
                 ]
             }

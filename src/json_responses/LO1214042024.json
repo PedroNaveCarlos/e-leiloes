@@ -1,0 +1,210 @@
+{
+    "item": {
+        "id": 136653,
+        "origem": 208617,
+        "lanceAtual": 28562.8,
+        "lanceAtualId": 90641,
+        "dataInicio": "2024-03-05T23:59:59",
+        "dataFimInicial": "2024-04-10T10:00:00",
+        "dataFim": "2024-04-10T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1214042024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_105590/23022024113117_800sm.jpg",
+        "titulo": "1/2 de apartamento T2 sito em Mem Martins",
+        "valorBase": 56000.0,
+        "valorAbertura": 28000.0,
+        "valorMinimo": 47600.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Penhora de 1/2 do pr\u00e9dio urbano sito na Rua Nat\u00e1lia correia n\u00ba7 2E 2725-569 Mem Martins, inscrito na matriz com o artigo urbano n\u00ba6478 frac\u00e7\u00e3o 2E da freguesia de Algueir\u00e3o-Mem Martins e descrito na CRP sob o n\u00ba1679 frac\u00e7\u00e3o F da Freguesia de Algueir\u00e3o-Mem Martins.",
+        "observacoes": "Em venda encontra-se apenas a de parte de 1/2 do imovel descrito. O imovel encontra-se ocupado em bom estado em geral.\r\nFaz-se saber que: \r\n- \u00c9 da \u00fanica responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1, antes de apresentar proposta assegurar-se que o mesmo corresponde \u00e0s suas expectativas; com apresenta\u00e7\u00e3o de proposta, presume-se que o proponente procedeu \u00e0 verifica\u00e7\u00e3o do bem e conhece as suas limita\u00e7\u00f5es;\r\n- O bem \u00e9 vendido no estado f\u00edsico e jur\u00eddico em que se encontra; \r\n- Para visitas ao bem, dever\u00e1 o interessado fazer esse pedido, atrav\u00e9s dos contactos enunciados nas visitas; \r\n- As visitas s\u00e3o efectuadas de segunda-feira a sexta-feira, entre as 14:00 e as 18:00 horas (com agendamento pr\u00e9vio com o fiel deposit\u00e1rio). \r\nAdverte-se que: \r\n- Se ao termo do leil\u00e3o, o valor da melhor proposta for superior ao valor m\u00ednimo, fica o proponente obrigado ao dep\u00f3sito do valor proposto, podendo-se promover o arresto de bens suficientes para garantir o supra referido valor, nos termos da al. c), do n.\u00ba 1, do art.\u00ba 825.\u00ba, do C.P.C. \u2013 C\u00f3digo do Processo Civil, aprovado pela Lei n.\u00ba 41/2013, de 26 de junho, na sua vers\u00e3o dada pela Lei n.\u00ba 114/2017, de 29 de dezembro.",
+        "areaUtilPrivativa": 77.37,
+        "areaUtilDependente": 7.71,
+        "areaTotal": 85.08,
+        "morada": "Rua Nat\u00e1lia Correia, Tapada das Merc\u00eas",
+        "moradaNumero": "7",
+        "moradaAndar": "2\u00baesquerdo",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Algueir\u00e3o-Mem Martins",
+        "moradaCP": "2725-569",
+        "coordenadasLAT": "38.79391608",
+        "coordenadasLON": "-9.32999530",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 35459,
+        "processoNumero": "757/14.1T2SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Inst. Central - 1\u00aa Sec\u00e7\u00e3o de Execu\u00e7\u00e3o - J3",
+        "verbaId": 105590,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"234768010\", \"nome\":\"MARCOS ANT\u00d3NIO PUCHTA\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 910,
+        "cerimoniaData": "2024-04-10T15:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 146,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3103",
+        "gestorNome": "Jos\u00e9 Castelo Branco",
+        "gestorEmail": "3103@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:28:15",
+        "dataAtualizacao": "2024-03-20T10:28:15",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113117_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113117_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113044_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113044_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113048_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113048_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113051_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113051_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113057_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113057_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113100_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113100_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113103_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113103_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113107_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113107_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113110_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113110_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113114_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113114_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113120_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113120_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113123_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113123_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113126_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113126_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113130_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113130_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113133_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113133_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113136_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113136_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113146_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113146_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113149_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113149_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113156_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113156_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113159_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113159_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105590/23022024113202_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105590/23022024113202_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 33563,
+                "numero": "1679",
+                "fracao": "F",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "02 - Algueir\u00e3o-mem Martins",
+                "artigos": [
+                    {
+                        "numero": "6478",
+                        "tipo": "urbana",
+                        "fracao": "2E",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "02 - Algueir\u00e3o-Mem Martins"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

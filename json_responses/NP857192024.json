@@ -1,0 +1,248 @@
+{
+    "item": {
+        "id": 134444,
+        "origem": 207281,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-02-09T14:28:12",
+        "dataFimInicial": "2024-04-09T14:30:00",
+        "dataFim": "2024-04-09T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP857192024",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_102805/24112023164830_800sm.jpg",
+        "titulo": "Loja - Vale Para\u00edso, Azambuja",
+        "valorBase": 264000.0,
+        "valorAbertura": 132000.0,
+        "valorMinimo": 224400.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio Urbano composto por zona ampla afeta a com\u00e9rcio e/ou servi\u00e7os, com \u00e1rea total aproximada de 430 m2 na qual se inclui, pelo acesso no N.\u00ba 21, uma sala para rece\u00e7\u00e3o e/ou atendimento, e, uma mezzanine com \u00e1rea aproximada de 135 m2, que abrange toda a frente do im\u00f3vel, sito nos n.\u00bas 19 e 21 da Rua 18 de Dezembro (antiga Rua Direito do Rocio), no lugar de Vale do Para\u00edso, Concelho de Azambuja, registado na Conservat\u00f3ria do Registo Predial de Azambuja sob a ficha n.\u00ba 180 da Freguesia de Vale do Para\u00edso e inscrito atualmente na respetiva matriz com o artigo 1093 da referida Freguesia (o qual teve origem no artigo 285 da mesma Freguesia).",
+        "observacoes": "O im\u00f3vel em venda encontra-se em bom estado de conserva\u00e7\u00e3o, sendo vendido no estado em que se encontra.\r\nNa pend\u00eancia dos presentes autos constatou-se a exist\u00eancia de diversas diverg\u00eancias entre a realidade f\u00edsica do pr\u00e9dio penhorado e a sua descri\u00e7\u00e3o na Conservat\u00f3ria do Registo Predial e na Caderneta Predial Urbana (CPU) emitida pela Autoridade Tribut\u00e1ria. Consta da descri\u00e7\u00e3o na C.R. Predial que o im\u00f3vel penhorado sito em Vale do Para\u00edso - Rua Direita do Rocio, com \u00e1rea total de 264 m2 corresponde a casa de r\u00e9s-do-ch\u00e3o para habita\u00e7\u00e3o, o que n\u00e3o se verifica.\r\nConsta igualmente da CPU do im\u00f3vel que \u00e9 localizado no N.\u00ba 14 da Rua 18 de Dezembro, do lugar de Vale do Para\u00edso, com \u00e1rea total de 264 m2, composto por uma divis\u00e3o com utiliza\u00e7\u00e3o independente sita no r\u00e9s-do-ch\u00e3o, afeto a Servi\u00e7os com \u00e1rea 168 m2, e uma segunda divis\u00e3o com utiliza\u00e7\u00e3o independente, tamb\u00e9m sita no r\u00e9s-do-ch\u00e3o, afeta a habita\u00e7\u00e3o, com \u00e1rea de 128 m2, o que tamb\u00e9m n\u00e3o se verifica. \r\nO im\u00f3vel foi objeto de v\u00e1rias modifica\u00e7\u00f5es por parte do executado, nomeadamente com a anexa\u00e7\u00e3o \u00e0 \u00e1rea do edif\u00edcio, do logradouro anteriormente existente, e a cria\u00e7\u00e3o de uma mezzanine. \r\nCabe aos interessados a verifica\u00e7\u00e3o do estado do im\u00f3vel e se o mesmo se encontra nas condi\u00e7\u00f5es desej\u00e1veis, antes de efetuar qualquer proposta. \u00c9 da exclusiva responsabilidade de qualquer interessado esta verifica\u00e7\u00e3o. A falta desta verifica\u00e7\u00e3o por parte dos interessados/proponentes n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda. \r\nPor se tratar de uma venda judicial, a presente venda est\u00e1 dispensada da apresenta\u00e7\u00e3o da licen\u00e7a de utiliza\u00e7\u00e3o do pr\u00e9dio, certificado energ\u00e9tico e ficha t\u00e9cnica de habita\u00e7\u00e3o, pelo que, constitui \u00f3nus do adquirente a respetiva legaliza\u00e7\u00e3o do im\u00f3vel, se for caso disso. \r\nAs visitas ao im\u00f3vel s\u00e3o efetuadas atrav\u00e9s de marca\u00e7\u00e3o com o Executado, atrav\u00e9s dos contactos dispon\u00edveis no campo das \u201cVisitas\u201d.\r\nOs interessados que pretendam apresentar a sua proposta, dever\u00e3o consultar as regras de funcionamento da Plataforma e/ou aconselhar-se com um Solicitador ou Advogado.",
+        "areaUtilPrivativa": 296.0,
+        "areaUtilDependente": 46.0,
+        "areaTotal": 342.0,
+        "morada": "Rua 18 de Dezembro",
+        "moradaNumero": "19 e 21",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Azambuja",
+        "moradaFreguesia": "Vale do Para\u00edso",
+        "moradaCP": "2050-407",
+        "coordenadasLAT": "39.11519544",
+        "coordenadasLON": "-8.88529328",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69951,
+        "processoNumero": "4718/18.3T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 102805,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"510160832\", \"nome\":\"Sticksound - Unipessoal, Lda.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 82,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5178",
+        "gestorNome": "ANA FILIPA DA SILVA",
+        "gestorEmail": "5178@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:01:32",
+        "dataAtualizacao": "2024-02-12T20:01:32",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164830_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164830_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164755_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164755_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164759_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164759_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164801_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164801_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164804_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164804_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164807_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164807_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164809_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164809_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164811_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164811_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164814_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164814_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164816_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164816_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164825_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164825_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164827_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164827_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164832_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164832_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164835_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164835_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164837_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164837_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164840_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164840_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164842_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164842_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164845_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164845_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164847_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164847_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164850_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164850_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164852_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164852_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164855_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164855_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164857_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164857_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164900_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164900_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164902_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164902_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164905_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164905_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164908_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164908_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164910_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164910_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102805/24112023164913_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102805/24112023164913_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31909,
+                "numero": "180",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "03 - Azambuja",
+                "freguesiaDesc": "06 - Vale do Paraiso",
+                "artigos": [
+                    {
+                        "numero": "1093",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "03 - Azambuja",
+                        "freguesiaDesc": "06 - Vale do Para\u00edso"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

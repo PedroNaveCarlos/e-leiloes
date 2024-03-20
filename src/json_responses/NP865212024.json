@@ -1,0 +1,209 @@
+{
+    "item": {
+        "id": 135957,
+        "origem": 208933,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-02-27T16:45:45",
+        "dataFimInicial": "2024-04-30T14:30:00",
+        "dataFim": "2024-04-30T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP865212024",
+        "tipoId": 1,
+        "subtipoId": 28,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_38330/18022019145021_800sm.jpg",
+        "titulo": "Edif\u00edcio destinado a habita\u00e7\u00e3o e Lar",
+        "valorBase": 568850.22,
+        "valorAbertura": 284425.11,
+        "valorMinimo": 483522.69,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Outro",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Edif\u00edcio de R\u00e9s do Ch\u00e3o A e B, destinado a habita\u00e7\u00e3o e lar, sito na Rua da Boa Esperan\u00e7a, Casais das Boi\u00e7as, 2065-101 Alcoentre, \u00e1rea total 3057 m2, \u00e1rea coberta 468,75 m2 e descoberta 2588,25 m2.\r\n- HABITA\u00c7\u00c3O: R/C \"A\", tipo T2, com a \u00e1rea de terreno integrante de 400 m2, \u00e1rea bruta privativa 157,15 m2 e \u00e1rea bruta dependente 20,85 m2;\r\n- LAR: R/C  \" B\", com 9 divis\u00f5es, com a \u00e1rea de terreno integrante de 1.603,48 m2, \u00e1rea bruta privativa 311,60 m2 e \u00e1rea bruta dependente 66,45 m2.\r\nInscrito na matriz predial urbana da freguesia de Alcoentre sob o artigo 2986 e descrito na Conservat\u00f3ria do Registo Predial de Azambuja sob o n\u00famero 2036/freguesia Alcoentre.",
+        "observacoes": "O Lar, denominado \"O Bom Amigo\", encontra-se em funcionamento. Est\u00e1 direcionado  para o cuidado residencial e especializado para idosos. \u00c9 composto por edif\u00edcio com alpendre com escrit\u00f3rio, sala, cozinha, despensa, gabinete m\u00e9dico, casa de banho, quarto e acesso a um piso situado a um n\u00edvel inferior composto por rece\u00e7\u00e3o, sala, corredor, casa de banho de empregados, 4 quartos, instala\u00e7\u00e3o sanit\u00e1ria dos utentes; outro edif\u00edcio composto por lavandaria, habita\u00e7\u00e3o dos propriet\u00e1rios composta por alpendre, cozinha/sala, 2 salas, casa de banho, quarto com casa de banho privativa, terra\u00e7o e acesso a uma zona utilizada para o lar com 3 quartos, casa de banho e despensa e um piso inferior composto por divis\u00e3o ampla para cozinha/sala/garagem, casa de banho, quarto, despensa e alpendre.\r\nO pr\u00e9dio encontra-se totalmente vedado e parcialmente murado, disp\u00f5em de 1 po\u00e7o; junto aos edif\u00edcios existe uma zona com jardim e uma zona destinada \u00e0 horta.\r\nEm bom estado de conserva\u00e7\u00e3o.",
+        "areaUtilPrivativa": 468.75,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 3057.0,
+        "morada": "Rua Boa Esperan\u00e7a, Casais das Boi\u00e7as",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Azambuja",
+        "moradaFreguesia": "Alcoentre",
+        "moradaCP": "2065-101",
+        "coordenadasLAT": "39.17413972",
+        "coordenadasLON": "-8.96656423",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 28163,
+        "processoNumero": "1570/13.9TBCTX",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 38330,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"152482520\", \"nome\":\"Jos\u00e9 Manuel Cintr\u00e3o da Silva\", \"requerido\":\"False\"},{\"nif\":\"133535681\", \"nome\":\"Maria de Lurdes Bento Cintr\u00e3o da Silva\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 69,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2202",
+        "gestorNome": "Maria Teresa Leal Santos",
+        "gestorEmail": "2202@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:36:46",
+        "dataAtualizacao": "2024-03-20T10:36:46",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/18022019145021_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/18022019145021_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/18022019145022_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/18022019145022_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/18022019145024_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/18022019145024_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/18022019145025_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/18022019145025_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/18022019145027_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/18022019145027_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/18022019145028_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/18022019145028_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150509_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150509_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150535_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150535_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150537_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150537_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150538_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150538_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150540_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150540_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150541_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150541_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150543_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150543_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150544_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150544_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150545_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150545_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150547_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150547_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150548_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150548_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150550_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150550_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150551_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150551_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150552_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150552_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150553_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150553_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150555_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150555_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150556_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150556_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150557_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150557_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_38330/15122020150558_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_38330/15122020150558_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

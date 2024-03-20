@@ -1,0 +1,175 @@
+{
+    "item": {
+        "id": 133383,
+        "origem": 204187,
+        "lanceAtual": 86050.17,
+        "lanceAtualId": 114202,
+        "dataInicio": "2024-01-29T00:00:05",
+        "dataFimInicial": "2024-02-28T10:00:00",
+        "dataFim": "2024-02-28T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1194172024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_103912/10012024144413_800sm.jpg",
+        "titulo": "T3 no Monte Abra\u00e3o - Queluz",
+        "valorBase": 145317.65,
+        "valorAbertura": 72658.83,
+        "valorMinimo": 123520.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma \"L\", correspondente ao 3\u00ba andar esquerdo, para habita\u00e7\u00e3o, do im\u00f3vel sito na Av. D. Ant\u00f3nio Correia de S\u00e1,\r\n47, em Monte Abra\u00e3o, Queluz, descrito na Conservat\u00f3ria do Registo Predial de Queluz com o n.\u00ba 265 da freguesia de Monte Abra\u00e3o e inscrito na matriz da uni\u00e3o das freguesias de Massam\u00e1 e Monte Abra\u00e3o sob o Art.\u00ba 423 (frac\u00e7\u00e3o 3\u00baEsq).\r\nComposto por hall, sala, cozinha com despensa, 3 quartos, 2 casas de banho completas, 2 varandas e arrecada\u00e7\u00e3o no \u00faltimo andar do pr\u00e9dio.",
+        "observacoes": "Pr\u00e9dio com elevador.\r\n\r\n\u00c9 da exclusiva responsabilidade do licitante a verifica\u00e7\u00e3o do estado de conserva\u00e7\u00e3o do im\u00f3vel, pelo que dever\u00e1 assegurar-se de que o mesmo se encontra nas condi\u00e7\u00f5es pretendidas, antes de licitar. \r\n\r\nNos termos do n.\u00ba 2 do artigo 824.\u00ba do C\u00f3digo de Processo Civil, o pre\u00e7o dever\u00e1 ser depositado no prazo de 15 dias ap\u00f3s a notifica\u00e7\u00e3o pela Agente do Execu\u00e7\u00e3o, para o efeito. \r\n\r\nA falta de dep\u00f3sito do pre\u00e7o poder\u00e1 dar lugar \u00e0 decreta\u00e7\u00e3o do arresto de bens suficientes para garantir o valor em falta, tudo conforme consta do disposto no artigo 825.\u00ba do CPC, n.\u00ba 1, al.c). \r\n\r\nMais se informa que, de acordo com o disposto no art. 827.\u00ba, n.\u00ba 1, do CPC, a aquisi\u00e7\u00e3o ser\u00e1 efectuada por t\u00edtulo de transmiss\u00e3o emitido pelo Agente de Execu\u00e7\u00e3o (e n\u00e3o por escritura p\u00fablica). \r\n\r\nO facto do licitante estar a aguardar resposta sobre eventual financiamento n\u00e3o suspende o prazo para dep\u00f3sito do pre\u00e7o supra indicado.",
+        "areaUtilPrivativa": 87.9,
+        "areaUtilDependente": 11.55,
+        "areaTotal": 99.45,
+        "morada": "Avenida Dom Ant\u00f3nio Correia de S\u00e1, Monte Abra\u00e3o",
+        "moradaNumero": "47",
+        "moradaAndar": "3\u00ba Esq",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Massam\u00e1 e Monte Abra\u00e3o",
+        "moradaCP": "2745-244",
+        "coordenadasLAT": "38.75953820408374",
+        "coordenadasLON": "-9.262568950653076",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70679,
+        "processoNumero": "3363/21.0T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 103912,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"194393780\", \"nome\":\"LUIS GON\u00c7ALVES DINIS\", \"requerido\":\"False\"},{\"nif\":\"205973272\", \"nome\":\"S\u00d3NIA ISABEL PEREIRA DE MESQUITA SPRANGER\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 897,
+        "cerimoniaData": "2024-02-28T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 60,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "6639",
+        "gestorNome": "ANDREA CARVALHO ROSA",
+        "gestorEmail": "6639@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:46:55",
+        "dataAtualizacao": "2024-02-12T19:46:55",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103912/10012024144413_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103912/10012024144413_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103912/10012024144607_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103912/10012024144607_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103912/10012024144609_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103912/10012024144609_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103912/10012024144611_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103912/10012024144611_200.jpg"
+            },
+            {
+                "legenda": "wc2",
+                "image": "files/Verbas_Fotos/verba_103912/10012024144649_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103912/10012024144649_200.jpg"
+            },
+            {
+                "legenda": "wc2",
+                "image": "files/Verbas_Fotos/verba_103912/10012024144651_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103912/10012024144651_200.jpg"
+            },
+            {
+                "legenda": "wc 1",
+                "image": "files/Verbas_Fotos/verba_103912/10012024144657_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103912/10012024144657_200.jpg"
+            },
+            {
+                "legenda": "quarto3",
+                "image": "files/Verbas_Fotos/verba_103912/10012024144728_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103912/10012024144728_200.jpg"
+            },
+            {
+                "legenda": "quarto2",
+                "image": "files/Verbas_Fotos/verba_103912/10012024144733_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103912/10012024144733_200.jpg"
+            },
+            {
+                "legenda": "quarto1",
+                "image": "files/Verbas_Fotos/verba_103912/10012024144738_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103912/10012024144738_200.jpg"
+            },
+            {
+                "legenda": "hall",
+                "image": "files/Verbas_Fotos/verba_103912/10012024145244_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103912/10012024145244_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103912/10012024145258_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103912/10012024145258_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103912/10012024145321_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103912/10012024145321_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103912/24012024141200_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103912/24012024141200_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32516,
+                "numero": "265",
+                "fracao": "L",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "17 - Monte Abra\u00e3o",
+                "artigos": [
+                    {
+                        "numero": "423",
+                        "tipo": "urbana",
+                        "fracao": "3 ESQ",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "25 - Uni\u00e3o das freguesias de Massam\u00e1 e Monte Abra\u00e3o"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,245 @@
+{
+    "item": {
+        "id": 136363,
+        "origem": 207290,
+        "lanceAtual": 35990.64,
+        "lanceAtualId": 11843,
+        "dataInicio": "2024-03-04T00:00:07",
+        "dataFimInicial": "2024-04-10T10:30:00",
+        "dataFim": "2024-04-10T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1207302024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 3,
+        "capa": "files/Verbas_Fotos/verba_99748/03082023153135_800sm.jpg",
+        "titulo": "T1 Baixa da Banheira - Moita",
+        "valorBase": 22076.25,
+        "valorAbertura": 11038.13,
+        "valorMinimo": 18764.81,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T1",
+        "descricao": "Fra\u00e7\u00e3o Aut\u00f3noma designada pela letra \"H\", correspondente ao segundo andar frente destinado a habita\u00e7\u00e3o, que integra o pr\u00e9dio urbano submetido ao regime de propriedade horizontal sito no n.\u00ba 18 da Rua do Alentejo, descrito na Conservat\u00f3ria do Registo Predial de Moita sob a ficha N.\u00ba 586 da Freguesia de Baixa da Banheira e inscrito na respetiva matriz com o artigo 3160.\u00ba da Uni\u00e3o das Freguesias de Baixa da Banheira e Vale da Amoreira.",
+        "observacoes": "O im\u00f3vel encontra-se em razo\u00e1vel estado de conserva\u00e7\u00e3o, sem anomalias vis\u00edveis, com a excep\u00e7\u00e3o do teto do quarto que apresenta humidade.\r\nCabe aos interessados a verifica\u00e7\u00e3o do estado do im\u00f3vel e se o mesmo se encontra nas condi\u00e7\u00f5es desej\u00e1veis, antes de efetuar qualquer proposta. \u00c9 da exclusiva responsabilidade de qualquer interessado esta verifica\u00e7\u00e3o. A falta desta verifica\u00e7\u00e3o por parte dos interessados/proponentes n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda. \r\nPor se tratar de uma venda judicial, a presente venda est\u00e1 dispensada da apresenta\u00e7\u00e3o da licen\u00e7a de utiliza\u00e7\u00e3o do pr\u00e9dio, certificado energ\u00e9tico e ficha t\u00e9cnica de habita\u00e7\u00e3o, pelo que, constitui \u00f3nus do adquirente a respetiva legaliza\u00e7\u00e3o do im\u00f3vel, se for caso disso. \r\nO im\u00f3vel encontra-se livre de pessoas e bens, estando desabitado e na posse da AE signat\u00e1ria, designada Fiel Deposit\u00e1ria do mesmo.\r\nAs visitas ao im\u00f3vel s\u00e3o efetuadas atrav\u00e9s de marca\u00e7\u00e3o com a Agente de Execu\u00e7\u00e3o, pelo contacto telef\u00f3nico 214 013 803 ou para o e-mail 5178@solicitador.net, em data pr\u00f3xima do t\u00e9rminus do Leil\u00e3o.\r\nOs interessados que pretendam apresentar a sua proposta, dever\u00e3o consultar as regras de funcionamento da Plataforma e/ou aconselhar-se com um Solicitador ou Advogado.",
+        "areaUtilPrivativa": 42.51,
+        "areaUtilDependente": 6.84,
+        "areaTotal": 49.35,
+        "morada": "Rua Alentejo",
+        "moradaNumero": "18",
+        "moradaAndar": "2.\u00baF",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Moita",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Baixa da Banheira e Vale da Amoreira",
+        "moradaCP": "2835-101",
+        "coordenadasLAT": "38.65684570",
+        "coordenadasLON": "-9.04148810",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 67941,
+        "processoNumero": "3850/17.5T8ALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 99748,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"740514032\", \"nome\":\"Heran\u00e7a il\u00edquida do executado Fernando Jorge de Matos das Dores, representadea por Herdeiros Incertos\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 908,
+        "cerimoniaData": "2024-04-10T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 82,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5178",
+        "gestorNome": "ANA FILIPA DA SILVA",
+        "gestorEmail": "5178@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:45:16",
+        "dataAtualizacao": "2024-03-20T10:45:16",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153135_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153135_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153122_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153122_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153126_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153126_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153129_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153129_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153132_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153132_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153141_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153141_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153146_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153146_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153149_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153149_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153152_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153152_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153155_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153155_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153200_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153200_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153204_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153204_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153208_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153208_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153212_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153212_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153215_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153215_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153219_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153219_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153222_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153222_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153227_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153227_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153231_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153231_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153234_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153234_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153237_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153237_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153240_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153240_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153243_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153243_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153247_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153247_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153250_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153250_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153254_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153254_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153258_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153258_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99748/03082023153302_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99748/03082023153302_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 30095,
+                "numero": "586",
+                "fracao": "H",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "06 - Moita",
+                "freguesiaDesc": "02 - Baixa da Banheira",
+                "artigos": [
+                    {
+                        "numero": "3160",
+                        "tipo": "urbana",
+                        "fracao": "H",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "06 - Moita",
+                        "freguesiaDesc": "07 - Uni\u00e3o das freguesias de Baixa da Banheira e Vale da Amoreira"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

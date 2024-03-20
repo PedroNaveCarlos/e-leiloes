@@ -1,0 +1,250 @@
+{
+    "item": {
+        "id": 136478,
+        "origem": 208431,
+        "lanceAtual": 205201.28,
+        "lanceAtualId": 43244,
+        "dataInicio": "2024-03-04T00:00:19",
+        "dataFimInicial": "2024-04-10T11:00:00",
+        "dataFim": "2024-04-10T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1213302024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_105466/21022024162219_800sm.jpg",
+        "titulo": "T3, com 2 lugares de estacionamento e arrecada\u00e7\u00e3o, no Jardim da Amoreira, Ramada",
+        "valorBase": 350000.0,
+        "valorAbertura": 175000.0,
+        "valorMinimo": 297500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma, designada pela letra \u201cG\u201d, do pr\u00e9dio urbano, em regime de propriedade horizontal, correspondente ao segundo andar, esquerdo, tipo T3, destinado a habita\u00e7\u00e3o, com os estacionamentos identificados pelos n\u00bas 18 e 19, no piso menos um e uma arrecada\u00e7\u00e3o identificada com o n\u00ba 3, no piso menos dois, descrito na Conservat\u00f3ria do Registo Predial de Odivelas sob o n\u00ba 1383, da freguesia de Ramada e inscrito na matriz predial urbana sob o artigo 6105, da Uni\u00e3o de Freguesias de Ramada e Cane\u00e7as.",
+        "observacoes": "#################### Alertam-se os interessados para o seguinte: #################### AS VISITAS AO IM\u00d3VEL OCORRER\u00c3O APENAS NA \u00daLTIMA SEGUNDA-FEIRA ANTES DO ENCERRAMENTO DO LEIL\u00c3O, ENTRE AS 15H00 E AS 17H00, DEPENDENDO SEMPRE DE MARCA\u00c7\u00c3O PR\u00c9VIA, COM PELO MENOS 2 DIAS UTEIS DE ANTECED\u00caNCIA, CONSOANTE DISPONIBILIDADE DO FIEL DEPOSIT\u00c1RIO E COM AS LIMITA\u00c7\u00d5ES IMPOSTAS PELO RESPEITO DAS REGRAS DE SEGURAN\u00c7A E PRIVACIDADE. PARA O EFEITO, DEVER\u00c3O FAZER O LOG-IN NESTA PLATAFORMA E CONSULTAR OS CONTACTOS NO CAMPO VISITAS. ####################\r\nO im\u00f3vel \u00e9 vendido no estado f\u00edsico e jur\u00eddico em que se encontra. \u00c9 da \u00fanica e exclusiva responsabilidade dos proponentes a verifica\u00e7\u00e3o do estado do im\u00f3vel a adquirir, pelo que dever\u00e1, antes de apresentar proposta, assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se encontra nas condi\u00e7\u00f5es pretendidas. ####################\r\nOs interessados devem assim reportar-se \u00e0s fotos e aos documentos anexos ao presente an\u00fancio, e ponderar a eventual desloca\u00e7\u00e3o presencial ao im\u00f3vel, para constata\u00e7\u00e3o das condi\u00e7\u00f5es do mesmo. ####################\r\nCom a apresenta\u00e7\u00e3o da proposta, presume-se que os interessados tenham inspecionado o im\u00f3vel e conhecem as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o, assim como, qualquer descri\u00e7\u00e3o incorreta da informa\u00e7\u00e3o que possa induzir em erro. ####################\r\nOs interessados, antes de efetuarem quaisquer propostas, devem consultar as regras de funcionamento e as Faq.\u2019 constantes no site www.e-leiloes.pt . A aus\u00eancia do pagamento no prazo estipulado, ser\u00e1 considerada desist\u00eancia e acarreta a consequente den\u00fancia no portal \u201celeil\u00f5es.pt\u201d, assim como responsabiliza\u00e7\u00e3o pela falta de pagamento, podendo ser determinado o arresto dos seus bens que sejam suficientes para garantir o valor n\u00e3o pago, acrescido das custas e despesas, sem preju\u00edzo de eventual procedimento criminal nos termos do j\u00e1 referido artigo 825.\u00ba do C\u00f3digo de Processo Civil e, sendo ainda, simultaneamente, executado no pr\u00f3prio processo para pagamento daquele valor. ####################\r\nO comprador assumir\u00e1 todos os custos e despesas inerentes ao registo do im\u00f3vel adquirido, incluindo o pagamento das respetivas obriga\u00e7\u00f5es fiscais. ####################",
+        "areaUtilPrivativa": 147.25,
+        "areaUtilDependente": 58.85,
+        "areaTotal": 206.1,
+        "morada": "Rua Herminia Silva, Jardim da Amoreira",
+        "moradaNumero": "15",
+        "moradaAndar": "2\u00ba Esq",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Odivelas",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Ramada e Cane\u00e7as",
+        "moradaCP": "2620-535",
+        "coordenadasLAT": "38.81041229",
+        "coordenadasLON": "-9.19085031",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71635,
+        "processoNumero": "461/22.7T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 105466,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"151214972\", \"nome\":\"Joaquim Maximiano Pinh\u00e3o de Almeida\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 908,
+        "cerimoniaData": "2024-04-10T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 339,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2203",
+        "gestorNome": "Jacinto Neto",
+        "gestorEmail": "2203@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:31:27",
+        "dataAtualizacao": "2024-03-20T10:31:27",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162219_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162219_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162221_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162221_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162224_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162224_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162227_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162227_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162232_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162232_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162235_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162235_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162239_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162239_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162241_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162241_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162244_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162244_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162247_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162247_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162249_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162249_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162252_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162252_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162254_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162254_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162256_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162256_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162259_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162259_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162301_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162301_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162304_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162304_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162307_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162307_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162311_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162311_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162314_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162314_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162316_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162316_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162319_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162319_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162321_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162321_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162324_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162324_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162326_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162326_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162329_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162329_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162331_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162331_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162333_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162333_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105466/21022024162335_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105466/21022024162335_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 33505,
+                "numero": "1383",
+                "fracao": "G",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "16 - Odivelas",
+                "freguesiaDesc": "07 - Ramada",
+                "artigos": [
+                    {
+                        "numero": "6105",
+                        "tipo": "urbana",
+                        "fracao": "G",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "16 - Odivelas",
+                        "freguesiaDesc": "10 - Uni\u00e3o das freguesias de Ramada e Cane\u00e7as"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

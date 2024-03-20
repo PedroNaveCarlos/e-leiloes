@@ -1,0 +1,205 @@
+{
+    "item": {
+        "id": 134255,
+        "origem": 205777,
+        "lanceAtual": 55912.5,
+        "lanceAtualId": 15197,
+        "dataInicio": "2024-02-08T00:00:04",
+        "dataFimInicial": "2024-02-28T11:00:00",
+        "dataFim": "2024-02-28T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1201282024",
+        "tipoId": 1,
+        "subtipoId": 3,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_104498/05022024103832_800sm.jpg",
+        "titulo": "Garagem - Casal de Ouressa - Coberto e Fechado",
+        "valorBase": 111825.0,
+        "valorAbertura": 55912.5,
+        "valorMinimo": 95051.25,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Garagem / Arrumos",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma individualizada pela letra \u201cA\u201d, correspondente a CAVE GARAGEM, do pr\u00e9dio urbano em regime de propriedade horizontal, sito na Rua Jos\u00e9 Afonso, n.\u00ba 5, em Casal de Ouressa, freguesia de Algueir\u00e3o Mem Martins, concelho de Sintra, descrito na 1.\u00aa Conservat\u00f3ria do Registo Predial de Sintra sob o n.\u00ba 1935, inscrito na respetiva matriz urbana sob o artigo 6411.",
+        "observacoes": "1.\u00aa Informa\u00e7\u00e3o a garagem tem uma parede aberta que junta a outra garagem, o novo propriet\u00e1rio fica desde j\u00e1 advertido que na dilig\u00eancia de tomada de posse ter\u00e1 que disponibilizar meus para tapar o referido buraco com a constru\u00e7\u00e3o da parede na presen\u00e7a da Agente de Execu\u00e7\u00e3o, sendo o custo desta obra \u00e9 da sua responsabilidade.\r\n2.\u00aa Os bens que constam nas fotografias s\u00e3o propriedade dos executados, ou seja, n\u00e3o se encontram inclu\u00eddos na venda, na aquisi\u00e7\u00e3o somente est\u00e1 a ser adquirido o espa\u00e7o e n\u00e3o qualquer bem la existente.\r\nAs visitas ser\u00e3o sob marca\u00e7\u00e3o atrav\u00e9s dos dados aqui dispon\u00edveis.",
+        "areaUtilPrivativa": 319.5,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 319.5,
+        "morada": "Rua Jos\u00e9 Afonso, Bairro Ouressa",
+        "moradaNumero": "5",
+        "moradaAndar": "Cave Garag",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Algueir\u00e3o-Mem Martins",
+        "moradaCP": "2725-345",
+        "coordenadasLAT": "38.797322209006815",
+        "coordenadasLON": "-9.354912042617798",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71026,
+        "processoNumero": "254/07.1TCSNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 104498,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"112311016\", \"nome\":\"Aldora Pedro Pinto Nunes\", \"requerido\":\"False\"},{\"nif\":\"182341704\", \"nome\":\"Elder Pedro Nunes\", \"requerido\":\"False\"},{\"nif\":\"501621938\", \"nome\":\"Imporsom-Soc. Com. de Imp. e Exp., Lda\", \"requerido\":\"False\"},{\"nif\":\"126386757\", \"nome\":\"Jo\u00e3o Ant\u00f3nio Pedro Nunes\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 897,
+        "cerimoniaData": "2024-02-28T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 1249,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1389",
+        "gestorNome": "Maria Leonor Cosme",
+        "gestorEmail": "1389@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:49:42",
+        "dataAtualizacao": "2024-02-12T19:49:42",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103832_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103832_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103835_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103835_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103837_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103837_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103840_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103840_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103843_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103843_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103847_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103847_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103849_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103849_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103852_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103852_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103854_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103854_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103857_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103857_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103859_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103859_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103901_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103901_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103904_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103904_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103906_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103906_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103909_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103909_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103912_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103912_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103914_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103914_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103916_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103916_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103919_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103919_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104498/05022024103921_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104498/05022024103921_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32876,
+                "numero": "1935",
+                "fracao": "A",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "02 - Algueir\u00e3o-mem Martins",
+                "artigos": [
+                    {
+                        "numero": "6411",
+                        "tipo": "rustica",
+                        "fracao": "CVGR",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "02 - Algueir\u00e3o-Mem Martins"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

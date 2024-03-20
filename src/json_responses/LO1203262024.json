@@ -1,0 +1,210 @@
+{
+    "item": {
+        "id": 134865,
+        "origem": 206281,
+        "lanceAtual": 136729.42,
+        "lanceAtualId": 116699,
+        "dataInicio": "2024-02-15T00:00:01",
+        "dataFimInicial": "2024-03-20T10:00:00",
+        "dataFim": "2024-03-20T10:18:47",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1203262024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_104720/31012024125741_800sm.jpg",
+        "titulo": "Apartamento Forte da Casa - Vila Franca de Xira",
+        "valorBase": 56959.87,
+        "valorAbertura": 28479.94,
+        "valorMinimo": 48415.89,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra H, correspondente ao 3.\u00ba andar direito para habita\u00e7\u00e3o do pr\u00e9dio urbano em regime de propriedade horizontal, sito na Pra\u00e7a 5 de Outubro, 5, Forte da Casa, freguesia de Vialonga, concelho de Vila Franca de Xira, edif\u00edcio de cave-armaz\u00e9m, r\u00e9s-do-ch\u00e3o, 1\u00ba, 2\u00ba e 3.\u00ba andares com lados direito e esquerdo descrito na 2.\u00aa Conservat\u00f3ria do Registo Predial de Vila Franca de Xira sob o n.\u00ba 1358/19981102-H e inscrito na matriz sob o artigo 2242 da uni\u00e3o das freguesias de P\u00f3voa de Santa Iria e Forte da Casa.",
+        "observacoes": "- O im\u00f3vel encontra-se devoluto e na posse do Agente de execu\u00e7\u00e3o.\r\n- Im\u00f3vel em condi\u00e7\u00f5es de habitabilidade a necessitar de remodela\u00e7\u00e3o.\r\n- Regime de visitas \u2013 As visitas ser\u00e3o agendadas para data pr\u00f3xima do final do leil\u00e3o. As solicita\u00e7\u00f5es de visitas ser\u00e3o respondidas oportunamente mediante o dia de marca\u00e7\u00e3o da mesma.\r\n- \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas.",
+        "areaUtilPrivativa": 77.32,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 77.32,
+        "morada": "Pra\u00e7a 5 de Outubro",
+        "moradaNumero": "5",
+        "moradaAndar": "3\u00ba Dt\u00ba",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Vila Franca de Xira",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de P\u00f3voa de Santa Iria e Forte da Casa",
+        "moradaCP": "2625-407",
+        "coordenadasLAT": "38.87381160122825",
+        "coordenadasLON": "-9.0592360496521",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69542,
+        "processoNumero": "4341/12.6TBVFX",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 104720,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"255934920\", \"nome\":\"Ana Paula Santos Quevedo\", \"requerido\":\"False\"},{\"nif\":\"218599439\", \"nome\":\"Ana Sofia Mendes Quevedo Dantas\", \"requerido\":\"False\"},{\"nif\":\"218582633\", \"nome\":\"Nelson Mendes Perdigao Quevedo\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 903,
+        "cerimoniaData": "2024-03-20T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 207,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5357",
+        "gestorNome": "RODOLFO VERMELHO",
+        "gestorEmail": "5357@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:18:46",
+        "dataAtualizacao": "2024-03-20T10:18:46",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": true,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125741_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125741_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125657_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125657_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125700_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125700_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125702_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125702_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125705_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125705_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125708_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125708_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125712_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125712_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125718_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125718_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125721_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125721_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125724_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125724_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125727_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125727_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125730_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125730_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125733_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125733_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125736_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125736_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125739_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125739_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125744_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125744_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125747_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125747_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125750_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125750_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125753_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125753_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125755_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125755_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104720/31012024125758_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104720/31012024125758_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 33074,
+                "numero": "1358",
+                "fracao": "H",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "14 - Vila Franca de Xira",
+                "freguesiaDesc": "11 - Forte da Casa",
+                "artigos": [
+                    {
+                        "numero": "2242",
+                        "tipo": "urbana",
+                        "fracao": "H",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "14 - Vila Franca de Xira",
+                        "freguesiaDesc": "15 - Uni\u00e3o das freguesias de P\u00f3voa de Santa Iria e Forte da Casa"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

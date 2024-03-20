@@ -2,8 +2,8 @@
     "item": {
         "id": 130731,
         "origem": 203226,
-        "lanceAtual": 101000.0,
-        "lanceAtualId": 60319,
+        "lanceAtual": 104000.0,
+        "lanceAtualId": 9213,
         "dataInicio": "2023-12-27T09:45:27",
         "dataFimInicial": "2024-03-26T14:30:00",
         "dataFim": "2024-03-26T14:30:00",
@@ -61,8 +61,8 @@
         "gestorFax": "",
         "gestorMorada": "",
         "gestorHorario": "",
-        "dataServidor": "2024-01-14T18:48:00",
-        "dataAtualizacao": "2024-01-14T18:48:00",
+        "dataServidor": "2024-03-20T10:21:15",
+        "dataAtualizacao": "2024-03-20T10:21:15",
         "iniciado": true,
         "terminado": false,
         "ultimos5m": false,
@@ -107,7 +107,7 @@
                         "fracao": "B",
                         "distritoDesc": "11 - Lisboa",
                         "concelhoDesc": "05 - Cascais",
-                        "freguesiaDesc": "14 - Varzea dos Cavaleiros"
+                        "freguesiaDesc": "06 - S\u00e3o Domingos de Rana"
                     }
                 ]
             }

@@ -1,0 +1,144 @@
+{
+    "item": {
+        "id": 133008,
+        "origem": 205813,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-25T15:16:49",
+        "dataFimInicial": "2024-03-26T14:30:00",
+        "dataFim": "2024-03-26T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP848332024",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 2,
+        "capa": "files/Verbas_Fotos/verba_26359/12072018120726_800sm.jpg",
+        "titulo": "Loja 41,89m2  - Pragal",
+        "valorBase": 26738.38,
+        "valorAbertura": 13369.19,
+        "valorMinimo": 22727.62,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "T0",
+        "descricao": "Frac\u00e7\u00e3o Aut\u00f3noma designada pela letra \"Z\" correspondente ao 1.\u00ba andar, Loja 23 do Pr\u00e9dio Urbano submetido ao Regime de Propriedade Horizontal sito no n.\u00ba 23 da Rua da Bela Vista do Plano Integrado de Almada, no Pragal, Concelho de Almada e Distrito de Set\u00fabal, descrito na 1.\u00aa Conservat\u00f3ria do Registo Predial de Almada sob a ficha n.\u00ba 276 da Freguesia do Pragal e inscrito na respectiva matriz com o artigo 3459\u00ba da Uni\u00e3o das Freguesias de Almada, Cova da Piedade, Pragal e Cacilhas.",
+        "observacoes": "Os locais ocuparam o local e fixaram uma Igreja Evang\u00e9lica. O Pastor foi constitu\u00eddo fiel deposit\u00e1rio do bem, no entanto, n\u00e3o permitiu que fossem obtidas fotografias do interior, por\u00e9m a A.E. verificou que o Im\u00f3vel estava em estado razo\u00e1vel de conserva\u00e7\u00e3o. Facultou o contacto do Sr. Jos\u00e9 S\u00e1 para efeitos de agendamento de visitas.\r\nAssim, os interessados, dever\u00e3o, previamente contact\u00e1-lo para esse efeito.\r\n*Alerta-se que poder\u00e1 ser exercido o direito de prefer\u00eancia pela C\u00e2mara Municipal de Almada.*\r\nOs interessados dever\u00e3o ter em considera\u00e7\u00e3o que, sendo apresentada proposta de valor igual ou superior a 85% do Valor Base, n\u00e3o obstante a data de conclus\u00e3o do Leil\u00e3o, a A.E. poder\u00e1 determinar o cancelamento do mesmo e prosseguir com as dilig\u00eancias de venda pela mais elevada proposta apresentada.",
+        "areaUtilPrivativa": 41.89,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 41.89,
+        "morada": "Rua Bela Vista",
+        "moradaNumero": "23",
+        "moradaAndar": "1.\u00ba Lj. 23",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Almada",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",
+        "moradaCP": "2805-022",
+        "coordenadasLAT": "38.66852041",
+        "coordenadasLON": "-9.17989228",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 19456,
+        "processoNumero": "5514/13.0TBSXL",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 26359,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"503208159\", \"nome\":\"Lealsul Importa\u00e7\u00e3o e Exporta\u00e7\u00e3o, Limitada\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 77,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4200",
+        "gestorNome": "CL\u00c1UDIA RODRIGUES",
+        "gestorEmail": "4200@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:42:20",
+        "dataAtualizacao": "2024-03-20T10:42:20",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_26359/12072018120726_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_26359/12072018120726_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_26359/12072018120722_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_26359/12072018120722_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_26359/12072018120730_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_26359/12072018120730_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_26359/12072018120734_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_26359/12072018120734_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_26359/12072018120738_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_26359/12072018120738_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_26359/12072018120743_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_26359/12072018120743_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_26359/12072018120747_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_26359/12072018120747_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_26359/12072018120750_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_26359/12072018120750_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_26359/12072018120754_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_26359/12072018120754_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_26359/12072018120758_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_26359/12072018120758_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_26359/12072018120802_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_26359/12072018120802_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_26359/12072018120807_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_26359/12072018120807_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

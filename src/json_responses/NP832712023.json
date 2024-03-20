@@ -2,7 +2,8 @@
     "item": {
         "id": 130500,
         "origem": 203065,
-        "lanceAtual": 0.0,
+        "lanceAtual": 2817500.0,
+        "lanceAtualId": 21773,
         "dataInicio": "2023-12-22T08:45:31",
         "dataFimInicial": "2024-03-21T14:30:00",
         "dataFim": "2024-03-21T14:30:00",
@@ -60,8 +61,8 @@
         "gestorFax": "",
         "gestorMorada": "",
         "gestorHorario": "",
-        "dataServidor": "2024-01-14T18:47:56",
-        "dataAtualizacao": "2024-01-14T18:47:56",
+        "dataServidor": "2024-03-20T10:20:48",
+        "dataAtualizacao": "2024-03-20T10:20:48",
         "iniciado": true,
         "terminado": false,
         "ultimos5m": false,
@@ -118,7 +119,7 @@
                         "fracao": "",
                         "distritoDesc": "11 - Lisboa",
                         "concelhoDesc": "06 - Lisboa",
-                        "freguesiaDesc": "06 - Castedo"
+                        "freguesiaDesc": "63 - Penha de Fran\u00e7a"
                     },
                     {
                         "numero": "98",
@@ -126,7 +127,7 @@
                         "fracao": "",
                         "distritoDesc": "11 - Lisboa",
                         "concelhoDesc": "06 - Lisboa",
-                        "freguesiaDesc": "06 - Castedo"
+                        "freguesiaDesc": "63 - Penha de Fran\u00e7a"
                     },
                     {
                         "numero": "99",
@@ -134,7 +135,7 @@
                         "fracao": "",
                         "distritoDesc": "11 - Lisboa",
                         "concelhoDesc": "06 - Lisboa",
-                        "freguesiaDesc": "06 - Castedo"
+                        "freguesiaDesc": "63 - Penha de Fran\u00e7a"
                     },
                     {
                         "numero": "100",
@@ -142,7 +143,7 @@
                         "fracao": "",
                         "distritoDesc": "11 - Lisboa",
                         "concelhoDesc": "06 - Lisboa",
-                        "freguesiaDesc": "06 - Castedo"
+                        "freguesiaDesc": "63 - Penha de Fran\u00e7a"
                     },
                     {
                         "numero": "101",
@@ -150,7 +151,7 @@
                         "fracao": "",
                         "distritoDesc": "11 - Lisboa",
                         "concelhoDesc": "06 - Lisboa",
-                        "freguesiaDesc": "06 - Castedo"
+                        "freguesiaDesc": "63 - Penha de Fran\u00e7a"
                     }
                 ]
             }

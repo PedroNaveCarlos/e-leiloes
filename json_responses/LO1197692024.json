@@ -1,0 +1,205 @@
+{
+    "item": {
+        "id": 133531,
+        "origem": 204941,
+        "lanceAtual": 74750.0,
+        "lanceAtualId": 112886,
+        "dataInicio": "2024-01-30T00:00:03",
+        "dataFimInicial": "2024-03-06T10:00:00",
+        "dataFim": "2024-03-06T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1197692024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_104160/17012024140837_800sm.jpg",
+        "titulo": "T3 em Amora",
+        "valorBase": 149500.0,
+        "valorAbertura": 74750.0,
+        "valorMinimo": 127075.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o Aut\u00f3noma designada pela letra H, correspondente segundo andar esquerdo para habita\u00e7\u00e3o, sito na Rua Rafael Bordalo Pinheiro, n\u00ba4, 2\u00baEsq\u00ba, freguesia de Amora, Concelho do Seixal, descrito na Conservat\u00f3ria do Registo Predial de Amora sob o n.\u00ba 304/20070323-H e inscrito na matriz daquela freguesia sob o n.\u00ba 4277.",
+        "observacoes": "O im\u00f3vel \u00e9 vendido no estado f\u00edsico e jur\u00eddico em que se encontra e a eventual regulariza\u00e7\u00e3o das \u00e1reas ou legaliza\u00e7\u00e3o do im\u00f3vel \u00e9 responsabilidade do adquirente\r\na) O pedido de marca\u00e7\u00e3o para visita ser\u00e1 feito para o contacto telef\u00f3nico do fiel deposit\u00e1rio indicado;\r\nb) Com a apresenta\u00e7\u00e3o da proposta, presume-se que os interessados tenham inspecionado o im\u00f3vel e conhecem as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o, assim como, qualquer descri\u00e7\u00e3o incorreta da informa\u00e7\u00e3o que possa induzir em erro, devendo ainda o interessado inteirar-se junto das entidades competentes das demais caracter\u00edsticas, licen\u00e7as e/ou outros aspetos que considerem relevantes. A sua n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o da venda. \r\nc) Advertem-se ainda os potenciais interessados que os bens que se encontram no interior do im\u00f3vel n\u00e3o fazem parte do objecto negoci\u00e1vel. \r\nd) Dever\u00e3o igualmente, ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidades da venda e ao facto de o bem n\u00e3o ser entregue no momento da conclus\u00e3o do leil\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio. \r\ne) Todos os custos inerentes ao registo de aquisi\u00e7\u00e3o ser\u00e3o suportados pelo adquirente; \r\nf) A presente venda est\u00e1 dispensada da apresenta\u00e7\u00e3o do alvar\u00e1 de licen\u00e7a de utiliza\u00e7\u00e3o do pr\u00e9dio, certificado energ\u00e9tico e ficha t\u00e9cnica de habita\u00e7\u00e3o, pelo que, nos termos das mesmas disposi\u00e7\u00f5es legais, constitui \u00f3nus do adquirente a respetiva legaliza\u00e7\u00e3o dos im\u00f3veis, se for caso disso; \r\ng) Na aus\u00eancia dos pagamentos nos prazos estipulados, ser\u00e1 considerada desist\u00eancia e consequente den\u00fancia no portal \u201ce-leil\u00f5es.pt\u201d, assim como ser\u00e3o tomadas as medidas previstas no art.\u00ba 825\u00ba do C\u00f3digo do Processo Civil",
+        "areaUtilPrivativa": 102.92,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 102.92,
+        "morada": "Rua Rafael Bordalo Pinheiro",
+        "moradaNumero": "4",
+        "moradaAndar": "2\u00ba Esq",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Seixal",
+        "moradaFreguesia": "Amora",
+        "moradaCP": "2845-130",
+        "coordenadasLAT": "38.62063425755025",
+        "coordenadasLON": "-9.122021198272705",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70823,
+        "processoNumero": "6869/21.8T8ALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 104160,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"296653446\", \"nome\":\"Anast\u00e1cia Maria Pedro Balanquete\", \"requerido\":\"False\"},{\"nif\":\"295921340\", \"nome\":\"Gir\u00e3o Ant\u00f3nio Pululo\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 899,
+        "cerimoniaData": "2024-03-06T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 159,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2165",
+        "gestorNome": "Ant\u00f3nio Tavares Fernandes",
+        "gestorEmail": "2165@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:11:19",
+        "dataAtualizacao": "2024-02-12T20:11:19",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024140837_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024140837_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125543_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125543_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125547_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125547_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125650_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125650_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125652_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125652_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125723_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125723_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125725_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125725_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125727_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125727_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125906_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125906_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125908_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125908_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125910_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125910_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125913_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125913_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125915_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125915_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125917_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125917_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125919_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125919_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125921_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125921_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125923_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125923_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125925_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125925_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/17012024125929_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/17012024125929_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104160/29012024114401_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104160/29012024114401_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32672,
+                "numero": "304",
+                "fracao": "H",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "10 - Seixal",
+                "freguesiaDesc": "02 - Amora",
+                "artigos": [
+                    {
+                        "numero": "4277",
+                        "tipo": "urbana",
+                        "fracao": "H",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "10 - Seixal",
+                        "freguesiaDesc": "02 - Amora"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

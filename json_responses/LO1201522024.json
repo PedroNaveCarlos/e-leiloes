@@ -1,0 +1,169 @@
+{
+    "item": {
+        "id": 134602,
+        "origem": 205846,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-02-12T00:00:08",
+        "dataFimInicial": "2024-03-13T10:30:00",
+        "dataFim": "2024-03-13T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1201522024",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_104521/25012024164151_800sm.jpg",
+        "titulo": "Loja - Mem Martins",
+        "valorBase": 124000.0,
+        "valorAbertura": 62000.0,
+        "valorMinimo": 105400.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Fra\u00e7\u00e3o individualizada pela letra B (RCE na Caderneta Predial) a que corresponde a R\u00e9s-do-Ch\u00e3o Esquerdo Loja do pr\u00e9dio urbano em regime de propriedade horizontal sito na Estrada de Mem Martins, n.\u00ba 241 A, em Mem-Martins. Descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Sintra sob o n.\u00ba 975 e\r\ninscrito na respetiva matriz predial urbana sob o artigo n.\u00ba 3850 da freguesia de Algueir\u00e3o Mem-Martins.",
+        "observacoes": "1.\u00aa Informa\u00e7\u00e3o a loja tem uma parede aberta que junta a loja direita, o novo propriet\u00e1rio fica desde j\u00e1 advertido que na dilig\u00eancia de tomada de posse ter\u00e1 que disponibilizar meus para tapar a referida passagem com a constru\u00e7\u00e3o de uma parede na presen\u00e7a da Agente de Execu\u00e7\u00e3o, sendo que o custo desta obra \u00e9 da sua responsabilidade.\r\n2.\u00aa Os bens que constam nas fotografias s\u00e3o propriedade dos executados, ou seja, n\u00e3o se encontram inclu\u00eddos na venda, na aquisi\u00e7\u00e3o somente est\u00e1 a ser adquirido o espa\u00e7o e n\u00e3o qualquer bem la existente.\r\nAs visitas ser\u00e3o sob marca\u00e7\u00e3o atrav\u00e9s dos dados aqui dispon\u00edveis.",
+        "areaUtilPrivativa": 83.2,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 83.2,
+        "morada": "Estrada Mem Martins",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Algueir\u00e3o-Mem Martins",
+        "moradaCP": "2725-390",
+        "coordenadasLAT": "38.79512722805185",
+        "coordenadasLON": "-9.34409737586975",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71026,
+        "processoNumero": "254/07.1TCSNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 104521,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"112311016\", \"nome\":\"Aldora Pedro Pinto Nunes\", \"requerido\":\"False\"},{\"nif\":\"182341704\", \"nome\":\"Elder Pedro Nunes\", \"requerido\":\"False\"},{\"nif\":\"501621938\", \"nome\":\"Imporsom-Soc. Com. de Imp. e Exp., Lda\", \"requerido\":\"False\"},{\"nif\":\"126386757\", \"nome\":\"Jo\u00e3o Ant\u00f3nio Pedro Nunes\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 902,
+        "cerimoniaData": "2024-03-13T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 1249,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1389",
+        "gestorNome": "Maria Leonor Cosme",
+        "gestorEmail": "1389@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:57:01",
+        "dataAtualizacao": "2024-02-12T19:57:01",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104521/25012024164151_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104521/25012024164151_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104521/25012024164153_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104521/25012024164153_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104521/25012024164156_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104521/25012024164156_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104521/25012024164158_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104521/25012024164158_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104521/25012024164201_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104521/25012024164201_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104521/25012024164204_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104521/25012024164204_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104521/25012024164206_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104521/25012024164206_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104521/25012024164209_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104521/25012024164209_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104521/25012024164211_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104521/25012024164211_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104521/25012024164214_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104521/25012024164214_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104521/25012024164216_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104521/25012024164216_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104521/25012024164218_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104521/25012024164218_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104521/25012024164221_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104521/25012024164221_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32889,
+                "numero": "975",
+                "fracao": "B",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "02 - Algueir\u00e3o-mem Martins",
+                "artigos": [
+                    {
+                        "numero": "3850",
+                        "tipo": "urbana",
+                        "fracao": "RCE",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "02 - Algueir\u00e3o-Mem Martins"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

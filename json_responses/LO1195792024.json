@@ -1,0 +1,160 @@
+{
+    "item": {
+        "id": 133399,
+        "origem": 204543,
+        "lanceAtual": 5000.0,
+        "lanceAtualId": 124164,
+        "dataInicio": "2024-01-29T00:00:07",
+        "dataFimInicial": "2024-02-28T10:00:00",
+        "dataFim": "2024-02-28T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1195792024",
+        "tipoId": 1,
+        "subtipoId": 28,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_104036/12012024153634_800sm.jpg",
+        "titulo": "Pr\u00e9dio em ruinas sito no Bairro do Barreto, S. Sebasti\u00e3o - Set\u00fabal",
+        "valorBase": 10000.0,
+        "valorAbertura": 5000.0,
+        "valorMinimo": 8500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Outro",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio urbano, com \u00e1rea de 10,44 m2 e logradouro com \u00e1rea de 2 m2, sito no Bairro do Barreto (Rua Greg\u00f3rio de Freitas, 1F), freguesia de Set\u00fabal (S. Sebasti\u00e3o), concelho de Set\u00fabal, inscrito no Servi\u00e7o de Finan\u00e7as de Set\u00fabal - 1 sob o artigo urbano n.\u00ba 4569 da freguesia de Set\u00fabal (S. Sebasti\u00e3o), concelho de Set\u00fabal e descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Set\u00fabal sob a descri\u00e7\u00e3o n.\u00ba 8409/20100303.",
+        "observacoes": "O pr\u00e9dio est\u00e1 me ru\u00ednas, sendo vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisi\u00e7\u00e3o que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do mesmo, assegurando-se que o mesmo corresponde \u00e0s suas expectativas. A falta desta verifica\u00e7\u00e3o, por parte do proponente, n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda. Encerrado o Leil\u00e3o e aceite a proposta, o proponente \u00e9 notificado para, no prazo de 15 dias, depositar o pre\u00e7o oferecido (artigo 824\u00ba n.\u00ba 2 do C\u00f3digo de Processo Civil).",
+        "areaUtilPrivativa": 10.44,
+        "areaUtilDependente": 2.0,
+        "areaTotal": 12.44,
+        "morada": "Rua Greg\u00f3rio de Freitas",
+        "moradaNumero": "1 F",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Set\u00fabal",
+        "moradaFreguesia": "Set\u00fabal (S\u00e3o Sebasti\u00e3o)",
+        "moradaCP": "2910-525",
+        "coordenadasLAT": "38.5215824716576",
+        "coordenadasLON": "-8.877763152122498",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70750,
+        "processoNumero": "2117/04.3TBCLD",
+        "processoComarca": "Comarca de Leiria",
+        "processoComarcaCodigo": "1043",
+        "processoTribunal": "Alcoba\u00e7a - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 104036,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"139711350\", \"nome\":\"Celeste de Jesus Ferreira Palma Oliveira\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 897,
+        "cerimoniaData": "2024-02-28T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 369,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5151",
+        "gestorNome": "EDUARDO DAVID",
+        "gestorEmail": "5151@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:09:22",
+        "dataAtualizacao": "2024-02-12T20:09:22",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104036/12012024153634_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104036/12012024153634_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104036/12012024153637_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104036/12012024153637_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104036/12012024153639_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104036/12012024153639_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104036/12012024153642_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104036/12012024153642_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104036/12012024153645_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104036/12012024153645_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104036/12012024153648_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104036/12012024153648_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104036/12012024153650_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104036/12012024153650_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104036/12012024153654_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104036/12012024153654_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104036/12012024153657_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104036/12012024153657_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104036/12012024153700_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104036/12012024153700_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104036/12012024153703_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104036/12012024153703_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32592,
+                "numero": "8409",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "12 - Set\u00fabal",
+                "freguesiaDesc": "05 - Setubal (s. Sebasti\u00e3o)",
+                "artigos": [
+                    {
+                        "numero": "4569",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "12 - Set\u00fabal",
+                        "freguesiaDesc": "05 - Set\u00fabal (S\u00e3o Sebasti\u00e3o)"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

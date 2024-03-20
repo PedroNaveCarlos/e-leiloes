@@ -1,0 +1,150 @@
+{
+    "item": {
+        "id": 136702,
+        "origem": 208294,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-03-06T00:00:05",
+        "dataFimInicial": "2024-04-10T10:30:00",
+        "dataFim": "2024-04-10T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1212562024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_105427/20022024170649_800sm.jpg",
+        "titulo": "Moradia T2 em Unhos - Loures",
+        "valorBase": 135000.0,
+        "valorAbertura": 67500.0,
+        "valorMinimo": 114750.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T2",
+        "descricao": "Pr\u00e9dio urbano correspondente a edif\u00edcio de r/c para habita\u00e7\u00e3o e logradouro e a edif\u00edcio de r/c para habita\u00e7\u00e3o, confronta a norte com Adelino Caldeira Monteiro, a sul com Joaquim Serafim, a nascente com caminho p\u00fablico e a poente com herdeiros de Marcos e Seixas, denominado \"Vinha Rita\", sito em Unhos, freguesia de Unhos, concelho de Loures, descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Loures sob o n.\u00ba 472 e inscrito na respetiva matriz sob os artigos 1897 e 2773, sendo que atualmente pertence \u00e0 Uni\u00e3o das freguesias de Camarate, Unhos e Apela\u00e7\u00e3o.",
+        "observacoes": "O im\u00f3vel em apre\u00e7o est\u00e1 em muito mau estado de conserva\u00e7\u00e3o, conforme consta do registo fotogr\u00e1fico em anexo. ***** O executado/herdeiro habilitado Clemente Joel Motaco dos Santos foi constitu\u00eddo fiel deposit\u00e1rio do bem. **** No entanto, para o efeito de MARCA\u00c7\u00c3O DE VISITA, solicita-se a todos os interessados que contactem a Agente de Execu\u00e7\u00e3o, atrav\u00e9s telefone 229681357, ou do email 2667@solicitador.net. A Agente de Execu\u00e7\u00e3o far\u00e1 a marca\u00e7\u00e3o da visita com o fiel deposit\u00e1rio e ir\u00e1 mediar o agendamento com os potenciais interessados.",
+        "areaUtilPrivativa": 104.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 416.0,
+        "morada": "Rua Comandante Ramiro Correia",
+        "moradaNumero": "6",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Loures",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Camarate, Unhos e Apela\u00e7\u00e3o",
+        "moradaCP": "2680-442",
+        "coordenadasLAT": "38.82967047521827",
+        "coordenadasLON": "-9.125196933746338",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71603,
+        "processoNumero": "2950/18.9T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 105427,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"220372179\", \"nome\":\"CLEMENTE JOEL MOTACO DOS SANTOS\", \"requerido\":\"False\"},{\"nif\":\"100294626\", \"nome\":\"DOMINGOS ALBERTO MOTACO DOS SANTOS\", \"requerido\":\"False\"},{\"nif\":\"201812398\", \"nome\":\"MANUEL ANT\u00d3NIO MOTACO DOS SANTOS\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 910,
+        "cerimoniaData": "2024-04-10T15:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 382,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2667",
+        "gestorNome": "ABIGAIL DE SOUSA MOREIRA",
+        "gestorEmail": "2667@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:29:46",
+        "dataAtualizacao": "2024-03-20T10:29:46",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105427/20022024170649_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105427/20022024170649_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105427/20022024170747_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105427/20022024170747_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105427/20022024171021_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105427/20022024171021_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105427/20022024171025_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105427/20022024171025_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105427/20022024171030_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105427/20022024171030_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105427/20022024171034_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105427/20022024171034_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105427/20022024171039_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105427/20022024171039_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105427/20022024171046_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105427/20022024171046_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105427/20022024171053_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105427/20022024171053_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105427/20022024171100_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105427/20022024171100_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105427/20022024171105_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105427/20022024171105_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105427/20022024171112_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105427/20022024171112_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Nos termos do disposto no art.\u00ba 817\u00ba n\u00ba 4 do C.P.C., informam-se todos os interessados que se encontram pendentes embargos de executado nos presentes autos.",
+                "tipoDesc": "oposi\u00e7\u00e3o pendente"
+            }
+        ],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

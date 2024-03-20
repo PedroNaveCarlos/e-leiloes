@@ -1,0 +1,163 @@
+{
+    "item": {
+        "id": 136690,
+        "origem": 207969,
+        "lanceAtual": 57500.0,
+        "lanceAtualId": 90641,
+        "dataInicio": "2024-03-06T00:00:04",
+        "dataFimInicial": "2024-04-10T10:00:00",
+        "dataFim": "2024-04-10T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1210542024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_105280/16022024162922_800sm.jpg",
+        "titulo": "APARTAMENTO T2 - BAIXA DA BANHEIRA",
+        "valorBase": 115000.0,
+        "valorAbertura": 57500.0,
+        "valorMinimo": 97750.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma do pr\u00e9dio em regime de propriedade horizontal, designada pela letra B, destinada a habita\u00e7\u00e3o, com logradouro com 14m2, sita na Rua do Alentejo, n\u00ba 20, R/C Esq., Baixa da Banheira - Moita. Inscrita na matriz predial urbana sob o art. 3157 e descrita na CRP da Moita com o n\u00ba 701/19870312 - B, freguesia de Baixa da Banheira.",
+        "observacoes": "O im\u00f3vel encontra-se arrendado a Filipe Jos\u00e9 Duarte Horta. \r\nA quotiza\u00e7\u00e3o mensal do condom\u00ednio \u00e9 de \u20ac 10,00.\r\nA referida fra\u00e7\u00e3o encontra-se em razo\u00e1vel estado de conserva\u00e7\u00e3o, por ter sido recentemente remodelada, inserida em zona residencial e dotada de bons acessos, bem como, bem servida de transportes p\u00fablicos e servi\u00e7os. A rua tem facilidade de estacionamento, em zona calma da Baixa da Banheira. \r\nOs bens vis\u00edveis nas fotografias inseridas no presente leil\u00e3o, n\u00e3o est\u00e3o penhorados \u00e0 ordem dos autos executivos e por isso, n\u00e3o podem ser considerados por parte dos interessados na compra do im\u00f3vel, como parte integrante do mesmo.\r\n\u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado de conserva\u00e7\u00e3o do bem im\u00f3vel, pelo que dever\u00e1 assegurar-se que o mesmo corresponde \u00e0s suas expectativas e se encontra nas condi\u00e7\u00f5es desejadas. \r\nO im\u00f3vel em causa \u00e9 vendido no estado f\u00edsico e jur\u00eddico em que se encontra pelo que se reitera aos interessados na aquisi\u00e7\u00e3o, que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do mesmo antes da apresenta\u00e7\u00e3o de qualquer proposta. \r\nA falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda e n\u00e3o poder\u00e1 assim ser motivo invoc\u00e1vel de nulidade de venda. \r\nO fiel deposit\u00e1rio do im\u00f3vel \u00e9 o inquilino Filipe Horta, devendo o mesmo ser previamente contactado para agendamento de visitas ao im\u00f3vel.",
+        "areaUtilPrivativa": 75.67,
+        "areaUtilDependente": 4.31,
+        "areaTotal": 93.98,
+        "morada": "Rua Alentejo",
+        "moradaNumero": "20",
+        "moradaAndar": "R/C Esq.",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Moita",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Baixa da Banheira e Vale da Amoreira",
+        "moradaCP": "2835-101",
+        "coordenadasLAT": "38.65684570",
+        "coordenadasLON": "-9.04148810",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71516,
+        "processoNumero": "3447/23.0T8STB",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 105280,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"178983837\", \"nome\":\"Jose Manuel Sena Leal\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 910,
+        "cerimoniaData": "2024-04-10T15:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 514,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "6661",
+        "gestorNome": "ORLANDO PINTO DE SOUSA",
+        "gestorEmail": "6661@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:45:06",
+        "dataAtualizacao": "2024-03-20T10:45:06",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105280/16022024162922_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105280/16022024162922_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105280/16022024162939_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105280/16022024162939_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105280/16022024162941_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105280/16022024162941_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105280/16022024162943_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105280/16022024162943_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105280/16022024162944_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105280/16022024162944_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105280/16022024162946_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105280/16022024162946_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105280/16022024162948_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105280/16022024162948_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105280/16022024162949_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105280/16022024162949_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105280/16022024162951_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105280/16022024162951_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105280/16022024162953_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105280/16022024162953_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "2021-08-05",
+                "valor": 520.0,
+                "dataPrazo": "2024-08-05",
+                "descricao": "Contrato de arrendamento celebrado com o Sr. Filipe Horta, celebrado pelo prazo de 1 ano, renov\u00e1vel por iguais per\u00edodos.",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 33374,
+                "numero": "701",
+                "fracao": "B",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "06 - Moita",
+                "freguesiaDesc": "02 - Baixa da Banheira",
+                "artigos": [
+                    {
+                        "numero": "3157",
+                        "tipo": "urbana",
+                        "fracao": "B",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "06 - Moita",
+                        "freguesiaDesc": "07 - Uni\u00e3o das freguesias de Baixa da Banheira e Vale da Amoreira"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

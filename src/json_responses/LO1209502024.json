@@ -1,0 +1,220 @@
+{
+    "item": {
+        "id": 136376,
+        "origem": 207809,
+        "lanceAtual": 41212.04,
+        "lanceAtualId": 54248,
+        "dataInicio": "2024-03-04T00:00:08",
+        "dataFimInicial": "2024-04-10T10:30:00",
+        "dataFim": "2024-04-10T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1209502024",
+        "tipoId": 1,
+        "subtipoId": 7,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_104224/18012024120436_800sm.jpg",
+        "titulo": "Pr\u00e9dio no Montijo",
+        "valorBase": 80000.0,
+        "valorAbertura": 40000.0,
+        "valorMinimo": 68000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Pr\u00e9dio",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio Urbano  situado na  Rua Amadeu Moura Stoffel n\u00ba 14,  Montijo constitu\u00eddo por  Edif\u00edcio de r\u00e9s-do-ch\u00e3o composto de 4 moradias para habita\u00e7\u00e3o, uma com tr\u00eas divis\u00f5es assoalhadas e arrecada\u00e7\u00e3o e as outras tr\u00eas, cada uma delas com duas divis\u00f5es assoalhadas, inscrito na matriz sob o art\u00ba 6494 da uni\u00e3o de freguesias de Montijo e Afonseiro e descrito na Conservat\u00f3ria do Registo Predial de Montijo sob o n\u00ba 4418 da freguesia de Montijo.",
+        "observacoes": "Trata-se de uma Venda Judicial em Processo de Divis\u00e3o de Coisa Comum . O Agente de Execu\u00e7\u00e3o \u00e9 fiel deposit\u00e1rio do im\u00f3vel.  A visita ao im\u00f3vel deve ser objeto de agendamento pr\u00e9vio com o Agente de Execu\u00e7\u00e3o e com a anteced\u00eancia de pelo menos 5 dias antes da data designada como fim do leil\u00e3o. -\u00c9 da exclusiva responsabilidade dos interessados a verifica\u00e7\u00e3o do estado do bem a adquirir. Dever\u00e1 o interessado assegurar-se, se o mesmo corresponde \u00e0s expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. Recomenda-se a verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda",
+        "areaUtilPrivativa": 115.0,
+        "areaUtilDependente": 60.0,
+        "areaTotal": 175.0,
+        "morada": "Rua Amadeu Moura Stoffel, Bairro da Barrosa",
+        "moradaNumero": "14",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Montijo",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Montijo e Afonsoeiro",
+        "moradaCP": "2870-102",
+        "coordenadasLAT": "38.701543623129574",
+        "coordenadasLON": "-8.966957330703734",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70492,
+        "processoNumero": "115/23.7T8MTJ",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Montijo - JL C\u00edvel",
+        "verbaId": 104224,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"213092026\", \"nome\":\"Luis Miguel Margarido Gon\u00e7alves\", \"requerido\":\"True\"}]",
+        "cerimoniaId": 908,
+        "cerimoniaData": "2024-04-10T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 29,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1932",
+        "gestorNome": "Jo\u00e3o Correia",
+        "gestorEmail": "1932@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:45:56",
+        "dataAtualizacao": "2024-03-20T10:45:56",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024120436_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024120436_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105552_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105552_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105603_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105603_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105606_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105606_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105614_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105614_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105616_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105616_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105623_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105623_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105626_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105626_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105633_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105633_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105635_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105635_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105638_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105638_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105640_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105640_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105642_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105642_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105647_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105647_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105649_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105649_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105652_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105652_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105657_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105657_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105701_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105701_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105704_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105704_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105706_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105706_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105708_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105708_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105710_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105710_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104224/18012024105711_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104224/18012024105711_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32702,
+                "numero": "4418",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "07 - Montijo",
+                "freguesiaDesc": "02 - Montijo",
+                "artigos": [
+                    {
+                        "numero": "6494",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "07 - Montijo",
+                        "freguesiaDesc": "10 - Uni\u00e3o das freguesias de Montijo e Afonsoeiro"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

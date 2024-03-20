@@ -1,0 +1,178 @@
+{
+    "item": {
+        "id": 133116,
+        "origem": 205941,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-26T10:53:07",
+        "dataFimInicial": "2024-04-30T14:30:00",
+        "dataFim": "2024-04-30T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP849202024",
+        "tipoId": 1,
+        "subtipoId": 3,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_69386/07042021164109_800sm.jpg",
+        "titulo": "1/15 avos indivisos do estacionamento coberto e fechado",
+        "valorBase": 9000.0,
+        "valorAbertura": 4500.0,
+        "valorMinimo": 7650.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Garagem / Arrumos",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "1/15 avos indivisos da frac\u00e7\u00e3o aut\u00f3noma designada pela letra \u201cA\u201d, para estacionamento coberto e fechado, correspondente a cave, garagem com sa\u00edda pr\u00f3pria para parte comum do pr\u00e9dio e desta para a via p\u00fablica, atrav\u00e9s de uma rampa lateral do pr\u00e9dio urbano constitu\u00eddo em regime de propriedade horizontal, sito na Rua da Esperan\u00e7a, n\u00bas 21 e 21-A, no Cac\u00e9m, descrito na Conservat\u00f3ria do Registo Predial de Agualva-Cac\u00e9m sob o n\u00ba 107, freguesia de Cac\u00e9m, inscrito na matriz da Uni\u00e3o das Freguesias do Cac\u00e9m e S\u00e3o Marcos no artigo 2118.",
+        "observacoes": "- A propor\u00e7\u00e3o de 1/15 avos n\u00e3o se encontra fisicamente determinada em rela\u00e7\u00e3o \u00e0 frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"A\".\r\nAs divis\u00f5es dos lugares de estacionamento est\u00e3o actualmente determinadas pelos compropriet\u00e1rios da frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"A\".\r\n\r\n- Encontrando-se o im\u00f3vel em venda por negocia\u00e7\u00e3o particular, a data final do leil\u00e3o \u00e9 meramente indicativa, uma vez que \u00e9 poss\u00edvel apresentar propostas a qualquer momento, e estas s\u00e3o imediatamente notificadas \u00e0s partes para aceita\u00e7\u00e3o ou n\u00e3o aceita\u00e7\u00e3o das mesmas, podendo a negocia\u00e7\u00e3o particular terminar antes mesmo da data final que consta na plataforma.",
+        "areaUtilPrivativa": 375.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 375.0,
+        "morada": "Rua Esperan\u00e7a",
+        "moradaNumero": "21 e 21-A",
+        "moradaAndar": "Cave",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias do Cac\u00e9m e S\u00e3o Marcos",
+        "moradaCP": "2735-473",
+        "coordenadasLAT": "38.77131070",
+        "coordenadasLON": "-9.31363715",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 48291,
+        "processoNumero": "24001/12.7T2SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 69386,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"121343405\", \"nome\":\"Anabela Oliveira Ferreira Gomes da Costa\", \"requerido\":\"False\"},{\"nif\":\"153309792\", \"nome\":\"Jos\u00e9 Carlos Lopes da Costa\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 1158,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4460",
+        "gestorNome": "Carla Matos",
+        "gestorEmail": "4460@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:02:40",
+        "dataAtualizacao": "2024-02-12T20:02:40",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_69386/07042021164109_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_69386/07042021164109_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_69386/07042021164114_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_69386/07042021164114_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_69386/07042021164123_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_69386/07042021164123_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_69386/07042021164128_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_69386/07042021164128_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_69386/07042021164135_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_69386/07042021164135_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_69386/07042021164141_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_69386/07042021164141_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_69386/07042021164152_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_69386/07042021164152_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_69386/07042021164154_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_69386/07042021164154_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_69386/07042021164156_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_69386/07042021164156_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_69386/07042021164158_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_69386/07042021164158_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_69386/07042021164207_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_69386/07042021164207_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_69386/07042021164209_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_69386/07042021164209_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_69386/07042021164211_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_69386/07042021164211_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_69386/07042021164214_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_69386/07042021164214_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_69386/07042021164216_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_69386/07042021164216_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 9820,
+                "numero": "107",
+                "fracao": "A",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "19 - Cac\u00e9m",
+                "artigos": [
+                    {
+                        "numero": "2118",
+                        "tipo": "urbana",
+                        "fracao": "A",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "24 - Uni\u00e3o das freguesias do Cac\u00e9m e S\u00e3o Marcos"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

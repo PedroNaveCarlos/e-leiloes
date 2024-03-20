@@ -1,0 +1,256 @@
+{
+    "item": {
+        "id": 134611,
+        "origem": 206140,
+        "lanceAtual": 58075.0,
+        "lanceAtualId": 7737,
+        "dataInicio": "2024-02-12T00:00:09",
+        "dataFimInicial": "2024-03-13T10:30:00",
+        "dataFim": "2024-03-13T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1202782024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_104677/29012024160113_800sm.jpg",
+        "titulo": "APARTAMENTO - BARREIRO",
+        "valorBase": 115000.0,
+        "valorAbertura": 57500.0,
+        "valorMinimo": 97750.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pelas letras \"AO\", do pr\u00e9dio urbano sito na Rua 6, Lote 35 - 6\u00ba D, na freguesia de Santo Ant\u00f3nio da Charneca, concelho do Barreiro, inscrito na matriz predial urbana sob o artigo 1804\u00ba, e, descrito na Conservat\u00f3ria do Registo Predial do Barreiro sob o n\u00ba 73, penhorada em 11/02/2013.",
+        "observacoes": "Im\u00f3vel bem localizado, perto de comercio, transportes, GNR.\r\n\r\nA necessitar de pintura  interior, com alguma humidade.\r\n\r\nNo im\u00f3vel reside um casal, que n\u00e3o \u00e9 a executada, estando o Agente de Execu\u00e7\u00e3o a apurar se existe ou n\u00e3o contrato de arrendamento.\r\n\r\nO herdeiro Emanuel Mendes Nascimento repudiou a heran\u00e7a.\r\n\r\nAlerta-se que \u00e9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, e sua real tipologia, pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. Dever\u00e1, igualmente, ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidades da venda e ao facto de o bem n\u00e3o ser entregue no momento da conclus\u00e3o do leil\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.\r\n\r\n\r\nADVERT\u00caNCIA: As \u00e1reas e descri\u00e7\u00e3o do im\u00f3vel no presente an\u00fancio, t\u00eam por base, as descritas na certid\u00e3o predial e matricial respetivas. No entanto, os interessados em licitar, dever\u00e3o aferir previamente, por todos meios dispon\u00edveis, se o im\u00f3vel est\u00e1 de acordo com os seus interesses de aquisi\u00e7\u00e3o. A falta desta averigua\u00e7\u00e3o, por parte dos licitantes, n\u00e3o determina nos termos legais, a anula\u00e7\u00e3o da venda. Os interessados em licitar o bem, devem consultar previamente o site www.e-leiloes.pt, por forma a informarem-se, de forma consciente, das regras dos leil\u00f5es e consequ\u00eancias legais das suas licita\u00e7\u00f5es.",
+        "areaUtilPrivativa": 97.65,
+        "areaUtilDependente": 7.56,
+        "areaTotal": 0.0,
+        "morada": "Rua 6",
+        "moradaNumero": "35",
+        "moradaAndar": "6 dt",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Barreiro",
+        "moradaFreguesia": "Santo Ant\u00f3nio da Charneca",
+        "moradaCP": "2835-511",
+        "coordenadasLAT": "38.63197715",
+        "coordenadasLON": "-9.03562001",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71103,
+        "processoNumero": "335/11.7TBBRR",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 104677,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"195629884\", \"nome\":\"TELMA DOS ANJOS RODRIGUES MENDES NASCIMENTO - CABE\u00c7A DE CASAL\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 902,
+        "cerimoniaData": "2024-03-13T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 171,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3611",
+        "gestorNome": "Manuel Lopo Vaz de S\u00e3o Payo",
+        "gestorEmail": "3611@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:15:35",
+        "dataAtualizacao": "2024-02-12T20:15:35",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160113_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160113_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024155912_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024155912_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024155917_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024155917_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024155922_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024155922_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024155926_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024155926_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024155930_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024155930_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024155934_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024155934_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024155938_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024155938_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024155943_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024155943_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024155947_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024155947_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024155952_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024155952_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024155956_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024155956_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160000_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160000_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160004_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160004_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160008_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160008_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160013_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160013_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160017_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160017_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160021_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160021_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160025_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160025_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160029_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160029_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160033_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160033_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160037_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160037_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160042_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160042_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160046_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160046_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160051_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160051_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160055_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160055_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160059_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160059_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160104_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160104_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160108_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160108_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104677/29012024160117_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104677/29012024160117_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 33029,
+                "numero": "73",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "04 - Barreiro",
+                "freguesiaDesc": "07 - Santo Antonio da Charneca",
+                "artigos": [
+                    {
+                        "numero": "1804",
+                        "tipo": "urbana",
+                        "fracao": "AO15",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "04 - Barreiro",
+                        "freguesiaDesc": "07 - Santo Ant\u00f3nio da Charneca"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

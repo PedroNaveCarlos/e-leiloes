@@ -1,0 +1,191 @@
+{
+    "item": {
+        "id": 135250,
+        "origem": 206685,
+        "lanceAtual": 201158.0,
+        "lanceAtualId": 41956,
+        "dataInicio": "2024-02-19T23:59:59",
+        "dataFimInicial": "2024-03-20T11:00:00",
+        "dataFim": "2024-03-20T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1204822024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_101073/30092023112719_800sm.jpg",
+        "titulo": "Apartamento T3, em Santana - Sesimbra (com vista mar)",
+        "valorBase": 134273.24,
+        "valorAbertura": 67136.62,
+        "valorMinimo": 114132.25,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra J, correspondente ao terceiro andar direito, destinada a habita\u00e7\u00e3o, do pr\u00e9dio urbano em regime de propriedade horizontal, sito na Estrada Nacional 378, lote 1, Sesimbra, freguesia de Sesimbra (Castelo), concelho de Sesimbra, inscrito na matriz sob o artigo 17557 e descrito na conservat\u00f3ria do registo predial de Sesimbra sob o n\u00famero 10801 J, da referida freguesia.",
+        "observacoes": "Fra\u00e7\u00e3o J, atualmente com acesso pela Avenida Costa Azul (Casal do Barbosa), Lote 1, Santana, composta por 3 quartos (T3) um dos quais com WC privativo, 2 casas de banho, sala grande com lareira e recuperador de calor, cozinha, despensa, corredor, pequeno hall e 2 varandas, uma frontal e a outra traseira.\r\nTem elevador e um lugar de estacionamento ao n\u00edvel da subcave identificado pelo n\u00famero 2. \r\nO apartamento tem vista mar, encontra-se em bom estado de conserva\u00e7\u00e3o e  situa-se em local central, com transportes p\u00fablicos, com\u00e9rcio e servi\u00e7os.\r\nPara visitas ao im\u00f3vel foi consignado os s\u00e1bados, das 15,00 horas \u00e0s 16,00 horas, com marca\u00e7\u00e3o pr\u00e9via.\r\n*Os eventuais interessados devem informar-se das qualidades e caracter\u00edsticas, licen\u00e7as e outros aspectos que considerem relevantes, do(s) bem(s). *\u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. *O im\u00f3vel \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisi\u00e7\u00e3o que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. *A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda. *Os interessados que queiram ver o im\u00f3vel devem estar registados na plataforma e-leiloes.pt, de foram a terem acesso aos contactos do fiel deposit\u00e1rio. \r\n*Com a apresenta\u00e7\u00e3o da proposta presume-se que o interessado tenha inspecionado o im\u00f3vel e que conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o.",
+        "areaUtilPrivativa": 113.71,
+        "areaUtilDependente": 32.13,
+        "areaTotal": 145.84,
+        "morada": "Estrada Nacional 378",
+        "moradaNumero": "Lt. 1",
+        "moradaAndar": "3\u00ba Dt.",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Sesimbra",
+        "moradaFreguesia": "Sesimbra (Castelo)",
+        "moradaCP": "2970-643",
+        "coordenadasLAT": "38.45551990",
+        "coordenadasLON": "-9.10080758",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 11988,
+        "processoNumero": "371/10.0T2STC",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 101073,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"212878506\", \"nome\":\"Jo\u00e3o Luis Duarte Carapinha\", \"requerido\":\"False\"},{\"nif\":\"230333877\", \"nome\":\"Raquel Marisa Martins Machadinho Carapinha\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 903,
+        "cerimoniaData": "2024-03-20T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 441,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1235",
+        "gestorNome": "Celestina Barneto",
+        "gestorEmail": "1235@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:42:04",
+        "dataAtualizacao": "2024-03-20T10:42:04",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023112719_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023112719_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023111513_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023111513_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023111516_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023111516_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023111519_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023111519_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023111521_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023111521_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023111524_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023111524_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023111527_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023111527_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023111529_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023111529_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023111532_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023111532_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023111534_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023111534_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023111537_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023111537_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023111540_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023111540_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023111542_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023111542_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023111545_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023111545_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023111548_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023111548_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101073/30092023111554_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101073/30092023111554_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "N\u00e3o existe qualquer \u00f3nus e limita\u00e7\u00f5es",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 30851,
+                "numero": "10801",
+                "fracao": "J",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "11 - Sesimbra",
+                "freguesiaDesc": "01 - Sesimbra (castelo)",
+                "artigos": [
+                    {
+                        "numero": "17557",
+                        "tipo": "urbana",
+                        "fracao": "J",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "11 - Sesimbra",
+                        "freguesiaDesc": "01 - Sesimbra (Castelo)"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

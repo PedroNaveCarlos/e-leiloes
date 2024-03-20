@@ -1,0 +1,164 @@
+{
+    "item": {
+        "id": 136717,
+        "origem": 208934,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-03-06T00:00:07",
+        "dataFimInicial": "2024-04-10T10:30:00",
+        "dataFim": "2024-04-10T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1215742024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_105711/27022024164636_800sm.jpg",
+        "titulo": "Apartamento T2 com terra\u00e7o  no Barreiro",
+        "valorBase": 145500.0,
+        "valorAbertura": 72750.0,
+        "valorMinimo": 123675.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra J composta por habita\u00e7\u00e3o no quarto andar esquerdo, sito na Rua Pedro Nunes, n\u00ba 46, inscrita na matriz com o artigo 4248 da Uni\u00e3o de freguesias de Alto do Seixalinho, Santo Andr\u00e9 e Verderena e descrito na competente Conservat\u00f3ria do Registo Predial do Barreiro com o n\u00famero 1417/20090114-J da freguesia de Alto do Seixalinho.",
+        "observacoes": "",
+        "areaUtilPrivativa": 87.0,
+        "areaUtilDependente": 19.0,
+        "areaTotal": 106.0,
+        "morada": "Rua Pedro Nunes, Alto do Seixalinho",
+        "moradaNumero": "46",
+        "moradaAndar": "4\u00ba ESQ",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Barreiro",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Alto do Seixalinho, Santo Andr\u00e9 e Verderena",
+        "moradaCP": "2830-101",
+        "coordenadasLAT": "38.65883010",
+        "coordenadasLON": "-9.06371145",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71763,
+        "processoNumero": "5480/23.3T8ALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Inst. Central - 2\u00aa Sec\u00e7\u00e3o de Execu\u00e7\u00e3o - J1",
+        "verbaId": 105711,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"271522852\", \"nome\":\"Ruben Alexandre Martinez Pinto Joaquim\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 910,
+        "cerimoniaData": "2024-04-10T15:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 469,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4115",
+        "gestorNome": "Eva Paula Ribeiro Ferreira Roque Pedro",
+        "gestorEmail": "4115@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:46:32",
+        "dataAtualizacao": "2024-03-20T10:46:32",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105711/27022024164636_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105711/27022024164636_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105711/27022024164637_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105711/27022024164637_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105711/27022024164639_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105711/27022024164639_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105711/27022024164641_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105711/27022024164641_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105711/27022024164644_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105711/27022024164644_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105711/27022024164645_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105711/27022024164645_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105711/27022024164647_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105711/27022024164647_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105711/27022024164649_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105711/27022024164649_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105711/27022024164650_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105711/27022024164650_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105711/27022024164652_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105711/27022024164652_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105711/27022024164656_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105711/27022024164656_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105711/27022024164658_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105711/27022024164658_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 33630,
+                "numero": "1417",
+                "fracao": "J",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "04 - Barreiro",
+                "freguesiaDesc": "06 - Alto do Seixalinho",
+                "artigos": [
+                    {
+                        "numero": "4248",
+                        "tipo": "urbana",
+                        "fracao": "J",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "04 - Barreiro",
+                        "freguesiaDesc": "09 - Uni\u00e3o das freguesias de Alto do Seixalinho, Santo Andr\u00e9 e Verderena"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

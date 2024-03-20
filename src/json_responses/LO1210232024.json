@@ -1,0 +1,207 @@
+{
+    "item": {
+        "id": 135789,
+        "origem": 207929,
+        "lanceAtual": 395114.72,
+        "lanceAtualId": 10999,
+        "dataInicio": "2024-02-26T00:00:09",
+        "dataFimInicial": "2024-04-03T10:30:00",
+        "dataFim": "2024-04-03T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1210232024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_105156/13022024143641_800sm.jpg",
+        "titulo": "Apartamento T3, na Avenida Duque D\u00b4\u00c1vila, em Lisboa",
+        "valorBase": 187531.4,
+        "valorAbertura": 93765.7,
+        "valorMinimo": 159401.69,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \u201cAZ\u201d, correspondente a habita\u00e7\u00e3o, tipo T3, no 1\u00ba andar esquerdo, e fra\u00e7\u00e3o aut\u00f3noma designada pela letra \u201cAC\u201d, correspondente a estacionamento coberto e fechado, divis\u00e3o \u201cE213\u201d, localizada na 2\u00aa cave, ambas situadas no pr\u00e9dio urbano sito na Avenida Duque d\u2019\u00c1vila, n\u00ba 21,  na freguesia de Arroios, concelho de Lisboa, inscritas na matriz predial urbana daquela freguesia sob o artigo 2383\u00ba e descritas na Conservat\u00f3ria de Registo Predial de Lisboa sob o n\u00famero 659/19890424 da freguesia de S\u00e3o Jorge de Arroios.",
+        "observacoes": "As verbas s\u00e3o vendidas no estado f\u00edsico, jur\u00eddico e documental em que se encontram. \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o das carater\u00edsticas dos bens a adquirir, pelo que dever\u00e1 antes de ser apresentada a proposta assegurar-se se as mesmas correspondem \u00e0s suas expectativas e se encontram nas condi\u00e7\u00f5es pretendidas. Com a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha visto os bens e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o. \r\nA venda \u00e9 realizada em conjunto com o processo de insolv\u00eancia de Jo\u00e3o Manuel dos Santos Gon\u00e7alves, propriet\u00e1rio meeiro, cujo processo de insolv\u00eancia corre os seus termos pelo Tribunal Judicial da Comarca de Lisboa - Ju\u00edzo de Com\u00e9rcio de Lisboa \u2013 Juiz 4, com o n.\u00ba 12357/20.2T8LSB, em que foi nomeada mesma Administradora de Insolv\u00eancia, a Dr.\u00aa Carolina Furtado.\r\nDever\u00e3o ainda os interessados antes de efetuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt e/ou aconselhar-se junto de um Solicitador ou Advogado.",
+        "areaUtilPrivativa": 159.5,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 422.5,
+        "morada": "Avenida Duque \u00c1vila",
+        "moradaNumero": "21",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lisboa",
+        "moradaFreguesia": "Arroios",
+        "moradaCP": "1000-138",
+        "coordenadasLAT": "38.73513838576962",
+        "coordenadasLON": "-9.141000509262085",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71428,
+        "processoNumero": "12358/20.0T8LSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Com\u00e9rcio - Juiz 5",
+        "verbaId": 105156,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"188891960\", \"nome\":\"Maria Jo\u00e3o Barreiros Cabrita Gon\u00e7alves\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 905,
+        "cerimoniaData": "2024-04-03T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 836,
+        "gestorTipo": "Administrador Judicial",
+        "gestorTipoId": 2,
+        "gestorCedula": "434",
+        "gestorNome": "Carolina Furtado",
+        "gestorEmail": "carolina.r.moura@aj.caaj.pt",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:24:50",
+        "dataAtualizacao": "2024-03-20T10:24:50",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024143641_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024143641_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024145707_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024145707_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024145722_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024145722_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024145732_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024145732_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024145815_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024145815_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024145832_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024145832_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024145845_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024145845_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024145855_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024145855_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024150251_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024150251_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024150253_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024150253_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024151054_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024151054_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024151056_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024151056_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024151119_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024151119_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024151121_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024151121_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024151156_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024151156_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024151209_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024151209_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105156/13022024151211_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105156/13022024151211_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 33304,
+                "numero": "659",
+                "fracao": "AZ",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "06 - Lisboa",
+                "freguesiaDesc": "44 - S. Jorge de Arroios",
+                "artigos": [
+                    {
+                        "numero": "2383",
+                        "tipo": "urbana",
+                        "fracao": "AZ",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "56 - Arroios"
+                    },
+                    {
+                        "numero": "2383",
+                        "tipo": "urbana",
+                        "fracao": "AC",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "56 - Arroios"
+                    }
+                ]
+            },
+            {
+                "id": 33305,
+                "numero": "659",
+                "fracao": "AC",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "06 - Lisboa",
+                "freguesiaDesc": "44 - S. Jorge de Arroios",
+                "artigos": []
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

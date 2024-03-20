@@ -1,0 +1,188 @@
+{
+    "item": {
+        "id": 135878,
+        "origem": 203339,
+        "lanceAtual": 42000.0,
+        "lanceAtualId": 76894,
+        "dataInicio": "2024-02-26T23:59:59",
+        "dataFimInicial": "2024-04-03T11:00:00",
+        "dataFim": "2024-04-03T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1190482023",
+        "tipoId": 1,
+        "subtipoId": 7,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_103645/27122023183403_800sm.jpg",
+        "titulo": "Predio Misto em Alc\u00e1cer do Sal",
+        "valorBase": 34500.0,
+        "valorAbertura": 17250.0,
+        "valorMinimo": 29325.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Pr\u00e9dio",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio Misto situado em Bocas de Palma, composto por Marinha denominada Guedes comprida e Tenente ou Ap\u00f3stolos, com s.d  82.377m2, a parte urbana comp\u00f5e-se de r\u00e9s do ch\u00e3o, servi\u00e7os, com s.c 123 m2, confronta do Norte e Sul com Ribeira de S\u00e3o\r\nMartinho e de Nascente e de Poente com Marinha Sagra, inscrito na respetiva matriz sob o art\u00ba 5 da Sec\u00e7\u00e3o C  e urbano art\u00ba 4344 ambos da Uni\u00e3o de freguesias de Santa Maria do Castelo e Santiago e Santa Susana,  descrito na Conservat\u00f3ria do Registo Predial de Alc\u00e1cer do Sal sob o n.\u00ba 653 da freguesia de Santa Maria.",
+        "observacoes": "As visitas ao im\u00f3vel devem ser efetuada por iniciativa dos interessados, sem necessidade de marca\u00e7\u00e3o. O acesso ao im\u00f3vel IC1  cruzamento Coordenadas  38\u00b027'19.60\"N   8\u00b033'39.31\"W na direc\u00e7\u00e3o a Monte da Pedra  a cerca de 7,8 Km virar \u00e0 esquerda nas coordenadas  38\u00b025'40.69\"N,   8\u00b037'43.25\"W passando sobre a linha f\u00e9rrea.  \u00c9 da exclusiva responsabilidade dos interessados a verifica\u00e7\u00e3o do estado do bem a adquirir. Dever\u00e1 o interessado assegurar-se, se o mesmo corresponde \u00e0s expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. Existe diverg\u00eancia de \u00e1reas da parte r\u00fasticca, onde na matriz constam  8,250000  ha e na descri\u00e7\u00e3o predial  82.377 m2, cuja harmoniza\u00e7\u00e3o est\u00e1 dispensada face ao n\u00ba 3 do art\u00ba 58\u00ba do C.Registo Predial, adquirente dever\u00e1  diligenciar na fixa\u00e7\u00e3o da \u00e1rea  correta.  Recomenda-se a verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.",
+        "areaUtilPrivativa": 123.0,
+        "areaUtilDependente": 31.4,
+        "areaTotal": 82500.0,
+        "morada": "Uni\u00e3o das freguesias de Alc\u00e1cer do Sal (Santa Maria do Castelo e Santiago) e Santa Susana",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Alc\u00e1cer do Sal",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Alc\u00e1cer do Sal (Santa Maria do Castelo e Santiago) e Santa Susana",
+        "moradaCP": "7580-328",
+        "coordenadasLAT": "38.419502628726036",
+        "coordenadasLON": "-8.640747070312498",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 49325,
+        "processoNumero": "1219/11.4T2STC",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 103645,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"178076988\", \"nome\":\"Alexandrina Maria Serr\u00e3o Martins\", \"requerido\":\"False\"},{\"nif\":\"164967788\", \"nome\":\"Arnaldo Cardoso Martins\", \"requerido\":\"False\"},{\"nif\":\"108275299\", \"nome\":\"Fernando Ribeiro Louren\u00e7o\", \"requerido\":\"False\"},{\"nif\":\"108275280\", \"nome\":\"Florinda Pereira Chainho Louren\u00e7o\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 905,
+        "cerimoniaData": "2024-04-03T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 29,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1932",
+        "gestorNome": "Jo\u00e3o Correia",
+        "gestorEmail": "1932@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:43:41",
+        "dataAtualizacao": "2024-03-20T10:43:41",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103645/27122023183403_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103645/27122023183403_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103645/27122023183412_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103645/27122023183412_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103645/27122023183414_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103645/27122023183414_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103645/27122023183427_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103645/27122023183427_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103645/27122023184256_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103645/27122023184256_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103645/27122023184603_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103645/27122023184603_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103645/22022024201714_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103645/22022024201714_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103645/22022024201715_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103645/22022024201715_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103645/22022024201730_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103645/22022024201730_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103645/22022024201903_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103645/22022024201903_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103645/22022024201905_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103645/22022024201905_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103645/22022024201906_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103645/22022024201906_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103645/22022024201908_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103645/22022024201908_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103645/22022024201909_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103645/22022024201909_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103645/22022024201911_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103645/22022024201911_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32380,
+                "numero": "653",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "01 - Alc\u00e1cer do Sal",
+                "freguesiaDesc": "01 - Alcacer do Sal (santa Maria do Castelo)",
+                "artigos": [
+                    {
+                        "numero": "5 Sec\u00e7\u00e3o C",
+                        "tipo": "rustica",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "01 - Alc\u00e1cer do Sal",
+                        "freguesiaDesc": "07 - Uni\u00e3o das freguesias de Alc\u00e1cer do Sal (Santa Maria do Castelo e Santiago) e Santa Susana"
+                    },
+                    {
+                        "numero": "4344",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "01 - Alc\u00e1cer do Sal",
+                        "freguesiaDesc": "07 - Uni\u00e3o das freguesias de Alc\u00e1cer do Sal (Santa Maria do Castelo e Santiago) e Santa Susana"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

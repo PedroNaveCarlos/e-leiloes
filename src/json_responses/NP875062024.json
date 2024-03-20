@@ -1,0 +1,140 @@
+{
+    "item": {
+        "id": 137674,
+        "origem": 210780,
+        "lanceAtual": 260000.0,
+        "lanceAtualId": 7513,
+        "dataInicio": "2024-03-18T11:15:12",
+        "dataFimInicial": "2024-04-17T14:30:00",
+        "dataFim": "2024-04-17T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP875062024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 8,
+        "capa": "files/Verbas_Fotos/verba_42448/26032019151100_800sm.jpg",
+        "titulo": "Moradia sita na Ribeira da Mealhada - Loures",
+        "valorBase": 302863.0,
+        "valorAbertura": 151431.5,
+        "valorMinimo": 257433.55,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T6 ou superior",
+        "descricao": "Pr\u00e9dio urbano composto por sub-cave,cave,r/c e 1\u00ba andar - \u00e1rea coberta:187,35 m2 e logradouro, sito no lote 113 - Ribeira da Mealhada, lugar e freguesia de Loures, descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Loures sob o n\u00ba 3017, e inscrito na matriz sob o artigo 4419.",
+        "observacoes": "Pelo Agente de Execu\u00e7\u00e3o foram requeridas \u00e0 C\u00e2mara Municipal, as plantas do im\u00f3vel aqui objecto de venda, sendo que ap\u00f3s an\u00e1lise das mesmas, verificou-se a exist\u00eancia de desconformidade referente \u00e0 \u00e1rea constante na Conservat\u00f3ria do Registo Predial, dado que o pr\u00e9dio apresenta uma \u00e1rea total de 700 m2, quando na predial respetiva \u00e9 indicada a \u00e1rea de 300 m2. \r\nNa dilig\u00eancia de averigua\u00e7\u00e3o do estado de conserva\u00e7\u00e3o do bem, apurou o AE que foram efetuadas altera\u00e7\u00f5es ao pr\u00e9dio, as quais n\u00e3o foram devidamente legalizadas, sendo que a realidade material do im\u00f3vel corresponde \u00e0 seguinte: - piso 1: composto por 3 quartos, 1 casa de banho e 2 varandas; - piso 0: 1 sala comum com varanda, 1 cozinha com marquise e 1 casa de banho; - piso -1: sal\u00e3o cm lareira, 1 casa de banho e um terra\u00e7o; - piso -2: 1 sala com garrafeira, 1 sala de jantar, 1 cozinha e 1 casa de banho; - piso -3: 1 sala e 1 casa de banho\r\n\r\n\r\nO im\u00f3vel apresenta v\u00e1rios problemas de conserva\u00e7\u00e3o devido a infiltra\u00e7\u00f5es e est\u00e1 bastante degradado, apresentando-se ainda com fracas condi\u00e7\u00f5es de habitabilidade.\r\n\r\nN\u00e3o nos foram pelo fiel deposit\u00e1rio autorizadas fotografias do interior.\r\n\r\nNota: As \u00e1reas indicadas servem apenas como refer\u00eancia pois n\u00e3o foram feitas medi\u00e7\u00f5es exatas no local. \r\nAntes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e de todos os outros aspetos que considerem relevantes. \r\nCom a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspecionado o im\u00f3vel e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o.\r\n\r\n O im\u00f3vel \u00e9 vendido no estado que se encontra pelo que os interessados devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta, por parte do proponente n\u00e3o determina, nos termos legais a anula\u00e7\u00e3o da venda.\r\n\r\nNos termos do n\u00ba 6 do artigo 833\u00ba do CPC, a venda de im\u00f3vel em que tenha sido, ou esteja sendo, feita constru\u00e7\u00e3o urbana, ou de fra\u00e7\u00e3o dele, pode efetuar-se no estado em que se encontre, com dispensa da licen\u00e7a de utiliza\u00e7\u00e3o ou de constru\u00e7\u00e3o, cuja falta de apresenta\u00e7\u00e3o a entidade com compet\u00eancia para a formaliza\u00e7\u00e3o do ato faz consignar no documento, constituindo \u00f3nus do adquirente a respetiva legaliza\u00e7\u00e3o.",
+        "areaUtilPrivativa": 700.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 0.0,
+        "morada": "Rua Vieira da Silva, Mealhada",
+        "moradaNumero": "34",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Loures",
+        "moradaFreguesia": "Loures",
+        "moradaCP": "2670-499",
+        "coordenadasLAT": "38.82222434",
+        "coordenadasLON": "-9.16442938",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 30613,
+        "processoNumero": "13180/04.7YYLSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 4",
+        "verbaId": 42448,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"123922062\", \"nome\":\"Maria Jo\u00e3o Silva Cac\u00e3es\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 2,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2748",
+        "gestorNome": "David Roque",
+        "gestorEmail": "2748@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "213824450",
+        "gestorFax": "213824459",
+        "gestorMorada": "Rua Braancamp 52 5\u00ba andar - 1250-052 Lisboa",
+        "gestorHorario": "09:00 \u00e0s 12:00 - 14:00 \u00e0s 17:00",
+        "dataServidor": "2024-03-20T10:34:44",
+        "dataAtualizacao": "2024-03-20T10:34:44",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_42448/26032019151100_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_42448/26032019151100_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_42448/26032019151104_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_42448/26032019151104_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_42448/26032019151109_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_42448/26032019151109_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_42448/26032019151112_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_42448/26032019151112_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_42448/26032019151118_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_42448/26032019151118_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_42448/26032019151120_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_42448/26032019151120_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_42448/26032019151127_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_42448/26032019151127_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_42448/26032019151133_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_42448/26032019151133_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_42448/26032019151137_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_42448/26032019151137_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_42448/26032019151139_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_42448/26032019151139_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_42448/26032019151142_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_42448/26032019151142_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

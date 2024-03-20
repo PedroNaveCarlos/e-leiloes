@@ -1,0 +1,130 @@
+{
+    "item": {
+        "id": 133741,
+        "origem": 204672,
+        "lanceAtual": 23200.32,
+        "lanceAtualId": 137398,
+        "dataInicio": "2024-02-01T00:00:00",
+        "dataFimInicial": "2024-03-06T10:00:00",
+        "dataFim": "2024-03-06T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1196492024",
+        "tipoId": 1,
+        "subtipoId": 5,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_104090/31012024124155_800sm.jpg",
+        "titulo": "Terreno em Sesimbra",
+        "valorBase": 42000.0,
+        "valorAbertura": 21000.0,
+        "valorMinimo": 35700.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Terreno Constru\u00e7\u00e3o",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Lote de terreno para constru\u00e7\u00e3o urbana com uma \u00e1rea de 553m2, sito na Rua Fonte do Pio, Lote 1C, Sesimbra, inscrito na matriz predial urbana sob o artigo 14897\u00ba da freguesia de Sesimbra (Castelo) e descrito na Conservat\u00f3ria do Registo Predial de Sesimbra sob a ficha 10562 da referida freguesia.",
+        "observacoes": "",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 553.0,
+        "morada": "Sesimbra (Castelo)",
+        "moradaNumero": "Lote 1C",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Sesimbra",
+        "moradaFreguesia": "Sesimbra (Castelo)",
+        "moradaCP": "2970-146",
+        "coordenadasLAT": "38.48101382",
+        "coordenadasLON": "-9.12800499",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70779,
+        "processoNumero": "497/13.9TBSSB",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 104090,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"129110086\", \"nome\":\"Bonfim Manuel Pinto Guimar\u00e3es\", \"requerido\":\"False\"},{\"nif\":\"188174028\", \"nome\":\"Maria Isabel Mota Alves\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 899,
+        "cerimoniaData": "2024-03-06T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 77,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4200",
+        "gestorNome": "CL\u00c1UDIA RODRIGUES",
+        "gestorEmail": "4200@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:10:56",
+        "dataAtualizacao": "2024-02-12T20:10:56",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104090/31012024124155_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104090/31012024124155_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104090/15012024120910_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104090/15012024120910_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104090/31012024124202_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104090/31012024124202_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104090/31012024124204_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104090/31012024124204_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104090/31012024124206_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104090/31012024124206_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32629,
+                "numero": "10562",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "11 - Sesimbra",
+                "freguesiaDesc": "01 - Sesimbra (castelo)",
+                "artigos": [
+                    {
+                        "numero": "14897",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "11 - Sesimbra",
+                        "freguesiaDesc": "01 - Sesimbra (Castelo)"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,170 @@
+{
+    "item": {
+        "id": 136430,
+        "origem": 207333,
+        "lanceAtual": 70000.0,
+        "lanceAtualId": 137234,
+        "dataInicio": "2024-03-04T00:00:14",
+        "dataFimInicial": "2024-04-10T11:00:00",
+        "dataFim": "2024-04-10T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1207522024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_105086/09022024162020_800sm.jpg",
+        "titulo": "Apartamento T2 em Cascais",
+        "valorBase": 54374.78,
+        "valorAbertura": 27187.39,
+        "valorMinimo": 46218.56,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra E, correspondente ao segundo andar direito do pr\u00e9dio urbano sito na Rua Joaquim Nunes Eira, Lote 18, Cascais, freguesia e concelho de Cascais, descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Cascais sob o n\u00famero 263 da freguesia de Cascais e inscrito na matriz predial sob o artigo 6952 da uni\u00e3o das freguesias de Cascais e Estoril.",
+        "observacoes": "- O im\u00f3vel localiza-se na Travessa da Eira Lt. 18, 2.\u00ba Dto, 2750-390 Cascais e \u00e9 composto por uma cozinha, dois quartos, dois wc\u00b4s e uma sala. \r\n- Encontra-se em razo\u00e1vel estado de conserva\u00e7\u00e3o, com algumas partes danificadas assim como algumas paredes.\r\n- Previamente \u00e0 apresenta\u00e7\u00e3o de proposta, deve verificar o estado do bem, uma vez que este \u00e9 vendido no estado em que se encontra. \r\n- As \u00e1reas indicadas servem apenas como refer\u00eancia pois n\u00e3o foram feitas medi\u00e7\u00f5es exatas no local. \r\n- Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e de todos os outros aspetos que considerem relevantes, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o. Dever\u00e1 igualmente ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidade da venda e ao facto de o bem n\u00e3o ser entregue no momento da adjudica\u00e7\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.\r\n- Ap\u00f3s apresentada proposta, a mesma n\u00e3o pode ser retirada. \r\n- No valor atribu\u00eddo ao bem em venda, n\u00e3o se encontram inclu\u00eddos os impostos devidos pela transmiss\u00e3o, sejam estas IMT, IS, IVA ou outros impostos especiais, competindo ao adquirente, apresentar declara\u00e7\u00e3o que comprove o pagamento dos mesmos ou de que a transmiss\u00e3o dos bens a eles n\u00e3o est\u00e1 sujeita.\r\n- AS VISITAS SER\u00c3O AGENDADAS para o contacto indicado no regime de visitas.",
+        "areaUtilPrivativa": 209.8,
+        "areaUtilDependente": 90.0,
+        "areaTotal": 209.8,
+        "morada": "Rua Joaquim Ereira",
+        "moradaNumero": "18",
+        "moradaAndar": "2.\u00baDto.",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Cascais",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Cascais e Estoril",
+        "moradaCP": "2750-390",
+        "coordenadasLAT": "38.70251906272496",
+        "coordenadasLON": "-9.432210624217987",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71389,
+        "processoNumero": "16030/21.6T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 105086,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"513853995\", \"nome\":\"Lusokartu, Unipessoal, Lda.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 908,
+        "cerimoniaData": "2024-04-10T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 643,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5147",
+        "gestorNome": "C\u00c1TIA DE SOUSA",
+        "gestorEmail": "5147@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:30:43",
+        "dataAtualizacao": "2024-03-20T10:30:43",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105086/09022024162020_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105086/09022024162020_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105086/09022024162022_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105086/09022024162022_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105086/09022024162024_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105086/09022024162024_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105086/09022024162026_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105086/09022024162026_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105086/09022024162028_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105086/09022024162028_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105086/09022024162030_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105086/09022024162030_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105086/09022024162032_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105086/09022024162032_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105086/09022024162034_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105086/09022024162034_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105086/09022024162036_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105086/09022024162036_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105086/09022024162037_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105086/09022024162037_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105086/09022024162039_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105086/09022024162039_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105086/09022024162041_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105086/09022024162041_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105086/09022024162043_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105086/09022024162043_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 33270,
+                "numero": "263",
+                "fracao": "E",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "05 - Cascais",
+                "freguesiaDesc": "03 - Cascais",
+                "artigos": [
+                    {
+                        "numero": "6952",
+                        "tipo": "urbana",
+                        "fracao": "E",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "05 - Cascais",
+                        "freguesiaDesc": "08 - Uni\u00e3o das freguesias de Cascais e Estoril"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

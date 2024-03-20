@@ -1,0 +1,180 @@
+{
+    "item": {
+        "id": 136307,
+        "origem": 208094,
+        "lanceAtual": 150000.0,
+        "lanceAtualId": 6382,
+        "dataInicio": "2024-03-04T00:00:00",
+        "dataFimInicial": "2024-04-10T10:00:00",
+        "dataFim": "2024-04-10T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1211362024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_72704/19022024161553_800sm.jpg",
+        "titulo": "im\u00f3vel Rio de Mouro",
+        "valorBase": 160000.0,
+        "valorAbertura": 80000.0,
+        "valorMinimo": 136000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra M, do pr\u00e9dio urbano, em regime de propriedade horizontal, para habita\u00e7\u00e3o, sito na AV DE FITARES N\u00ba27 A 27 B LOTE 174, Nr\u00ba. 27, 3 ANDAR B, 2635-009 RIO DE MOURO, frac\u00e7\u00e3o M, para habita\u00e7\u00e3o, distrito de Lisboa, Concelho de Sintra e freguesia de Rio de Mouro, inscrito na matriz predial urbana sob o artigo 8532 e descrito na 2\u00aa. Conservat\u00f3ria do Registo Predial de Sintra com o nr\u00ba. 1707",
+        "observacoes": "O im\u00f3vel encontra-se em razo\u00e1vel estado de conserva\u00e7\u00e3o.\r\nObserva\u00e7\u00f5es: Faz-se saber que: - \u00c9 da \u00fanica responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1, antes de apresentar proposta assegurar-se que o mesmo corresponde \u00e0s suas expectativas; com apresenta\u00e7\u00e3o de proposta, presume-se que o proponente procedeu \u00e0 verifica\u00e7\u00e3o do bem e conhece as suas limita\u00e7\u00f5es; - O bem \u00e9 vendido no estado f\u00edsico e jur\u00eddico em que se encontra. Adverte-se que: - Se ao termo do leil\u00e3o, o valor da melhor proposta for superior ao valor m\u00ednimo, fica o proponente obrigado ao dep\u00f3sito do valor proposto, podendo-se promover o arresto de bens suficientes para garantir o supra referido valor, nos termos da al. c), do n.\u00ba 1, do art.\u00ba 825.\u00ba, do C.P.C. \u2013 C\u00f3digo do Processo Civil, aprovado pela Lei n.\u00ba 41/2013, de 26 de junho, na sua vers\u00e3o dada pela Lei n.\u00ba 114/2017, de 29 de dezembro. \u00d3nus e Limita\u00e7\u00f5es: 1.\u00ba - Nos termos an\u00e1logos ao disposto no n.\u00ba 6, do art.\u00ba 833.\u00ba, do C.P.C. \u2013 C\u00f3digo do Processo Civil, a venda do presente bem pode efectuar-se no estado em que se encontra, constituindo \u00f3nus do adquirente a sua eventual legaliza\u00e7\u00e3o. Nos termos do n\u00ba 4 do art. 817\u00ba do CPC, n\u00e3o se encontra pendente nenhuma oposi\u00e7\u00e3o \u00e0 execu\u00e7\u00e3o ou \u00e0 penhora.\r\n\r\nFoi ordenado pelo Mm Juiz a venda da fra\u00e7\u00e3o, sem preju\u00edzo de a mesma exibir penhora anterior \u00e0 destes autos, a qual, em caso de venda, ser\u00e1 paga pelo produto da venda e concomitantemente cancelado esse \u00f3nus.",
+        "areaUtilPrivativa": 85.0,
+        "areaUtilDependente": 5.0,
+        "areaTotal": 90.0,
+        "morada": "Avenida Fitares",
+        "moradaNumero": "27",
+        "moradaAndar": "3\u00bab",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Rio de Mouro",
+        "moradaCP": "2635-009",
+        "coordenadasLAT": "38.78631539",
+        "coordenadasLON": "-9.31555377",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 50759,
+        "processoNumero": "1046/07.3TCSNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 4",
+        "verbaId": 72704,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"203221915\", \"nome\":\"Lu\u00eds Filipe Fernandes Santos\", \"requerido\":\"False\"},{\"nif\":\"225356538\", \"nome\":\"MARIA MANUELA PEREIRA NETO DA ROCHA SANTOS\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 908,
+        "cerimoniaData": "2024-04-10T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 146,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3103",
+        "gestorNome": "Jos\u00e9 Castelo Branco",
+        "gestorEmail": "3103@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:27:34",
+        "dataAtualizacao": "2024-03-20T10:27:34",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72704/19022024161553_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72704/19022024161553_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72704/27052021171159_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72704/27052021171159_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72704/27052021171352_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72704/27052021171352_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72704/19022024161555_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72704/19022024161555_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72704/19022024161557_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72704/19022024161557_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72704/19022024161559_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72704/19022024161559_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72704/19022024161601_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72704/19022024161601_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72704/19022024161603_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72704/19022024161603_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72704/19022024161605_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72704/19022024161605_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72704/19022024161607_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72704/19022024161607_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72704/19022024161608_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72704/19022024161608_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72704/19022024161610_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72704/19022024161610_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72704/19022024161615_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72704/19022024161615_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72704/19022024162250_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72704/19022024162250_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_72704/19022024162303_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_72704/19022024162303_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 12576,
+                "numero": "1707",
+                "fracao": "M",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "08 - Rio de Mouro",
+                "artigos": [
+                    {
+                        "numero": "8532",
+                        "tipo": "urbana",
+                        "fracao": "M",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "08 - Rio de Mouro"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

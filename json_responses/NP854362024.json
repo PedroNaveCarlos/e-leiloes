@@ -1,0 +1,169 @@
+{
+    "item": {
+        "id": 134076,
+        "origem": 206796,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-02-06T12:46:05",
+        "dataFimInicial": "2024-03-07T14:30:00",
+        "dataFim": "2024-03-07T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP854362024",
+        "tipoId": 1,
+        "subtipoId": 27,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_16630/16012018104957_800sm.jpg",
+        "titulo": "Pr\u00e9dios r\u00fasticos  - Lei\u00e3o  - Barcarena",
+        "valorBase": 879500.0,
+        "valorAbertura": 439750.0,
+        "valorMinimo": 747575.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "R\u00fastico",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio r\u00fastico, composto por terra de cultura arvense de sequeiro e mato, denominado de Terra dos Lombos ou Vale Rasteiro, sito no lugar de Lei\u00e3o, freguesia de Barcarena, concelho de Oeiras descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Oeiras sob o n\u00famero MIL SEISCENTOS E TRINTA \u2013 BARCARENA e inscrito na respetiva matriz sob o artigo 434, sec\u00e7\u00e3o 26.\r\nPr\u00e9dio r\u00fastico, composto por terra de cultura arvense de sequeiro, denominado Tira de Baixo, sito na freguesia de Barcarena, concelho de Oeiras descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Oeiras sob o n\u00famero MIL SEISCENTOS E TREZE \u2013 BARCARENA e inscrito na respetiva matriz sob o artigo 920\u00ba.",
+        "observacoes": "N\u00e3o ser\u00e3o agendadas visitas nos \u00faltimos 5 dias \u00fateis antes da data do fim do leil\u00e3o; Com a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspeccionado o im\u00f3vel e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o; Todos os custos inerentes \u00e0 celebra\u00e7\u00e3o da respectiva escritura de compra e venda ser\u00e3o suportados pelo adquirente; Nos termos das disposi\u00e7\u00f5es conjugadas do no 6 do artigo 164\u00ba, do C\u00f3digo da Insolv\u00eancia e da Recupera\u00e7\u00e3o de Empresas, e n\u00ba 6 do artigo 833\u00ba, do C\u00f3digo de Processo Civil, a presente venda est\u00e1 dispensada da apresenta\u00e7\u00e3o do alvar\u00e1 de licen\u00e7a de utiliza\u00e7\u00e3o do pr\u00e9dio, certificado energ\u00e9tico e ficha t\u00e9cnica de habita\u00e7\u00e3o, pelo que, nos termos das mesmas disposi\u00e7\u00f5es legais, constitui \u00f3nus do adquirente a respectiva legaliza\u00e7\u00e3o dos im\u00f3veis, se for caso disso; A escritura de compra e venda apenas ser\u00e1 realizada com o apresentante da proposta e n\u00e3o com terceiros que este possa vir a indicar; A escritura de compra e venda ser\u00e1 realizada em local, data e hora a designar pelo Administrador da Insolv\u00eancia.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 37820.0,
+        "morada": "Avenida Lopo Soares de Albergaria, Bairro dos Navegadores",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Oeiras",
+        "moradaFreguesia": "Porto Salvo",
+        "moradaCP": "2740-237",
+        "coordenadasLAT": "38.730317682354105",
+        "coordenadasLON": "-9.308381080627441",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 13125,
+        "processoNumero": "15786/16.2T8SNT",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Com\u00e9rcio - Juiz 1",
+        "verbaId": 16630,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"503806560\", \"nome\":\"Unioeiras - Uni\u00e3o das Cooperativas de Habita\u00e7\u00e3o, UCRL\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 1009,
+        "gestorTipo": "Administrador Judicial",
+        "gestorTipoId": 2,
+        "gestorCedula": "340",
+        "gestorNome": "Nuno Albuquerque",
+        "gestorEmail": "nuno.c.albuquerque@aj.caaj.pt",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:54:15",
+        "dataAtualizacao": "2024-02-12T19:54:15",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/16012018104957_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/16012018104957_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/16012018105003_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/16012018105003_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/29012019180523_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/29012019180523_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/29012019180536_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/29012019180536_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/29012019180544_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/29012019180544_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/29012019180553_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/29012019180553_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/29012019180602_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/29012019180602_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/29012019180610_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/29012019180610_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/29012019180619_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/29012019180619_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/29012019180629_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/29012019180629_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/29012019180638_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/29012019180638_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/29012019180647_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/29012019180647_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/29012019180654_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/29012019180654_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/29012019180702_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/29012019180702_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/29012019180712_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/29012019180712_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/29012019180720_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/29012019180720_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_16630/29012019180729_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_16630/29012019180729_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

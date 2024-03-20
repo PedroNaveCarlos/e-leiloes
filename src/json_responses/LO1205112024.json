@@ -1,0 +1,160 @@
+{
+    "item": {
+        "id": 136402,
+        "origem": 206773,
+        "lanceAtual": 40205.08,
+        "lanceAtualId": 32794,
+        "dataInicio": "2024-03-04T00:00:11",
+        "dataFimInicial": "2024-04-10T10:30:00",
+        "dataFim": "2024-04-10T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1205112024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_104882/05022024170308_800sm.jpg",
+        "titulo": "Moradia T2 - Vila Facaia, Ramalhal, Torres Vedras",
+        "valorBase": 75000.0,
+        "valorAbertura": 37500.0,
+        "valorMinimo": 63750.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T2",
+        "descricao": "Pr\u00e9dio urbano destinado a habita\u00e7\u00e3o, sito em Rua H\u00e9lder Machado Godinho 7, Vila Facaia, descrito na Conservat\u00f3ria do Registo Predial de Torres Vedras sob o n\u00ba 2426 da freguesia de Ramalhal, inscrito na respetiva matriz predial urbana sob o artigo 927 da\r\nreferida freguesia. AP. 277 de 2021/11/07.",
+        "observacoes": "Moradia T2 com telheiro e logradouro, com a \u00e1rea total de 302 m2.\r\nA executada habita o im\u00f3vel e \u00e9 a fiel deposit\u00e1ria.\r\nN\u00e3o est\u00e1 inclu\u00eddo o recheio visualizado nas fotos. \r\nAs visitas dever\u00e3o ser solicitadas obrigatoriamente at\u00e9 5 dias \u00fateis antes da data designada para o fim do leil\u00e3o. As mesmas dever\u00e3o ser agendadas diretamente com o fiel deposit\u00e1rio, atrav\u00e9s do contacto dispon\u00edvel no campo das visitas.\r\nA entrega do im\u00f3vel poder\u00e1 estar condicionada, n\u00e3o conseguindo o AE garantir entrega imediata do im\u00f3vel, nem tampouco definir um prazo para entrega, tratando-se de habita\u00e7\u00e3o pr\u00f3pria e permanente da executada.\r\nTodos os pedidos de informa\u00e7\u00f5es dever\u00e3o ser efetuados no campo \"informa\u00e7\u00f5es\" da plataforma do E-Leil\u00f5es.\r\n\u00c9 da responsabilidade dos interessados / proponentes a verifica\u00e7\u00e3o do estado de conserva\u00e7\u00e3o do bem a adquirir, pelo que dever\u00e3o previamente \u00e0 apresenta\u00e7\u00e3o da proposta assegurar-se que o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas.\r\nCom a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspecionado o im\u00f3vel e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o.\r\nO im\u00f3vel \u00e9 vendido no estado em que se encontra pelo que a falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.\r\nQuem pretender licitar deve conhecer o funcionamento e regras da venda em leil\u00e3o eletr\u00f3nico. Aconselha-se a leitura atentas das perguntas e respostas em https://www.e-leiloes.pt/faqs.aspx.",
+        "areaUtilPrivativa": 102.0,
+        "areaUtilDependente": 200.0,
+        "areaTotal": 302.0,
+        "morada": "Ramalhal",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Torres Vedras",
+        "moradaFreguesia": "Ramalhal",
+        "moradaCP": "2565-642",
+        "coordenadasLAT": "39.16151622",
+        "coordenadasLON": "-9.25310726",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71261,
+        "processoNumero": "8478/21.2T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 104882,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"199929289\", \"nome\":\"Elsa dos Santos de Oliveira e Silva Alfama\", \"requerido\":\"False\"},{\"nif\":\"128633590\", \"nome\":\"V\u00edtor Manuel da Silva Alfama\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 908,
+        "cerimoniaData": "2024-04-10T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 250,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4158",
+        "gestorNome": "CARLOS MADALENO",
+        "gestorEmail": "4158@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:29:32",
+        "dataAtualizacao": "2024-03-20T10:29:32",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104882/05022024170308_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104882/05022024170308_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104882/05022024170337_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104882/05022024170337_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104882/05022024170342_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104882/05022024170342_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104882/05022024170353_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104882/05022024170353_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104882/05022024170416_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104882/05022024170416_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104882/05022024170429_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104882/05022024170429_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104882/05022024170511_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104882/05022024170511_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104882/05022024170529_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104882/05022024170529_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104882/05022024170543_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104882/05022024170543_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104882/05022024170607_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104882/05022024170607_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "N\u00e3o existem \u00f3nus",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 33167,
+                "numero": "2426",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "13 - Torres Vedras",
+                "freguesiaDesc": "11 - Ramalhal",
+                "artigos": [
+                    {
+                        "numero": "927",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "13 - Torres Vedras",
+                        "freguesiaDesc": "11 - Ramalhal"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

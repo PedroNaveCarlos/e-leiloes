@@ -1,0 +1,375 @@
+{
+    "item": {
+        "id": 135585,
+        "origem": 208558,
+        "lanceAtual": 285000.0,
+        "lanceAtualId": 131925,
+        "dataInicio": "2024-02-22T19:34:28",
+        "dataFimInicial": "2024-04-23T14:30:00",
+        "dataFim": "2024-04-23T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP863392024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 8,
+        "capa": "files/Verbas_Fotos/verba_102593/26112023170236_800sm.jpg",
+        "titulo": "Moradia  T11 - Montijo",
+        "valorBase": 570000.0,
+        "valorAbertura": 285000.0,
+        "valorMinimo": 484500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T6 ou superior",
+        "descricao": "Pr\u00e9dio urbano composto por cave, r\u00e9s-do-ch\u00e3o, 1\u00ba andar e s\u00f3t\u00e3o, com entrada pelos n\u00fameros 35 e 37 da  Avenida 25 de Abril, no Montijo,  descrito na Conservat\u00f3ria do Registo Predial do Montijo sob o n\u00famero 6501 da freguesia do Montijo e inscrito na matriz predial urbana sob o artigo 2946 da uni\u00e3o de Freguesias de Montijo e Afonseiro.",
+        "observacoes": "O im\u00f3vel localiza-se em \u00e1rea central do Montijo, possui logradouro e encontra-se em razo\u00e1vel estado de conserva\u00e7\u00e3o, carecendo de algumas obras.\r\nEst\u00e1 habitado por um dos seus propriet\u00e1rios e respetivo agregado familiar. \r\nO edificado  encontra-se estruturado de forma a permitir a utiliza\u00e7\u00e3o independente, respetivamente, da \u00e1rea correspondente ao r\u00e9s-do-ch\u00e3o e cave, cuja entrada \u00e9 efetuada pelo n.\u00ba 35, e da \u00e1rea correspondente ao 1.\u00ba andar e s\u00f3t\u00e3o, cuja entrada se efetua pelo n.\u00ba 37.  Possui duas cozinhas  e duas  casas de banho( uma no r\u00e9s-do-ch\u00e3o e outra no 1.\u00ba andar), 5 divis\u00f5es no r\u00e9s-do-ch\u00e3o e seis no primeiro andar. A cave encontra-se dividida em compartimentos e o s\u00f3t\u00e3o \u00e9 amplo.\r\n\u00c9 da \u00fanica e exclusiva responsabilidade dos proponentes a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e3o assegurar-se que este corresponde \u00e0s suas expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. \r\nO bem \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas, proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via da situa\u00e7\u00e3o  do im\u00f3vel, constituindo \u00f3nus do adquirente a respetiva legaliza\u00e7\u00e3o. \r\nOs bens m\u00f3veis que se encontram vis\u00edveis nas fotografias publicadas no presente leil\u00e3o n\u00e3o est\u00e3o inclu\u00eddos na venda.",
+        "areaUtilPrivativa": 380.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 400.0,
+        "morada": "Avenida 25 de Abril",
+        "moradaNumero": "35/37",
+        "moradaAndar": "R/C e 1\u00ba",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Montijo",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Montijo e Afonsoeiro",
+        "moradaCP": "2870-150",
+        "coordenadasLAT": "38.708277234360686",
+        "coordenadasLON": "-8.976656198501587",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 7690,
+        "processoNumero": "24337/13.0T2SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Inst. Central - 1\u00aa Sec\u00e7\u00e3o de Execu\u00e7\u00e3o - J3",
+        "verbaId": 102593,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"192642154\", \"nome\":\"Fernanda Maria Torres Gon\u00e7alves Saraiva\", \"requerido\":\"False\"},{\"nif\":\"127906525\", \"nome\":\"Manuel Henrique Ferreira da Cunha Saraiva\", \"requerido\":\"False\"},{\"nif\":\"112129064\", \"nome\":\"Maria de F\u00e1tima Jesus Alves Miranda Saraiva\", \"requerido\":\"False\"},{\"nif\":\"117931780\", \"nome\":\"Pedro Jos\u00e9 Ferreira da Cunha Saraiva\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 143,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4709",
+        "gestorNome": "S\u00cdLVIA DOS SANTOS PIRES",
+        "gestorEmail": "4709@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "220935138",
+        "gestorFax": "220931019",
+        "gestorMorada": "PRA\u00c7A MOUZINHO DE ALBUQUERQUE, 113, PISO 0 LJ 51-B  4100-359 PORTO",
+        "gestorHorario": "Dias \u00fateis, das 14:00h \u00e0s 16:00h",
+        "dataServidor": "2024-03-20T10:50:46",
+        "dataAtualizacao": "2024-03-20T10:50:46",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "Exterior_fachada",
+                "image": "files/Verbas_Fotos/verba_102593/26112023170236_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023170236_200.jpg"
+            },
+            {
+                "legenda": "Cave",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162141_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162141_200.jpg"
+            },
+            {
+                "legenda": "Cave",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162144_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162144_200.jpg"
+            },
+            {
+                "legenda": "Cave",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162146_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162146_200.jpg"
+            },
+            {
+                "legenda": "Cave",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162148_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162148_200.jpg"
+            },
+            {
+                "legenda": "Cave",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162150_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162150_200.jpg"
+            },
+            {
+                "legenda": "Cave",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162153_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162153_200.jpg"
+            },
+            {
+                "legenda": "Cave",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162155_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162155_200.jpg"
+            },
+            {
+                "legenda": "Cave",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162157_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162157_200.jpg"
+            },
+            {
+                "legenda": "S\u00f3t\u00e3o",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162234_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162234_200.jpg"
+            },
+            {
+                "legenda": "S\u00f3t\u00e3o_escada acesso",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162556_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162556_200.jpg"
+            },
+            {
+                "legenda": "Entrada_35",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162658_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162658_200.jpg"
+            },
+            {
+                "legenda": "Entrada_35",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162700_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162700_200.jpg"
+            },
+            {
+                "legenda": "Sala_R/C",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162816_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162816_200.jpg"
+            },
+            {
+                "legenda": "Sala_R/C",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162819_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162819_200.jpg"
+            },
+            {
+                "legenda": "Sala_R/C",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162844_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162844_200.jpg"
+            },
+            {
+                "legenda": "Sala_R/C",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162846_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162846_200.jpg"
+            },
+            {
+                "legenda": "Sala_R/C",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162848_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162848_200.jpg"
+            },
+            {
+                "legenda": "Quarto_R/C",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162950_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162950_200.jpg"
+            },
+            {
+                "legenda": "Quarto_roupeiro_R/C",
+                "image": "files/Verbas_Fotos/verba_102593/26112023162953_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023162953_200.jpg"
+            },
+            {
+                "legenda": "Cozinha_R/C",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163223_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163223_200.jpg"
+            },
+            {
+                "legenda": "Cozinha_marquise_R/C",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163313_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163313_200.jpg"
+            },
+            {
+                "legenda": "Cozinha_despensa_R/C",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163425_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163425_200.jpg"
+            },
+            {
+                "legenda": "Corredor_R/C",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163523_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163523_200.jpg"
+            },
+            {
+                "legenda": "Corredor_R/C",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163525_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163525_200.jpg"
+            },
+            {
+                "legenda": "Corredor_R/C",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163528_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163528_200.jpg"
+            },
+            {
+                "legenda": "Entrada_37",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163716_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163716_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163719_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163719_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163721_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163721_200.jpg"
+            },
+            {
+                "legenda": "Entrada_37",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163725_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163725_200.jpg"
+            },
+            {
+                "legenda": "SALA_PISO 1",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163754_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163754_200.jpg"
+            },
+            {
+                "legenda": "SALA_PISO 1",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163757_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163757_200.jpg"
+            },
+            {
+                "legenda": "SALA_PISO 1",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163759_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163759_200.jpg"
+            },
+            {
+                "legenda": "SALA_PISO 1",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163801_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163801_200.jpg"
+            },
+            {
+                "legenda": "SALA_PISO 1",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163805_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163805_200.jpg"
+            },
+            {
+                "legenda": "WC_R/C",
+                "image": "files/Verbas_Fotos/verba_102593/26112023163927_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023163927_200.jpg"
+            },
+            {
+                "legenda": "WC_PISO1",
+                "image": "files/Verbas_Fotos/verba_102593/26112023164003_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023164003_200.jpg"
+            },
+            {
+                "legenda": "SALA_PISO 1",
+                "image": "files/Verbas_Fotos/verba_102593/26112023164155_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023164155_200.jpg"
+            },
+            {
+                "legenda": "Cozinha_piso 1",
+                "image": "files/Verbas_Fotos/verba_102593/26112023164233_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023164233_200.jpg"
+            },
+            {
+                "legenda": "Marquise_piso 1",
+                "image": "files/Verbas_Fotos/verba_102593/26112023164303_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023164303_200.jpg"
+            },
+            {
+                "legenda": "Marquise_piso 1",
+                "image": "files/Verbas_Fotos/verba_102593/26112023164306_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023164306_200.jpg"
+            },
+            {
+                "legenda": "Corredor_Piso 1",
+                "image": "files/Verbas_Fotos/verba_102593/26112023164337_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023164337_200.jpg"
+            },
+            {
+                "legenda": "Corredor_Piso 1",
+                "image": "files/Verbas_Fotos/verba_102593/26112023164340_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023164340_200.jpg"
+            },
+            {
+                "legenda": "Corredor_Piso 1",
+                "image": "files/Verbas_Fotos/verba_102593/26112023164342_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023164342_200.jpg"
+            },
+            {
+                "legenda": "Cozinha_marquise_Piso 1",
+                "image": "files/Verbas_Fotos/verba_102593/26112023164444_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023164444_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102593/26112023170148_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023170148_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102593/26112023170150_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023170150_200.jpg"
+            },
+            {
+                "legenda": "Exterior_logradouro",
+                "image": "files/Verbas_Fotos/verba_102593/26112023170152_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023170152_200.jpg"
+            },
+            {
+                "legenda": "Exterior_logradouro",
+                "image": "files/Verbas_Fotos/verba_102593/26112023170155_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023170155_200.jpg"
+            },
+            {
+                "legenda": "Exterior_logradouro",
+                "image": "files/Verbas_Fotos/verba_102593/26112023170157_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023170157_200.jpg"
+            },
+            {
+                "legenda": "Exterior_fachada",
+                "image": "files/Verbas_Fotos/verba_102593/26112023170215_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023170215_200.jpg"
+            },
+            {
+                "legenda": "Exterior_fachada",
+                "image": "files/Verbas_Fotos/verba_102593/26112023170217_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023170217_200.jpg"
+            },
+            {
+                "legenda": "Exterior_fachada",
+                "image": "files/Verbas_Fotos/verba_102593/26112023170232_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023170232_200.jpg"
+            },
+            {
+                "legenda": "Exterior_fachada",
+                "image": "files/Verbas_Fotos/verba_102593/26112023170234_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102593/26112023170234_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31792,
+                "numero": "6501",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "07 - Montijo",
+                "freguesiaDesc": "02 - Montijo",
+                "artigos": [
+                    {
+                        "numero": "2946",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "07 - Montijo",
+                        "freguesiaDesc": "10 - Uni\u00e3o das freguesias de Montijo e Afonsoeiro"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,204 @@
+{
+    "item": {
+        "id": 133072,
+        "origem": 204902,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-26T00:00:01",
+        "dataFimInicial": "2024-02-21T10:30:00",
+        "dataFim": "2024-02-21T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1197572024",
+        "tipoId": 1,
+        "subtipoId": 4,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_104156/16012024191932_800sm.jpg",
+        "titulo": "Armaz\u00e9m, sito em \u00c0 Dos Cunhados, Torres Vedras",
+        "valorBase": 3801600.0,
+        "valorAbertura": 1900800.0,
+        "valorMinimo": 3231360.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Armaz\u00e9m / Ind\u00fastria",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "- Uma casa de r\u00e9s-do-ch\u00e3o, para arrecada\u00e7\u00e3o e 1.\u00ba andar para habita\u00e7\u00e3o, dois pavilh\u00f5es para arrecada\u00e7\u00e3o e logradouro, com \u00e1rea total de 26.200, 00m2, com \u00e1rea coberta de 569,00m2 e logradouro com \u00e1rea de 25.631,00m2, sita na Rua da Sucata, n.\u00ba 1 e Rua da Natureza, n.\u00ba 1, lugar de Brejenjas, da UF de \u00c1 Dos Cunhados e Maceira, do concelho de Torres Vedras, inscrita na matriz predial urbana sob o art.\u00ba 6794/ UF de \u00c1 Dos Cunhados e Maceira e descrita na Conservat\u00f3ria do Registo Predial de Torres Vedras sob o n.\u00ba 9344/\u00c0 Dos Cunhados.\r\nOBS. Encontra-se em fase de constru\u00e7\u00e3o um armaz\u00e9m com \u00e1rea coberta de 7.990,00m2.",
+        "observacoes": "A venda livre de \u00f3nus e encargos e no estado f\u00edsico e jur\u00eddico em que se encontra.\r\nN\u00e3o ser\u00e3o agendadas visitas nos \u00faltimos 5 dias \u00fateis antes da data do fim da venda.\r\n\r\nOBS. Encontra-se em fase de constru\u00e7\u00e3o um armaz\u00e9m com \u00e1rea coberta de 7.990,00m2.",
+        "areaUtilPrivativa": 193.1,
+        "areaUtilDependente": 460.0,
+        "areaTotal": 26200.0,
+        "morada": "Uni\u00e3o das freguesias de A dos Cunhados e Maceira",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Torres Vedras",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de A dos Cunhados e Maceira",
+        "moradaCP": "2560-060",
+        "coordenadasLAT": "39.13085919986185",
+        "coordenadasLON": "-9.359064102172852",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70674,
+        "processoNumero": "501/21.7T8VFX",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "V.F.Xira - Ju\u00edzo Com\u00e9rcio - Juiz 1",
+        "verbaId": 104156,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"508267609\", \"nome\":\"Peda\u00e7os de Natureza, Lda\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 894,
+        "cerimoniaData": "2024-02-21T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 848,
+        "gestorTipo": "Administrador Judicial",
+        "gestorTipoId": 2,
+        "gestorCedula": "361",
+        "gestorNome": "Elisabete G. Pereira",
+        "gestorEmail": "elisabete.g.pereira@aj.caaj.pt",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:43:15",
+        "dataAtualizacao": "2024-02-12T19:43:15",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191932_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191932_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191855_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191855_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191858_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191858_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191900_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191900_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191907_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191907_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191909_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191909_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191911_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191911_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191913_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191913_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191917_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191917_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191919_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191919_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191921_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191921_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191923_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191923_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191924_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191924_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191926_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191926_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191928_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191928_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191930_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191930_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024191934_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024191934_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024193042_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024193042_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024193056_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024193056_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104156/16012024193117_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104156/16012024193117_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32670,
+                "numero": "9344",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "13 - Torres Vedras",
+                "freguesiaDesc": "01 - a dos Cunhados",
+                "artigos": [
+                    {
+                        "numero": "6794",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "13 - Torres Vedras",
+                        "freguesiaDesc": "21 - Uni\u00e3o das freguesias de A dos Cunhados e Maceira"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

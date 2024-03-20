@@ -1,0 +1,136 @@
+{
+    "item": {
+        "id": 133509,
+        "origem": 205591,
+        "lanceAtual": 62160.25,
+        "lanceAtualId": 1575,
+        "dataInicio": "2024-01-30T00:00:00",
+        "dataFimInicial": "2024-03-06T10:00:00",
+        "dataFim": "2024-03-06T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1200792024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_103006/30112023183702_800sm.jpg",
+        "titulo": "Apartamento Com Quintal em Queluz",
+        "valorBase": 52651.95,
+        "valorAbertura": 26325.98,
+        "valorMinimo": 44754.16,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra C destinada a habita\u00e7\u00e3o do pr\u00e9dio urbano em regime de propriedade horizontal , sito na Rua Mateus Vicente de Oliveira n\u00ba s 16, 16-A e 16- B, R/c  Esq\u00ba , Queluz, Belas, inscrita na atual matriz predial urbana sob o artigo 1765 da Uni\u00e3o das Freguesias de Queluz e Belas, que proveio do artigo matricial 1447 da extinta Freguesia de Queluz, Concelho de Sintra, e descrita na Conservat\u00f3ria do Registo Predial do Queluz sob o n\u00famero dois mil cento e trinta e tr\u00eas da Freguesia de Queluz , Concelho do Sintra",
+        "observacoes": "Houve altera\u00e7\u00f5es na fra\u00e7\u00e3o sendo atualmente um apartamento T2 com 2 dispensas e com quintal.\r\nUma vez que se trata de um im\u00f3vel da d\u00e9cada de setenta,  encontra-se em razoavel estado de conserva\u00e7\u00e3o. H\u00e1 humidade ao n\u00edvel do rodap\u00e9 e em alguns tetos.\r\nO im\u00f3vel situa-se pr\u00f3ximo de uma vasta zona de comercio.\r\nAS visitas ao im\u00f3vel podem ocorrer \u00e1 2\u00aa feira sob agendamento pr\u00e9vio com o Fiel Deposit\u00e1rio.\r\nO Exequente veio ao processo solicitar a adjudica\u00e7\u00e3o pelo valor de 15.000,00 \u20ac",
+        "areaUtilPrivativa": 87.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 75.5,
+        "morada": "Rua Mateus Vicente de Oliveira",
+        "moradaNumero": "16",
+        "moradaAndar": "R/C Esq",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Queluz e Belas",
+        "moradaCP": "2745-167",
+        "coordenadasLAT": "38.75721201",
+        "coordenadasLON": "-9.25624514",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70083,
+        "processoNumero": "2688/21.0TALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 103006,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"242951767\", \"nome\":\"Tiago Salom\u00e3o Carvalho Caridade\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 899,
+        "cerimoniaData": "2024-03-06T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 649,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4180",
+        "gestorNome": "ELEONORA DOMINGOS",
+        "gestorEmail": "4180@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:51:47",
+        "dataAtualizacao": "2024-02-12T19:51:47",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103006/30112023183702_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103006/30112023183702_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103006/30112023183518_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103006/30112023183518_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103006/30112023183530_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103006/30112023183530_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103006/30112023183539_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103006/30112023183539_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103006/30112023183835_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103006/30112023183835_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103006/30112023183950_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103006/30112023183950_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32040,
+                "numero": "2133",
+                "fracao": "C",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "07 - Queluz",
+                "artigos": [
+                    {
+                        "numero": "1765",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "26 - Uni\u00e3o das freguesias de Queluz e Belas"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

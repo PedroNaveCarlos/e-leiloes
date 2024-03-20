@@ -1,0 +1,175 @@
+{
+    "item": {
+        "id": 133419,
+        "origem": 205130,
+        "lanceAtual": 95950.0,
+        "lanceAtualId": 46186,
+        "dataInicio": "2024-01-29T00:00:09",
+        "dataFimInicial": "2024-02-28T10:30:00",
+        "dataFim": "2024-02-28T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1198382024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_104238/18012024130143_800sm.jpg",
+        "titulo": "Apartamento T3 em Casais de Mem Martins",
+        "valorBase": 190000.0,
+        "valorAbertura": 95000.0,
+        "valorMinimo": 161500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Frac\u00e7\u00e3o \"E\", correspondente ao 1.\u00ba Dto., para habita\u00e7\u00e3o, do edif\u00edcio constitu\u00eddo em propriedade horizontal sito na Rua da Presa, n.\u00ba 12, descrito na 2.\u00aa Conservat\u00f3ria do Registo Predial de Sintra, sob o n.\u00ba 728, da Freguesia de Rio de Mouro, inscrito na matriz predial urbana sob o artigo 4396-1D, com o VPT de 60.128,60 Euros.",
+        "observacoes": "Apartamento de 1987, ainda em estado original mas em \u00f3ptimo estado de conserva\u00e7\u00e3o, num pr\u00e9dio sem elevador, localizado a 1km das esta\u00e7\u00f5es de comboios das Merc\u00eas e de Rio de Mouro (Linha da Azambuja/Linha de Sintra) e a 2 kms da esta\u00e7\u00e3o de comboios de Mira Sintra-Mele\u00e7as (Linha do Oeste/Linha da Azambuja/Linha de Sintra). Proximidade de superf\u00edcies comerciais (Pingo Doce e Continente).\r\nDivis\u00f5es com \u00e1reas generosas. Disp\u00f5e de duas casas de banho.",
+        "areaUtilPrivativa": 100.58,
+        "areaUtilDependente": 8.47,
+        "areaTotal": 109.05,
+        "morada": "Rua Presa, Serra das Minas",
+        "moradaNumero": "12",
+        "moradaAndar": "1.\u00ba Dto.",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Rio de Mouro",
+        "moradaCP": "2635-440",
+        "coordenadasLAT": "38.78569639",
+        "coordenadasLON": "-9.32923223",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70866,
+        "processoNumero": "5106/04.4YYLSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 5",
+        "verbaId": 104238,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"151688613\", \"nome\":\"Fernando Martins Mendes\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 897,
+        "cerimoniaData": "2024-02-28T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 1252,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5352",
+        "gestorNome": "CATARINA RODRIGUES CORREIA",
+        "gestorEmail": "5352@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:47:59",
+        "dataAtualizacao": "2024-02-12T19:47:59",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104238/18012024130143_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104238/18012024130143_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104238/18012024130124_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104238/18012024130124_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104238/18012024130126_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104238/18012024130126_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104238/18012024130127_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104238/18012024130127_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104238/18012024130129_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104238/18012024130129_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104238/18012024130130_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104238/18012024130130_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104238/18012024130132_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104238/18012024130132_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104238/18012024130133_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104238/18012024130133_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104238/18012024130135_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104238/18012024130135_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104238/18012024130136_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104238/18012024130136_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104238/18012024130138_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104238/18012024130138_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104238/18012024130139_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104238/18012024130139_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104238/18012024130141_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104238/18012024130141_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104238/18012024130142_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104238/18012024130142_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32716,
+                "numero": "728",
+                "fracao": "E",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "08 - Rio de Mouro",
+                "artigos": [
+                    {
+                        "numero": "4396",
+                        "tipo": "urbana",
+                        "fracao": "1D",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "08 - Rio de Mouro"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

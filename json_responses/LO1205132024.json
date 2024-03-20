@@ -1,0 +1,184 @@
+{
+    "item": {
+        "id": 134552,
+        "origem": 206778,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-02-12T00:00:03",
+        "dataFimInicial": "2024-03-13T10:00:00",
+        "dataFim": "2024-03-13T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1205132024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_93362/17012023141626_800sm.jpg",
+        "titulo": "Apartamento em Aldeia de Paio Pires - Seixal",
+        "valorBase": 134867.06,
+        "valorAbertura": 67433.53,
+        "valorMinimo": 114637.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"G\" correspondente ao terceiro andar direito, destinado \u00e0 habita\u00e7\u00e3o, que faz parte do pr\u00e9dio urbano, em regime de propriedade horizontal, sito na Rua Ferreira de Castro, n\u00ba 18, descrito na Conservat\u00f3ria do Registo Predial de Seixal sob o n.\u00ba 623 da Freguesia de Paio Pires, Concelho de Seixal e inscrito na respectiva matriz predial urbana sob o n\u00ba 445 da uni\u00e3o de freguesias de Seixal, Arrentela e Aldeia de Paio Pires.",
+        "observacoes": "Zona de f\u00e1cil acesso a transportes p\u00fablicos, junto de escolas e com\u00e9rcio.\r\n\u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1 antes de apresentar proposta assegurar-se que o mesmo corresponde \u00e0s suas expectativas e se encontra nas condi\u00e7\u00f5es pretendidas. A falta de verifica\u00e7\u00e3o do estado do bem por parte do proponente n\u00e3o determina, nos termos legais a anula\u00e7\u00e3o da venda.\r\nCom a apresenta\u00e7\u00e3o da proposta, presume-se que os interessados tenham inspecionado o bem e conhecem as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o ou funcionamento, assim como, qualquer descri\u00e7\u00e3o incorreta da informa\u00e7\u00e3o que possa induzir em erro",
+        "areaUtilPrivativa": 77.72,
+        "areaUtilDependente": 13.56,
+        "areaTotal": 91.28,
+        "morada": "Rua Ferreira de Castro",
+        "moradaNumero": "18",
+        "moradaAndar": "3\u00ba Dto.",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Seixal",
+        "moradaFreguesia": "Uni\u00e3o das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",
+        "moradaCP": "2840-102",
+        "coordenadasLAT": "38.62103719",
+        "coordenadasLON": "-9.08022649",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 63769,
+        "processoNumero": "3459/16.0T8ALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 93362,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"210701498\", \"nome\":\"Am\u00edlcar Soares Gra\u00e7a\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 902,
+        "cerimoniaData": "2024-03-13T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 338,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5356",
+        "gestorNome": "ANA CALMEIRO",
+        "gestorEmail": "5356@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:14:52",
+        "dataAtualizacao": "2024-02-12T20:14:52",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023141626_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023141626_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023141634_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023141634_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023141650_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023141650_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023141652_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023141652_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023141654_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023141654_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023141700_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023141700_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023141715_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023141715_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023141720_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023141720_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023141735_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023141735_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023141741_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023141741_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023141746_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023141746_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023141759_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023141759_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023142114_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023142114_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023142124_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023142124_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023142208_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023142208_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93362/17012023142248_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93362/17012023142248_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 25964,
+                "numero": "623",
+                "fracao": "G",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "10 - Seixal",
+                "freguesiaDesc": "01 - Aldeia de Paio Pires",
+                "artigos": [
+                    {
+                        "numero": "445",
+                        "tipo": "urbana",
+                        "fracao": "G",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "10 - Seixal",
+                        "freguesiaDesc": "07 - Uni\u00e3o das freguesias do Seixal, Arrentela e Aldeia de Paio Pires"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

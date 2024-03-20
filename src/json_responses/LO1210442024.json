@@ -1,0 +1,201 @@
+{
+    "item": {
+        "id": 136401,
+        "origem": 207958,
+        "lanceAtual": 85027.76,
+        "lanceAtualId": 9226,
+        "dataInicio": "2024-03-04T00:00:11",
+        "dataFimInicial": "2024-04-10T10:30:00",
+        "dataFim": "2024-04-10T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1210442024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_104865/05022024145736_800sm.jpg",
+        "titulo": "Im\u00f3vel T3 sito em Alhandra - Vila Franca de Xira",
+        "valorBase": 121010.04,
+        "valorAbertura": 60505.02,
+        "valorMinimo": 102858.53,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra B, que corresponde ao primeiro andar, destinado a habita\u00e7\u00e3o, com garagem na cave (com sa\u00edda pr\u00f3pria) e logradouro, do pr\u00e9dio urbano sito na Rua Francisco Filipe dos Reis, n.\u00ba19, no lugar de Alhandra, inscrito na matriz predial sob o artigo 955 da freguesia de Uni\u00e3o das Freguesias de Alhandra, S\u00e3o Jo\u00e3o Dos Montes e Calhandriz, concelho de Vila Franca de Xira, descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Vila Franca de Xira sob o n\u00famero 593/Alhandra.",
+        "observacoes": "-Im\u00f3vel composto por 3 quartos, sala, cozinha, e 2 wc\u00b4s. Tem um lugar de garagem.\r\n-Piso em tacos de madeira , exceto nas casas de banho que \u00e9 mosaico.\r\n-Encontra-se em razo\u00e1vel estado de conserva\u00e7\u00e3o, necessitando, no entanto, de algumas obras de melhoria, nomeadamente, penhora, portas, janelas e piso.\r\n- Visitas mediante marca\u00e7\u00e3o pr\u00e9via com a pessoa melhor identificada no campo \"visitas por marca\u00e7\u00e3o\"\r\n- Dever\u00e3o ainda os interessados antes de efetuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt e/ou aconselhar-se junto de um Solicitador ou Advogado.\r\n- \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. Dever\u00e1 igualmente ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidade da venda e ao facto de o bem n\u00e3o ser entregue no momento da adjudica\u00e7\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.\r\n-O fiel deposit\u00e1rio n\u00e3o permitiu fotografias do interior, por receio de exposi\u00e7\u00e3o dos seus bens.",
+        "areaUtilPrivativa": 145.0,
+        "areaUtilDependente": 41.5,
+        "areaTotal": 308.05,
+        "morada": "Rua Francisco Filipe dos Reis",
+        "moradaNumero": "19",
+        "moradaAndar": "1\u00ba",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Vila Franca de Xira",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Alhandra, S\u00e3o Jo\u00e3o dos Montes e Calhandriz",
+        "moradaCP": "2600-438",
+        "coordenadasLAT": "38.93005720",
+        "coordenadasLON": "-9.00801905",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71254,
+        "processoNumero": "29281/96.0TVLSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 104865,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"175127280\", \"nome\":\"JO\u00c3O RODRIGO DA CRUZ OLIVEIRA DOMINGOS\", \"requerido\":\"False\"},{\"nif\":\"198633165\", \"nome\":\"MARIA DAS DORES PATR\u00cdCIO JER\u00d3NIMO DE OLIVEIRA DOMINGOS\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 908,
+        "cerimoniaData": "2024-04-10T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 44,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5094",
+        "gestorNome": "JOEL SILVA ANTUNES",
+        "gestorEmail": "5094@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:29:23",
+        "dataAtualizacao": "2024-03-20T10:29:23",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145736_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145736_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145738_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145738_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145740_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145740_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145742_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145742_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145744_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145744_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145747_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145747_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145750_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145750_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145756_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145756_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145758_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145758_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145800_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145800_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145802_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145802_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145804_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145804_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145806_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145806_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145808_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145808_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145810_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145810_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145812_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145812_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145814_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145814_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145817_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145817_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145819_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145819_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104865/05022024145821_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104865/05022024145821_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Existe diverg\u00eancia de \u00e1reas, cabendo ao adquirente diligenciar pela retifica\u00e7\u00e3o das mesmas.",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 33158,
+                "numero": "593",
+                "fracao": "B",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "14 - Vila Franca de Xira",
+                "freguesiaDesc": "01 - Alhandra",
+                "artigos": []
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

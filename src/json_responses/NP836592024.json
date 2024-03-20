@@ -1,0 +1,184 @@
+{
+    "item": {
+        "id": 131132,
+        "origem": 203705,
+        "lanceAtual": 56914.1,
+        "lanceAtualId": 101491,
+        "dataInicio": "2024-01-03T16:05:57",
+        "dataFimInicial": "2024-04-02T14:30:00",
+        "dataFim": "2024-04-02T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP836592024",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_98799/27062023162048_800sm.jpg",
+        "titulo": "Loja para com\u00e9rcio na Amora (Seixal)",
+        "valorBase": 113828.19,
+        "valorAbertura": 56914.1,
+        "valorMinimo": 96753.96,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"A\", R\u00e9s-do-ch\u00e3o letra-A, do pr\u00e9dio urbano em regime de propriedade horizontal denominado Quinta do Br\u00e1s, sito na Rua do Mercado, n\u00bas 16, 16-A e 16-B, Amora, freguesia de Amora, concelho do Seixal, inscrito na matriz urbana sob o artigo 1997, descrito na Conservat\u00f3ria do Registo Predial de Amora com o n\u00ba 2144 - freguesia Amora",
+        "observacoes": "Adverte-se que: Cabe exclusivamente ao proponente a responsabilidade de verificar se o estado e caracter\u00edsticas do bem a adquirir correspondem \u00e0s suas expectativas. O que dever\u00e1 efectuar antes de apresentar a competente proposta; Os bens eventualmente existentes no interior do im\u00f3vel est\u00e3o exclu\u00eddos da presente venda. Aconselha-se a pr\u00e9via leitura atenta das regras e faq's dispon\u00edveis em https://www.e-leiloes.pt/regras.aspx e https://www.e-leiloes.pt/faqs.aspx",
+        "areaUtilPrivativa": 133.5,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 133.5,
+        "morada": "Rua Mercado",
+        "moradaNumero": "16",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Seixal",
+        "moradaFreguesia": "Amora",
+        "moradaCP": "2845-451",
+        "coordenadasLAT": "38.62725634",
+        "coordenadasLON": "-9.11347428",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 67327,
+        "processoNumero": "18101/10.5YYLSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 98799,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"193498839\", \"nome\":\"Roberto Carlos Remetula\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 444,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3562",
+        "gestorNome": "Jose Faustino",
+        "gestorEmail": "3562@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "214456697",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "11h00m \u00e0s 13h00m",
+        "dataServidor": "2024-03-20T10:42:49",
+        "dataAtualizacao": "2024-03-20T10:42:49",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023162048_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023162048_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023161926_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023161926_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023161928_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023161928_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023161931_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023161931_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023161933_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023161933_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023161935_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023161935_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023161937_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023161937_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023161939_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023161939_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023161941_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023161941_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023161943_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023161943_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023161945_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023161945_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023161947_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023161947_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023161949_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023161949_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023161952_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023161952_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023161954_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023161954_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98799/27062023161956_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98799/27062023161956_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 29446,
+                "numero": "2144",
+                "fracao": "A",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "10 - Seixal",
+                "freguesiaDesc": "02 - Amora",
+                "artigos": [
+                    {
+                        "numero": "1997",
+                        "tipo": "urbana",
+                        "fracao": "A",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "10 - Seixal",
+                        "freguesiaDesc": "02 - Amora"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

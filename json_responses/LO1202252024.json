@@ -1,0 +1,159 @@
+{
+    "item": {
+        "id": 134607,
+        "origem": 206028,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-02-12T00:00:08",
+        "dataFimInicial": "2024-03-13T10:30:00",
+        "dataFim": "2024-03-13T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1202252024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_104595/26012024154156_800sm.jpg",
+        "titulo": "Metade de apartamento Quinta do Conde",
+        "valorBase": 31493.0,
+        "valorAbertura": 15746.5,
+        "valorMinimo": 26769.05,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "\u00bd da fra\u00e7\u00e3o E, do pr\u00e9dio urbano em regime de propriedade horizontal, sito em Quinta do Conde 1, lote 1763, Rua S\u00e1 de Miranda n.\u00ba 1763, 2.\u00ba Dt.\u00ba, 2975 -001 Quinta do  Conde,  descrito na CRP de Sesimbra, sob o n.\u00ba 4603 fra\u00e7\u00e3o E, freguesia Quinta do Conde, inscrito na respetiva matriz predial sob o art.\u00ba 9711.",
+        "observacoes": "Im\u00f3vel habitado pelo arrendat\u00e1rio em razo\u00e1vel estado de conserva\u00e7\u00e3o.\r\n\r\n\r\n\r\n\u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. O im\u00f3vel \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisi\u00e7\u00e3o que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda. Os interessados que queiram ver o im\u00f3vel devem estar registados na plataforma e-leil\u00f5es, de foram a terem acesso aos contactos do fiel deposit\u00e1rio. Com a apresenta\u00e7\u00e3o da proposta presume-se que o interessado tenha inspecionado o im\u00f3vel e que conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o. N\u00e3o \u00e9 poss\u00edvel anular uma licita\u00e7\u00e3o depois de concretizada, a licita\u00e7\u00e3o \u00e9 definitiva e n\u00e3o pode ser revogada, anulada ou por qualquer forma alterada.\r\n\r\n\r\n\r\nOs bens moveis, vis\u00edveis nas fotos n\u00e3o est\u00e3o inclu\u00eddos na venda do im\u00f3vel. \r\n\r\n\r\n\r\n\r\nAdverte-se que ap\u00f3s o t\u00e9rminus do leil\u00e3o, o/a proponente da proposta mais elevada \u00e9 notificado para, no prazo de 15 dias, proceder ao dep\u00f3sito do valor integral do pre\u00e7o oferecido, bem como dos impostos a que haja lugar. \r\n\r\n\r\n\r\nTendo sido efetuado o deposito de pre\u00e7o e o pagamento dos impostos inerentes \u00e0 venda do im\u00f3vel, \u00e9 emitido o t\u00edtulo de transmiss\u00e3o e efetuado o registo de aquisi\u00e7\u00e3o da transmiss\u00e3o do bem, n\u00e3o existe lugar \u00e0 realiza\u00e7\u00e3o de escritura publica.\r\n\r\n\r\n\r\n\r\nCaso o deposito de pre\u00e7o n\u00e3o seja efetuado no prazo de 15 dias, ap\u00f3s ser notificado pelo Agente de Execu\u00e7\u00e3o, adverte-se para as consequ\u00eancias previstas no artigo 825.\u00ba do C\u00f3digo de Processo Civil, nomeadamente por decis\u00e3o do Juiz \u00abo arresto em bens suficientes para garantir o valor em falta acrescido das custas e despesas, sem preju\u00edzo de procedimento criminal e sendo aquele, simultaneamente, executado no pr\u00f3prio processo para pagamento daquele valor e acr\u00e9scimos.\r\n\r\n\r\n\r\nEm caso de recurso a cr\u00e9dito banc\u00e1rio adverte-se que os 15 dias para o deposito de pre\u00e7o ap\u00f3s ser notificado pelo Agente Execu\u00e7\u00e3o, n\u00e3o suspendem excepto nos casos legalmente previstos.\r\n\r\n\r\n\r\nTendo sido o fiel deposit\u00e1rio advertido dos seus deveres, nomeadamente o de mostrar o im\u00f3vel a quem o pretenda ver.",
+        "areaUtilPrivativa": 76.68,
+        "areaUtilDependente": 3.2,
+        "areaTotal": 76.68,
+        "morada": "Rua S\u00e1 de Miranda",
+        "moradaNumero": "1763",
+        "moradaAndar": "2 dt.\u00ba",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Sesimbra",
+        "moradaFreguesia": "Quinta do Conde",
+        "moradaCP": "2975-296",
+        "coordenadasLAT": "38.57144858",
+        "coordenadasLON": "-9.04708890",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71079,
+        "processoNumero": "4093/08.4TBSXL",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 104595,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"223618233\", \"nome\":\"NEUZA CORTINHAL DE ALMEIDA\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 902,
+        "cerimoniaData": "2024-03-13T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 235,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2959",
+        "gestorNome": "Luis Sequeira Fernandes",
+        "gestorEmail": "2959@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:15:16",
+        "dataAtualizacao": "2024-02-12T20:15:16",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104595/26012024154156_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104595/26012024154156_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104595/26012024154158_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104595/26012024154158_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104595/26012024154201_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104595/26012024154201_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104595/26012024154204_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104595/26012024154204_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104595/26012024154206_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104595/26012024154206_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104595/26012024154209_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104595/26012024154209_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104595/26012024154211_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104595/26012024154211_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104595/26012024154214_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104595/26012024154214_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104595/26012024154216_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104595/26012024154216_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104595/26012024154219_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104595/26012024154219_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104595/26012024154222_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104595/26012024154222_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32961,
+                "numero": "4603",
+                "fracao": "E",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "11 - Sesimbra",
+                "freguesiaDesc": "03 - Quinta do Conde",
+                "artigos": [
+                    {
+                        "numero": "9711",
+                        "tipo": "urbana",
+                        "fracao": "E",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "11 - Sesimbra",
+                        "freguesiaDesc": "03 - Quinta do Conde"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

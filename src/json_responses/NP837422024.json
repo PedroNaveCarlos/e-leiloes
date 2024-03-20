@@ -61,8 +61,8 @@
         "gestorFax": "",
         "gestorMorada": "",
         "gestorHorario": "",
-        "dataServidor": "2024-01-14T18:48:08",
-        "dataAtualizacao": "2024-01-14T18:48:08",
+        "dataServidor": "2024-03-20T10:26:28",
+        "dataAtualizacao": "2024-03-20T10:26:28",
         "iniciado": true,
         "terminado": false,
         "ultimos5m": false,
@@ -129,7 +129,7 @@
                         "fracao": "",
                         "distritoDesc": "11 - Lisboa",
                         "concelhoDesc": "07 - Loures",
-                        "freguesiaDesc": "15 - Souto da Velha"
+                        "freguesiaDesc": "28 - Uni\u00e3o das freguesias de Santa Iria de Azoia, S\u00e3o Jo\u00e3o da Talha e Bobadela"
                     }
                 ]
             }

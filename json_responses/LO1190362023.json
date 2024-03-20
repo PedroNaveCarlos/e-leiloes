@@ -1,0 +1,190 @@
+{
+    "item": {
+        "id": 133369,
+        "origem": 203317,
+        "lanceAtual": 72727.13,
+        "lanceAtualId": 43244,
+        "dataInicio": "2024-01-29T00:00:04",
+        "dataFimInicial": "2024-02-28T10:00:00",
+        "dataFim": "2024-02-28T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1190362023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_103635/25012024143455_800sm.jpg",
+        "titulo": "Apartamento em Quinta do Conde Sesimbra",
+        "valorBase": 141176.47,
+        "valorAbertura": 70588.24,
+        "valorMinimo": 120000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma, designada pela letra \u201cF\u201d correspondente ao 2\u00ba andar Esquerdo,  composto por por 2 quartos, sala, cozinha, instala\u00e7\u00e3o sanit\u00e1ria, vest\u00edbulo e varanda do  pr\u00e9dio sito na Rua Afonso Costa lote 1293, freguesia de Quinta do Conde, concelho de Sesimbra, inscrito na respectiva matriz urbana sob o n\u00ba8999 e  descrito na Conservat\u00f3ria do Registo Predial  de Sesimbra pelo  n\u00ba 1656 da freguesia de Quinta do Conde",
+        "observacoes": "A presente venda resperta a processo de ac\u00e7\u00e3o de divis\u00e3o de coisa comum. Enquanto decorrer o leil\u00e3o, as visitas ocorrem todas as quartas feiras, entre as 09H00 e as 10H00. O im\u00f3vel encontra em razo\u00e1vel estado de conserva\u00e7\u00e3o. \u00c9 da exclusiva responsabilidade dos interessados a verifica\u00e7\u00e3o do estado do bem a adquirir. Dever\u00e1 o interessado assegurar-se, se o mesmo corresponde \u00e0s expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. Recomenda-se a verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda. -Caso haja recusa em visitar o im\u00f3vel, dever\u00e1 ser de imediato reportado ao Agente de Execu\u00e7\u00e3o atrav\u00e9s do e-mail 1932@solicitador.net, Tel: 218275460.",
+        "areaUtilPrivativa": 75.89,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 75.89,
+        "morada": "Rua Afonso Costa, Quinta do Conde 2",
+        "moradaNumero": "1293",
+        "moradaAndar": "2\u00ba Esq.",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Sesimbra",
+        "moradaFreguesia": "Quinta do Conde",
+        "moradaCP": "2975-314",
+        "coordenadasLAT": "38.56085966909034",
+        "coordenadasLON": "-9.041190147399902",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70504,
+        "processoNumero": "233/18.3T8SSB",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Sesimbra - Ju\u00edzo C. Gen\u00e9rica - Juiz 1",
+        "verbaId": 103635,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"229715257\", \"nome\":\"Jos\u00e9 Ant\u00f3nio Silva Pereira\", \"requerido\":\"True\"}]",
+        "cerimoniaId": 897,
+        "cerimoniaData": "2024-02-28T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 29,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1932",
+        "gestorNome": "Jo\u00e3o Correia",
+        "gestorEmail": "1932@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:09:37",
+        "dataAtualizacao": "2024-02-12T20:09:37",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/25012024143455_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/25012024143455_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/27122023160302_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/27122023160302_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/27122023160307_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/27122023160307_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/27122023160316_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/27122023160316_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/27122023160318_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/27122023160318_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/27122023160322_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/27122023160322_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/27122023160324_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/27122023160324_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/27122023160327_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/27122023160327_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/27122023160329_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/27122023160329_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/27122023160331_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/27122023160331_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/27122023160333_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/27122023160333_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/27122023160341_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/27122023160341_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/27122023160344_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/27122023160344_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/27122023160348_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/27122023160348_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/27122023162418_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/27122023162418_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/25012024143457_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/25012024143457_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103635/25012024143459_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103635/25012024143459_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32375,
+                "numero": "1656",
+                "fracao": "F",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "11 - Sesimbra",
+                "freguesiaDesc": "03 - Quinta do Conde",
+                "artigos": [
+                    {
+                        "numero": "8999",
+                        "tipo": "urbana",
+                        "fracao": "F",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "11 - Sesimbra",
+                        "freguesiaDesc": "03 - Quinta do Conde"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

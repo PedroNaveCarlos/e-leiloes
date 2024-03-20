@@ -1,0 +1,154 @@
+{
+    "item": {
+        "id": 136607,
+        "origem": 209617,
+        "lanceAtual": 154000.0,
+        "lanceAtualId": 11495,
+        "dataInicio": "2024-03-05T13:35:46",
+        "dataFimInicial": "2024-06-04T14:30:00",
+        "dataFim": "2024-06-04T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP868682024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_101936/27102023153205_800sm.jpg",
+        "titulo": "Moradia em Santo Quintino /Sobral de Monte Agra\u00e7o",
+        "valorBase": 308000.0,
+        "valorAbertura": 154000.0,
+        "valorMinimo": 261800.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T3",
+        "descricao": "Pr\u00e9dio Urbano sito em Malgas, descrito na conservat\u00f3ria do registo predial de Sobral de Monte Agra\u00e7o sob ficha 4089 da freguesia de Santo Quintino e inscrito na matriz predial com os artigos 2202 \u2013 destinado a habita\u00e7\u00e3o, e 2010 \u2013 destinado a Arrecada\u00e7\u00f5es e arrumos da referida freguesia, composto de casa de r/c para com\u00e9rcio e adega e 1\u00ba andar para habita\u00e7\u00e3o e logradouro S.C. 221,5 m2, S.D. 52 m2 e casa para arrecada\u00e7\u00e3o e logradouro - S.c. 67 m2, S.D. 174,5 m2 - Norte: Lu\u00eds Augusto Leit\u00e3o; Sul: Quinta das Nogueiras; nascente: Jo\u00e3o Ferreira; Poente: Estrada Nacional 374.",
+        "observacoes": "O im\u00f3vel encontra-se em razo\u00e1vel estado de conserva\u00e7\u00e3o. \u00c9 fiel deposit\u00e1rio Jo\u00e3o Fernando Pereira Filipe. Advertem-se os interessados que \u00e9 da sua \u00fanica e exclusiva responsabilidade a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1, antes de apresentar proposta, assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. O bem \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisi\u00e7\u00e3o que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda. A informa\u00e7\u00e3o anterior n\u00e3o dispensa a consulta da documenta\u00e7\u00e3o do im\u00f3vel disponibilizada.",
+        "areaUtilPrivativa": 112.5,
+        "areaUtilDependente": 221.5,
+        "areaTotal": 334.0,
+        "morada": "Santo Quintino",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sobral Monte Agra\u00e7o",
+        "moradaFreguesia": "Santo Quintino",
+        "moradaCP": "2590-276",
+        "coordenadasLAT": "38.99965106",
+        "coordenadasLON": "-9.18835306",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69349,
+        "processoNumero": "5729/19.7T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 101936,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"101645040\", \"nome\":\"Jo\u00e3o Fernando Pereira Filipe\", \"requerido\":\"False\"},{\"nif\":\"120345439\", \"nome\":\"Paula Cristina de Sousa Grade\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 155,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5148",
+        "gestorNome": "PAULO JORGE BRITO",
+        "gestorEmail": "5148@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:41:43",
+        "dataAtualizacao": "2024-03-20T10:41:43",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101936/27102023153205_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101936/27102023153205_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101936/27102023153208_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101936/27102023153208_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101936/27102023153212_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101936/27102023153212_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101936/27102023153216_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101936/27102023153216_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101936/27102023153226_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101936/27102023153226_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101936/27102023153231_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101936/27102023153231_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101936/27102023153235_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101936/27102023153235_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101936/27102023153239_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101936/27102023153239_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101936/27102023153243_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101936/27102023153243_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Oposi\u00e7\u00e3o pendente de decis\u00e3o judicial",
+                "tipoDesc": "oposi\u00e7\u00e3o pendente"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 31441,
+                "numero": "4089",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "12 - Sobral Monte Agra\u00e7o",
+                "freguesiaDesc": "01 - Santo Quintino",
+                "artigos": [
+                    {
+                        "numero": "2202",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "12 - Sobral Monte Agra\u00e7o",
+                        "freguesiaDesc": "01 - Santo Quintino"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

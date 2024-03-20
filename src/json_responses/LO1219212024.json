@@ -1,0 +1,140 @@
+{
+    "item": {
+        "id": 137502,
+        "origem": 209640,
+        "lanceAtual": 159212.41,
+        "lanceAtualId": 12913,
+        "dataInicio": "2024-03-15T00:00:01",
+        "dataFimInicial": "2024-04-17T10:00:00",
+        "dataFim": "2024-04-17T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1219212024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_105954/05032024151555_800sm.jpg",
+        "titulo": "Apartamento na Rua Ary dos Santos, Benfica",
+        "valorBase": 180000.0,
+        "valorAbertura": 90000.0,
+        "valorMinimo": 153000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"E\" do pr\u00e9dio descrito na CRP de Lisboa sob o n\u00famero 1519 da freguesia Benfica, a que corresponde o artigo matricial 2631 E da mesma freguesia, sito na Rua Ary dos Santos, n\u00ba 6, 1\u00ba Direito Frente, 1500-063 Lisboa.",
+        "observacoes": "O im\u00f3vel encontra-se devoluto de pessoas, contendo bens abandonados pelo executado.\r\n\u00c9 da \u00fanica e exclusiva responsabilidade do interessado a verifica\u00e7\u00e3o do estado de conserva\u00e7\u00e3o do bem a adquirir. Nesse sentido, antes de apresentar proposta de aquisi\u00e7\u00e3o, o interessado dever\u00e1 assegurar-se que o mesmo corresponde \u00e0s suas expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. \r\nO Agente de Execu\u00e7\u00e3o declara ter procedido \u00e0 verifica\u00e7\u00e3o do estado de conserva\u00e7\u00e3o.\r\nAdvertem se os interessados que, para agendamento de visitas ao im\u00f3vel, dever\u00e3o contactar com a devida anteced\u00eancia, a Agente de Execu\u00e7\u00e3o.",
+        "areaUtilPrivativa": 67.24,
+        "areaUtilDependente": 30.0,
+        "areaTotal": 90.24,
+        "morada": "Rua Ary dos Santos",
+        "moradaNumero": "6",
+        "moradaAndar": "1 Dt Fte",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lisboa",
+        "moradaFreguesia": "Benfica",
+        "moradaCP": "1500-063",
+        "coordenadasLAT": "38.75672037",
+        "coordenadasLON": "-9.20573383",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71902,
+        "processoNumero": "12608/14.2T8LSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 105954,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"203974280\", \"nome\":\"Elisio da Concei\u00e7\u00e3o Brazuna Martins\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 912,
+        "cerimoniaData": "2024-04-17T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 319,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5422",
+        "gestorNome": "RAQUEL BRAND\u00c3O CARDIGA",
+        "gestorEmail": "5422@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "210995468",
+        "gestorFax": "210965005",
+        "gestorMorada": "Av. das Descobertas, 15, 1\u00baF, 2670-383 Loures",
+        "gestorHorario": "Atendimento Presencial sob marca\u00e7\u00e3o - Atendimento Telef\u00f3nico, dias \u00fateis entre as 15h e as 17h",
+        "dataServidor": "2024-03-20T10:34:13",
+        "dataAtualizacao": "2024-03-20T10:34:13",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105954/05032024151555_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105954/05032024151555_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105954/05032024151557_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105954/05032024151557_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105954/05032024151559_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105954/05032024151559_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105954/05032024151601_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105954/05032024151601_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105954/05032024151606_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105954/05032024151606_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105954/05032024151608_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105954/05032024151608_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105954/05032024151610_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105954/05032024151610_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 33754,
+                "numero": "1519",
+                "fracao": "E",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "06 - Lisboa",
+                "freguesiaDesc": "08 - Benfica",
+                "artigos": [
+                    {
+                        "numero": "2631",
+                        "tipo": "urbana",
+                        "fracao": "E",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "08 - Benfica"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

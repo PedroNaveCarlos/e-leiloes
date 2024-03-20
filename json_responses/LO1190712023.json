@@ -1,0 +1,232 @@
+{
+    "item": {
+        "id": 133261,
+        "origem": 203395,
+        "lanceAtual": 303979.05,
+        "lanceAtualId": 1560,
+        "dataInicio": "2024-01-28T00:00:01",
+        "dataFimInicial": "2024-02-21T11:00:00",
+        "dataFim": "2024-02-21T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1190712023",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 3,
+        "capa": "files/Verbas_Fotos/verba_96632/18042023123334_800sm.jpg",
+        "titulo": "Apartamento T1 junto \u00e0 praia sito em Cascais",
+        "valorBase": 601938.72,
+        "valorAbertura": 300969.36,
+        "valorMinimo": 511647.91,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T1",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra HCH, que corresponde ao apartamento designado pelo N\u00ba411, situado no 4\u00ba piso, destinado a habita\u00e7\u00e3o, do pr\u00e9dio urbano sito na Rua da Torre, n.\u00ba100, no lugar de Cascais, inscrito na matriz predial sob o artigo 13221 da freguesia de Uni\u00e3o das Freguesias de Cascais e Estoril, concelho de Cascais, descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Cascais sob o n\u00famero 5615/Cascais.",
+        "observacoes": "-Apartamento sito em condom\u00ednio privado composto por 1 quarto, wc, sala, cozinha e varanda.\r\n-Piso \u00e9 madeira maci\u00e7a em todas as divis\u00f5es, \u00e0 exce\u00e7\u00e3o da cozinha, wc e varanda.\r\n-O apartamento tem vista mar. \r\n- Visitas mediante marca\u00e7\u00e3o pr\u00e9via com a pessoa melhor identificada no campo \"visitas por marca\u00e7\u00e3o\".\r\n- Dever\u00e3o ainda os interessados antes de efetuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt e/ou aconselhar-se junto de um Solicitador ou Advogado.\r\n- \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. Dever\u00e1 igualmente ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidade da venda e ao facto de o bem n\u00e3o ser entregue no momento da adjudica\u00e7\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.",
+        "areaUtilPrivativa": 68.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 68.0,
+        "morada": "Rua Torre",
+        "moradaNumero": "100",
+        "moradaAndar": "AP 411",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Cascais",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Cascais e Estoril",
+        "moradaCP": "2750-756",
+        "coordenadasLAT": "38.70856069",
+        "coordenadasLON": "-9.44530424",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 65863,
+        "processoNumero": "1061/21.4T8OER",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Oeiras - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 96632,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"175094470\", \"nome\":\"ALBERTO JOS\u00c9 SERRAS OLIVEIRA TAVARES\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 894,
+        "cerimoniaData": "2024-02-21T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 44,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5094",
+        "gestorNome": "JOEL SILVA ANTUNES",
+        "gestorEmail": "5094@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:43:36",
+        "dataAtualizacao": "2024-02-12T19:43:36",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123334_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123334_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123255_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123255_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123257_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123257_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123258_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123258_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123300_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123300_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123302_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123302_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123304_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123304_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123306_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123306_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123308_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123308_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123309_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123309_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123311_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123311_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123313_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123313_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123315_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123315_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123317_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123317_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123318_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123318_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123320_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123320_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123322_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123322_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123324_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123324_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123326_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123326_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123327_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123327_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123329_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123329_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123331_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123331_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96632/18042023123333_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96632/18042023123333_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "-Encontram-se em curso embargos de executado. N\u00e3o obstante, n\u00e3o s\u00e3o os mesmos causa de suspens\u00e3o do processo.",
+                "tipoDesc": "oposi\u00e7\u00e3o pendente"
+            },
+            {
+                "dataContrato": "2016-02-01",
+                "valor": 1000.0,
+                "dataPrazo": "2021-01-31",
+                "descricao": "\"O presente contrato \u00e9 celebrado pelo prazo de 5 anos, com inicio em 01 de fevereiro de 2016 e termo em 31 de janeiro de 2021, podendo ser renovado por igual per\u00edodo caso haja acordo de ambas as partes\".",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 28080,
+                "numero": "5615",
+                "fracao": "HCH",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "05 - Cascais",
+                "freguesiaDesc": "03 - Cascais",
+                "artigos": [
+                    {
+                        "numero": "13221",
+                        "tipo": "urbana",
+                        "fracao": "HCH",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "05 - Cascais",
+                        "freguesiaDesc": "08 - Uni\u00e3o das freguesias de Cascais e Estoril"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

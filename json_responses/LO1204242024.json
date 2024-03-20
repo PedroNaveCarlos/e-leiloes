@@ -1,0 +1,180 @@
+{
+    "item": {
+        "id": 134643,
+        "origem": 206535,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-02-12T00:00:12",
+        "dataFimInicial": "2024-03-13T11:00:00",
+        "dataFim": "2024-03-13T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1204242024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_104789/01022024164301_800sm.jpg",
+        "titulo": "Apartamento",
+        "valorBase": 149500.0,
+        "valorAbertura": 74750.0,
+        "valorMinimo": 127075.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra E, correspondente ao primeiro andar frente, destinada a habita\u00e7\u00e3o, com arrecada\u00e7\u00e3o no s\u00f3t\u00e3o designada pela letra E e estacionamento nas traseiras designado pelo n\u00ba 5, do pr\u00e9dio urbano sito em Rua Lu\u00eds de Cam\u00f5es, n\u00bas 50, 52, 54 e 56, Baixa da Banheira, freguesia de Uni\u00e3o das freguesias de Baixa da Banheira e Vale da Amoreira, concelho de Moita, descrito na Conservat\u00f3ria do Registo Predial de Moita, sob o n\u00ba 2826/20070227-E, freguesia Baixa da Banheira, e inscrito na matriz predial urbana da freguesia de Uni\u00e3o das freguesias de Baixa da Banheira e Vale da Amoreira sob o n\u00ba 1.",
+        "observacoes": "Im\u00f3vel em razo\u00e1vel estado de conserva\u00e7\u00e3o.\r\nEm dilig\u00eancia ao local, foi poss\u00edvel obter a informa\u00e7\u00e3o que o im\u00f3vel se encontra ocupado por terceiros, que informaram pagar 650 euros mensais mas n\u00e3o possuir contrato de arrendamento escrito, sendo que dever\u00e1 confirmar a informa\u00e7\u00e3o prestada com o contacto constante no an\u00fancio do leil\u00e3o.\r\nIm\u00f3vel composto por 2 quartos, cozinha com varanda e despensa, casa de banho, sala e corredor.\r\nNota:\r\nAs \u00e1reas indicadas servem apenas como refer\u00eancia pois n\u00e3o foram feitas medi\u00e7\u00f5es exatas no local. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e todos os outros aspetos que considerem relevantes.\r\nCom a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspecionado o im\u00f3vel e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o.\r\nO im\u00f3vel \u00e9 vendido no estado que se encontra pelo que os interessados devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta por parte do proponente n\u00e3o determina nos termos legais a anula\u00e7\u00e3o da venda.\r\nInformo ainda que a tipologia tem por base a informa\u00e7\u00e3o constante da caderneta predial urbana.",
+        "areaUtilPrivativa": 89.36,
+        "areaUtilDependente": 26.375,
+        "areaTotal": 0.0,
+        "morada": "Rua Lu\u00eds de Cam\u00f5es",
+        "moradaNumero": "54",
+        "moradaAndar": "1\u00baft",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Moita",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Baixa da Banheira e Vale da Amoreira",
+        "moradaCP": "2835-135",
+        "coordenadasLAT": "38.65962373",
+        "coordenadasLON": "-9.04791347",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71195,
+        "processoNumero": "60/11.9TBMTA",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 104789,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"194321517\", \"nome\":\"Jos\u00e9 Manuel Guerreiro Raposo Dias\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 902,
+        "cerimoniaData": "2024-03-13T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 408,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2621",
+        "gestorNome": "Helena Chagas",
+        "gestorEmail": "2621@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:16:12",
+        "dataAtualizacao": "2024-02-12T20:16:12",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164301_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164301_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164258_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164258_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164305_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164305_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164307_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164307_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164310_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164310_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164313_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164313_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164315_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164315_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164318_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164318_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164321_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164321_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164324_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164324_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164327_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164327_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164329_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164329_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164333_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164333_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164336_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164336_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164339_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164339_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164342_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164342_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164348_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164348_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164351_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164351_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104789/01022024164354_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104789/01022024164354_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

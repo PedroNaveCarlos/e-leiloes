@@ -1,0 +1,174 @@
+{
+    "item": {
+        "id": 133957,
+        "origem": 204877,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-02-05T00:00:01",
+        "dataFimInicial": "2024-03-06T10:30:00",
+        "dataFim": "2024-03-06T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1197422024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_104141/16012024164954_800sm.jpg",
+        "titulo": "Apartamento T3 - Rio de Mouro, Sintra",
+        "valorBase": 180000.0,
+        "valorAbertura": 90000.0,
+        "valorMinimo": 153000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"N\", correspondente ao Terceiro Andar C, do pr\u00e9dio urbano sito na Rua Padre Alberto Neto, n\u00ba15 e 15- A, tendo tamb\u00e9m o n\u00ba9 da Rua Gon\u00e7alo Velho, freguesia de Rio de Mouro e concelho de Sintra,\r\ndescrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Sintra sob a ficha 3383 da freguesia de Rio de Mouro, inscrito na matriz predial urbana sob o artigo 7523 da dita freguesia de Rio de Mouro.",
+        "observacoes": "Apartamento T3, 2 WC com garagem na sub cave e arrecada\u00e7\u00e3o na cobertura..\r\nO executado \u00e9 o fiel deposit\u00e1rio e habita o im\u00f3vel.\r\nN\u00e3o est\u00e1 inclu\u00eddo o recheio visualizado nas fotos. \r\nAs visitas dever\u00e3o ser solicitadas obrigatoriamente at\u00e9 5 dias \u00fateis antes da data designada para o fim do leil\u00e3o. As mesmas dever\u00e3o ser agendadas diretamente com o fiel deposit\u00e1rio, atrav\u00e9s do contacto dispon\u00edvel no campo das visitas.\r\nA entrega do im\u00f3vel poder\u00e1 estar condicionada, n\u00e3o conseguindo o AE garantir entrega imediata do im\u00f3vel, nem tampouco definir um prazo para entrega, uma vez que se trata de habita\u00e7\u00e3o pr\u00f3pria e permanente do executado.\r\nTodos os pedidos de informa\u00e7\u00f5es dever\u00e3o ser efetuados no campo \"informa\u00e7\u00f5es\" da plataforma do E-Leil\u00f5es.\r\n\u00c9 da responsabilidade dos interessados / proponentes a verifica\u00e7\u00e3o do estado de conserva\u00e7\u00e3o do bem a adquirir, pelo que dever\u00e3o previamente \u00e0 apresenta\u00e7\u00e3o da proposta assegurar-se que o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas.\r\nCom a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspecionado o im\u00f3vel e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o.\r\nO im\u00f3vel \u00e9 vendido no estado em que se encontra pelo que a falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.\r\nQuem pretender licitar deve conhecer o funcionamento e regras da venda em leil\u00e3o eletr\u00f3nico. Aconselha-se a leitura atentas das perguntas e respostas em https://www.e-leiloes.pt/faqs.aspx.",
+        "areaUtilPrivativa": 84.5,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 84.5,
+        "morada": "Avenida Padre Alberto Neto",
+        "moradaNumero": "15 e 15 A",
+        "moradaAndar": "3\u00ba. C",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Rio de Mouro",
+        "moradaCP": "2635-346",
+        "coordenadasLAT": "38.78297785",
+        "coordenadasLON": "-9.32167999",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70813,
+        "processoNumero": "23818/13.0T2SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 104141,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"215151062\", \"nome\":\"Miguel Alexandre Claro da Concei\u00e7\u00e3o Guilherme\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 899,
+        "cerimoniaData": "2024-03-06T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 250,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4158",
+        "gestorNome": "CARLOS MADALENO",
+        "gestorEmail": "4158@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:53:03",
+        "dataAtualizacao": "2024-02-12T19:53:03",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104141/16012024164954_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104141/16012024164954_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104141/16012024165009_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104141/16012024165009_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104141/16012024165015_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104141/16012024165015_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104141/16012024165034_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104141/16012024165034_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104141/16012024165051_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104141/16012024165051_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104141/16012024165104_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104141/16012024165104_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104141/16012024165115_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104141/16012024165115_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104141/16012024165132_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104141/16012024165132_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104141/16012024165141_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104141/16012024165141_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104141/16012024165150_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104141/16012024165150_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104141/16012024165536_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104141/16012024165536_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104141/16012024165600_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104141/16012024165600_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104141/16012024165615_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104141/16012024165615_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "N\u00e3o existem \u00f3nus.",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 32664,
+                "numero": "3383",
+                "fracao": "N",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "08 - Rio de Mouro",
+                "artigos": [
+                    {
+                        "numero": "7523",
+                        "tipo": "urbana",
+                        "fracao": "N",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "08 - Rio de Mouro"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

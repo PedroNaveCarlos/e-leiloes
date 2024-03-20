@@ -1,0 +1,187 @@
+{
+    "item": {
+        "id": 133845,
+        "origem": 206568,
+        "lanceAtual": 125000.0,
+        "lanceAtualId": 10371,
+        "dataInicio": "2024-02-01T21:45:54",
+        "dataFimInicial": "2024-03-05T14:30:00",
+        "dataFim": "2024-03-05T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP852992024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 3,
+        "capa": "files/Verbas_Fotos/verba_102704/21112023231815_800sm.jpg",
+        "titulo": "Apartamento em Alcabideche",
+        "valorBase": 250000.0,
+        "valorAbertura": 125000.0,
+        "valorMinimo": 212500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T1",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"B\", destinada a habita\u00e7\u00e3o, correspondente ao r\u00e9s do ch\u00e3o direito  e cave Dt\u00aa do pr\u00e9dio urbano constitu\u00eddo em propriedade horizontal sito em Bicesse, descrito junto da 2\u00aa Conservat\u00f3ria do Registo Predial de Cascais sob o n\u00ba 7214 da freguesia de Alcabideche e inscrito na matriz predial urbana sob o artigo matricial 12136 da mesma freguesia.",
+        "observacoes": "O im\u00f3vel encontra-se ocupado por arrendat\u00e1rio no piso superior, tendo-lhe sido j\u00e1 comunicado a n\u00e3o renova\u00e7\u00e3o do contrato de arrendamento.\r\n\r\nO im\u00f3vel em venda \u00e9 composto por 1 quarto, sala, wc e cozinha no piso superior e 1 wc, sala ampla e 1 quarto interior, no piso inferior, necessitando ambos os pisos de algumas obras e  encontra-se inserido em zona de f\u00e1cil acesso rodovi\u00e1rio, servido por transportes p\u00fablicos e  dispondo de com\u00e9rcio local em \u00e1rea circundante.  \r\n\r\n\r\n\r\nAdverte-se os proponentes que dever\u00e3o, antes de apresentar qualquer proposta, visitar o im\u00f3vel de modo a conhecer o seu interior e exterior, uma vez que o mesmo ser\u00e1 vendido no estado em que se encontra declinando-se qualquer responsabilidade pela n\u00e3o verifica\u00e7\u00e3o pr\u00e9via do estado do mesmo, devendo  apresentar as propostas de modo consciente e respons\u00e1vel.\r\n\r\nEsclarece-se o seguinte: Terminado o leil\u00e3o eletr\u00f3nico e caso se verifique que a melhor proposta \u00e9 superior a 85% do valor base, est\u00e3o assim reunidas condi\u00e7\u00f5es para que se concretize a adjudica\u00e7\u00e3o do bem ao proponente, logo que: \r\na) O proponente deposite o pre\u00e7o e demonstre o cumprimento das obriga\u00e7\u00f5es fiscais, designadamente a liquida\u00e7\u00e3o do IMT (Imposto Municipal Sobre as Transmiss\u00f5es Onerosas de Im\u00f3veis) e IS (Imposto de Selo), o que dever\u00e1 fazer no prazo de 15 dias contados da notifica\u00e7\u00e3o da presente decis\u00e3o (n\u00ba2 do artigo 824\u00ba do CPC): \r\nb) N\u00e3o sejam exercidos direito de prefer\u00eancia (no prazo de 10 dias), sem preju\u00edzo de eventuais direito de remiss\u00e3o (artigo 842\u00ba do CPC). A demonstra\u00e7\u00e3o da liquida\u00e7\u00e3o do Imposto de Selo e IMT \u00e9 feita pela entrega ao Agente de Execu\u00e7\u00e3o do duplicado da declara\u00e7\u00e3o modelo 1 de IMT/IS, a respectiva liquida\u00e7\u00e3o e o comprovativo de pagamento. \r\n\r\nUma vez que se trata de venda judicial, a liquida\u00e7\u00e3o de IMT/IS \u00e9 feita junto de qualquer servi\u00e7o de finan\u00e7as. \r\n\r\nA licita\u00e7\u00e3o \u00e9 definitiva e n\u00e3o pode ser revogada, anulada ou por qualquer forma alterada. Caso a sua licita\u00e7\u00e3o seja superior ao valor m\u00ednimo e, com o encerramento do leil\u00e3o, se verifique que \u00e9 a licita\u00e7\u00e3o mais elevada, fica obrigado ao dep\u00f3sito do pre\u00e7o, com as consequ\u00eancias previstas no artigo 825.\u00ba do C\u00f3digo de Processo Civil, nomeadamente, por decis\u00e3o do Juiz, \u00abo arresto em bens suficientes para garantir o valor em falta, acrescido das custas e despesas, sem preju\u00edzo de procedimento criminal e sendo aquele, simultaneamente, executado no pr\u00f3prio processo para pagamento daquele valor e acr\u00e9scimos.",
+        "areaUtilPrivativa": 110.0,
+        "areaUtilDependente": 230.0,
+        "areaTotal": 340.0,
+        "morada": "Rua Escola Nova",
+        "moradaNumero": "278",
+        "moradaAndar": "R/Ch Dt\u00ba",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Cascais",
+        "moradaFreguesia": "Alcabideche",
+        "moradaCP": "2645-329",
+        "coordenadasLAT": "38.72866196",
+        "coordenadasLON": "-9.38307096",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69880,
+        "processoNumero": "6184/15.6TDLSB-C",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - JC Criminal - Juiz 2",
+        "verbaId": 102704,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"169350320\", \"nome\":\"Ana Maria Rodrigues dos Santos Pereira\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 57,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5811",
+        "gestorNome": "IOLANDA MAIA",
+        "gestorEmail": "5811@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:50:59",
+        "dataAtualizacao": "2024-02-12T19:50:59",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102704/21112023231815_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102704/21112023231815_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102704/21112023230956_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102704/21112023230956_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102704/21112023231024_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102704/21112023231024_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102704/21112023231110_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102704/21112023231110_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102704/21112023231211_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102704/21112023231211_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102704/21112023231219_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102704/21112023231219_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102704/21112023231259_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102704/21112023231259_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102704/21112023231419_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102704/21112023231419_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102704/21112023231453_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102704/21112023231453_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102704/21112023231510_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102704/21112023231510_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102704/21112023231541_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102704/21112023231541_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102704/21112023231633_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102704/21112023231633_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102704/21112023231653_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102704/21112023231653_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102704/21112023231718_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102704/21112023231718_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102704/21112023231828_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102704/21112023231828_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "2014-01-24",
+                "valor": 100.0,
+                "dataPrazo": "2024-06-05",
+                "descricao": "A 8 de maio de 2023 foi remetida comunica\u00e7\u00e3o ao inquilino dando-lhe nota da n\u00e3o inten\u00e7\u00e3o de renova\u00e7\u00e3o do contrato de arrendamento.",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 31847,
+                "numero": "7214",
+                "fracao": "B",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "05 - Cascais",
+                "freguesiaDesc": "01 - Alcabideche",
+                "artigos": [
+                    {
+                        "numero": "12136",
+                        "tipo": "urbana",
+                        "fracao": "B",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "05 - Cascais",
+                        "freguesiaDesc": "01 - Alcabideche"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

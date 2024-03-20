@@ -1,0 +1,144 @@
+{
+    "item": {
+        "id": 133913,
+        "origem": 206684,
+        "lanceAtual": 42871.88,
+        "lanceAtualId": 31805,
+        "dataInicio": "2024-02-03T10:21:08",
+        "dataFimInicial": "2024-03-05T14:30:00",
+        "dataFim": "2024-03-05T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP853642024",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_100881/25092023141258_800sm.jpg",
+        "titulo": "Loja na Tapada das Merc\u00eas",
+        "valorBase": 85743.76,
+        "valorAbertura": 42871.88,
+        "valorMinimo": 72882.2,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra A, correspondente \u00e0 5\u00aa Cave esquerda, destinada a com\u00e9rcio, do pr\u00e9dio urbano sito Rua de Antero Quental, n\u00ba.  2-A, Tapada das Merc\u00eas, freguesia de Algueir\u00e3o-Mem Martins, concelho de Sintra, descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Sintra sob o n\u00ba. 1809 e inscrito na matriz predial urbana da dita freguesia sob o artigo 9172.",
+        "observacoes": "A loja \u00e9 toda ampla, com 2 WC\u2019s, encontra-se desocupada.\r\nA mesma situa-se numa zona bastante movimentada, bem servida de com\u00e9rcio, escolas, transportes e todo o tipo de servi\u00e7os.\r\n\r\nNa presente execu\u00e7\u00e3o n\u00e3o se encontra pendente qualquer oposi\u00e7\u00e3o, nem n\u00e3o foram reclamados.\r\nAdvertem-se os interessados que:\r\n- \u00c9 da sua \u00fanica e exclusiva responsabilidade a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 assegurar-se que o mesmo corresponde \u00e0s suas expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda.\r\nS\u00f3 ser\u00e3o aceites propostas at\u00e9 \u00e0 hora de encerramento do Leil\u00e3o.",
+        "areaUtilPrivativa": 74.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 74.0,
+        "morada": "Rua Professor Agostinho da Silva, Tapada das Merc\u00eas",
+        "moradaNumero": "35",
+        "moradaAndar": "5\u00aa Cave",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Algueir\u00e3o-Mem Martins",
+        "moradaCP": "2725-528",
+        "coordenadasLAT": "38.7977361121255",
+        "coordenadasLON": "-9.333312213420868",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 68633,
+        "processoNumero": "11314/18.3T8SNT",
+        "processoComarca": "Comarca de Santar\u00e9m",
+        "processoComarcaCodigo": "1051",
+        "processoTribunal": "Entroncamento - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 100881,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"258891963\", \"nome\":\"Elisia de Jesus Dias Gomes\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 746,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1635",
+        "gestorNome": "Marina Campos",
+        "gestorEmail": "1635@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:51:14",
+        "dataAtualizacao": "2024-02-12T19:51:14",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100881/25092023141258_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100881/25092023141258_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100881/25092023141226_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100881/25092023141226_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100881/25092023141229_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100881/25092023141229_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100881/25092023141238_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100881/25092023141238_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100881/25092023141240_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100881/25092023141240_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100881/25092023141243_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100881/25092023141243_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100881/25092023141245_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100881/25092023141245_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_100881/25092023141256_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_100881/25092023141256_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 30717,
+                "numero": "1809",
+                "fracao": "A",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "02 - Algueir\u00e3o-mem Martins",
+                "artigos": [
+                    {
+                        "numero": "9172",
+                        "tipo": "urbana",
+                        "fracao": "A",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "02 - Algueir\u00e3o-Mem Martins"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,204 @@
+{
+    "item": {
+        "id": 137524,
+        "origem": 210704,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-03-15T14:56:02",
+        "dataFimInicial": "2024-04-30T14:30:00",
+        "dataFim": "2024-04-30T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP874662024",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_85221/10052022163812_800sm.jpg",
+        "titulo": "Loja de R\u00e9s do Ch\u00e3o e Cave",
+        "valorBase": 350000.0,
+        "valorAbertura": 175000.0,
+        "valorMinimo": 297500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"C\", que se refere ao R/C C do pr\u00e9dio sito na Rua Professor Aires de Sousa, n\u00ba8 a 8E, descrito na Conservat\u00f3ria do Registo Predial de Lisboa, sob o n\u00famero 966, da freguesia do Lumiar, e inscrito na matriz predial urbana da mesma freguesia, sob o artigo 2303.",
+        "observacoes": "",
+        "areaUtilPrivativa": 140.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 140.0,
+        "morada": "Rua Professor Aires de Sousa",
+        "moradaNumero": "8 a 8E",
+        "moradaAndar": "R/C",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lisboa",
+        "moradaFreguesia": "Lumiar",
+        "moradaCP": "1600-590",
+        "coordenadasLAT": "38.75827527",
+        "coordenadasLON": "-9.16884816",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 58813,
+        "processoNumero": "35672/15.2T8LSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 6",
+        "verbaId": 85221,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"503681920\", \"nome\":\"I. M. J.- Inform\u00e1tica, Lda\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 192,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2528",
+        "gestorNome": "ANA CATARINA VIEIRA",
+        "gestorEmail": "2528@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:37:24",
+        "dataAtualizacao": "2024-03-20T10:37:24",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022163812_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022163812_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022163857_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022163857_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022163858_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022163858_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022163900_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022163900_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022163902_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022163902_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022163903_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022163903_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022163905_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022163905_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022163906_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022163906_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022163909_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022163909_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022163910_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022163910_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022163912_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022163912_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022163913_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022163913_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022163915_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022163915_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022164001_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022164001_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022164003_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022164003_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022164005_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022164005_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022164007_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022164007_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022164032_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022164032_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022164035_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022164035_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_85221/10052022164038_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_85221/10052022164038_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 20751,
+                "numero": "966",
+                "fracao": "C",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "06 - Lisboa",
+                "freguesiaDesc": "18 - Lumiar",
+                "artigos": [
+                    {
+                        "numero": "2303",
+                        "tipo": "urbana",
+                        "fracao": "C",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "18 - Lumiar"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

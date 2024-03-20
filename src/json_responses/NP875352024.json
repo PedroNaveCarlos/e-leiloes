@@ -1,0 +1,139 @@
+{
+    "item": {
+        "id": 137699,
+        "origem": 210835,
+        "lanceAtual": 36000.0,
+        "lanceAtualId": 103778,
+        "dataInicio": "2024-03-18T16:22:26",
+        "dataFimInicial": "2024-06-18T14:30:00",
+        "dataFim": "2024-06-18T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP875352024",
+        "tipoId": 1,
+        "subtipoId": 3,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_93680/25012023160358_800sm.jpg",
+        "titulo": "Edificio de R/C com duas lojas e p\u00e1teo",
+        "valorBase": 71000.0,
+        "valorAbertura": 35500.0,
+        "valorMinimo": 60350.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Garagem / Arrumos",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio urbano, edificio de r\u00e9s-do-ch\u00e3o com duas lojas e p\u00e1teo, sito no Prolongamento da Rua Fernandes Pereira, n\u00bas 5 e 7, Bairro do Rosalino, freguesia de Set\u00fabal (S. Sebasti\u00e3o), concelho de Set\u00fabal, inscrito na matriz urbana sob o artigo 2452, descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Set\u00fabal sob o n\u00ba 6346 - freguesia Set\u00fabal (S. Sebasti\u00e3o)",
+        "observacoes": "Cabe exclusivamente ao proponente a responsabilidade de verificar se o estado e as caracter\u00edsticas do bem a adquirir correspondem \u00e0s suas expectativas.\r\nAconselha-se a pr\u00e9via leitura atenta das regras e faq's dispon\u00edveis em https://www.e-leiloes.pt/regras.aspx e https://www.e-leiloes.pt/faqs.aspx.",
+        "areaUtilPrivativa": 76.76,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 241.16,
+        "morada": "Rua Diogo Fernandes Pereira",
+        "moradaNumero": "5/7",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Set\u00fabal",
+        "moradaFreguesia": "Set\u00fabal (S\u00e3o Sebasti\u00e3o)",
+        "moradaCP": "2910-473",
+        "coordenadasLAT": "38.52562219",
+        "coordenadasLON": "-8.88151046",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 63925,
+        "processoNumero": "39/12.3TBSTB",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 93680,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"106532162\", \"nome\":\"Lib\u00f3rio Casimiro Gon\u00e7alves\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 156,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3561",
+        "gestorNome": "Miguel Luis",
+        "gestorEmail": "3561@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "214456697",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "Dias \u00fateis das 11h00m \u00e0s 13h00m",
+        "dataServidor": "2024-03-20T10:53:05",
+        "dataAtualizacao": "2024-03-20T10:53:05",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93680/25012023160358_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93680/25012023160358_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93680/25012023160349_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93680/25012023160349_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93680/25012023160351_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93680/25012023160351_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93680/25012023160353_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93680/25012023160353_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93680/25012023160354_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93680/25012023160354_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93680/25012023160356_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93680/25012023160356_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93680/25012023160400_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93680/25012023160400_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 26150,
+                "numero": "6346",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "12 - Set\u00fabal",
+                "freguesiaDesc": "05 - Setubal (s. Sebasti\u00e3o)",
+                "artigos": [
+                    {
+                        "numero": "2452",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "12 - Set\u00fabal",
+                        "freguesiaDesc": "05 - Set\u00fabal (S\u00e3o Sebasti\u00e3o)"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

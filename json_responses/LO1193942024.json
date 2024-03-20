@@ -1,0 +1,230 @@
+{
+    "item": {
+        "id": 134052,
+        "origem": 204084,
+        "lanceAtual": 82480.05,
+        "lanceAtualId": 43244,
+        "dataInicio": "2024-02-05T23:59:59",
+        "dataFimInicial": "2024-03-06T11:00:00",
+        "dataFim": "2024-03-06T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1193942024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_99073/05072023092042_800sm.jpg",
+        "titulo": "T2 em S. Sebasti\u00e3o de Guerreiros - Loures",
+        "valorBase": 160108.65,
+        "valorAbertura": 80054.33,
+        "valorMinimo": 136092.35,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma em regime de propriedade horizontal, sito na Rua Ant\u00f3nio S\u00e9rgio, n\u00ba 10 com v\u00e3os de porta para a Rua Maria da Fonte, n\u00ba 9, 9-A, 9-B e 9-C em S\u00e3o Sebasti\u00e3o de Guerreiros, correspondente ao r\u00e9s do ch\u00e3o esquerdo, fra\u00e7\u00e3o B, tipologia/divis\u00f5es 3, com uma arrecada\u00e7\u00e3o na cave com o n\u00ba 1, \u00e1rea bruta privativa 93.56, \u00e1rea bruta dependente 8.95 m2 em Loures, descrito na 1\u00aa CRP de Loures sob o n\u00ba 4184 e inscrito na matriz sob o n\u00ba 9958 da freguesia de Loures (habita\u00e7\u00e3o social sujeita a regimes legais de custos controlados).",
+        "observacoes": "O Agente de Execu\u00e7\u00e3o \u00e9 fiel deposit\u00e1rio do im\u00f3vel. - A visita ao im\u00f3vel deve ser objecto de agendamento pr\u00e9vio com o Agente de Execu\u00e7\u00e3o e com a anteced\u00eancia de pelo menos 5 dias antes da data designada como fim do leil\u00e3o, que se ir\u00e1 realizar no \u00faltimo dia \u00fatil que antecede a data de t\u00e9rmino do leil\u00e3o, com o agendamento pr\u00e9vio de dia e  hora certa. - \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas.",
+        "areaUtilPrivativa": 93.56,
+        "areaUtilDependente": 8.95,
+        "areaTotal": 102.51,
+        "morada": "Rua Ant\u00f3nio S\u00e9rgio, S\u00e3o Sebasti\u00e3o de Guerreiros",
+        "moradaNumero": "10",
+        "moradaAndar": "RC/ESQ",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Loures",
+        "moradaFreguesia": "Loures",
+        "moradaCP": "2670-012",
+        "coordenadasLAT": "38.84521855",
+        "coordenadasLON": "-9.19680203",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 67466,
+        "processoNumero": "1211/21.0T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 99073,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"218496613\", \"nome\":\"Kacyusta Gouveia Andrade\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 899,
+        "cerimoniaData": "2024-03-06T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 560,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3268",
+        "gestorNome": "Helder da Concei\u00e7\u00e4o Rodrigues",
+        "gestorEmail": "3268@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:53:32",
+        "dataAtualizacao": "2024-02-12T19:53:32",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092042_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092042_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023091954_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023091954_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023091955_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023091955_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023091957_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023091957_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023091959_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023091959_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092001_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092001_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092003_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092003_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092005_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092005_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092007_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092007_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092009_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092009_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092011_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092011_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092013_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092013_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092016_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092016_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092019_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092019_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092021_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092021_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092023_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092023_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092025_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092025_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092027_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092027_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092028_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092028_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092030_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092030_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092032_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092032_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092034_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092034_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092036_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092036_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092038_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092038_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_99073/05072023092040_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_99073/05072023092040_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 29636,
+                "numero": "4184",
+                "fracao": "B",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "07 - Loures",
+                "freguesiaDesc": "07 - Loures",
+                "artigos": [
+                    {
+                        "numero": "9958",
+                        "tipo": "urbana",
+                        "fracao": "B",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "07 - Loures",
+                        "freguesiaDesc": "07 - Loures"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

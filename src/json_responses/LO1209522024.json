@@ -1,0 +1,147 @@
+{
+    "item": {
+        "id": 136441,
+        "origem": 207812,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-03-04T00:00:16",
+        "dataFimInicial": "2024-04-10T11:00:00",
+        "dataFim": "2024-04-10T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1209522024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_105241/16022024112359_800sm.jpg",
+        "titulo": "Direito a 1/2 indivisa sobre apartamento T2 em Alverca do Ribatejo",
+        "valorBase": 51239.0,
+        "valorAbertura": 25619.5,
+        "valorMinimo": 43553.15,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Direito a 1/2 (metade) indivisa da fra\u00e7\u00e3o aut\u00f3noma, designada pela letra \"M\", do pr\u00e9dio urbano descrito sob o n.\u00ba 3443, junto da 2\u00aa Conservat\u00f3ria do Registo Predial de Vila Franca de Xira, freguesia de Alverca do Ribatejo, inscrito na respetiva matriz predial urbana sob o art.\u00ba 2338, da uni\u00e3o de freguesias de Alverca do Ribatejo e Sobralinho, sito na Rua Diamantino Freitas Br\u00e1s, n.\u00ba 2, Alverca do Ribatejo, composto por segundo andar frente, destinado a habita\u00e7\u00e3o",
+        "observacoes": "- ESTADO DE CONSERVA\u00c7\u00c3O: O estado de conserva\u00e7\u00e3o do im\u00f3vel \u00e9 razo\u00e1vel. \r\n- VERIFICA\u00c7\u00c3O DO BEM: As \u00e1reas indicadas servem apenas como refer\u00eancia pois n\u00e3o foram feitas medi\u00e7\u00f5es exatas no local. \u00c9 da \u00fanica e exclusiva responsabilidade dos proponentes a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 assegurar-se que o mesmo corresponde \u00e0s suas expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda. \r\n- ENCARGOS COM A COMPRA E VENDA: Venda sujeita a IMT e Imposto de selo (se aplic\u00e1veis nos termos dos respetivos c\u00f3digos).\r\n- VISITAS: A fiel deposit\u00e1ria \u00e9 arrendat\u00e1ria do im\u00f3vel. As visitas ser\u00e3o feitas mediante marca\u00e7\u00e3o via contacto telef\u00f3nico, conforme disponibilidade daquela para o efeito e sempre com a anteced\u00eancia de pelo menos 5 dias \u00fateis antes da data designada como fim do leil\u00e3o.\r\n- OUTRAS INFORMA\u00c7\u00d5ES: O im\u00f3vel encontra-se habitado pela arrendat\u00e1ria e seu agregado familiar.",
+        "areaUtilPrivativa": 57.25,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 57.25,
+        "morada": "Rua Diamantino Freitas Br\u00e1s",
+        "moradaNumero": "2",
+        "moradaAndar": "2\u00ba Fte",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Vila Franca de Xira",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Alverca do Ribatejo e Sobralinho",
+        "moradaCP": "2615-070",
+        "coordenadasLAT": "38.90316774",
+        "coordenadasLON": "-9.03594385",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71494,
+        "processoNumero": "9978/22.2T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 105241,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"209395524\", \"nome\":\"Anabela Oliveira Farinha\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 908,
+        "cerimoniaData": "2024-04-10T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 64,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "6719",
+        "gestorNome": "HUGO TORRADO",
+        "gestorEmail": "6719@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:31:16",
+        "dataAtualizacao": "2024-03-20T10:31:16",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105241/16022024112359_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105241/16022024112359_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105241/16022024112401_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105241/16022024112401_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105241/16022024112403_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105241/16022024112403_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105241/16022024112405_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105241/16022024112405_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105241/16022024112407_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105241/16022024112407_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105241/16022024112408_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105241/16022024112408_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105241/16022024112410_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105241/16022024112410_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "2019-08-08",
+                "valor": 500.0,
+                "dataPrazo": "2021-08-08",
+                "descricao": "",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 33355,
+                "numero": "3443",
+                "fracao": "M",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "14 - Vila Franca de Xira",
+                "freguesiaDesc": "02 - Alverca do Ribatejo",
+                "artigos": [
+                    {
+                        "numero": "2338",
+                        "tipo": "urbana",
+                        "fracao": "M",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "14 - Vila Franca de Xira",
+                        "freguesiaDesc": "13 - Uni\u00e3o das freguesias de Alverca do Ribatejo e Sobralinho"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

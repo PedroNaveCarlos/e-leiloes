@@ -1,0 +1,165 @@
+{
+    "item": {
+        "id": 136570,
+        "origem": 208645,
+        "lanceAtual": 73570.7,
+        "lanceAtualId": 112811,
+        "dataInicio": "2024-03-05T00:00:01",
+        "dataFimInicial": "2024-04-10T10:00:00",
+        "dataFim": "2024-04-10T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1214112024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_105596/23022024134435_800sm.jpg",
+        "titulo": "Apartamento T2 - Queluz",
+        "valorBase": 65733.37,
+        "valorAbertura": 32866.69,
+        "valorMinimo": 55873.36,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"F\" do pr\u00e9dio em regime de propriedade horizontal, afeta a habita\u00e7\u00e3o, sito na Rua 9 de Abril n.\u00ba 30 2\u00ba andar esquerdo, inscrita na matriz predial urbana sob o artigo 1247\u00ba - F - da Uni\u00e3o das freguesias de Queluz e Belas e descrita na Conservat\u00f3ria do Registo Predial de Queluz sob a ficha 504 - F - da freguesia de Queluz.",
+        "observacoes": "Foi constitu\u00eddo fiel deposit\u00e1rio do im\u00f3vel o filho do executado. N\u00e3o permitiu a divulga\u00e7\u00e3o de fotografias do interior do bem, por receio de expor a vida privada, no entanto, a A.E. verificou que, \u00e0 data, o im\u00f3vel apresentava um razo\u00e1vel estado de conserva\u00e7\u00e3o. Os interessados em visitar o Im\u00f3vel dever\u00e3o, previamente contactar o mesmo, atrav\u00e9s do contacto dispon\u00edvel para o efeito, no campo \"Visitas por Marca\u00e7\u00e3o\". Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas, licen\u00e7as e outros aspetos que considerem relevantes, do bem. A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda. Os interessados antes de efetuarem quaisquer propostas, devem consultar as regras de funcionamento e as Faq constantes no site www.e-leiloes.pt.",
+        "areaUtilPrivativa": 53.56,
+        "areaUtilDependente": 1.5,
+        "areaTotal": 55.06,
+        "morada": "Rua 9 de Abril",
+        "moradaNumero": "30",
+        "moradaAndar": "2\u00ba Esq.",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Queluz e Belas",
+        "moradaCP": "2745-186",
+        "coordenadasLAT": "38.75745340",
+        "coordenadasLON": "-9.25400136",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71690,
+        "processoNumero": "12847/22.2T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 105596,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"211125903\", \"nome\":\"Fernando Sambu\", \"requerido\":\"False\"},{\"nif\":\"254968210\", \"nome\":\"Victoria Djata Sambu\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 910,
+        "cerimoniaData": "2024-04-10T15:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 77,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4200",
+        "gestorNome": "CL\u00c1UDIA RODRIGUES",
+        "gestorEmail": "4200@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:27:44",
+        "dataAtualizacao": "2024-03-20T10:27:44",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105596/23022024134435_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105596/23022024134435_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105596/23022024134433_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105596/23022024134433_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105596/23022024134437_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105596/23022024134437_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105596/23022024134439_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105596/23022024134439_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105596/23022024134441_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105596/23022024134441_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105596/23022024134443_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105596/23022024134443_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105596/23022024134445_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105596/23022024134445_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105596/23022024134447_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105596/23022024134447_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105596/23022024134449_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105596/23022024134449_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105596/23022024134450_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105596/23022024134450_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105596/23022024134452_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105596/23022024134452_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105596/23022024134454_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105596/23022024134454_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 33566,
+                "numero": "504",
+                "fracao": "F",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "07 - Queluz",
+                "artigos": [
+                    {
+                        "numero": "1247",
+                        "tipo": "urbana",
+                        "fracao": "F",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "26 - Uni\u00e3o das freguesias de Queluz e Belas"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

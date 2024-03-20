@@ -1,0 +1,150 @@
+{
+    "item": {
+        "id": 135510,
+        "origem": 207611,
+        "lanceAtual": 31061.0,
+        "lanceAtualId": 90641,
+        "dataInicio": "2024-02-22T00:00:08",
+        "dataFimInicial": "2024-04-03T10:00:00",
+        "dataFim": "2024-04-03T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1208992024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_105173/14022024165727_800sm.jpg",
+        "titulo": "Direito a metade T2",
+        "valorBase": 36541.36,
+        "valorAbertura": 18270.68,
+        "valorMinimo": 31060.16,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Direito a metade sobre a frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"E\", correspondente ao 2\u00ba andar direito habita\u00e7\u00e3o, do pr\u00e9dio descrito na CRP de Odivelas sob o n.\u00ba 37/19850627 da freguesia da P\u00f3voa de Santo Adri\u00e3o, inscrito na matriz urbana com o art.\u00ba 1355 (anterior 1492), situada na alameda Fernando Namora, n.\u00ba 1, 2620-069 P\u00f3voa de santo Adri\u00e3o.",
+        "observacoes": "",
+        "areaUtilPrivativa": 65.97,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 65.97,
+        "morada": "Rua Aquilino Ribeiro, Bairro de S\u00e3o Jos\u00e9",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Odivelas",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de P\u00f3voa de Santo Adri\u00e3o e Olival Basto",
+        "moradaCP": "2620-069",
+        "coordenadasLAT": "38.80366083",
+        "coordenadasLON": "-9.16463461",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71447,
+        "processoNumero": "3448/23.9T8VFX",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "V. F. de Xira - Inst. Central - Sec.Com\u00e9rcio - J3",
+        "verbaId": 105173,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"195801989\", \"nome\":\"Maria da Gra\u00e7a de Almeida Tom\u00e9 Ferreira\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 905,
+        "cerimoniaData": "2024-04-03T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 1065,
+        "gestorTipo": "Administrador Judicial",
+        "gestorTipoId": 2,
+        "gestorCedula": "409",
+        "gestorNome": "Ana Anacleto",
+        "gestorEmail": "ana.i.anacleto@aj.caaj.pt",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:24:39",
+        "dataAtualizacao": "2024-03-20T10:24:39",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105173/14022024165727_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105173/14022024165727_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105173/14022024165741_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105173/14022024165741_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105173/14022024165746_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105173/14022024165746_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105173/14022024165754_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105173/14022024165754_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105173/14022024165805_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105173/14022024165805_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105173/14022024165816_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105173/14022024165816_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105173/14022024165823_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105173/14022024165823_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105173/14022024165837_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105173/14022024165837_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "A venda ser\u00e1 efectuada no estado f\u00edsico e jur\u00eddico em que o bem se encontra, livre de \u00f3nus e encargos.",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 33309,
+                "numero": "37/19850627",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "16 - Odivelas",
+                "freguesiaDesc": "06 - P\u00f3voa de Santo Adri\u00e3o",
+                "artigos": [
+                    {
+                        "numero": "1355",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "16 - Odivelas",
+                        "freguesiaDesc": "09 - Uni\u00e3o das freguesias de P\u00f3voa de Santo Adri\u00e3o e Olival Basto"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

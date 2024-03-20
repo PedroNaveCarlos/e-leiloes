@@ -1,0 +1,154 @@
+{
+    "item": {
+        "id": 132689,
+        "origem": 205437,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-22T15:34:09",
+        "dataFimInicial": "2024-04-23T14:30:00",
+        "dataFim": "2024-04-23T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP846082024",
+        "tipoId": 1,
+        "subtipoId": 5,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_12213/22012024153316_800sm.jpg",
+        "titulo": "Armaz\u00e9m no Centro Empresarial da Quinta da Figueira, no Sobralinho",
+        "valorBase": 4104000.0,
+        "valorAbertura": 2052000.0,
+        "valorMinimo": 3488400.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Terreno Constru\u00e7\u00e3o",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio urbano composto por terreno destinado a constru\u00e7\u00e3o, descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Vila Franca de Xira, sob a ficha n\u00ba 4038 da freguesia de Alverca do Ribatejo, inscrito na matriz 4676 da uni\u00e3o das freguesias de Alverca do Ribatejo e Sobralinho com 17.674m2",
+        "observacoes": "Trata-se de uma nave ampla destinada a armaz\u00e9m e atividades industriais , inserida no Centro Empresarial Qta da Figueira no Sobralinho, a cerca de 2,5km do n\u00f3 de acesso \u00e0 A1 no Tro\u00e7o Lisboa-Porto. O im\u00f3vel disp\u00f5e de bons acessos. Composto por r/ch\u00e3o amplo destinado a armaz\u00e9m,\u00e1reas de gabinete e instala\u00e7\u00f5es sanit\u00e1rias e piso de mezanine para zonas administrativas e de apoio, com copas, gabinetes e instala\u00e7\u00f5es sanit\u00e1rias.\r\nA nave encontra-se estruturalmente preparada para ser dividida em 6 frac\u00e7\u00f5es,tendo sido executadas \u00e1reas de apoio no piso 0 e piso de mezaninne de acordo com essa futura utiliza\u00e7\u00e3o.\r\nArmaz\u00e9m com p\u00e9-direito de 10 metros.\r\nPossui 103 lugares de parqueamento em logradouro.\r\nInforma-se que se encontra embargada a estrutura met\u00e1lica e paneis de chapa cinza afixados no al\u00e7ado lateral esquerdo e a saca de bet\u00e3o no armaz\u00e9m, ao abrigo dos processos n\u00ba 48/07 ONEREDALV, 248/02 ONEREDALV, 1/07 ONEREDEMB, que correm na C\u00e2mara Municipal de Vila Franca de Xira.",
+        "areaUtilPrivativa": 10260.0,
+        "areaUtilDependente": 8820.0,
+        "areaTotal": 17674.0,
+        "morada": "Quinta Figueira",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Vila Franca de Xira",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Alverca do Ribatejo e Sobralinho",
+        "moradaCP": "2615-711",
+        "coordenadasLAT": "38.91472815207956",
+        "coordenadasLON": "-9.017500877380371",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 10060,
+        "processoNumero": "1836/12.5TBVFX",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Inst. Central - Sec\u00e7\u00e3o de Execu\u00e7\u00e3o - J3",
+        "verbaId": 12213,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"500097011\", \"nome\":\"PENTEALA - CONSTRU\u00c7\u00d5ES E IMOBILIARIA SA\", \"requerido\":\"False\"},{\"nif\":\"501062017\", \"nome\":\"QTA FIGUEIRA IMOBILIARIA LDA\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 242,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4066",
+        "gestorNome": "Bruno Goncalo Machado Taveira Ferrada",
+        "gestorEmail": "4066@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:35:10",
+        "dataAtualizacao": "2024-03-20T10:35:10",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_12213/22012024153316_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_12213/22012024153316_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_12213/22012024153317_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_12213/22012024153317_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_12213/22012024153320_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_12213/22012024153320_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_12213/22012024153321_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_12213/22012024153321_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_12213/22012024153323_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_12213/22012024153323_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_12213/22012024153324_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_12213/22012024153324_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_12213/22012024153326_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_12213/22012024153326_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_12213/22012024153327_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_12213/22012024153327_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_12213/22012024153328_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_12213/22012024153328_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_12213/22012024153330_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_12213/22012024153330_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_12213/22012024153331_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_12213/22012024153331_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_12213/22012024153333_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_12213/22012024153333_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_12213/22012024153334_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_12213/22012024153334_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_12213/22012024153335_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_12213/22012024153335_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

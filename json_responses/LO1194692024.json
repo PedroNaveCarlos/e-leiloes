@@ -1,0 +1,129 @@
+{
+    "item": {
+        "id": 134135,
+        "origem": 204342,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-02-06T23:59:59",
+        "dataFimInicial": "2024-03-06T11:00:00",
+        "dataFim": "2024-03-06T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1194692024",
+        "tipoId": 1,
+        "subtipoId": 27,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_95229/05022024165618_800sm.jpg",
+        "titulo": "PR\u00c9DIO R\u00daSTICO C/ VIABILIDADE DE CONSTRU\u00c7\u00c3O",
+        "valorBase": 325000.0,
+        "valorAbertura": 162500.0,
+        "valorMinimo": 276250.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "R\u00fastico",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio R\u00fastico com \u00e1rea de 10.500 m2 . Situado em Olhos de \u00c1gua, freguesia de Quinta do Anjo, concelho de Palmela. Descrito na C.R.P. Palmela soba ficha 6183, freguesia de Quinta do Anjo. Matriz r\u00fastica n\u00ba 36, Sec\u00e7\u00e3o \"E\".",
+        "observacoes": "Embora conste na caderneta e na descri\u00e7\u00e3o predial do im\u00f3vel a \u00e1rea de 10.500 m2, tem na realidade a \u00e1rea de 10.851 m2 tendo j\u00e1 sido pedida a sua retifica\u00e7\u00e3o.\r\n Possui uma \u00e1rea total de constru\u00e7\u00e3o permitida de 3.392 m2. Bem como um parecer favor\u00e1vel da C.M. Palmela para a constru\u00e7\u00e3o de  um total de 13 fogos.\r\n Muito bem situado. Possui 2 Frentes : Estrada municipal e Rua municipal.  Encontra-se vedado. \r\nExiste saneamento b\u00e1sico e eletricidade no local.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 10500.0,
+        "morada": "Estrada Restauradores de Palmela, Pegarias",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Palmela",
+        "moradaFreguesia": "Palmela",
+        "moradaCP": "2950-044",
+        "coordenadasLAT": "38.58086365",
+        "coordenadasLON": "-8.90919112",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 64942,
+        "processoNumero": "8040/22.2T8STB",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Inst. Central - Sec\u00e7\u00e3o de Execu\u00e7\u00e3o - J1",
+        "verbaId": 95229,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"515881295\", \"nome\":\"MEMORIALSENIOR, LDA\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 899,
+        "cerimoniaData": "2024-03-06T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 351,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3955",
+        "gestorNome": "SILV\u00c9RIA GERV\u00c1SIO",
+        "gestorEmail": "3955@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:11:56",
+        "dataAtualizacao": "2024-02-12T20:11:56",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95229/05022024165618_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95229/05022024165618_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95229/05022024165629_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95229/05022024165629_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95229/05022024165648_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95229/05022024165648_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95229/05022024165701_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95229/05022024165701_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_95229/05022024165722_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_95229/05022024165722_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 27158,
+                "numero": "6183",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "08 - Palmela",
+                "freguesiaDesc": "04 - Quinta do Anjo",
+                "artigos": [
+                    {
+                        "numero": "36",
+                        "tipo": "rustica",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "08 - Palmela",
+                        "freguesiaDesc": "04 - Quinta do Anjo"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

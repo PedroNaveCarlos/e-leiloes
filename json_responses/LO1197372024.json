@@ -1,0 +1,246 @@
+{
+    "item": {
+        "id": 133956,
+        "origem": 204862,
+        "lanceAtual": 204020.0,
+        "lanceAtualId": 2227,
+        "dataInicio": "2024-02-05T00:00:01",
+        "dataFimInicial": "2024-03-06T10:30:00",
+        "dataFim": "2024-03-06T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1197372024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_104140/16012024160902_800sm.jpg",
+        "titulo": "APARTAMENTO T3 - MAFRA",
+        "valorBase": 304470.59,
+        "valorAbertura": 152235.3,
+        "valorMinimo": 258800.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"C\", destinada a habita\u00e7\u00e3o, correspondente ao primeiro andar esquerdo, para habita\u00e7\u00e3o e uma garagem na cave designada pelo n\u00ba 3, do pr\u00e9dio urbano sito em Rua Jo\u00e3o Tib\u00farcio Teixeira, N\u00ba17, freguesia e concelho de Mafra, descrito na Conservat\u00f3ria do Registo Predial de Mafra sob n\u00ba 6660, inscrito na matriz sob o art.\u00ba 10530, da referida freguesia, com o valor patrimonial de 121.610,00 euros, penhorada em 14.01.2021",
+        "observacoes": "Im\u00f3vel situado em zona calma e perto de zona comercial, transportes e do acesso A 21, em razo\u00e1vel estado de conserva\u00e7\u00e3o.\r\n\r\nAlerta-se que \u00e9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, e sua real tipologia, pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. Dever\u00e1, igualmente, ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidades da venda e ao facto de o bem n\u00e3o ser entregue no momento da conclus\u00e3o do leil\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.\r\n\r\n\r\nADVERT\u00caNCIA: As \u00e1reas e descri\u00e7\u00e3o do im\u00f3vel no presente an\u00fancio, t\u00eam por base, as descritas na certid\u00e3o predial e matricial respetivas. No entanto, os interessados em licitar, dever\u00e3o aferir previamente, por todos meios dispon\u00edveis, se o im\u00f3vel est\u00e1 de acordo com os seus interesses de aquisi\u00e7\u00e3o. A falta desta averigua\u00e7\u00e3o, por parte dos licitantes, n\u00e3o determina nos termos legais, a anula\u00e7\u00e3o da venda. Os interessados em licitar o bem, devem consultar previamente o site www.e-leiloes.pt, por forma a informarem-se, de forma consciente, das regras dos leil\u00f5es e consequ\u00eancias legais das suas licita\u00e7\u00f5es.",
+        "areaUtilPrivativa": 148.9,
+        "areaUtilDependente": 35.25,
+        "areaTotal": 0.0,
+        "morada": "Rua Jo\u00e3o Tib\u00farcio Teixeira, Urbaniza\u00e7\u00e3o Quinta das Pevides",
+        "moradaNumero": "17",
+        "moradaAndar": "1\u00baESQ",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Mafra",
+        "moradaFreguesia": "Mafra",
+        "moradaCP": "2640-446",
+        "coordenadasLAT": "38.94511860",
+        "coordenadasLON": "-9.35837991",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70810,
+        "processoNumero": "1482/20.0T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 104140,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"235851833\", \"nome\":\"ANDRIY  MOSKALENKO\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 899,
+        "cerimoniaData": "2024-03-06T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 171,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3611",
+        "gestorNome": "Manuel Lopo Vaz de S\u00e3o Payo",
+        "gestorEmail": "3611@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:52:49",
+        "dataAtualizacao": "2024-02-12T19:52:49",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160902_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160902_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160843_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160843_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160847_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160847_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160853_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160853_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160857_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160857_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160908_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160908_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160913_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160913_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160917_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160917_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160923_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160923_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160927_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160927_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160933_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160933_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160937_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160937_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160941_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160941_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160947_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160947_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160952_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160952_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024160957_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024160957_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024161002_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024161002_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024161007_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024161007_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024161011_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024161011_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024161016_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024161016_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024161020_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024161020_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024161024_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024161024_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024161028_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024161028_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024161034_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024161034_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024161039_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024161039_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024161044_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024161044_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024161050_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024161050_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104140/16012024161055_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104140/16012024161055_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32663,
+                "numero": "6660",
+                "fracao": "C",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "09 - Mafra",
+                "freguesiaDesc": "09 - Mafra",
+                "artigos": [
+                    {
+                        "numero": "10530",
+                        "tipo": "urbana",
+                        "fracao": "C",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "09 - Mafra",
+                        "freguesiaDesc": "09 - Mafra"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

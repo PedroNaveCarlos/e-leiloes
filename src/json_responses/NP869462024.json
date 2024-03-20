@@ -1,0 +1,184 @@
+{
+    "item": {
+        "id": 136755,
+        "origem": 209735,
+        "lanceAtual": 37000.0,
+        "lanceAtualId": 111245,
+        "dataInicio": "2024-03-06T14:53:18",
+        "dataFimInicial": "2024-03-26T14:30:00",
+        "dataFim": "2024-03-26T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP869462024",
+        "tipoId": 1,
+        "subtipoId": 4,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_64897/02112020152230_800sm.jpg",
+        "titulo": "Cave para com\u00e9rcio - Arrentela",
+        "valorBase": 73872.15,
+        "valorAbertura": 36936.08,
+        "valorMinimo": 62791.33,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Armaz\u00e9m / Ind\u00fastria",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Frac\u00e7\u00e3o Aut\u00f3noma designada pela letra \u00abA\u00bb correspondente a cave para armaz\u00e9m, do pr\u00e9dio urbano em regime de propriedade horizontal sito na Rua Jo\u00e3o Martins Bandeira, 5 a 5 A, Quinta da Boa Hora,  Arrentela, descrito na Conservat\u00f3ria do Registo Predial de Seixal sob o art.\u00ba 4601 da freguesia de Arrentela e inscrito na matriz predial urbana sob o art.\u00ba 3945 da Uni\u00e3o das Freguesias do Seixal, Arrentela e Aldeia de Paio Pires.",
+        "observacoes": "Advertem-se os interessados que: 1. \u00c9 da sua \u00fanica e exclusiva responsabilidade a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 assegurar-se que o mesmo corresponde \u00e0s suas expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda.",
+        "areaUtilPrivativa": 180.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 180.0,
+        "morada": "Rua Jo\u00e3o Martins Bandeira, Quinta da Boa Hora",
+        "moradaNumero": "5",
+        "moradaAndar": "A",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Seixal",
+        "moradaFreguesia": "Uni\u00e3o das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",
+        "moradaCP": "2840-372",
+        "coordenadasLAT": "38.62564675",
+        "coordenadasLON": "-9.09947019",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 44851,
+        "processoNumero": "6608/12.4TBSXL",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 64897,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"510089615\", \"nome\":\"URBAN LOFT - INVESTIMENTOS E SERVI\u00c7OS, S.A.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 506,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3578",
+        "gestorNome": "Jo\u00e3o Ant\u00f3nio Moreira Garanh\u00e3o",
+        "gestorEmail": "3578@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "261818210",
+        "gestorFax": "",
+        "gestorMorada": "Rua Maria Augusta Botelho Ala B Loja 1 D 2640-534 Mafra",
+        "gestorHorario": "Dias \u00fateis das 9h \u00e0s 13h",
+        "dataServidor": "2024-03-20T10:42:36",
+        "dataAtualizacao": "2024-03-20T10:42:36",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152230_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152230_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152059_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152059_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152103_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152103_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152107_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152107_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152111_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152111_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152115_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152115_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152119_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152119_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152123_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152123_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152128_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152128_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152132_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152132_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152138_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152138_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152143_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152143_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152147_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152147_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152156_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152156_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152208_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152208_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_64897/02112020152217_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_64897/02112020152217_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 6540,
+                "numero": "4601",
+                "fracao": "A",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "10 - Seixal",
+                "freguesiaDesc": "03 - Arrentela",
+                "artigos": [
+                    {
+                        "numero": "3945",
+                        "tipo": "urbana",
+                        "fracao": "A",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "10 - Seixal",
+                        "freguesiaDesc": "07 - Uni\u00e3o das freguesias do Seixal, Arrentela e Aldeia de Paio Pires"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

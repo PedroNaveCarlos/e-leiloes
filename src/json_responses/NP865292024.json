@@ -1,0 +1,138 @@
+{
+    "item": {
+        "id": 135965,
+        "origem": 208946,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-02-27T17:43:33",
+        "dataFimInicial": "2024-05-28T14:30:00",
+        "dataFim": "2024-05-28T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP865292024",
+        "tipoId": 1,
+        "subtipoId": 27,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_87076/19092023141208_800sm.jpg",
+        "titulo": "Terreno",
+        "valorBase": 44100.0,
+        "valorAbertura": 22050.0,
+        "valorMinimo": 37485.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "R\u00fastico",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Penhora de pr\u00e9dio r\u00fastico sito na freguesia de Milharado, concelho de Mafra, descrito na CRP de Mafra sob o n\u00ba1166 e inscrito na matriz sob o artigo\r\n30 sec\u00e7\u00e3o Q.",
+        "observacoes": "Localiza\u00e7\u00e3o do im\u00f3vel: 38\u00b056\"3.77\"N / 9\u00b011\"12.74\"W\r\nO terreno n\u00e3o tem acesso ou caminho directo. O a entrada \u00e9 realizada pelas traseiras  de um terreno de estufas. \r\n\u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1 antes de licitar verificar se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. O bem \u00e9 vendido no estado em que se encontra pelo que a falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda. A marca\u00e7\u00e3o de visitas ser\u00e1 realizada mediante agendamento pr\u00e9vio atrav\u00e9s dos contactos indicados no campo Visitas.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 7000.0,
+        "morada": "Milharado",
+        "moradaNumero": "9",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Mafra",
+        "moradaFreguesia": "Milharado",
+        "moradaCP": "2665-372",
+        "coordenadasLAT": "38.93287419009922",
+        "coordenadasLON": "-9.186952114105223",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 59827,
+        "processoNumero": "12196/20.0T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 87076,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"742611698\", \"nome\":\"Heran\u00e7a de Jos\u00e9 Afonso Carvalho dos Reis\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 395,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5342",
+        "gestorNome": "MIGUEL FONSECA LIMA",
+        "gestorEmail": "5342@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:40:57",
+        "dataAtualizacao": "2024-03-20T10:40:57",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87076/19092023141208_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87076/19092023141208_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87076/22062022181412_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87076/22062022181412_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87076/22062022181417_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87076/22062022181417_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87076/19092023141159_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87076/19092023141159_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87076/19092023141201_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87076/19092023141201_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87076/19092023141203_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87076/19092023141203_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_87076/19092023141205_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_87076/19092023141205_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 21814,
+                "numero": "1166",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "09 - Mafra",
+                "freguesiaDesc": "11 - Milharado",
+                "artigos": [
+                    {
+                        "numero": "30",
+                        "tipo": "rustica",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "09 - Mafra",
+                        "freguesiaDesc": "11 - Milharado"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

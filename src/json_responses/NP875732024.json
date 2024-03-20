@@ -1,0 +1,113 @@
+{
+    "item": {
+        "id": 137737,
+        "origem": 210925,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-03-19T14:56:19",
+        "dataFimInicial": "2024-04-23T14:30:00",
+        "dataFim": "2024-04-23T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP875732024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 6,
+        "capa": "files/Verbas_Fotos/verba_101019/11102023150735_800sm.jpg",
+        "titulo": "1/2 usufruto de uma moradia sita na Rua Bartolomeu Dias, n\u00ba61, em Caxias",
+        "valorBase": 116450.0,
+        "valorAbertura": 58225.0,
+        "valorMinimo": 98982.5,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T4",
+        "descricao": "1/2  usufruto do pr\u00e9dio urbano, sito na Rua Bartolomeu Dias n\u00ba61, 2760-013 Caxias, inscrito na matriz predial urbana sob o artigo 2638, da freguesia de Caxias, concelho de Oeiras, e descrito na Conservat\u00f3ria do Registo Predial de Oeiras, sobre o artigo 52.",
+        "observacoes": "a) As visitas ser\u00e3o agendadas mediante articula\u00e7\u00e3o com o Administrador de Insolv\u00eancia atrav\u00e9s do contacto indicado no regime de visitas. b) Apenas ser\u00e3o agendadas visitas nos \u00faltimos 10 dias antes da data de fim do leil\u00e3o. c) \u00c9 da exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se que o mesmo corresponde \u00e0s suas expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. d) Com a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspeccionado o im\u00f3vel e que conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o. e) O im\u00f3vel \u00e9 vendido no estado f\u00edsico em que se encontra pelo que a falta de verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.",
+        "areaUtilPrivativa": 113.8,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 113.8,
+        "morada": "Rua Bartolomeu Dias",
+        "moradaNumero": "61",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Oeiras",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Oeiras e S\u00e3o Juli\u00e3o da Barra, Pa\u00e7o de Arcos e Caxias",
+        "moradaCP": "2760-013",
+        "coordenadasLAT": "38.70410376",
+        "coordenadasLON": "-9.28179314",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 68728,
+        "processoNumero": "7503/23.7T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Inst. Central - Sec.Com\u00e9rcio - J4",
+        "verbaId": 101019,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"122143434\", \"nome\":\"Pedro Luis Franco Pinto de Castelo Branco\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 870,
+        "gestorTipo": "Administrador Judicial",
+        "gestorTipoId": 2,
+        "gestorCedula": "437",
+        "gestorNome": "Jo\u00e3o Gon\u00e7alves",
+        "gestorEmail": "joao.f.goncalves@aj.caaj.pt",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:36:05",
+        "dataAtualizacao": "2024-03-20T10:36:05",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101019/11102023150735_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101019/11102023150735_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Usufruto registado pela AP 3778 de 2009/12/28",
+                "tipoDesc": "os que n\u00e3o se extinguem com a venda judicial"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 30805,
+                "numero": "52",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "10 - Oeiras",
+                "freguesiaDesc": "11 - Caxias",
+                "artigos": [
+                    {
+                        "numero": "2638",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "10 - Oeiras",
+                        "freguesiaDesc": "14 - Uni\u00e3o das freguesias de Oeiras e S\u00e3o Juli\u00e3o da Barra, Pa\u00e7o de Arcos e Caxias"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

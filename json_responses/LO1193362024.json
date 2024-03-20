@@ -1,0 +1,130 @@
+{
+    "item": {
+        "id": 133337,
+        "origem": 203970,
+        "lanceAtual": 39501.1,
+        "lanceAtualId": 109921,
+        "dataInicio": "2024-01-29T00:00:01",
+        "dataFimInicial": "2024-02-28T10:00:00",
+        "dataFim": "2024-02-28T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1193362024",
+        "tipoId": 1,
+        "subtipoId": 5,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_91932/22112022161933_800sm.jpg",
+        "titulo": "Terreno para constru\u00e7\u00e3o em Amora",
+        "valorBase": 46000.0,
+        "valorAbertura": 23000.0,
+        "valorMinimo": 39100.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Terreno Constru\u00e7\u00e3o",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio urbano composto por terreno para constru\u00e7\u00e3o, sito na Rua Maria da Gra\u00e7a, Lt 707, Pinhal Conde da Cunha, descrito na Conservat\u00f3ria do Registo Predial de Amora sob o n.\u00ba 11280 e inscrito na respectiva matriz sob o artigo 13643.",
+        "observacoes": "Qualquer visita ao im\u00f3vel passa pelo agendamento pr\u00e9vio com o Agente de Execu\u00e7\u00e3o. A falta de verifica\u00e7\u00e3o do estado do bem por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 36.0,
+        "areaTotal": 294.0,
+        "morada": "Rua Maria da Gra\u00e7a Freire, Pinhal Conde da Cunha",
+        "moradaNumero": "lote 707",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Seixal",
+        "moradaFreguesia": "Amora",
+        "moradaCP": "2845-302",
+        "coordenadasLAT": "38.61470180",
+        "coordenadasLON": "-9.13665211",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 62807,
+        "processoNumero": "386/09.1TBSSB",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 91932,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"221352368\", \"nome\":\"Tania Isabel Amigo Pinto Serafim\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 897,
+        "cerimoniaData": "2024-02-28T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 344,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1649",
+        "gestorNome": "Lu\u00edsa Pescaria Costa",
+        "gestorEmail": "1649@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:09:33",
+        "dataAtualizacao": "2024-02-12T20:09:33",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91932/22112022161933_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91932/22112022161933_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91932/22112022162010_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91932/22112022162010_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91932/22112022162022_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91932/22112022162022_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91932/22112022162039_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91932/22112022162039_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91932/22112022162104_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91932/22112022162104_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 25043,
+                "numero": "11280",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "10 - Seixal",
+                "freguesiaDesc": "02 - Amora",
+                "artigos": [
+                    {
+                        "numero": "13643",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "10 - Seixal",
+                        "freguesiaDesc": "02 - Amora"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

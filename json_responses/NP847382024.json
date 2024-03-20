@@ -1,0 +1,123 @@
+{
+    "item": {
+        "id": 132914,
+        "origem": 205668,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-24T14:20:17",
+        "dataFimInicial": "2024-02-27T14:30:00",
+        "dataFim": "2024-02-27T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP847382024",
+        "tipoId": 1,
+        "subtipoId": 27,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_82301/23022022152330_800sm.jpg",
+        "titulo": "Terreno r\u00fastico",
+        "valorBase": 76300.0,
+        "valorAbertura": 38150.0,
+        "valorMinimo": 64855.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "R\u00fastico",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio r\u00fastico composto por terra de vinha e oliveiras, com \u00e1rea total de 5.600 m2, sito em Concelhos, da uni\u00e3o de freguesia de Manique do Intendente, Vila Nova de S\u00e3o Pedro e Ma\u00e7ussa, concelho de Azambuja, a confrontar a norte com Maria Ant\u00f3nio Cravo, a sul com serventia, a nascente com estrada p\u00fablica e a poente com Jos\u00e9 Rafael Filipe, descrito na Conservat\u00f3ria de Registo Predial de Azambuja sob o n.\u00ba 166, da freguesia de Vila Nova de S\u00e3o Pedro, e inscrito na matriz predial r\u00fastica sob o artigo 51, sec\u00e7\u00e3o 1M da mencionada uni\u00e3o das freguesias, com o valor patrimonial atual 762,80 Euros.",
+        "observacoes": "Sobre parte do terreno encontra-se implantado um edificado.\r\nO(s) bem(ns) \u00e9(s\u00e3o) vendido(s) no estado f\u00edsico e jur\u00eddico em que se encontra(m). \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do(s) bem(ns) a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o(s) mesmo(s) corresponde(m) \u00e0s suas expectativas e se se encontra(m) nas condi\u00e7\u00f5es pretendidas. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda. Ao valor da venda acrescem o Imposto Municipal sobre Transmiss\u00f5es Onerosas e o Imposto do Selo que se mostrem devidos.\r\nO regime de visitas encontra-se definido no respetivo campo, ficando a marca\u00e7\u00e3o a cargo da Agente de Execu\u00e7\u00e3o. As visitas ser\u00e3o agendadas previamente, sendo designado um s\u00f3 dia para visitas. N\u00e3o ser\u00e3o agendadas visitas nos \u00faltimos 5 dias \u00fateis antes da data do fim do leil\u00e3o.\r\n\r\nAVISO IMPORTANTE: Tenha em aten\u00e7\u00e3o que existem v\u00e1rios procedimentos previstos na lei que podem ditar um desfecho diverso do expect\u00e1vel, a saber: a) Insolv\u00eancia do(s) executado(s); b) Pagamento da d\u00edvida; c) Eventual verifica\u00e7\u00e3o de irregularidade que dita a invalidade da venda. \r\nNOTAS: \r\n1) Nos termos do n\u00ba2 do artigo 824\u00ba do C\u00f3digo de Processo Civil, o pre\u00e7o ter\u00e1 de se mostrar liquidado no prazo de 15 dias ap\u00f3s a notifica\u00e7\u00e3o do Agente do Execu\u00e7\u00e3o para o fazer. \r\n2) O prazo \u00e9 corrido (contam s\u00e1bados e domingos) mas interrompe nas f\u00e9rias judiciais. \r\n3) Mais se indica que nada obsta a que o adquirente possa recorrer a cr\u00e9dito banc\u00e1rio parcial ou total para pagamento do pre\u00e7o mas alerta-se que por for\u00e7a do per\u00edodo de reflex\u00e3o (7 dias), imperativo por for\u00e7a do n\u00ba 5 do artigo 13\u00ba do Dec Lei 74-A/2017, torna-se muito dif\u00edcil a concretiza\u00e7\u00e3o da escritura de hipoteca , no prazo indicado de 15 (quinze ) dias. \r\n4) O facto do proponente estar a aguardar resposta do financiamento banc\u00e1rio n\u00e3o suspende o prazo de pagamento.",
+        "areaUtilPrivativa": 0.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 5600.0,
+        "morada": "Sem Nome, Casal do Al\u00e9m",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Azambuja",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Manique do Intendente, Vila Nova de S\u00e3o Pedro e Ma\u00e7ussa",
+        "moradaCP": "2065-552",
+        "coordenadasLAT": "39.197573446730786",
+        "coordenadasLON": "-8.819746971130371",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 56896,
+        "processoNumero": "1426/20.9T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 82301,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"216260175\", \"nome\":\"\u00c2ngela Margarida da Silva Cravo\", \"requerido\":\"False\"},{\"nif\":\"113240023\", \"nome\":\"Jesu\u00edna Silva Cravo\", \"requerido\":\"False\"},{\"nif\":\"231135289\", \"nome\":\"Jo\u00e3o Lu\u00eds da Silva Cravo\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 2309,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4857",
+        "gestorNome": "GABRIELA ANTUNES",
+        "gestorEmail": "4857@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:45:32",
+        "dataAtualizacao": "2024-02-12T19:45:32",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82301/23022022152330_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82301/23022022152330_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82301/23022022152352_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82301/23022022152352_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82301/23022022152414_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82301/23022022152414_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_82301/23022022152416_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_82301/23022022152416_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 18743,
+                "numero": "166",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "03 - Azambuja",
+                "freguesiaDesc": "08 - Vila Nova de S. Pedro",
+                "artigos": [
+                    {
+                        "numero": "51, se\u00e7\u00e3o 1M",
+                        "tipo": "rustica",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "03 - Azambuja",
+                        "freguesiaDesc": "10 - Uni\u00e3o das freguesias de Manique do Intendente, Vila Nova de S\u00e3o Pedro e Ma\u00e7ussa"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

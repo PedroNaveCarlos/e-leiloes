@@ -1,0 +1,224 @@
+{
+    "item": {
+        "id": 136428,
+        "origem": 207303,
+        "lanceAtual": 69720.47,
+        "lanceAtualId": 43244,
+        "dataInicio": "2024-03-04T00:00:14",
+        "dataFimInicial": "2024-04-10T11:00:00",
+        "dataFim": "2024-04-10T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1207372024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_105063/09022024122449_800sm.jpg",
+        "titulo": "Apartamento na Moita - T2",
+        "valorBase": 134000.0,
+        "valorAbertura": 67000.0,
+        "valorMinimo": 113900.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"H\", correspondente ao segundo andar anterior e lateral - destinado a habita\u00e7\u00e3o, do pr\u00e9dio urbano sito na Rua Dr. Alexandre Sequeira, n.\u00ba 36, freguesia e concelho da Moita, descrito na Conservat\u00f3ria do Registo Predial daquele concelho sob o n.\u00ba 1032, da freguesia da Moita e inscrito na matriz sob o n.\u00ba 1774, da referida freguesia, com o valor patrimonial de 40.528,95 Euros, determinado no ano de 2021",
+        "observacoes": "Im\u00f3vel bem localizado, perto de com\u00e9rcio e transportes.\r\n\r\nEm razo\u00e1vel estado de conserva\u00e7\u00e3o, necessitando de pintura interior.\r\n\r\nO pr\u00e9dio tem 2 elevadores.\r\n\r\nO(s) dia(s) e hora de visitas ao im\u00f3vel ser\u00e3o agendadas com o fiel deposit\u00e1rio, atrav\u00e9s do Agente de Execu\u00e7\u00e3o.\r\n\r\n\r\nAlerta-se que \u00e9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, e sua real tipologia, pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. Dever\u00e1, igualmente, ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidades da venda e ao facto de o bem n\u00e3o ser entregue no momento da conclus\u00e3o do leil\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.\r\n\r\nADVERT\u00caNCIA: As \u00e1reas e descri\u00e7\u00e3o do im\u00f3vel no presente an\u00fancio, t\u00eam por base as descritas na certid\u00e3o predial e matricial respetivas. No entanto, os interessados em licitar dever\u00e3o aferir previamente, por todos meios dispon\u00edveis, se o im\u00f3vel est\u00e1 de acordo com os seus interesses de aquisi\u00e7\u00e3o. A falta desta averigua\u00e7\u00e3o, por parte dos licitantes, n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda. Os interessados em licitar o bem devem consultar previamente o site www.e-leiloes.pt, por forma a informarem-se, de forma consciente, das regras dos leil\u00f5es e consequ\u00eancias legais das suas licita\u00e7\u00f5es.",
+        "areaUtilPrivativa": 72.6,
+        "areaUtilDependente": 3.2,
+        "areaTotal": 75.8,
+        "morada": "Rua Doutor Alexandre Sequeira",
+        "moradaNumero": "36",
+        "moradaAndar": "2\u00baAnL",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Moita",
+        "moradaFreguesia": "Moita",
+        "moradaCP": "2860-458",
+        "coordenadasLAT": "38.65163571",
+        "coordenadasLON": "-8.99028303",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71382,
+        "processoNumero": "8451/22.3T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 105063,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"266997171\", \"nome\":\"FL\u00c1VIO PIRES NDONGALA\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 908,
+        "cerimoniaData": "2024-04-10T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 172,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5326",
+        "gestorNome": "MIGUEL VAZ DE S\u00c3O PAYO",
+        "gestorEmail": "5326@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:46:45",
+        "dataAtualizacao": "2024-03-20T10:46:45",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122449_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122449_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122453_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122453_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122457_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122457_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122513_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122513_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122517_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122517_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122521_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122521_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122525_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122525_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122529_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122529_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122533_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122533_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122537_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122537_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122541_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122541_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122545_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122545_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122549_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122549_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122553_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122553_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122558_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122558_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122602_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122602_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122606_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122606_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122610_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122610_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122614_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122614_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122619_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122619_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122623_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122623_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105063/09022024122628_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105063/09022024122628_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "2021-07-01",
+                "valor": 650.0,
+                "dataPrazo": "2022-06-30",
+                "descricao": "Contrato de arrendamento para fins habitacionais, renov\u00e1vel automaticamente por prazos de 1 ano, se nenhuma das partes se opuser \u00e0 sua renova\u00e7\u00e3o.",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 33261,
+                "numero": "1032",
+                "fracao": "H",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "06 - Moita",
+                "freguesiaDesc": "03 - Moita",
+                "artigos": [
+                    {
+                        "numero": "1774",
+                        "tipo": "urbana",
+                        "fracao": "H",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "06 - Moita",
+                        "freguesiaDesc": "03 - Moita"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

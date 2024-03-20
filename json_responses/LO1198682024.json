@@ -1,0 +1,234 @@
+{
+    "item": {
+        "id": 133502,
+        "origem": 205192,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-29T23:59:59",
+        "dataFimInicial": "2024-03-06T10:00:00",
+        "dataFim": "2024-03-06T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1198682024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 3,
+        "capa": "files/Verbas_Fotos/verba_98410/30112023135215_800sm.jpg",
+        "titulo": "1/3 da Frac\u00e7\u00e3o Auton\u00f3ma designada pela letra B do Pr\u00e9dio Urbano",
+        "valorBase": 313647.06,
+        "valorAbertura": 156823.53,
+        "valorMinimo": 266600.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T1",
+        "descricao": "1/3 da Frac\u00e7\u00e3o Auton\u00f3ma designada pela letra B do Pr\u00e9dio Urbano sito na Rua Miguel Bombarda N.\u00ba 344, com artigo matricial 6022, Concelho de Cascais, Freguesia Uni\u00e3o de Freguesias de Carcavelos e Parede descrito na Conservat\u00f3ria do Registo Predial de Cascais sob o n\u00famero 493-B/ Parede, daquela freguesia e concelho;",
+        "observacoes": "",
+        "areaUtilPrivativa": 254.0,
+        "areaUtilDependente": 25.0,
+        "areaTotal": 1691.21,
+        "morada": "Rua Miguel Bombarda",
+        "moradaNumero": "344",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Cascais",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Carcavelos e Parede",
+        "moradaCP": "2775-003",
+        "coordenadasLAT": "38.68962886",
+        "coordenadasLON": "-9.35451829",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 66933,
+        "processoNumero": "61/19.9T8AGH",
+        "processoComarca": "Comarca dos A\u00e7ores",
+        "processoComarcaCodigo": "1033",
+        "processoTribunal": "A.Hero\u00edsmo - JC C\u00edvel e Criminal - Juiz 2",
+        "verbaId": 98410,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"106554832\", \"nome\":\"LUIZ VASCO DE BARCELOS MACHADO GREGORIO\", \"requerido\":\"False\"},{\"nif\":\"193853671\", \"nome\":\"PEDRO MIGUEL DE SOUSA LOBO BARCELOS GREGORIO\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 899,
+        "cerimoniaData": "2024-03-06T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 86,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "6636",
+        "gestorNome": "PILAR GOYANES",
+        "gestorEmail": "6636@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:51:19",
+        "dataAtualizacao": "2024-02-12T19:51:19",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135215_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135215_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135217_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135217_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135219_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135219_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135220_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135220_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135222_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135222_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135224_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135224_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135226_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135226_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135227_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135227_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135230_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135230_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135232_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135232_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135234_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135234_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135236_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135236_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135239_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135239_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135244_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135244_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135247_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135247_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135250_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135250_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135252_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135252_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135255_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135255_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135257_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135257_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135300_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135300_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135303_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135303_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135306_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135306_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135308_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135308_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135311_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135311_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135314_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135314_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98410/30112023135317_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98410/30112023135317_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 29241,
+                "numero": "493",
+                "fracao": "B",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "05 - Cascais",
+                "freguesiaDesc": "05 - Parede",
+                "artigos": [
+                    {
+                        "numero": "6022",
+                        "tipo": "urbana",
+                        "fracao": "B",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "05 - Cascais",
+                        "freguesiaDesc": "07 - Uni\u00e3o das freguesias de Carcavelos e Parede"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

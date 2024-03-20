@@ -1,0 +1,143 @@
+{
+    "item": {
+        "id": 137082,
+        "origem": 207870,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-03-11T00:00:00",
+        "dataFimInicial": "2024-04-10T11:00:00",
+        "dataFim": "2024-04-10T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1209862024",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_101158/03102023163134_800sm.jpg",
+        "titulo": "Loja sita em Cadaval",
+        "valorBase": 45062.27,
+        "valorAbertura": 22531.14,
+        "valorMinimo": 38302.93,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra B correspondente ao R/C Dto., destinado a com\u00e9rcio do pr\u00e9dio urbano sito em Rua 13 de Janeiro, lote 4, Vila do Cadaval da Uni\u00e3o de Freguesias do Cadaval e P\u00earo Moniz, concelho de Cadaval, inscrito na matriz predial urbana sob o artigo n\u00ba 1901, e descrito na competente Conservat\u00f3ria do Registo Predial do Cadaval sob o n\u00ba 721-B.",
+        "observacoes": "O bem corresponde \u00e0 loja n\u00ba 32A do Lote 4, composta por uma divis\u00e3o ampla, uma arrecada\u00e7\u00e3o e uma casa de banho, com montra.\r\nO im\u00f3vel apresenta-se em razo\u00e1vel estado de conserva\u00e7\u00e3o, n\u00e3o se tendo verificado a exist\u00eancia de anomalias.\r\n\r\nAdvertem-se os proponentes que os pedidos para verifica\u00e7\u00e3o dos bens dever\u00e3o ser efetuados com anteced\u00eancia m\u00ednima de 8 dias que antecedem \u00e0 data de terminus do leil\u00e3o.\r\n\r\nRECOMENDA\u00c7\u00c3O GERAL \u2013 LEIL\u00d5ES ELETR\u00d3NICOS\r\n- Previamente \u00e0 apresenta\u00e7\u00e3o de proposta, deve verificar o estado do bem, uma vez que este \u00e9 vendido no estado em que se encontra. As \u00e1reas indicadas servem apenas como refer\u00eancia pois n\u00e3o foram feitas medi\u00e7\u00f5es exatas no local. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e de todos os outros aspetos que considerem relevantes, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o.\r\n- Nos termos do n\u00ba 6 do artigo 833\u00ba do CPC, a venda de im\u00f3vel em que tenha sido, ou esteja sendo, feita constru\u00e7\u00e3o urbana, ou de fra\u00e7\u00e3o dele, pode efetuar-se no estado em que se encontre, com dispensa da licen\u00e7a de utiliza\u00e7\u00e3o ou de constru\u00e7\u00e3o, cuja falta de apresenta\u00e7\u00e3o a entidade com compet\u00eancia para a formaliza\u00e7\u00e3o do ato faz consignar no documento, constituindo \u00f3nus do adquirente a respetiva legaliza\u00e7\u00e3o\r\n- Ap\u00f3s apresentada proposta, a mesma n\u00e3o pode ser retirada.\r\n- No valor atribu\u00eddo ao bem em venda, n\u00e3o se encontram inclu\u00eddos os impostos devidos pela transmiss\u00e3o, sejam estas IMT, IS, IVA ou outros impostos especiais, competindo ao adquirente, apresentar declara\u00e7\u00e3o que comprove o pagamento dos mesmos ou de que a transmiss\u00e3o dos bens a eles n\u00e3o est\u00e1 sujeita. \r\n\r\n- \u00c9 OBRIGAT\u00d3RIO o dep\u00f3sito do pre\u00e7o no prazo de quinze dias. N\u00e3o sendo depositado o pre\u00e7o no referido prazo, a Agente de Execu\u00e7\u00e3o poder\u00e1 promover, com autoriza\u00e7\u00e3o judicial pr\u00e9via, o arresto dos bens do proponente que ven\u00e7a o leil\u00e3o e n\u00e3o proceda ao dep\u00f3sito do pre\u00e7o - ler atentamente o disposto no artigo 825\u00ba, n.\u00ba 1 al. c) do C\u00f3digo de Processo Civil.",
+        "areaUtilPrivativa": 59.57,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 59.57,
+        "morada": "Rua 13 de Janeiro",
+        "moradaNumero": "Lote 4",
+        "moradaAndar": "rc dto",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Cadaval",
+        "moradaFreguesia": "Uni\u00e3o das freguesias do Cadaval e P\u00earo Moniz",
+        "moradaCP": "2550-121",
+        "coordenadasLAT": "39.24133362",
+        "coordenadasLON": "-9.10126527",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 68822,
+        "processoNumero": "2103/17.3T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 101158,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"199691673\", \"nome\":\"Ana Isabel Fialho Antunes ( na qualidade de executada e habilitada de Jo\u00e3o J\u00falio Cardoso Antunes)\", \"requerido\":\"False\"},{\"nif\":\"202154904\", \"nome\":\"Carmen Cristina Fialho Antunes ( na qualidade de executada e habilitada de Jo\u00e3o J\u00falio Cardoso Antunes)\", \"requerido\":\"False\"},{\"nif\":\"107472643\", \"nome\":\"JO\u00c3O JULIO CARDOSO ANTUNES (FALECIDO)\", \"requerido\":\"False\"},{\"nif\":\"205785093\", \"nome\":\"Raquel Jo\u00e3o Fialho Antunes (na qualidade de executada e habilitada de Jo\u00e3o J\u00falio Cardoso Antunes)\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 910,
+        "cerimoniaData": "2024-04-10T15:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 2,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2748",
+        "gestorNome": "David Roque",
+        "gestorEmail": "2748@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "213824450",
+        "gestorFax": "213824459",
+        "gestorMorada": "Rua Braancamp 52 5\u00ba andar - 1250-052 Lisboa",
+        "gestorHorario": "09:00 \u00e0s 12:00 - 14:00 \u00e0s 17:00",
+        "dataServidor": "2024-03-20T10:32:20",
+        "dataAtualizacao": "2024-03-20T10:32:20",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101158/03102023163134_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101158/03102023163134_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101158/03102023163033_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101158/03102023163033_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101158/03102023163035_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101158/03102023163035_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101158/03102023163037_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101158/03102023163037_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101158/03102023163049_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101158/03102023163049_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_101158/03102023163051_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_101158/03102023163051_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "O im\u00f3vel encontra-se ocupado pela delega\u00e7\u00e3o do Cadaval da Cruz Vermelha Portuguesa, ocupa\u00e7\u00e3o esta que \u00e9 efetuada atrav\u00e9s de uma ced\u00eancia verbal e gratuita do espa\u00e7o feita pelo primitivo propriet\u00e1rio - Jo\u00e3o J\u00falio Cardoso Antunes.",
+                "tipoDesc": "outro"
+            },
+            {
+                "descricao": "Informa-se ainda que se encontram pendentes embargos de executado, advertindo-se das legais consequ\u00eancias que da\u00ed possam advir.",
+                "tipoDesc": "oposi\u00e7\u00e3o pendente"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 33365,
+                "numero": "721",
+                "fracao": "B",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "04 - Cadaval",
+                "freguesiaDesc": "02 - Cadaval",
+                "artigos": [
+                    {
+                        "numero": "1901",
+                        "tipo": "urbana",
+                        "fracao": "B",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "04 - Cadaval",
+                        "freguesiaDesc": "11 - Uni\u00e3o das freguesias do Cadaval e P\u00earo Moniz"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

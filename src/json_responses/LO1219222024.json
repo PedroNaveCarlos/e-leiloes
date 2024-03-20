@@ -1,0 +1,175 @@
+{
+    "item": {
+        "id": 137503,
+        "origem": 209642,
+        "lanceAtual": 121958.51,
+        "lanceAtualId": 8323,
+        "dataInicio": "2024-03-15T00:00:01",
+        "dataFimInicial": "2024-04-17T10:00:00",
+        "dataFim": "2024-04-17T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1219222024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_105956/05032024153848_800sm.jpg",
+        "titulo": "Apartamento em Queluz",
+        "valorBase": 142060.0,
+        "valorAbertura": 71030.0,
+        "valorMinimo": 120751.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o Aut\u00f3noma designada pela letra AX correspondente ao 6\u00ba. andar - habita\u00e7\u00e3o, com arrecada\u00e7\u00e3o na 1\u00aa. Cave - destinado a habita\u00e7\u00e3o do pr\u00e9dio urbano submetido ao regime de propriedade horizontal sito na Rua Jos\u00e9 R\u00e9gio, N\u00bas 6A e 6B, descrito na conservat\u00f3ria do registo predial de Queluz sob ficha 34 da freguesia de Monte Abra\u00e3o e inscrito na matriz predial com o artigo 1458 da UNI\u00c3O DAS FREGUESIAS DE MASSAM\u00c1 E MONTE ABRA\u00c3O.",
+        "observacoes": "O im\u00f3vel encontra-se em razo\u00e1vel estado geral de conserva\u00e7\u00e3o mas apresenta diversos pontos de humidade. As visitas ao im\u00f3vel passam pelo agendamento pr\u00e9vio com o Agente de Execu\u00e7\u00e3o atrav\u00e9s dos contactos constantes nos campos pr\u00f3prios. Advertem-se os interessados que \u00e9 da sua \u00fanica e exclusiva responsabilidade a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1, antes de apresentar proposta, assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. O bem \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisi\u00e7\u00e3o que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda. A informa\u00e7\u00e3o anterior n\u00e3o dispensa a consulta da documenta\u00e7\u00e3o do im\u00f3vel disponibilizada.",
+        "areaUtilPrivativa": 91.09,
+        "areaUtilDependente": 15.5,
+        "areaTotal": 106.59,
+        "morada": "Rua Jos\u00e9 R\u00e9gio, Monte Abra\u00e3o",
+        "moradaNumero": "6A e 6B",
+        "moradaAndar": "6\u00ba-A",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Massam\u00e1 e Monte Abra\u00e3o",
+        "moradaCP": "2745-892",
+        "coordenadasLAT": "38.76528111",
+        "coordenadasLON": "-9.26282708",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71903,
+        "processoNumero": "1872/21.0T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 105956,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"220911274\", \"nome\":\"Yuri Emanuel Rolinha Pimentel\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 912,
+        "cerimoniaData": "2024-04-17T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 155,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5148",
+        "gestorNome": "PAULO JORGE BRITO",
+        "gestorEmail": "5148@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:34:18",
+        "dataAtualizacao": "2024-03-20T10:34:18",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105956/05032024153848_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105956/05032024153848_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105956/05032024153838_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105956/05032024153838_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105956/05032024153840_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105956/05032024153840_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105956/05032024153841_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105956/05032024153841_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105956/05032024153843_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105956/05032024153843_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105956/05032024153845_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105956/05032024153845_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105956/05032024153847_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105956/05032024153847_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105956/05032024153850_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105956/05032024153850_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105956/05032024153859_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105956/05032024153859_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105956/05032024153900_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105956/05032024153900_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105956/05032024153904_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105956/05032024153904_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105956/05032024153906_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105956/05032024153906_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105956/05032024153907_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105956/05032024153907_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105956/05032024153910_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105956/05032024153910_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 33755,
+                "numero": "34",
+                "fracao": "AX",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "07 - Queluz",
+                "artigos": [
+                    {
+                        "numero": "1458",
+                        "tipo": "urbana",
+                        "fracao": "AX",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "25 - Uni\u00e3o das freguesias de Massam\u00e1 e Monte Abra\u00e3o"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

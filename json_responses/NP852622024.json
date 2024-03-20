@@ -1,0 +1,150 @@
+{
+    "item": {
+        "id": 133808,
+        "origem": 206515,
+        "lanceAtual": 41990.75,
+        "lanceAtualId": 11843,
+        "dataInicio": "2024-02-01T15:31:49",
+        "dataFimInicial": "2024-04-02T14:30:00",
+        "dataFim": "2024-04-02T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP852622024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_91076/02112022153017_800sm.jpg",
+        "titulo": "1/2 DE T3 EM ALGUEIR\u00c3O-MEM MARTINS",
+        "valorBase": 83150.0,
+        "valorAbertura": 41575.0,
+        "valorMinimo": 70677.5,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "1/2 da Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"L\" correspondente \u00e0 PRIMEIRA CAVE letra A do pr\u00e9dio urbano sito na rua Professor Agostinhoda Silva,  Freguesia de Algueir\u00e3o-Mem Martins e concelho de Sintra, descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Sintra, sob o n\u00ba 1808 da dita freguesia, e inscrita na respectiva matriz sob o artigo 9525. Chave de acesso \u00e0 certid\u00e3o permanente:\r\nGP-2165-84361-111102-001808",
+        "observacoes": "im\u00f3vel bem situado e bem localizado em termos de acesso a escolas, servi\u00e7os e transportes.\r\nO Apartamento para al\u00e9m das fotos tem 3 quartos, que a co-propriet\u00e1ria n\u00e3o permitiu a recolha de registo fotogr\u00e1fico porque os filhos estariam nos quartos e queria privacidade desse espa\u00e7o. \r\n\r\n ADVERT\u00caNCIA: As \u00e1reas e descri\u00e7\u00e3o do im\u00f3vel no presente an\u00fancio, t\u00eam por base, as descritas na certid\u00e3o predial e matricial respetivas. No entanto, os interessados em licitar, dever\u00e3o aferir previamente, por todos os meios dispon\u00edveis, se o im\u00f3vel est\u00e1 de acordo com os seus interesses de aquisi\u00e7\u00e3o. A falta desta averigua\u00e7\u00e3o, por parte dos licitantes, n\u00e3o determina nos termos legais, a anula\u00e7\u00e3o da venda. Os interessados em licitar o bem, devem consultar previamente o site www.e-leiloes.pt, por forma a informarem-se, de forma consciente, das regras dos leil\u00f5es e consequ\u00eancias legais das suas licita\u00e7\u00f5es. A presente venda, por ser concretizada em processo executivo, est\u00e1 dispensada da obriga\u00e7\u00e3o da Obten\u00e7\u00e3o de Certificado Energ\u00e9tico dos Edif\u00edcios, assim como da obten\u00e7\u00e3o/exibi\u00e7\u00e3o da Licen\u00e7a de Utiliza\u00e7\u00e3o.",
+        "areaUtilPrivativa": 135.21,
+        "areaUtilDependente": 54.83,
+        "areaTotal": 135.21,
+        "morada": "Rua Professor Agostinho da Silva, Tapada das Merc\u00eas",
+        "moradaNumero": "33",
+        "moradaAndar": "1 cv",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Algueir\u00e3o-Mem Martins",
+        "moradaCP": "2725-528",
+        "coordenadasLAT": "38.79697602",
+        "coordenadasLON": "-9.33238407",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 6780,
+        "processoNumero": "1937/14.5T2SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Inst. Central - 1\u00aa Sec\u00e7\u00e3o de Execu\u00e7\u00e3o - J3",
+        "verbaId": 91076,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"232650810\", \"nome\":\"Sebasti\u00e3o Costa Jo\u00e3o\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 269,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4874",
+        "gestorNome": "MAGDA VIANA",
+        "gestorEmail": "4874@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:00:56",
+        "dataAtualizacao": "2024-02-12T20:00:56",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91076/02112022153017_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91076/02112022153017_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91076/02112022153009_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91076/02112022153009_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91076/02112022153011_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91076/02112022153011_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91076/02112022153013_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91076/02112022153013_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91076/02112022153014_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91076/02112022153014_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91076/02112022153015_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91076/02112022153015_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91076/02112022153018_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91076/02112022153018_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91076/02112022153019_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91076/02112022153019_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91076/02112022153021_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91076/02112022153021_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91076/02112022153022_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91076/02112022153022_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91076/21112022114030_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91076/21112022114030_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_91076/21112022114032_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_91076/21112022114032_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Apenas est\u00e1 a ser vendida metade do im\u00f3vel",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

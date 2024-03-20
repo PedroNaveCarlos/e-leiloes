@@ -1,0 +1,189 @@
+{
+    "item": {
+        "id": 135921,
+        "origem": 208870,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-02-27T13:57:47",
+        "dataFimInicial": "2024-04-16T14:30:00",
+        "dataFim": "2024-04-16T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP864842024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 3,
+        "capa": "files/Verbas_Fotos/verba_93572/16012024161946_800sm.jpg",
+        "titulo": "*USUFRUTO DE UM T-1 EM MAFRA*",
+        "valorBase": 50000.0,
+        "valorAbertura": 25000.0,
+        "valorMinimo": 42500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T1",
+        "descricao": "Direito Real de Usufruto que a executada Marie Cristine Therese Madeleine Debrabawder det\u00e9m sobre a fra\u00e7\u00e3o aut\u00f3noma identificada pela letra \"I\", destinada a habita\u00e7\u00e3o, situada no 3.\u00ba andar esquerdo, com um lugar de estacionamento na cave, fazendo parte de um pr\u00e9dio urbano submetido ao regime da propriedade horizontal situado na Rua Cidade de Fehel n.\u00ba 4 e Rua Caminho do Pinheiro n.\u00ba 1, na freguesia e concelho de Mafra, descrito na competente Conservat\u00f3ria do Registo Predial sob o n\u00famero 1128 - Mafra e inscrito na matriz predial urbana da referida freguesia sob o artigo 5685.\u00ba - fra\u00e7\u00e3o \"I\", com o valor patrimonial atual de \u20ac 49.938,00;",
+        "observacoes": "A Usufrutu\u00e1ria Marie Cristine Therese Madeleine Debrabawder tem 59 anos de idade; Acrescenta-se que a executada n\u00e3o autorizou a recolha de fotografias do interior do im\u00f3vel, sendo certo que se verificou que o im\u00f3vel se encontra num estado de conserva\u00e7\u00e3o muito razo\u00e1vel. Chama-se a aten\u00e7\u00e3o para o facto de o usufruto ter sido constitu\u00eddo a favor do casal, constando tamb\u00e9m como usufrutu\u00e1rio Manuel do Nascimento Anast\u00e1cio Caramez cujo direito real de usufruto n\u00e3o se mostra aqui \u00e0 venda; \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o pr\u00e9via do estado de conserva\u00e7\u00e3o do bem que se prop\u00f5e adquirir pelo que, antes de apresentar proposta, deve assegurar-se que o mesmo corresponde \u00e0s suas expectativas e se encontra nas condi\u00e7\u00f5es pretendidas. O bem \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados a verifica\u00e7\u00e3o pr\u00e9via do estado de conserva\u00e7\u00e3o do bem ou quaisquer outros elementos relevantes do seu interesse; Nos termos da Lei, a falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina a anula\u00e7\u00e3o da venda. Para efeitos de visitas ao local, dever\u00e1 ser contactado o Fiel Deposit\u00e1rio cujo contacto se encontra dispon\u00edvel no separador pr\u00f3prio e acess\u00edvel ap\u00f3s a devida autentica\u00e7\u00e3o na plataforma;",
+        "areaUtilPrivativa": 60.0,
+        "areaUtilDependente": 20.0,
+        "areaTotal": 80.0,
+        "morada": "Rua Caminho do Pinheiro",
+        "moradaNumero": "1",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Mafra",
+        "moradaFreguesia": "Mafra",
+        "moradaCP": "2640-434",
+        "coordenadasLAT": "38.94257796",
+        "coordenadasLON": "-9.33106947",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 63910,
+        "processoNumero": "15346/21.6T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 4",
+        "verbaId": 93572,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"227604199\", \"nome\":\"Marie Cristine Therese Madeleine Debrabander\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 20,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3288",
+        "gestorNome": "VITOR DE OLIVEIRA GON\u00c7ALVES",
+        "gestorEmail": "3288@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:33:16",
+        "dataAtualizacao": "2024-03-20T10:33:16",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161946_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161946_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161904_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161904_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161906_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161906_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161908_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161908_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161910_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161910_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161912_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161912_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161914_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161914_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161916_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161916_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161919_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161919_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161921_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161921_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161923_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161923_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161925_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161925_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161927_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161927_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161929_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161929_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161931_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161931_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161941_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161941_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_93572/16012024161943_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_93572/16012024161943_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 26396,
+                "numero": "1128/19880126",
+                "fracao": "I",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "09 - Mafra",
+                "freguesiaDesc": "09 - Mafra",
+                "artigos": [
+                    {
+                        "numero": "5685",
+                        "tipo": "urbana",
+                        "fracao": "I",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "09 - Mafra",
+                        "freguesiaDesc": "09 - Mafra"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

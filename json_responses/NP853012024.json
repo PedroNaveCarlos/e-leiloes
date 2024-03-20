@@ -1,0 +1,150 @@
+{
+    "item": {
+        "id": 133851,
+        "origem": 206575,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-02-02T08:46:01",
+        "dataFimInicial": "2024-03-05T14:30:00",
+        "dataFim": "2024-03-05T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP853012024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_9849/24062017102809_800sm.jpg",
+        "titulo": "Apartamento T2 - Arruda dos Vinhos",
+        "valorBase": 150000.0,
+        "valorAbertura": 75000.0,
+        "valorMinimo": 127500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra \"B\" do pr\u00e9dio urbano submetido ao regime de propriedade horizontal sito na Rua da Ch\u00e3, n.\u00ba 10 r\u00e9s-do-ch\u00e3o d,em Arranh\u00f3, Arruda dos Vinhos, descrita na Conservat\u00f3ria dos Registo Predial de Arruda dos Vinhos , sob a ficha 1951 \u201cB\u201d da Freguesia de Arranh\u00f3 e inscrito na respectiva matriz sob o artigo 2309\u00ba da referida freguesia.",
+        "observacoes": "O im\u00f3vel encontra-se habitado pelo Senhor Dion\u00edsio Carvalho, inquilino h\u00e1 pelo menos 10 anos.\r\nN\u00e3o foi facultado contrato de arrendamento, no entanto, apurou a AE que o valor de renda mensal \u00e9 de \u20ac 300.00 (trezentos Euros).\r\nFoi constitu\u00eddo fiel deposit\u00e1rio do bem o Senhor Dion\u00edsio, e ficou estabelecido regime de visitas.",
+        "areaUtilPrivativa": 69.815,
+        "areaUtilDependente": 16.25,
+        "areaTotal": 86.065,
+        "morada": "Rua Ch\u00e3",
+        "moradaNumero": "10",
+        "moradaAndar": "R/C. D",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Arruda dos Vinhos",
+        "moradaFreguesia": "Arranh\u00f3",
+        "moradaCP": "2630-041",
+        "coordenadasLAT": "38.95190040",
+        "coordenadasLON": "-9.13170599",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 8115,
+        "processoNumero": "1335/13.8TBVFX",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Inst. Central - Sec\u00e7\u00e3o de Execu\u00e7\u00e3o - J3",
+        "verbaId": 9849,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"118360582\", \"nome\":\"Jos\u00e9 Raimundo Lopes\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 77,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4200",
+        "gestorNome": "CL\u00c1UDIA RODRIGUES",
+        "gestorEmail": "4200@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:51:07",
+        "dataAtualizacao": "2024-02-12T19:51:07",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_9849/24062017102809_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_9849/24062017102809_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_9849/24062017102744_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_9849/24062017102744_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_9849/24062017102746_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_9849/24062017102746_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_9849/24062017102749_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_9849/24062017102749_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_9849/24062017102752_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_9849/24062017102752_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_9849/24062017102755_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_9849/24062017102755_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_9849/24062017102758_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_9849/24062017102758_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_9849/24062017102801_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_9849/24062017102801_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_9849/24062017102804_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_9849/24062017102804_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_9849/24062017102807_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_9849/24062017102807_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_9849/24062017102813_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_9849/24062017102813_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_9849/24062017102816_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_9849/24062017102816_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "Arrendamento em vigor, renda mensal de \u20ac 300.00 (trezentos Euros).",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "links": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

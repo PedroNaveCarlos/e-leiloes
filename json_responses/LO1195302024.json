@@ -1,0 +1,199 @@
+{
+    "item": {
+        "id": 133625,
+        "origem": 204475,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-31T00:00:00",
+        "dataFimInicial": "2024-03-06T10:00:00",
+        "dataFim": "2024-03-06T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1195302024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_104023/12012024130214_800sm.jpg",
+        "titulo": "Fra\u00e7\u00e3o Aut\u00f3noma sito em Seixal",
+        "valorBase": 166000.0,
+        "valorAbertura": 83000.0,
+        "valorMinimo": 141100.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma J, composta por 2\u00ba andar Direito e arrecada\u00e7\u00e3o na cave, descrito na Conservat\u00f3ria do Registo Predial do Seixal sob o n\u00ba 1667/19890109 \u2013 J, da Uni\u00e3o de Freguesias Seixal, Arrentela e Aldeia de Paio Pires, concelho de Seixal, distrito de Set\u00fabal e inscrito na matriz sob o artigo 5137 da Uni\u00e3o de Freguesias Seixal, Arrentela e Aldeia de Paio Pires.",
+        "observacoes": "A Fra\u00e7\u00e3o Aut\u00f3noma corresponde \u00e0 verba 1 do Auto Penhora, \u00e9 vendida no estado f\u00edsico e jur\u00eddico em que se encontra. Em caso de adjudica\u00e7\u00e3o do bem, dever\u00e1 efetuar, no prazo de 15 dias ap\u00f3s a notifica\u00e7\u00e3o de dep\u00f3sito do pre\u00e7o, o pagamento do valor oferecido. \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. A falta de verifica\u00e7\u00e3o do estado do bem por parte do proponente n\u00e3o determina, nos termos legais a anula\u00e7\u00e3o da venda. Para visitas ao im\u00f3vel dever\u00e1 ser contactada a fiel deposit\u00e1ria, atrav\u00e9s dos contactos indicados no campo \"Visitas\", devendo as mesmas serem efetuadas por marca\u00e7\u00e3o.",
+        "areaUtilPrivativa": 67.78,
+        "areaUtilDependente": 2.53,
+        "areaTotal": 70.31,
+        "morada": "Praceta Patrony",
+        "moradaNumero": "2",
+        "moradaAndar": "2\u00ba Dt\u00ba",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Seixal",
+        "moradaFreguesia": "Uni\u00e3o das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",
+        "moradaCP": "2840-408",
+        "coordenadasLAT": "38.62029110",
+        "coordenadasLON": "-9.10162024",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70744,
+        "processoNumero": "6464/10.7TBSXL",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 104023,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"231905408\", \"nome\":\"JULIO CESAR MARINS DA COLONIA\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 899,
+        "cerimoniaData": "2024-03-06T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 442,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4009",
+        "gestorNome": "ALEXANDRA GOMES",
+        "gestorEmail": "4009@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:11:40",
+        "dataAtualizacao": "2024-02-12T20:11:40",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130214_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130214_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130142_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130142_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130146_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130146_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130151_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130151_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130155_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130155_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130157_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130157_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130159_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130159_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130201_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130201_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130202_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130202_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130204_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130204_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130206_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130206_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130207_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130207_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130209_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130209_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130211_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130211_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130212_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130212_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130216_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130216_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130218_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130218_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130222_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130222_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104023/12012024130224_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104023/12012024130224_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32584,
+                "numero": "1667",
+                "fracao": "J",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "10 - Seixal",
+                "freguesiaDesc": "03 - Arrentela",
+                "artigos": [
+                    {
+                        "numero": "5137",
+                        "tipo": "urbana",
+                        "fracao": "J",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "10 - Seixal",
+                        "freguesiaDesc": "07 - Uni\u00e3o das freguesias do Seixal, Arrentela e Aldeia de Paio Pires"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

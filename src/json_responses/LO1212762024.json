@@ -1,0 +1,151 @@
+{
+    "item": {
+        "id": 136340,
+        "origem": 208347,
+        "lanceAtual": 101000.0,
+        "lanceAtualId": 22208,
+        "dataInicio": "2024-03-04T00:00:04",
+        "dataFimInicial": "2024-04-10T10:30:00",
+        "dataFim": "2024-04-10T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1212762024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 3,
+        "capa": "files/Verbas_Fotos/verba_81961/21022024142345_800sm.jpg",
+        "titulo": "T1 - LISBOA (ARROIOS)",
+        "valorBase": 35000.0,
+        "valorAbertura": 17500.0,
+        "valorMinimo": 29750.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T1",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma designada pela letra \u201cA\u201d correspondente \u00e0 sub-cave, destinada a habita\u00e7\u00e3o, que faz parte do pr\u00e9dio urbano constitu\u00eddo sob o regime de propriedade horizontal, localizado na Rua Cidade de Manchester, n.\u00ba 41, freguesia S. Jorge de Arroios, concelho de Lisboa, inscrito na matriz predial urbana sob o artigo 3256 da freguesia de Arroios e descrito na C.R.P. de Lisboa sob o n\u00famero 2698 da freguesia de S. Jorge de Arroios.",
+        "observacoes": "Foi aferido o estado de conserva\u00e7\u00e3o do im\u00f3vel em 16/02/2022 encontrando-se em razo\u00e1vel estado de conserva\u00e7\u00e3o, apresentando alguns pontos de humidade e necessidade de pequena interven\u00e7\u00e3o na parede junto ao tecto da zona de cozinha. \r\nO Im\u00f3vel re\u00fane as condi\u00e7\u00f5es para habitabilidade.\r\nComposi\u00e7\u00e3o: Entrada: descida para escada de madeira \u00edngreme para piso inferior; 1 pequena divis\u00e3o interior(quarto arrumos), 1 pequena divis\u00e3o interior junto escada de descida; 1divis\u00e3o ampla onde se localiza zona de cozinha, sala e acesso pequeno quarto e wc.\r\nPossui ainda acesso a um logradouro que n\u00e3o consta nas \u00e1reas da matriz.\r\nAs \u00e1reas indicadas servem apenas como refer\u00eancia pois n\u00e3o foram feitas medi\u00e7\u00f5es exactas no local. \r\nO im\u00f3vel est\u00e1 arrendado com contrato de arrendamento celebrado em 01/01/2020, pelo prazo de 12 meses, renov\u00e1vel por iguais e sucessivos per\u00edodos de tempo se n\u00e3o for revogado pelas partes - O contrato n\u00e3o est\u00e1 participado nas finan\u00e7as.\r\nO valor da renda mensal \u00e9 de 575,00 \u20ac\r\nAs \u00e1reas indicadas s\u00e3o baseadas na certid\u00e3o matricial, n\u00e3o sendo respons\u00e1vel o Tribunal, caso exista, por quaisquer diverg\u00eancias.\r\nA verba \u00e9 vendida no estado f\u00edsico, jur\u00eddico e documental em que se encontra, sem garantias de quaisquer v\u00edcios que possam surgir ou que eventualmente existam\r\n\r\nAntes de efectuarem propostas, os eventuais interessados devem inteirar-se das qualidades, condi\u00e7\u00f5es e caracter\u00edsticas, licen\u00e7as e outros aspectos que considerem relevantes, do(s) bem(ns). \r\n\u00c9 da \u00fanica responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir, pelo que dever\u00e1, se assim entender, antes de apresentar proposta assegurar-se que o mesmo corresponde as suas expectativas e que e encontra nas condi\u00e7\u00f5es pretendidas, uma vez que, com apresenta\u00e7\u00e3o de proposta, presume-se que o proponente tenha inspeccionado o bem supra descrito, e conhece as suas caracter\u00edsticas e consequentemente, declina qual responsabilidade pelo seu estado de conserva\u00e7\u00e3o e nos casos aplic\u00e1veis, do seu eventual funcionamento.\r\n\r\nA n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda.\r\nDever\u00e1, igualmente, ter em considera\u00e7\u00e3o que, atendendo \u00e0s especificidades da venda e ao facto do bem n\u00e3o estar na posse do Agente de Execu\u00e7\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel ao fiel deposit\u00e1rio.",
+        "areaUtilPrivativa": 50.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 50.0,
+        "morada": "Rua Cidade de Manchester",
+        "moradaNumero": "41",
+        "moradaAndar": "SUB-CAVE",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lisboa",
+        "moradaFreguesia": "Arroios",
+        "moradaCP": "1170-099",
+        "coordenadasLAT": "38.72768317",
+        "coordenadasLON": "-9.13253125",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 56711,
+        "processoNumero": "2164/18.8T8SXL-A",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Seixal - Ju\u00edzo Fam. Menores - Juiz 1",
+        "verbaId": 81961,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"195536053\", \"nome\":\"LUIS MANUEL DE ALMEIDA GAIO\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 908,
+        "cerimoniaData": "2024-04-10T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 226,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2154",
+        "gestorNome": "Pedro Gon\u00e7alves",
+        "gestorEmail": "2154@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:28:36",
+        "dataAtualizacao": "2024-03-20T10:28:36",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81961/21022024142345_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81961/21022024142345_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81961/16022022141513_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81961/16022022141513_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81961/16022022141515_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81961/16022022141515_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81961/16022022141517_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81961/16022022141517_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81961/16022022141518_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81961/16022022141518_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81961/16022022141520_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81961/16022022141520_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81961/16022022141523_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81961/16022022141523_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81961/16022022141525_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81961/16022022141525_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81961/16022022141526_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81961/16022022141526_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81961/21022024142347_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81961/21022024142347_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81961/21022024142349_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81961/21022024142349_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81961/21022024142351_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81961/21022024142351_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_81961/21022024142353_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_81961/21022024142353_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

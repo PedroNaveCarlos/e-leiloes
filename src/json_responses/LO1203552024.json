@@ -1,0 +1,298 @@
+{
+    "item": {
+        "id": 135871,
+        "origem": 206366,
+        "lanceAtual": 189200.36,
+        "lanceAtualId": 12913,
+        "dataInicio": "2024-02-26T23:59:59",
+        "dataFimInicial": "2024-04-03T11:00:00",
+        "dataFim": "2024-04-03T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1203552024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 7,
+        "capa": "files/Verbas_Fotos/verba_90354/14102022160419_800sm.jpg",
+        "titulo": "Moradia em S. Domingos de Rana",
+        "valorBase": 352941.18,
+        "valorAbertura": 176470.59,
+        "valorMinimo": 300000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T5",
+        "descricao": "Pr\u00e9dio urbano sito na Rua das Beiras, n\u00ba 37, em Cabe\u00e7o de Mouro, na freguesia de S. Domingos de Rana, descrito na 1\u00aa Conservat\u00f3ria do Registo Predial de Cascais sob o n\u00ba 9717, e inscrito na matriz sob o artigo 13080\u00ba.",
+        "observacoes": "As visitas apenas podem ser realizadas aos S\u00e1bados a partir das 15h mas sempre com marca\u00e7\u00e3o pr\u00e9via com o executado Ant\u00f3nio Tom\u00e9.\r\nOs eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas e outros aspectos que considerem relevantes, do(s) bem(s). \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. O im\u00f3vel \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisi\u00e7\u00e3o que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.",
+        "areaUtilPrivativa": 366.0,
+        "areaUtilDependente": 20.0,
+        "areaTotal": 386.0,
+        "morada": "Rua Beiras",
+        "moradaNumero": "37",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Cascais",
+        "moradaFreguesia": "S\u00e3o Domingos de Rana",
+        "moradaCP": "2785-091",
+        "coordenadasLAT": "38.71635705",
+        "coordenadasLON": "-9.33451023",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 6906,
+        "processoNumero": "5178/10.2TBCSC",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Oeiras - Inst. Central - 2\u00aa Sec\u00e7\u00e3o de Execu\u00e7\u00e3o - J2",
+        "verbaId": 90354,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"122491300\", \"nome\":\"Ant\u00f3nio Barata Tom\u00e9\", \"requerido\":\"False\"},{\"nif\":\"122491319\", \"nome\":\"Belmira Neves Dias Barata Tom\u00e9\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 905,
+        "cerimoniaData": "2024-04-03T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 574,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3610",
+        "gestorNome": "Paula Luis Alves",
+        "gestorEmail": "3610@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "218411040",
+        "gestorFax": "",
+        "gestorMorada": "AV. Guerra Junqueiro, n\u00ba 5, 3\u00ba Dto.",
+        "gestorHorario": "2\u00aa a 6\u00aa feira\r\nDas 9h00 \u00e0s 13h00",
+        "dataServidor": "2024-03-20T10:25:11",
+        "dataAtualizacao": "2024-03-20T10:25:11",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160419_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160419_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160223_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160223_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160225_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160225_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160228_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160228_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160231_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160231_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160235_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160235_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160238_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160238_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160241_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160241_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160244_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160244_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160247_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160247_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160250_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160250_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160253_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160253_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160256_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160256_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160300_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160300_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160303_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160303_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160305_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160305_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160309_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160309_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160312_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160312_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160315_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160315_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160317_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160317_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160320_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160320_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160323_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160323_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160326_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160326_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160329_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160329_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160332_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160332_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160336_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160336_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160340_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160340_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160345_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160345_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160349_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160349_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160352_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160352_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160356_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160356_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160400_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160400_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160403_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160403_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160406_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160406_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160409_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160409_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022160415_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022160415_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_90354/14102022161900_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_90354/14102022161900_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "2015-02-01",
+                "valor": 200.0,
+                "dataPrazo": "2027-02-01",
+                "descricao": "",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 23918,
+                "numero": "9717",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "05 - Cascais",
+                "freguesiaDesc": "06 - S. Domingos de Rana",
+                "artigos": [
+                    {
+                        "numero": "13080",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "05 - Cascais",
+                        "freguesiaDesc": "06 - S\u00e3o Domingos de Rana"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

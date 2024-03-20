@@ -1,0 +1,318 @@
+{
+    "item": {
+        "id": 133486,
+        "origem": 206144,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-29T16:24:31",
+        "dataFimInicial": "2024-04-02T14:30:00",
+        "dataFim": "2024-04-02T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP850262024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 3,
+        "capa": "files/Verbas_Fotos/verba_102037/31102023120759_800sm.jpg",
+        "titulo": "Moradia em Sacotes - Mem Martins",
+        "valorBase": 119052.94,
+        "valorAbertura": 59526.47,
+        "valorMinimo": 101195.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T1",
+        "descricao": "Pr\u00e9dio Urbano sito na Rua dos Capuchos, n\u00ba 5 - Sacotes, freguesia de Algueir\u00e3o-Mem Martins, concelho de Sintra, descrito na 1\u00aa CRP de Sintra sob o n\u00ba 2167 e inscrito na matriz predial urbana sobre o artigo matricial 31.",
+        "observacoes": "O im\u00f3vel encontra-se em mau estado de conserva\u00e7\u00e3o. Precisa de obras.\r\nO im\u00f3vel encontra-se desabitado. Tendo o signat\u00e1rio a posse do mesmo.\r\n\r\n\r\nCom a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspecionado o im\u00f3vel e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o. O im\u00f3vel \u00e9 vendido no estado que se encontra pelo que os interessados devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta por parte do proponente n\u00e3o determina, nos termos legais a anula\u00e7\u00e3o da venda. Informo ainda que a tipologia tem por base a informa\u00e7\u00e3o constante da caderneta predial urbana.",
+        "areaUtilPrivativa": 54.7,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 54.7,
+        "morada": "Rua Capuchos, Sacotes",
+        "moradaNumero": "5",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Algueir\u00e3o-Mem Martins",
+        "moradaCP": "2725-511",
+        "coordenadasLAT": "38.81079066",
+        "coordenadasLON": "-9.34303999",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69410,
+        "processoNumero": "20798/16.3T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 102037,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"182538478\", \"nome\":\"ANTONIO DIAS DOS SANTOS JUNIOR\", \"requerido\":\"False\"},{\"nif\":\"179222481\", \"nome\":\"ELDINA MARGARIDA FERREIRA DA COSTA DIAS DOS SANTOS\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 209,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2822",
+        "gestorNome": "C\u00e9sar Manuel Neto Belchior",
+        "gestorEmail": "2822@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:00:24",
+        "dataAtualizacao": "2024-02-12T20:00:24",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023120759_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023120759_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023120820_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023120820_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023120828_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023120828_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121111_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121111_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121117_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121117_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121133_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121133_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121140_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121140_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121146_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121146_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121153_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121153_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121259_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121259_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121310_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121310_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121317_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121317_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121331_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121331_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121353_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121353_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121359_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121359_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121409_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121409_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121430_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121430_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121436_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121436_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121442_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121442_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121448_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121448_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121505_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121505_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121512_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121512_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121524_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121524_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121600_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121600_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121606_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121606_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121614_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121614_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121628_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121628_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121720_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121720_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121727_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121727_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121737_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121737_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121802_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121802_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121808_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121808_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121814_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121814_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121820_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121820_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121827_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121827_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121834_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121834_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121919_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121919_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121924_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121924_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121930_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121930_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121936_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121936_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121943_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121943_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121950_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121950_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102037/31102023121957_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102037/31102023121957_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31500,
+                "numero": "2167",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "02 - Algueir\u00e3o-mem Martins",
+                "artigos": [
+                    {
+                        "numero": "31",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "02 - Algueir\u00e3o-Mem Martins"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

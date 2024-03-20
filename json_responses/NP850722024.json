@@ -1,0 +1,181 @@
+{
+    "item": {
+        "id": 133588,
+        "origem": 206227,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-30T16:25:02",
+        "dataFimInicial": "2024-04-02T14:30:00",
+        "dataFim": "2024-04-02T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP850722024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_97758/22052023171831_800sm.jpg",
+        "titulo": "Casa de Habita\u00e7\u00e3o r/c e 1\u00ba andar - Atalaia - Alenquer",
+        "valorBase": 69489.42,
+        "valorAbertura": 34744.71,
+        "valorMinimo": 59066.01,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "T2",
+        "descricao": "Casa de habita\u00e7\u00e3o de r\u00e9s do ch\u00e3o e 1\u00ba andar, sito Largo do Rato 1, lugar de Atalaia, freguesia de Ventosa, concelho de Alenquer, descrita na Conservat\u00f3ria do Registo Predial sob o n\u00ba 1070 da freguesia de Ventosa e inscrita na matriz sob o artigo 3072 da freguesia de Ventosa.",
+        "observacoes": "O im\u00f3vel encontra-se arrendado. \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem im\u00f3vel a adquirir, no entanto o mesmo de dever\u00e1 assegurar-se que o bem im\u00f3vel corresponde \u00e0s suas expectativas e se encontra nas condi\u00e7\u00f5es desejadas. O im\u00f3vel \u00e9 vendido no estado em que se encontra pelo que os interessados na aquisi\u00e7\u00e3o que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda, n\u00e3o poder\u00e1 assim ser motivo invoc\u00e1vel de nulidade de venda. Os interessados em visitar o im\u00f3vel devem faz\u00ea-lo directamente no local ao fiel deposit\u00e1rios. A presente descri\u00e7\u00e3o n\u00e3o dispensa a constata\u00e7\u00e3o presencial do estado de conserva\u00e7\u00e3o do bem, sendo o agente de execu\u00e7\u00e3o alheio a qualquer altera\u00e7\u00e3o das condi\u00e7\u00f5es f\u00edsicas do im\u00f3vel. A verba \u00e9 vendida no estado f\u00edsico, jur\u00eddico e documental em que se encontra. Advertem-se os potenciais interessados que o recheio da habita\u00e7\u00e3o n\u00e3o faz parte do objecto negocial. \u00c9 da \u00fanica e exclusiva responsabilidade dos proponentes a verifica\u00e7\u00e3o do estado do pr\u00e9dio a adquirir, pelo que, antes de apresentar proposta, dever\u00e1 verificar se o mesmo corresponde \u00e0s suas expectativas e condi\u00e7\u00f5es previstas pelo adquirente. A falta desta verifica\u00e7\u00e3o por parte dos proponentes n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda. Dever\u00e1 ter em considera\u00e7\u00e3o que, atendendo \u00e0 natureza da venda e ao facto de o bem n\u00e3o ser entregue no momento da adjudica\u00e7\u00e3o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es cuja responsabilidade apenas ser\u00e1 imput\u00e1vel aos fieis deposit\u00e1rios. A presente venda est\u00e1 dispensada da apresenta\u00e7\u00e3o do alvar\u00e1 de licen\u00e7a de utiliza\u00e7\u00e3o do pr\u00e9dio, certificado energ\u00e9tico e ficha t\u00e9cnica de habita\u00e7\u00e3o, pelo que, constitui \u00f3nus do adquirente a respectiva legaliza\u00e7\u00e3o do im\u00f3vel, se for caso disso. Deve ter em aten\u00e7\u00e3o que existem v\u00e1rios acontecimentos que podem ditar um desfecho diverso do expect\u00e1vel, a saber: a) Eventual exerc\u00edcio do direito de remi\u00e7\u00e3o; b) Eventual exerc\u00edcio do direito de prefer\u00eancia; c) Insolv\u00eancia dos executados; d) Pagamento da d\u00edvida; e) Eventual verifica\u00e7\u00e3o de irregularidades que ditem a invalidade da venda. Todos os custos inerentes \u00e0 celebra\u00e7\u00e3o da respectiva escritura de compra e venda ser\u00e3o suportados pelo adquirente.",
+        "areaUtilPrivativa": 124.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 62.0,
+        "morada": "Ventosa",
+        "moradaNumero": "1",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Alenquer",
+        "moradaFreguesia": "Ventosa",
+        "moradaCP": "2580-401",
+        "coordenadasLAT": "39.11759297",
+        "coordenadasLON": "-9.09305354",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 66574,
+        "processoNumero": "470/12.4TBCDV",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 97758,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"110010043\", \"nome\":\"Ant\u00f3nio Manuel Pereira\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 215,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "3969",
+        "gestorNome": "Raquel Maria Oliveira Azevedo",
+        "gestorEmail": "3969@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:00:43",
+        "dataAtualizacao": "2024-02-12T20:00:43",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97758/22052023171831_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97758/22052023171831_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97758/22052023171833_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97758/22052023171833_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97758/22052023171835_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97758/22052023171835_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97758/22052023171838_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97758/22052023171838_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97758/22052023171840_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97758/22052023171840_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97758/22052023171842_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97758/22052023171842_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97758/22052023171845_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97758/22052023171845_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97758/22052023171847_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97758/22052023171847_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97758/22052023171849_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97758/22052023171849_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97758/22052023171852_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97758/22052023171852_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97758/22052023171854_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97758/22052023171854_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97758/22052023171856_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97758/22052023171856_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97758/22052023171858_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97758/22052023171858_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_97758/22052023171901_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_97758/22052023171901_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "2015-01-14",
+                "valor": 180.0,
+                "dataPrazo": "9999-01-01",
+                "descricao": "O contrato de arrendamento \u00e9 de dura\u00e7\u00e3o indeterminada, n\u00e3o tem prazo. Foi preenchido o campo \"data Prazo\" por ser obrigat\u00f3rio.",
+                "tipoDesc": "arrendamento"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 28846,
+                "numero": "1070",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "01 - Alenquer",
+                "freguesiaDesc": "13 - Ventosa",
+                "artigos": [
+                    {
+                        "numero": "3072",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "01 - Alenquer",
+                        "freguesiaDesc": "13 - Ventosa"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

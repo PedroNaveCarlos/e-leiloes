@@ -1,0 +1,240 @@
+{
+    "item": {
+        "id": 134239,
+        "origem": 205484,
+        "lanceAtual": 64559.64,
+        "lanceAtualId": 33151,
+        "dataInicio": "2024-02-08T00:00:02",
+        "dataFimInicial": "2024-02-28T10:30:00",
+        "dataFim": "2024-02-28T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1200182024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_104206/17012024203555_800sm.jpg",
+        "titulo": "Apartamento T3 - Impasse Ilha Graciosa - Agualva-Cac\u00e9m",
+        "valorBase": 62773.06,
+        "valorAbertura": 31386.53,
+        "valorMinimo": 53357.1,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Divis\u00e3o de Coisa Comum: \"Fra\u00e7\u00e3o aut\u00f3noma designada pela letra A, a que corresponde o R/CH A, destinado a habita\u00e7\u00e3o, composto de sala, 3 quartos, 2 WCs., hall, corredor, cozinha e roupeiros, do pr\u00e9dio urbano, em regime de propriedade horizontal, sito no Impasse Ilha da Graciosa, N\u00ba 3 R/C A, em Agualva-Cac\u00e9m, descrito na Conservat\u00f3ria do Registo Predial de Agualva-Cac\u00e9m, sob o N\u00ba 266, da freguesia do Cac\u00e9m e inscrito na matriz urbana, sob o Art\u00ba 1147, da UF Cac\u00e9m e S\u00e3o Marcos\".",
+        "observacoes": "Im\u00f3vel bem localizado, perto de com\u00e9rcio, servi\u00e7os, transportes e escolas.\r\nIm\u00f3vel em  razo\u00e1vel estado de conserva\u00e7\u00e3o, necessitando de pequenas obras de repara\u00e7\u00e3o e/ou remodela\u00e7\u00e3o. \u00c9 da \u00fanica e exclusiva responsabilidade dos licitantes a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que, ao apresentar proposta presume-se que o licitante tenha inspecionado o im\u00f3vel, conhece as suas caracter\u00edsticas e que o mesmo corresponde \u00e0s suas expectativas e se encontra nas condi\u00e7\u00f5es pretendidas.  O im\u00f3vel \u00e9 vendido no estado em que se encontra. Advertem-se os licitantes que o estado de conserva\u00e7\u00e3o n\u00e3o poder\u00e1 ser motivo invoc\u00e1vel para alegar a nulidade da venda.\r\nAs visitas dever\u00e3o ser  solicitadas, mediante envio de e-mail, para o Fiel Deposit\u00e1rio, sendo o agendamento efetuado conforme disponibilidade do mesmo para o efeito.  N\u00e3o ser\u00e3o agendadas visitas nos 5 dias \u00fateis antes da data do fim do leil\u00e3o. \r\nO im\u00f3vel encontra-se habitado pelo Executada fiel deposit\u00e1rio.",
+        "areaUtilPrivativa": 90.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 90.0,
+        "morada": "Impasse Ilha da Graciosa",
+        "moradaNumero": "3",
+        "moradaAndar": "R/C A",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias do Cac\u00e9m e S\u00e3o Marcos",
+        "moradaCP": "2735-277",
+        "coordenadasLAT": "38.76861488293879",
+        "coordenadasLON": "-9.312758445739746",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70851,
+        "processoNumero": "16480/19.8T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - JL C\u00edvel - Juiz 5",
+        "verbaId": 104206,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"210040700\", \"nome\":\"Alexandre Manuel Campos Castanhas\", \"requerido\":\"True\"}]",
+        "cerimoniaId": 897,
+        "cerimoniaData": "2024-02-28T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 414,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2848",
+        "gestorNome": "Vanda Esteves Dias Fernandes",
+        "gestorEmail": "2848@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:49:07",
+        "dataAtualizacao": "2024-02-12T19:49:07",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "T3 - Agualva Cac\u00e9m",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203555_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203555_200.jpg"
+            },
+            {
+                "legenda": "Entrada - Pr\u00e9dio",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203542_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203542_200.jpg"
+            },
+            {
+                "legenda": "Quarto",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203916_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203916_200.jpg"
+            },
+            {
+                "legenda": "Quarto",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203918_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203918_200.jpg"
+            },
+            {
+                "legenda": "Roupeiro",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203920_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203920_200.jpg"
+            },
+            {
+                "legenda": "Quarto",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203925_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203925_200.jpg"
+            },
+            {
+                "legenda": "Quarto",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203927_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203927_200.jpg"
+            },
+            {
+                "legenda": "Quarto",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203929_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203929_200.jpg"
+            },
+            {
+                "legenda": "Quarto",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203931_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203931_200.jpg"
+            },
+            {
+                "legenda": "Quarto",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203933_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203933_200.jpg"
+            },
+            {
+                "legenda": "Quarto",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203935_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203935_200.jpg"
+            },
+            {
+                "legenda": "WC",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203937_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203937_200.jpg"
+            },
+            {
+                "legenda": "WC",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203939_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203939_200.jpg"
+            },
+            {
+                "legenda": "WC",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203941_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203941_200.jpg"
+            },
+            {
+                "legenda": "WC",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203944_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203944_200.jpg"
+            },
+            {
+                "legenda": "Sala",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203951_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203951_200.jpg"
+            },
+            {
+                "legenda": "Sala",
+                "image": "files/Verbas_Fotos/verba_104206/17012024203955_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024203955_200.jpg"
+            },
+            {
+                "legenda": "Vista Exterior",
+                "image": "files/Verbas_Fotos/verba_104206/17012024204000_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024204000_200.jpg"
+            },
+            {
+                "legenda": "Cozinha",
+                "image": "files/Verbas_Fotos/verba_104206/17012024204003_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024204003_200.jpg"
+            },
+            {
+                "legenda": "Cozinha",
+                "image": "files/Verbas_Fotos/verba_104206/17012024204005_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024204005_200.jpg"
+            },
+            {
+                "legenda": "Entrada",
+                "image": "files/Verbas_Fotos/verba_104206/17012024204010_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024204010_200.jpg"
+            },
+            {
+                "legenda": "Sala",
+                "image": "files/Verbas_Fotos/verba_104206/17012024204013_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024204013_200.jpg"
+            },
+            {
+                "legenda": "Sala",
+                "image": "files/Verbas_Fotos/verba_104206/17012024204015_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024204015_200.jpg"
+            },
+            {
+                "legenda": "Sala",
+                "image": "files/Verbas_Fotos/verba_104206/17012024204018_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024204018_200.jpg"
+            },
+            {
+                "legenda": "Sala",
+                "image": "files/Verbas_Fotos/verba_104206/17012024204020_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024204020_200.jpg"
+            },
+            {
+                "legenda": "Corredor",
+                "image": "files/Verbas_Fotos/verba_104206/17012024204022_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/17012024204022_200.jpg"
+            },
+            {
+                "legenda": "Vista Exterior",
+                "image": "files/Verbas_Fotos/verba_104206/04022024155405_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104206/04022024155405_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32698,
+                "numero": "266",
+                "fracao": "A",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "19 - Cac\u00e9m",
+                "artigos": [
+                    {
+                        "numero": "1147",
+                        "tipo": "urbana",
+                        "fracao": "RCA",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "11 - Sintra",
+                        "freguesiaDesc": "24 - Uni\u00e3o das freguesias do Cac\u00e9m e S\u00e3o Marcos"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

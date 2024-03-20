@@ -1,0 +1,154 @@
+{
+    "item": {
+        "id": 134664,
+        "origem": 207416,
+        "lanceAtual": 126250.0,
+        "lanceAtualId": 58898,
+        "dataInicio": "2024-02-12T09:12:53",
+        "dataFimInicial": "2024-03-13T14:30:00",
+        "dataFim": "2024-03-13T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP857762024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_98563/20062023151118_800sm.jpg",
+        "titulo": "Apartamento T2 na Amadora",
+        "valorBase": 250000.0,
+        "valorAbertura": 125000.0,
+        "valorMinimo": 212500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"D\", destinada a habita\u00e7\u00e3o, de tipologia T2, correspondente ao 1\u00ba andar esquerdo, composta por cozinha, casa de banho, corredor, marquise e arrecada\u00e7\u00e3o, constitu\u00edda por uma \u00e1rea bruta privativa de 75m2 e \u00e1rea bruta dependente de 7,32m2, a qual faz parte do pr\u00e9dio urbano em regime de Propriedade Horizontal sito em Rua da Liberdade, N\u00bas 104 a 104C, 2650-202 Amadora, descrito na Conservat\u00f3ria do Registo Predial e Comercial da Amadora sob o n\u00ba 306 da freguesia da Brandoa, concelho da Amadora e distrito de Lisboa e inscrito na respetiva matriz com o artigo 1383, da freguesia da Brandoa, concelho da Amadora e distrito de Lisboa.",
+        "observacoes": "Procede-se \u00e0 venda deste im\u00f3vel, no \u00e2mbito da respetiva a\u00e7\u00e3o de divis\u00e3o de coisa comum, uma vez que a mesma foi determinada por decis\u00e3o judicial.",
+        "areaUtilPrivativa": 75.0,
+        "areaUtilDependente": 7.32,
+        "areaTotal": 82.32,
+        "morada": "Rua Liberdade",
+        "moradaNumero": "104",
+        "moradaAndar": "1\u00ba Esq",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Amadora",
+        "moradaFreguesia": "Encosta do Sol",
+        "moradaCP": "2650-202",
+        "coordenadasLAT": "38.76799874",
+        "coordenadasLON": "-9.21347526",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 67153,
+        "processoNumero": "5782/20.0T8SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Amadora - JL C\u00edvel - Juiz 2",
+        "verbaId": 98563,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"223895881\", \"nome\":\"Ludmilla Mendes Moreira\", \"requerido\":\"True\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 330,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4964",
+        "gestorNome": "V\u00cdTOR REBOUTA",
+        "gestorEmail": "4964@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:57:56",
+        "dataAtualizacao": "2024-02-12T19:57:56",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98563/20062023151118_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98563/20062023151118_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98563/20062023151055_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98563/20062023151055_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98563/20062023151058_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98563/20062023151058_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98563/20062023151102_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98563/20062023151102_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98563/20062023151104_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98563/20062023151104_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98563/20062023151108_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98563/20062023151108_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98563/20062023151110_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98563/20062023151110_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98563/20062023151113_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98563/20062023151113_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98563/20062023151116_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98563/20062023151116_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_98563/20062023151121_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_98563/20062023151121_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 29313,
+                "numero": "306",
+                "fracao": "D",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "15 - Amadora",
+                "freguesiaDesc": "02 - Brandoa",
+                "artigos": [
+                    {
+                        "numero": "1383",
+                        "tipo": "urbana",
+                        "fracao": "D",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "15 - Amadora",
+                        "freguesiaDesc": "14 - Encosta do Sol"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

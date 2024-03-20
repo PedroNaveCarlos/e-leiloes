@@ -1,0 +1,218 @@
+{
+    "item": {
+        "id": 137262,
+        "origem": 210306,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-03-12T16:15:47",
+        "dataFimInicial": "2024-05-14T14:30:00",
+        "dataFim": "2024-05-14T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP872462024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_92455/13122022153434_800sm.jpg",
+        "titulo": "Apartamento T2 - Vila Franca de Xira",
+        "valorBase": 150000.0,
+        "valorAbertura": 75000.0,
+        "valorMinimo": 127500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"C\" do pr\u00e9dio em regime de propriedade horizontal afeto a habita\u00e7\u00e3o sito na Rua Almeida Garret n.\u00ba 17 3\u00ba andar, Vila Franca de Xira, descrita na 1\u00aa Conservat\u00f3ria do Registo Predial de Vila Franca de Xira sob a ficha 347 - C - da freguesia de Vila Franca de Xira e inscrita na matriz predial urbana sob a matriz 3499\u00ba da referida freguesia.",
+        "observacoes": "Foi constitu\u00eddo fiel deposit\u00e1rio do im\u00f3vel o executado. \r\nOs interessados em visitar o Im\u00f3vel dever\u00e3o, previamente contactar o mesmo, atrav\u00e9s do contacto dispon\u00edvel para o efeito, no campo \"Visitas por Marca\u00e7\u00e3o\". Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas, licen\u00e7as e outros aspetos que considerem relevantes, do bem. A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda. Os interessados antes de efetuarem quaisquer propostas, devem consultar as regras de funcionamento e as Faq constantes no site www.e-leiloes.pt.",
+        "areaUtilPrivativa": 85.2,
+        "areaUtilDependente": 5.8,
+        "areaTotal": 91.0,
+        "morada": "Rua Almeida Garrett",
+        "moradaNumero": "17",
+        "moradaAndar": "3\u00ba",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Vila Franca de Xira",
+        "moradaFreguesia": "Vila Franca de Xira",
+        "moradaCP": "2600-095",
+        "coordenadasLAT": "38.95517875",
+        "coordenadasLON": "-8.98821309",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 63179,
+        "processoNumero": "2155/12.2TBVFX",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 92455,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"152532854\", \"nome\":\"Domingos Semedo Vaz Rodrigues\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 77,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4200",
+        "gestorNome": "CL\u00c1UDIA RODRIGUES",
+        "gestorEmail": "4200@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:38:41",
+        "dataAtualizacao": "2024-03-20T10:38:41",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153434_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153434_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153409_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153409_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153410_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153410_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153412_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153412_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153413_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153413_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153414_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153414_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153416_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153416_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153417_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153417_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153418_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153418_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153420_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153420_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153421_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153421_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153422_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153422_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153424_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153424_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153425_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153425_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153426_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153426_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153428_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153428_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153429_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153429_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153430_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153430_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153432_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153432_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153433_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153433_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153436_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153436_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153437_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153437_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_92455/13122022153438_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_92455/13122022153438_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 25369,
+                "numero": "347",
+                "fracao": "C",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "14 - Vila Franca de Xira",
+                "freguesiaDesc": "09 - Vila Franca de Xira",
+                "artigos": [
+                    {
+                        "numero": "3499",
+                        "tipo": "urbana",
+                        "fracao": "C",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "14 - Vila Franca de Xira",
+                        "freguesiaDesc": "09 - Vila Franca de Xira"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

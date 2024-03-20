@@ -1,0 +1,219 @@
+{
+    "item": {
+        "id": 134442,
+        "origem": 207279,
+        "lanceAtual": 56441.18,
+        "lanceAtualId": 3430,
+        "dataInicio": "2024-02-09T14:09:15",
+        "dataFimInicial": "2024-02-29T14:30:00",
+        "dataFim": "2024-02-29T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP857172024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 6,
+        "capa": "files/Verbas_Fotos/verba_96683/18042023162234_800sm.jpg",
+        "titulo": "APARTAMENTO NO CARREGADO",
+        "valorBase": 111764.71,
+        "valorAbertura": 55882.36,
+        "valorMinimo": 95000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T4",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"Z\", correspondente ao nono andar esquerdo, para habita\u00e7\u00e3o, com quatro divis\u00f5es assoalhadas, cozinha, despensa, hall, duas casas de banho e varanda, do pr\u00e9dio urbano destinado a habita\u00e7\u00e3o, em regime de propriedade horizontal, situado na Praceta Gaspar Corte Real, n\u00ba 57, em Carregado, freguesia de Carregado, concelho de Alenquer, descrito na Conservat\u00f3ria do Registo Predial de Alenquer sob o n\u00ba 271, com o artigo matricial 460, da uni\u00e3o de freguesias de Carregado e Cadafais.",
+        "observacoes": "Os eventuais interessados devem inteirar-se das qualidades e caracter\u00edsticas, licen\u00e7as e outros aspetos que considerem relevantes, do(s) bem(s). \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. O im\u00f3vel \u00e9 vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisi\u00e7\u00e3o que devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. A falta desta verifica\u00e7\u00e3o por parte do proponente n\u00e3o determina, nos termos legais, a anula\u00e7\u00e3o da venda.",
+        "areaUtilPrivativa": 97.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 97.0,
+        "morada": "Praceta Gaspar Corte Real, Urbaniza\u00e7\u00e3o da Barrada",
+        "moradaNumero": "57",
+        "moradaAndar": "9\u00ba Esq.",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Alenquer",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Carregado e Cadafais",
+        "moradaCP": "2580-480",
+        "coordenadasLAT": "39.02306609",
+        "coordenadasLON": "-8.97371209",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 65890,
+        "processoNumero": "10029/20.7T8LRS",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 96683,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"234557559\", \"nome\":\"Eliane Aparecida Ribeiro\", \"requerido\":\"False\"},{\"nif\":\"235318787\", \"nome\":\"Gerv\u00e1sio Gomes Carvalho\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 650,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5327",
+        "gestorNome": "IN\u00caS FALC\u00c3O COSTA",
+        "gestorEmail": "5327@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:49:53",
+        "dataAtualizacao": "2024-02-12T19:49:53",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162234_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162234_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162225_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162225_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162257_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162257_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162307_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162307_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162320_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162320_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162345_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162345_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162401_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162401_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162426_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162426_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162436_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162436_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162445_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162445_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162456_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162456_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162507_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162507_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162518_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162518_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162528_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162528_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162539_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162539_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162559_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162559_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162611_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162611_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162625_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162625_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162638_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162638_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162724_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162724_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162734_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162734_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162746_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162746_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96683/18042023162821_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96683/18042023162821_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 28114,
+                "numero": "271",
+                "fracao": "Z",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "01 - Alenquer",
+                "freguesiaDesc": "15 - Carregado",
+                "artigos": [
+                    {
+                        "numero": "460",
+                        "tipo": "urbana",
+                        "fracao": "Z",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "01 - Alenquer",
+                        "freguesiaDesc": "20 - Uni\u00e3o das freguesias de Carregado e Cadafais"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

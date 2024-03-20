@@ -1,0 +1,160 @@
+{
+    "item": {
+        "id": 133245,
+        "origem": 201150,
+        "lanceAtual": 230546.86,
+        "lanceAtualId": 108613,
+        "dataInicio": "2024-01-27T23:59:59",
+        "dataFimInicial": "2024-02-21T11:00:00",
+        "dataFim": "2024-02-21T11:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1181782023",
+        "tipoId": 1,
+        "subtipoId": 7,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_53851/04122019161918_800sm.jpg",
+        "titulo": "Pr\u00e9dio urbano, na Lapa, Lisboa",
+        "valorBase": 110000.0,
+        "valorAbertura": 55000.0,
+        "valorMinimo": 93500.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Pr\u00e9dio",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Pr\u00e9dio urbano situado na Rua das Trinas, n.\u00ba 88, 90 e 92, em Lisboa, composto de dois pisos destinados a com\u00e9rcio e habita\u00e7\u00e3o, inscrito na matriz sob o art.\u00ba 143, freguesia da Estrela, concelho de Lisboa e descrito na Conservat\u00f3ria do Registo Predial de Lisboa, sob o n.\u00ba 718, freguesia da Lapa.",
+        "observacoes": "O AE n\u00e3o foi autorizado a tirar fotografias do interior do im\u00f3vel mas verificou que o mesmo se encontra em bom estado de conserva\u00e7\u00e3o uma vez que se verifica que foi remodelado recentemente.\r\nFica determinado que o fiel deposit\u00e1rio Sr. Alexandre Manuel Figueira M\u00f4sca, gerente da executada \u00c1rea Fechada, S.A., ir\u00e1 mostrar o im\u00f3vel na \u00faltima quinta-feira \u00e1s 16:00 horas, antes do dia da conclus\u00e3o do leil\u00e3o eletr\u00f3nico.",
+        "areaUtilPrivativa": 140.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 140.0,
+        "morada": "Rua Trinas",
+        "moradaNumero": "88,90 e 92",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lisboa",
+        "moradaFreguesia": "Estrela",
+        "moradaCP": "1200-860",
+        "coordenadasLAT": "38.71007245",
+        "coordenadasLON": "-9.15908265",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 37599,
+        "processoNumero": "6422/13.0YYLSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 8",
+        "verbaId": 53851,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"509194451\", \"nome\":\"\u00c1rea Fechada, S.A.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 894,
+        "cerimoniaData": "2024-02-21T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 317,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1252",
+        "gestorNome": "Jos\u00e9 M\u00e1rio Marques Santiago",
+        "gestorEmail": "1252@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:43:30",
+        "dataAtualizacao": "2024-02-12T19:43:30",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53851/04122019161918_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53851/04122019161918_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53851/04122019161826_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53851/04122019161826_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53851/04122019161838_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53851/04122019161838_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53851/04122019161849_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53851/04122019161849_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53851/04122019161934_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53851/04122019161934_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53851/04122019161947_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53851/04122019161947_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53851/04122019162001_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53851/04122019162001_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53851/04122019162015_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53851/04122019162015_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53851/04122019162033_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53851/04122019162033_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53851/04122019162113_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53851/04122019162113_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_53851/04122019162127_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_53851/04122019162127_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 27456,
+                "numero": "718",
+                "fracao": "",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "06 - Lisboa",
+                "freguesiaDesc": "17 - Lapa",
+                "artigos": [
+                    {
+                        "numero": "143",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "06 - Lisboa",
+                        "freguesiaDesc": "60 - Estrela"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

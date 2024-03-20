@@ -1,0 +1,140 @@
+{
+    "item": {
+        "id": 133335,
+        "origem": 204652,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-29T00:00:00",
+        "dataFimInicial": "2024-02-28T10:00:00",
+        "dataFim": "2024-02-28T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1196392024",
+        "tipoId": 1,
+        "subtipoId": 6,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_103888/09012024141430_800sm.jpg",
+        "titulo": "Loja em S\u00e3o Marcos - Agualva-Cac\u00e9m",
+        "valorBase": 77107.38,
+        "valorAbertura": 38553.69,
+        "valorMinimo": 65541.27,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Loja",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma, destinada a com\u00e9rcio, designada pela letra A, correspondente \u00e0 cave A, Loja, tipologia/ divis\u00f5es 1, pertencente ao pr\u00e9dio urbano constitu\u00eddo em regime de propriedade horizontal, sito na Av. Cidade de Lisboa n.\u00ba 51, 2735-008 Agualva-Cac\u00e9m, descrito na Conservat\u00f3ria do Registo Predial de Agualva-Cac\u00e9m sob o n.\u00ba 187 da freguesia de S\u00e3o Marcos e inscrito na respetiva matriz urbana sob o artigo 1500 da uni\u00e3o das freguesias do Cac\u00e9m e S\u00e3o Marcos, concelho de Sintra",
+        "observacoes": "A Agente de Execu\u00e7\u00e3o tomou posse do im\u00f3vel. \r\n\r\nO im\u00f3vel encontra-se em mau estado de conserva\u00e7\u00e3o. O im\u00f3vel est\u00e1 alagado com aquilo que se presume ser \u00e1gua estagnada cuja cor j\u00e1 \u00e9 negra, pelo que se recomenda a utiliza\u00e7\u00e3o de m\u00e1scara e cal\u00e7ado adequado na visita ao respetivo im\u00f3vel. \r\n\r\nPara agendamento de visitas, dever\u00e3o os interessados contactar a Agente de Execu\u00e7\u00e3o. \r\n\r\n\u00c9 da exclusiva responsabilidade do licitante a verifica\u00e7\u00e3o do estado do im\u00f3vel, pelo que dever\u00e1 assegurar-se de que o mesmo se encontra nas condi\u00e7\u00f5es pretendidas, antes de licitar. \r\n\r\nMais se informa que, at\u00e9 ocorrer a entrega do im\u00f3vel o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es e/ou altera\u00e7\u00f5es, cuja responsabilidade n\u00e3o \u00e9 imput\u00e1vel ao Agente de Execu\u00e7\u00e3o. \r\n\r\nNos termos do n.\u00ba 2 do artigo 824.\u00ba do C\u00f3digo de Processo Civil, o pre\u00e7o dever\u00e1 ser depositado no prazo de 15 dias ap\u00f3s a notifica\u00e7\u00e3o do Agente do Execu\u00e7\u00e3o para o efeito. \r\n\r\nMais se informa que, de acordo com o disposto no art. 827.\u00ba, n.\u00ba 1, do CPC, a aquisi\u00e7\u00e3o ser\u00e1 efetuada por t\u00edtulo de transmiss\u00e3o emitido pelo Agente de Execu\u00e7\u00e3o (e n\u00e3o por escritura p\u00fablica). \r\n\r\nO facto do licitante estar a aguardar resposta sobre eventual financiamento n\u00e3o suspende o prazo de pagamento supra indicado. \r\n\r\nPor fim, somos a advertir que a falta de dep\u00f3sito do pre\u00e7o poder\u00e1 dar lugar \u00e0 decreta\u00e7\u00e3o do arresto de bens suficientes para garantir o valor em falta, tudo conforme consta do disposto no artigo 825.\u00ba do CPC, n.\u00ba 1, al.c).",
+        "areaUtilPrivativa": 85.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 85.0,
+        "morada": "Avenida Cidade de Lisboa, Casal Cot\u00e3o",
+        "moradaNumero": "51",
+        "moradaAndar": "CVALJ",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Sintra",
+        "moradaFreguesia": "Uni\u00e3o das freguesias do Cac\u00e9m e S\u00e3o Marcos",
+        "moradaCP": "2735-008",
+        "coordenadasLAT": "38.76239162",
+        "coordenadasLON": "-9.29775466",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 57176,
+        "processoNumero": "18739/20.2T8LSB",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Lisboa - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 5",
+        "verbaId": 103888,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"501895566\", \"nome\":\"Manuel da Silva Ribeiro & Filhos Lda.\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 897,
+        "cerimoniaData": "2024-02-28T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 298,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5344",
+        "gestorNome": "RAFAELA SILVA",
+        "gestorEmail": "5344@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:46:24",
+        "dataAtualizacao": "2024-02-12T19:46:24",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103888/09012024141430_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103888/09012024141430_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103888/09012024141417_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103888/09012024141417_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103888/09012024141420_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103888/09012024141420_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103888/09012024141422_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103888/09012024141422_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103888/09012024141424_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103888/09012024141424_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103888/09012024141426_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103888/09012024141426_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103888/09012024141428_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103888/09012024141428_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103888/09012024142332_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103888/09012024142332_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_103888/09012024142333_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_103888/09012024142333_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 32499,
+                "numero": "187",
+                "fracao": "A",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "11 - Sintra",
+                "freguesiaDesc": "21 - S\u00e3o Marcos",
+                "artigos": []
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

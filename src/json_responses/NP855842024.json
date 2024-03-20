@@ -1,0 +1,169 @@
+{
+    "item": {
+        "id": 134306,
+        "origem": 207044,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-02-08T13:59:36",
+        "dataFimInicial": "2024-05-08T14:30:00",
+        "dataFim": "2024-05-08T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP855842024",
+        "tipoId": 1,
+        "subtipoId": 2,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_13770/27102017164359_800sm.jpg",
+        "titulo": "Pr\u00e9dio Misto em S\u00e3o Bartolomeu dos Galegos",
+        "valorBase": 21600.0,
+        "valorAbertura": 10800.0,
+        "valorMinimo": 18360.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Moradia",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "1/8 do direito indiviso do pr\u00e9dio misto denominado de Terra do Port\u00e3o, sito no lugar e freguesia de S\u00e3o Bartolomeu dos Galegos, concelho da Lourinh\u00e3, composto na parcela r\u00fastica por terra de cultura arvense e \u00e1rvores de fruto; composto na parcela urbana por casa de r\u00e9s-do-ch\u00e3o ampla para arrecada\u00e7\u00e3o, adega com lagar de prensa e dep\u00f3sito. A parcela r\u00fastica tem a \u00e1rea descoberta de 1920 m2 e a parcela urbana tem a \u00e1rea coberta de 280 m2, a confrontar do norte com Jo\u00e3o dos Reis Andrade e outro, do sul, nascente e poente com caminho, inscrito na matriz predial respectiva sob os artigos 44 da sec\u00e7\u00e3o H (parcela r\u00fastica) e 574 (parcela urbana), ambos da freguesia de S\u00e3o Bartolomeu dos Galegos, descrito na Conservat\u00f3ria do Registo Civil, Predial, Comercial e Autom\u00f3veis de Lourinh\u00e3 sob a ficha 2436/S\u00e3o Bartolomeu dos Galegos.",
+        "observacoes": "",
+        "areaUtilPrivativa": 140.0,
+        "areaUtilDependente": 140.0,
+        "areaTotal": 280.0,
+        "morada": "Uni\u00e3o das freguesias de S\u00e3o Bartolomeu dos Galegos e Moledo",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Lourinh\u00e3",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de S\u00e3o Bartolomeu dos Galegos e Moledo",
+        "moradaCP": "2530-683",
+        "coordenadasLAT": "39.28715530188405",
+        "coordenadasLON": "-9.291338324546814",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 11200,
+        "processoNumero": "2912/13.2T2SNT",
+        "processoComarca": "Comarca de Lisboa Oeste",
+        "processoComarcaCodigo": "1046",
+        "processoTribunal": "Sintra - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 3",
+        "verbaId": 13770,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"229163572\", \"nome\":\"Carlos Manuel Cardoso Rebelo\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 255,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2770",
+        "gestorNome": "Gabriela Sousa Magalh\u00e3es",
+        "gestorEmail": "2770@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:38:22",
+        "dataAtualizacao": "2024-03-20T10:38:22",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164359_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164359_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164402_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164402_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164406_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164406_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164410_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164410_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164413_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164413_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164417_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164417_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164421_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164421_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164424_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164424_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164427_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164427_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164431_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164431_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164434_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164434_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164438_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164438_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164445_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164445_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164453_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164453_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164457_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164457_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164500_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164500_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_13770/27102017164507_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_13770/27102017164507_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

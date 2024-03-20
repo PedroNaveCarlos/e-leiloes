@@ -60,8 +60,8 @@
         "gestorFax": "",
         "gestorMorada": "",
         "gestorHorario": "11h00m \u00e0s 13h00m",
-        "dataServidor": "2024-01-14T18:48:13",
-        "dataAtualizacao": "2024-01-14T18:48:13",
+        "dataServidor": "2024-03-20T10:26:37",
+        "dataAtualizacao": "2024-03-20T10:26:37",
         "iniciado": true,
         "terminado": false,
         "ultimos5m": false,
@@ -88,7 +88,7 @@
                         "fracao": "",
                         "distritoDesc": "11 - Lisboa",
                         "concelhoDesc": "09 - Mafra",
-                        "freguesiaDesc": "46 - Candoso (santiago)"
+                        "freguesiaDesc": "18 - Uni\u00e3o das freguesias de Azueira e Sobral da Abelheira"
                     }
                 ]
             }

@@ -1,0 +1,160 @@
+{
+    "item": {
+        "id": 134236,
+        "origem": 205035,
+        "lanceAtual": 60600.0,
+        "lanceAtualId": 150328,
+        "dataInicio": "2024-02-08T00:00:02",
+        "dataFimInicial": "2024-02-28T10:30:00",
+        "dataFim": "2024-02-28T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1198072024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 5,
+        "capa": "files/Verbas_Fotos/verba_104152/16012024180245_800sm.jpg",
+        "titulo": "Apartamento T3 no Forte da Casa",
+        "valorBase": 120000.0,
+        "valorAbertura": 60000.0,
+        "valorMinimo": 102000.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T3",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"E\" do predio urbano destinado a habita\u00e7\u00e3o e com\u00e9rcio, com a permilagem de 115,0000, com a \u00e1rea bruta privativa de 69,0000 m2 e a \u00e1rea bruta dependente de 5,0000 m2 , sito na rua dos Combatentes n.\u00ba 5 da freguesia de Forte da Casa , inscrito na matriz predial urbana com o artigo n.\u00ba 2456 da Uni\u00e3o de freguesias de P\u00f3voa de Sant Iria e Forte da Casa , Concelho de Vila Franca de Xira e descrito na conservat\u00f3ria do Registo predial de Vila Franca de xira sob o n\u00famero 3010 da Freguesia da Vialonga",
+        "observacoes": "A fra\u00e7\u00e3o  esta desabitada e consequentemente apresenta  alguns danos est\u00e9ticos, tem uma marquise em bom estado .",
+        "areaUtilPrivativa": 69.0,
+        "areaUtilDependente": 5.0,
+        "areaTotal": 74.0,
+        "morada": "Rua Combatentes",
+        "moradaNumero": "5",
+        "moradaAndar": "2 dt\u00ba",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Vila Franca de Xira",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de P\u00f3voa de Santa Iria e Forte da Casa",
+        "moradaCP": "2625-409",
+        "coordenadasLAT": "38.87525289",
+        "coordenadasLON": "-9.05554009",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 70815,
+        "processoNumero": "796/17.0T8MMN",
+        "processoComarca": "Comarca de \u00c9vora",
+        "processoComarcaCodigo": "1040",
+        "processoTribunal": "M.-o-Novo - Ju\u00edzo Execu\u00e7\u00e3o",
+        "verbaId": 104152,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"196091314\", \"nome\":\"EUL\u00c1LIA MOUR\u00c3O VIEIRA CAETANO\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 897,
+        "cerimoniaData": "2024-02-28T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 216,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5527",
+        "gestorNome": "PAULO VAZ",
+        "gestorEmail": "5527@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:48:49",
+        "dataAtualizacao": "2024-02-12T19:48:49",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "fachada",
+                "image": "files/Verbas_Fotos/verba_104152/16012024180245_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104152/16012024180245_200.jpg"
+            },
+            {
+                "legenda": "fachada",
+                "image": "files/Verbas_Fotos/verba_104152/16012024180557_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104152/16012024180557_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104152/16012024180629_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104152/16012024180629_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104152/16012024180642_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104152/16012024180642_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104152/16012024180727_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104152/16012024180727_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104152/16012024180736_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104152/16012024180736_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104152/16012024180752_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104152/16012024180752_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104152/16012024180823_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104152/16012024180823_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104152/16012024180858_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104152/16012024180858_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_104152/16012024181009_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_104152/16012024181009_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "descricao": "N\u00e3o tem",
+                "tipoDesc": "outro"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 32667,
+                "numero": "3010",
+                "fracao": "E",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "14 - Vila Franca de Xira",
+                "freguesiaDesc": "08 - Vialonga",
+                "artigos": [
+                    {
+                        "numero": "2456",
+                        "tipo": "urbana",
+                        "fracao": "E",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "14 - Vila Franca de Xira",
+                        "freguesiaDesc": "15 - Uni\u00e3o das freguesias de P\u00f3voa de Santa Iria e Forte da Casa"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

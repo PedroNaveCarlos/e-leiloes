@@ -1,0 +1,165 @@
+{
+    "item": {
+        "id": 136367,
+        "origem": 206853,
+        "lanceAtual": 17671.15,
+        "lanceAtualId": 68924,
+        "dataInicio": "2024-03-04T00:00:07",
+        "dataFimInicial": "2024-04-10T10:30:00",
+        "dataFim": "2024-04-10T10:30:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1205442024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_102176/06112023143510_800sm.jpg",
+        "titulo": "1/2 de um Apartamento t2 em Palmela",
+        "valorBase": 20239.1,
+        "valorAbertura": 10119.55,
+        "valorMinimo": 17203.24,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "1/2 da frac\u00e7\u00e3o aut\u00f3noma designada pela letra X do pr\u00e9dio em regime de propriedade horizontal sito na Palmela, Rua do Parque, Blocos 5, 6, 7, 8 e 9, Aires, descrito na Conservat\u00f3ria do Registo Predial de Palmela, Freguesia Palmela sob o n.\u00ba 6521/20010327 - X e inscrita na matriz sob o artigo 11048 - X, destinada a habita\u00e7\u00e3o, Tipologia/Divis\u00f5es: T2",
+        "observacoes": "O cargo de fiel deposit\u00e1rio \u00e9 exercido pelo copropriet\u00e1rio que habita o im\u00f3vel, qual se encontra em razo\u00e1vel estado de conserva\u00e7\u00e3o. As visitas ao im\u00f3vel devem ser agendadas com a devida anteced\u00eancia, atrav\u00e9s do contato dispon\u00edvel na presente publica\u00e7\u00e3o de leil\u00e3o. Os interessados que queiram visitar o im\u00f3vel t\u00eam necessariamente de estar registados na plataforma e-leil\u00f5es de forma a terem acesso aos contatos do fiel deposit\u00e1rio. A Agente de Execu\u00e7\u00e3o n\u00e3o facultar\u00e1 qualquer contato. O bem \u00e9 vendido no estado em que se encontra, pelo que os interessados devem proceder \u00e0 verifica\u00e7\u00e3o pr\u00e9via do estado do bem. Com a apresenta\u00e7\u00e3o de proposta, presume-se que o interessado tenha inspecionado o bem e conhece as suas atuais carater\u00edsticas e outros aspetos que considere relevantes, declinando-se qualquer responsabilidade do AE pelo estado de conserva\u00e7\u00e3o do bem. A falta de verifica\u00e7\u00e3o por parte do proponente, n\u00e3o determina, nos termos legais a anula\u00e7\u00e3o da venda.\r\nQuem pretender licitar deve conhecer o funcionamento e regras da venda em leil\u00e3o eletr\u00f3nico. Aconselha-se a leitura atenta das perguntas e respostas em https://www.e-leiloes.pt/faqs.aspx Ap\u00f3s o encerramento do leil\u00e3o o (a) proponente da proposta mais elevada \u00e9 notificado (a) para, no prazo de 15 dias improrrog\u00e1veis, proceder ao dep\u00f3sito da totalidade do pre\u00e7o oferecido, bem como proceder \u00e0 liquida\u00e7\u00e3o e pagamento das obriga\u00e7\u00f5es fiscais devidas, a fim de ser emitido pela Agente de Execu\u00e7\u00e3o o T\u00edtulo de Transmiss\u00e3o.",
+        "areaUtilPrivativa": 61.06,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 61.06,
+        "morada": "Rua Parque, Aires",
+        "moradaNumero": "lt10",
+        "moradaAndar": "1.ESQ",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Palmela",
+        "moradaFreguesia": "Palmela",
+        "moradaCP": "2950-026",
+        "coordenadasLAT": "38.57181092",
+        "coordenadasLON": "-8.88661165",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 69508,
+        "processoNumero": "5688/21.6T8STB",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 102176,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"216773989\", \"nome\":\"Romilda do Carmo Pereira Coelho Teixeira\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 908,
+        "cerimoniaData": "2024-04-10T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 770,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "5298",
+        "gestorNome": "CL\u00c1UDIA CORREIA PEREIRA",
+        "gestorEmail": "5298@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:45:28",
+        "dataAtualizacao": "2024-03-20T10:45:28",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102176/06112023143510_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102176/06112023143510_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102176/06112023143445_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102176/06112023143445_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102176/06112023143448_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102176/06112023143448_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102176/06112023143451_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102176/06112023143451_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102176/06112023143452_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102176/06112023143452_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102176/06112023143455_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102176/06112023143455_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102176/06112023143458_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102176/06112023143458_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102176/06112023143504_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102176/06112023143504_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102176/06112023143506_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102176/06112023143506_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102176/06112023143512_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102176/06112023143512_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102176/06112023143514_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102176/06112023143514_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_102176/06112023143516_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_102176/06112023143516_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 31572,
+                "numero": "6521",
+                "fracao": "X",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "08 - Palmela",
+                "freguesiaDesc": "02 - Palmela",
+                "artigos": [
+                    {
+                        "numero": "11048",
+                        "tipo": "urbana",
+                        "fracao": "X",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "08 - Palmela",
+                        "freguesiaDesc": "02 - Palmela"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

@@ -1,0 +1,267 @@
+{
+    "item": {
+        "id": 132373,
+        "origem": 204995,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-01-17T15:30:53",
+        "dataFimInicial": "2024-04-16T14:30:00",
+        "dataFim": "2024-04-16T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP843732024",
+        "tipoId": 1,
+        "subtipoId": 7,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_43420/12102019105829_800sm.jpg",
+        "titulo": "Direito de usufruto sobre im\u00f3vel-armaz\u00e9m e habita\u00e7\u00e3o",
+        "valorBase": 188997.97,
+        "valorAbertura": 94498.99,
+        "valorMinimo": 160648.27,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Pr\u00e9dio",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Direito ao usufruto que a executada det\u00e9m sobre o seguinte bem:\r\n- Pr\u00e9dio urbano descrito na Conservat\u00f3ria do Registo Predial de Palmela sob o n.\u00ba 8841, e cuja descri\u00e7\u00e3o \u00e9 composta pelas matrizes prediais sob os n.\u00bas 2430, 2431 e 2987 da freguesia Quinta do Anjo, concelho de Palmela, do distrito de Set\u00fabal, situado em Olhos de \u00c1gua. Matriz 2430, pr\u00e9dio urbano, edif\u00edcio de r\u00e9s do ch\u00e3o para armaz\u00e9m e atividade industrial; Matriz 2431, pr\u00e9dio urbano, edif\u00edcio de r\u00e9s do ch\u00e3o para armaz\u00e9m e actividade industrial;  Matriz 2987, pr\u00e9dio urbano destinado a habita\u00e7\u00e3o.",
+        "observacoes": "A usufrutu\u00e1ria nasceu em 15/02/1959.",
+        "areaUtilPrivativa": 644.0,
+        "areaUtilDependente": 644.0,
+        "areaTotal": 644.0,
+        "morada": "Praceta Brejos Carreteiros",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Palmela",
+        "moradaFreguesia": "Quinta do Anjo",
+        "moradaCP": "2950-671",
+        "coordenadasLAT": "38.60514059",
+        "coordenadasLON": "-8.94766182",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 31280,
+        "processoNumero": "5046/17.7T8STB",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 2",
+        "verbaId": 43420,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"155722310\", \"nome\":\"Maria Rosa da Cruz Laranjo Ferro Marques\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 263,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "4682",
+        "gestorNome": "ELSA MARQUES",
+        "gestorEmail": "4682@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:48:09",
+        "dataAtualizacao": "2024-03-20T10:48:09",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019105829_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019105829_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019105832_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019105832_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019105834_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019105834_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019105944_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019105944_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019105946_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019105946_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019105948_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019105948_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019105951_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019105951_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019105954_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019105954_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019105956_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019105956_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019105959_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019105959_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110001_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110001_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110004_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110004_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110006_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110006_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110009_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110009_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110011_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110011_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110013_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110013_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110016_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110016_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110019_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110019_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110022_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110022_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110025_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110025_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110027_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110027_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110030_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110030_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110033_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110033_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110035_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110035_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110037_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110037_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_43420/12102019110039_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_43420/12102019110039_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 9323,
+                "numero": "8841",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "08 - Palmela",
+                "freguesiaDesc": "04 - Quinta do Anjo",
+                "artigos": [
+                    {
+                        "numero": "2430",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "08 - Palmela",
+                        "freguesiaDesc": "04 - Quinta do Anjo"
+                    },
+                    {
+                        "numero": "2431",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "08 - Palmela",
+                        "freguesiaDesc": "04 - Quinta do Anjo"
+                    },
+                    {
+                        "numero": "2987",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "08 - Palmela",
+                        "freguesiaDesc": "04 - Quinta do Anjo"
+                    }
+                ]
+            },
+            {
+                "id": 9324,
+                "numero": "8841",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "08 - Palmela",
+                "freguesiaDesc": "04 - Quinta do Anjo",
+                "artigos": []
+            },
+            {
+                "id": 9325,
+                "numero": "8841",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "08 - Palmela",
+                "freguesiaDesc": "04 - Quinta do Anjo",
+                "artigos": []
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

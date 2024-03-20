@@ -1,0 +1,149 @@
+{
+    "item": {
+        "id": 137196,
+        "origem": 208850,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-03-12T00:00:03",
+        "dataFimInicial": "2024-04-17T10:00:00",
+        "dataFim": "2024-04-17T10:00:00",
+        "cancelado": false,
+        "modalidadeId": 1,
+        "referencia": "LO1215322024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_105684/26022024183633_800sm.jpg",
+        "titulo": "Apartamento - T2 - S. Sebasti\u00e3o - Set\u00fabal",
+        "valorBase": 161300.0,
+        "valorAbertura": 80650.0,
+        "valorMinimo": 137105.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Fra\u00e7\u00e3o aut\u00f3noma designada pela letra \"N\", destinada a habita\u00e7\u00e3o com tudo o que a comp\u00f5e, no quinto andar direito, do pr\u00e9dio urbano sito na Rua Gon\u00e7alves Zarco, n\u00ba. 2, freguesia de Set\u00fabal (S. Sebasti\u00e3o), concelho de Set\u00fabal, descrito na 2\u00aa. Conservat\u00f3ria do Registo Predial de Set\u00fabal sob o n\u00ba 3592, S. Sebasti\u00e3o e inscrito na matriz predial urbana sob o artigo 15825, da referida freguesia de Set\u00fabal (S. Sebasti\u00e3o), com o valor patrimonial de 101.367,00 euros determinado no ano de 2021. Licen\u00e7a de Utiliza\u00e7\u00e3o n\u00ba. 613 emitida a 2000/11/08 pela Camara Municipal de Set\u00fabal",
+        "observacoes": "Os interessados que queiram visitar o im\u00f3vel ou licitar, t\u00eam necessariamente de estarem registados na plataforma e-leil\u00f5es e conhecerem o funcionamento e regras da venda em leil\u00e3o eletr\u00f3nico. Para tal, aconselha-se a leitura atenta das perguntas e respostas em https://www.e-leiloes.pt/faqs.aspx. Ficam por este meio notificados todos os titulares de direito de prefer\u00eancia legal ou convencional, com efic\u00e1cia real, do dia e do leil\u00e3o eletr\u00f3nico, a fim de exercerem o seu direito.  O executado habita no im\u00f3vel e \u00e9 o deposit\u00e1rio do bem, pelo que as visitas ter\u00e3o lugar na ter\u00e7a-feira que anteceder o t\u00e9rminus do leil\u00e3o entre as 10h00 e as 12h00. O im\u00f3vel \u00e9 composto por cozinha, sala comum com lareira, hall de entrada, casa de banho completa com banheira e dois quartos em que o ch\u00e3o \u00e9 em flutuante e o resto da casa em tijoleira. Est\u00e1 um bom estado de conserva\u00e7\u00e3o. Tenha em aten\u00e7\u00e3o que existem v\u00e1rios acontecimentos que podem ditar um desfecho diverso do expect\u00e1vel, a saber : a) exerc\u00edcio do direito de remi\u00e7\u00e3o; b) exerc\u00edcio do direito de prefer\u00eancia; c) insolv\u00eancia do executado; d) pagamento da d\u00edvida; e) eventual verifica\u00e7\u00e3o de irregularidade que dite a invalidade da venda. Tenha mais ainda em aten\u00e7\u00e3o o seguinte: - a presente transmiss\u00e3o est\u00e1 dispensada da apresenta\u00e7\u00e3o da licen\u00e7a de utiliza\u00e7\u00e3o ou ocupa\u00e7\u00e3o, ficando o/a adquirente advertido(a) do \u00f3nus da legaliza\u00e7\u00e3o do im\u00f3vel, caso assim seja necess\u00e1rio (n.\u00ba 6 do art. 833\u00ba do CPC). Com a apresenta\u00e7\u00e3o da proposta, presume-se que o interessado tenha inspecionado o im\u00f3vel e conhece as suas caracter\u00edsticas, declinando-se qualquer responsabilidade pelo seu estado de conserva\u00e7\u00e3o. \u00c9 da \u00fanica e exclusiva responsabilidade do proponente a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 antes de apresentar proposta assegurar-se se o mesmo corresponde \u00e0s suas expectativas e se se encontra nas condi\u00e7\u00f5es pretendidas. Dever\u00e1 igualmente ter em considera\u00e7\u00e3o que, atendendo \u00e0 especificidade da venda judicial e ao facto de o bem n\u00e3o ser entregue no momento do dep\u00f3sito do pre\u00e7o, o mesmo poder\u00e1 sofrer deteriora\u00e7\u00f5es ou altera\u00e7\u00f5es. Tratando-se de bem sujeito a registo h\u00e1 ainda lugar ao pagamento dos emolumentos devidos \u00e0 entidade respons\u00e1vel pelo registo",
+        "areaUtilPrivativa": 105.86,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 105.86,
+        "morada": "Rua Gon\u00e7alves Zarco",
+        "moradaNumero": "2",
+        "moradaAndar": "5\u00ba. Dt\u00ba",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Set\u00fabal",
+        "moradaFreguesia": "Set\u00fabal (S\u00e3o Sebasti\u00e3o)",
+        "moradaCP": "2910-714",
+        "coordenadasLAT": "38.53659051",
+        "coordenadasLON": "-8.86836384",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 71644,
+        "processoNumero": "3977/22.1T8STB",
+        "processoComarca": "Comarca de Set\u00fabal",
+        "processoComarcaCodigo": "1052",
+        "processoTribunal": "Set\u00fabal - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 105684,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"246171030\", \"nome\":\"Rodrigo Colombo Pirola\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 912,
+        "cerimoniaData": "2024-04-17T14:30:00",
+        "cerimoniaLocal": "Lisboa - Pal\u00e1cio da Justi\u00e7a",
+        "cerimoniaMorada": "Pal\u00e1cio da Justica, Piso 1 - Rua Marqu\u00eas de Fronteira, 1098-001 Lisboa",
+        "gestorId": 291,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "1370",
+        "gestorNome": "FERNANDA GOMES",
+        "gestorEmail": "1370@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-03-20T10:49:21",
+        "dataAtualizacao": "2024-03-20T10:49:21",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105684/26022024183633_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105684/26022024183633_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105684/26022024183631_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105684/26022024183631_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105684/26022024183634_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105684/26022024183634_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105684/26022024185846_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105684/26022024185846_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105684/26022024185849_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105684/26022024185849_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105684/26022024185851_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105684/26022024185851_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105684/26022024185853_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105684/26022024185853_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105684/26022024185855_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105684/26022024185855_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_105684/26022024185857_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_105684/26022024185857_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 33606,
+                "numero": "3592",
+                "fracao": "N",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "12 - Set\u00fabal",
+                "freguesiaDesc": "05 - Setubal (s. Sebasti\u00e3o)",
+                "artigos": [
+                    {
+                        "numero": "15825",
+                        "tipo": "urbana",
+                        "fracao": "N",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "12 - Set\u00fabal",
+                        "freguesiaDesc": "05 - Set\u00fabal (S\u00e3o Sebasti\u00e3o)"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

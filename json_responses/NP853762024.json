@@ -1,0 +1,133 @@
+{
+    "item": {
+        "id": 133989,
+        "origem": 206700,
+        "lanceAtual": 0.0,
+        "dataInicio": "2024-02-05T09:53:57",
+        "dataFimInicial": "2024-02-20T14:30:00",
+        "dataFim": "2024-02-20T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP853762024",
+        "tipoId": 1,
+        "subtipoId": 5,
+        "tipologiaId": 1,
+        "capa": "files/Verbas_Fotos/verba_96863/24042023120552_800sm.jpg",
+        "titulo": "Terreno para constru\u00e7\u00e3o com constru\u00e7\u00e3o edificada - Charneca da Caparica",
+        "valorBase": 108258.0,
+        "valorAbertura": 54129.0,
+        "valorMinimo": 92019.3,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Terreno Constru\u00e7\u00e3o",
+        "tipologia": "n\u00e3o aplic\u00e1vel",
+        "descricao": "Terreno para constru\u00e7\u00e3o de 380 m2 descrito na 2\u00aa Conservat\u00f3ria do Registo Predial de Almada sob a ficha 11039 da freguesia de Charneca da Caparica e inscrito na matriz urbana sob o artigo 12554 da uni\u00e3o das freguesias de Charneca de Caparica e Sobreda. Sito Rua Bento Gon\u00e7alves 2820-001 Charneca de Caparica.",
+        "observacoes": "O terreno encontra-se murado, n\u00e3o sendo poss\u00edvel aceder ao mesmo pela rua, sendo que \u00e9 da responsabilidade do adquirente diligenciar pela constru\u00e7\u00e3o do referido acesso.\r\nNo terreno encontra-se edificada uma constru\u00e7\u00e3o desconhecendo a AE a exist\u00eancia ou n\u00e3o de licen\u00e7a de constru\u00e7\u00e3o.\r\nForam reclamados cr\u00e9ditos pelo Instituto de Seguran\u00e7a Social IP e Scalabis STC SA.\r\nPor se tratar de Negocia\u00e7\u00e3o Particular, podem ser apresentadas propostas por outras vias (e-mail, carta registada ou presencialmente). \r\n \u00c9 da \u00fanica e exclusiva responsabilidade dos proponentes a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 assegurar-se que o mesmo corresponde \u00e0s suas expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda.\r\nIMPORTANTE: Nos termos do disposto no artigo 825\u00ba n\u00ba 1 c) do C\u00f3digo do Processo Civil, a falta de dep\u00f3sito do pre\u00e7o pode levar ao arresto em bens suficientes para garantir o valor em falta, acrescido das custas e despesas e sendo aquele, simultaneamente, executado no pr\u00f3prio processo para pagamento daquele valor e acr\u00e9scimos. Adverte-se, ainda, que a falta de dep\u00f3sito do pre\u00e7o poder\u00e1 levar \u00e0 instaura\u00e7\u00e3o de PROCEDIMENTO CRIMINAL contra o proponente.\r\nPagamento integral do pre\u00e7o: 1) Nos termos do n\u00ba2 do artigo 824\u00ba do C\u00f3digo de Processo Civil, o pre\u00e7o ter\u00e1 de se mostrar liquidado no prazo de 15 dias ap\u00f3s a notifica\u00e7\u00e3o do Agente do Execu\u00e7\u00e3o para o fazer. 2) O prazo \u00e9 corrido (contam s\u00e1bados e domingos) mas interrompe nas f\u00e9rias judiciais. 3) Mais se indica que nada obsta a que o adquirente possa recorrer a cr\u00e9dito banc\u00e1rio parcial ou total para pagamento do pre\u00e7o mas alerta-se que por for\u00e7a do per\u00edodo de reflex\u00e3o (7 dias), imperativo por for\u00e7a do n\u00ba 5 do artigo 13\u00ba do Dec Lei 74-A/2017, torna-se muito dif\u00edcil o pagamento do pre\u00e7o,  no prazo indicado de 15 (quinze ) dias. 4) O facto do proponente estar a aguardar resposta do financiamento banc\u00e1rio n\u00e3o suspende o prazo de pagamento.",
+        "areaUtilPrivativa": 380.0,
+        "areaUtilDependente": 0.0,
+        "areaTotal": 380.0,
+        "morada": "Rua Bento Gon\u00e7alves",
+        "moradaNumero": "",
+        "moradaAndar": "",
+        "moradaDistrito": "Set\u00fabal",
+        "moradaConcelho": "Almada",
+        "moradaFreguesia": "Uni\u00e3o das freguesias de Charneca de Caparica e Sobreda",
+        "moradaCP": "2820-638",
+        "coordenadasLAT": "38.63305441",
+        "coordenadasLON": "-9.18476000",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 34355,
+        "processoNumero": "1796/14.8TBALM",
+        "processoComarca": "Comarca de Lisboa",
+        "processoComarcaCodigo": "1044",
+        "processoTribunal": "Almada - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 96863,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"187444862\", \"nome\":\"Marina Teresa Martins Ribeiro Prado\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 259,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2865",
+        "gestorNome": "Maria Em\u00edlia Catrau",
+        "gestorEmail": "2865@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T20:07:35",
+        "dataAtualizacao": "2024-02-12T20:07:35",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96863/24042023120552_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96863/24042023120552_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96863/24042023120558_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96863/24042023120558_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96863/24042023120605_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96863/24042023120605_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96863/24042023120612_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96863/24042023120612_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96863/24042023120617_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96863/24042023120617_200.jpg"
+            },
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_96863/24042023120623_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_96863/24042023120623_200.jpg"
+            }
+        ],
+        "onus": [],
+        "descPredial": [
+            {
+                "id": 28249,
+                "numero": "11039",
+                "fracao": "",
+                "distritoDesc": "15 - Set\u00fabal",
+                "concelhoDesc": "03 - Almada",
+                "freguesiaDesc": "09 - Charneca de Caparica",
+                "artigos": [
+                    {
+                        "numero": "12554",
+                        "tipo": "urbana",
+                        "fracao": "",
+                        "distritoDesc": "15 - Set\u00fabal",
+                        "concelhoDesc": "03 - Almada",
+                        "freguesiaDesc": "14 - Uni\u00e3o das freguesias de Charneca de Caparica e Sobreda"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}

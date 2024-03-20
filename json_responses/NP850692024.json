@@ -1,0 +1,121 @@
+{
+    "item": {
+        "id": 133585,
+        "origem": 206222,
+        "lanceAtual": 32835.3,
+        "lanceAtualId": 1593,
+        "dataInicio": "2024-01-30T16:04:19",
+        "dataFimInicial": "2024-02-14T14:30:00",
+        "dataFim": "2024-02-14T14:30:00",
+        "cancelado": false,
+        "modalidadeId": 2,
+        "referencia": "NP850692024",
+        "tipoId": 1,
+        "subtipoId": 1,
+        "tipologiaId": 4,
+        "capa": "files/Verbas_Fotos/verba_60577/01072020143859_800sm.jpg",
+        "titulo": "Apartamento T2 - Vila Franca de Xira",
+        "valorBase": 65670.59,
+        "valorAbertura": 32835.3,
+        "valorMinimo": 55820.0,
+        "tipo": "Im\u00f3vel",
+        "subtipo": "Apartamento",
+        "tipologia": "T2",
+        "descricao": "Frac\u00e7\u00e3o aut\u00f3noma destinada a habita\u00e7\u00e3o, descrita 1\u00aaCRP de Vila Franca de Xira sob a ficha 1582, letra \"I\" da freguesia de VIla Franca de XIra e inscrita na matriz urbana sob o artigo 2477 da indicada freguesia.\r\nSito na Rua Jo\u00e3o Jos\u00e9 Nascimento Costa n\u00ba 7 - 2\u00ba dt\u00ba 2600-162 VILA FRANCA DE XIRA",
+        "observacoes": "A Exma Sr\u00aa Maria Carina de Matos informou residir no im\u00f3vel h\u00e1 mais de 50 anos e paga uma renda mensal de 69 euros.\r\n\u00c0 data o im\u00f3vel encontra-se em razo\u00e1vel estado de conserva\u00e7\u00e3o atendendo \u00e0 idade do pr\u00e9dio.\r\nOs interessados dever\u00e3o entre em contacto com a AE para o agendamento de visitas.\r\nO prazo para a conclus\u00e3o da negocia\u00e7\u00e3o particular \u00e9 meramente indicativo, ou seja, a negocia\u00e7\u00e3o particular poder\u00e1 ser conclu\u00eddo antes do prazo indicado pelo site e-leiloes. \r\n\u00c9 da \u00fanica e exclusiva responsabilidade dos proponentes a verifica\u00e7\u00e3o do estado do bem a adquirir pelo que dever\u00e1 assegurar-se que o mesmo corresponde \u00e0s suas expectativas e que se encontra nas condi\u00e7\u00f5es pretendidas. A n\u00e3o verifica\u00e7\u00e3o n\u00e3o \u00e9 fundamento para anula\u00e7\u00e3o do procedimento de venda.\r\nOs interessados dever\u00e3o entrar em contacto com o escrit\u00f3rio da AE que junto da arrendat\u00e1ria ir\u00e1 agendar a visita ao im\u00f3vel.\r\nPagamento integral do pre\u00e7o: 1) Nos termos do n\u00ba2 do artigo 824\u00ba do C\u00f3digo de Processo Civil, o pre\u00e7o ter\u00e1 de se mostrar liquidado no prazo de 15 dias ap\u00f3s a notifica\u00e7\u00e3o do Agente do Execu\u00e7\u00e3o para o fazer. 2) O prazo \u00e9 corrido (contam s\u00e1bados e domingos) mas interrompe nas f\u00e9rias judiciais. 3) Mais se indica que nada obsta a que o adquirente possa recorrer a cr\u00e9dito banc\u00e1rio parcial ou total para pagamento do pre\u00e7o mas alerta-se que por for\u00e7a do per\u00edodo de reflex\u00e3o (7 dias), imperativo por for\u00e7a do n\u00ba 5 do artigo 13\u00ba do Dec Lei 74-A/2017, torna-se muito dif\u00edcil a concretiza\u00e7\u00e3o da escritura de hipoteca ,  no prazo indicado de 15 (quinze ) dias. 4) O facto do proponente estar a aguardar resposta do financiamento banc\u00e1rio n\u00e3o suspende o prazo de pagamento.",
+        "areaUtilPrivativa": 68.125,
+        "areaUtilDependente": 8.0,
+        "areaTotal": 76.125,
+        "morada": "Rua Jo\u00e3o Jos\u00e9 do Nascimento Costa",
+        "moradaNumero": "7",
+        "moradaAndar": "2\u00ba Dto",
+        "moradaDistrito": "Lisboa",
+        "moradaConcelho": "Vila Franca de Xira",
+        "moradaFreguesia": "Vila Franca de Xira",
+        "moradaCP": "2600-162",
+        "coordenadasLAT": "38.95868384",
+        "coordenadasLON": "-8.98832551",
+        "ivaCobrar": false,
+        "ivaPercentagem": 23.0,
+        "processoId": 19502,
+        "processoNumero": "6612/13.5TBVFX",
+        "processoComarca": "Comarca de Lisboa Norte",
+        "processoComarcaCodigo": "1045",
+        "processoTribunal": "Loures - Ju\u00edzo Execu\u00e7\u00e3o - Juiz 1",
+        "verbaId": 60577,
+        "osae360": "",
+        "matricula": "",
+        "executados": "[{\"nif\":\"171710908\", \"nome\":\"Ant\u00f3nio Carlos Machado de Oliveira\", \"requerido\":\"False\"}]",
+        "cerimoniaId": 0,
+        "cerimoniaLocal": "",
+        "cerimoniaMorada": "",
+        "gestorId": 259,
+        "gestorTipo": "Agente de Execu\u00e7\u00e3o",
+        "gestorTipoId": 1,
+        "gestorCedula": "2865",
+        "gestorNome": "Maria Em\u00edlia Catrau",
+        "gestorEmail": "2865@solicitador.net",
+        "gestorComarca": "",
+        "gestorTribunal": "",
+        "gestorTelefone": "",
+        "gestorFax": "",
+        "gestorMorada": "",
+        "gestorHorario": "",
+        "dataServidor": "2024-02-12T19:40:03",
+        "dataAtualizacao": "2024-02-12T19:40:03",
+        "iniciado": true,
+        "terminado": false,
+        "ultimos5m": false,
+        "fotos": [
+            {
+                "legenda": "",
+                "image": "files/Verbas_Fotos/verba_60577/01072020143859_800.jpg",
+                "thumbnail": "files/Verbas_Fotos/verba_60577/01072020143859_200.jpg"
+            }
+        ],
+        "onus": [
+            {
+                "dataContrato": "1970-07-01",
+                "valor": 69.0,
+                "dataPrazo": "2050-11-04",
+                "descricao": "Contrato sem termo",
+                "tipoDesc": "arrendamento"
+            },
+            {
+                "descricao": "Embargos de executado",
+                "tipoDesc": "oposi\u00e7\u00e3o pendente"
+            }
+        ],
+        "descPredial": [
+            {
+                "id": 3328,
+                "numero": "1582",
+                "fracao": "I",
+                "distritoDesc": "11 - Lisboa",
+                "concelhoDesc": "14 - Vila Franca de Xira",
+                "freguesiaDesc": "09 - Vila Franca de Xira",
+                "artigos": [
+                    {
+                        "numero": "2477",
+                        "tipo": "urbana",
+                        "fracao": "I",
+                        "distritoDesc": "11 - Lisboa",
+                        "concelhoDesc": "14 - Vila Franca de Xira",
+                        "freguesiaDesc": "09 - Vila Franca de Xira"
+                    }
+                ]
+            }
+        ],
+        "visitas": [],
+        "anexos": [],
+        "favorito": false,
+        "licitado": false,
+        "primeiraProposta": true,
+        "informacaoMinima": false
+    },
+    "messages": false,
+    "messagesList": [],
+    "errors": false,
+    "errorsList": [],
+    "exception": false
+}
